@@ -39,8 +39,8 @@ markdown_extensions:
   - attr_list
   - def_list
   - tables
-  - pymdownx.highlight:
-      use_pygments: false
+  #- pymdownx.highlight:
+  #    use_pygments: false
   - pymdownx.snippets
   - pymdownx.superfences
   - callouts

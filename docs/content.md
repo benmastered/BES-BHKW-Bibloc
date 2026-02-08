@@ -20,7 +20,8 @@ Anleitungen
 		
 Handbücher
 --------------
-		* Benutzerinteraktion HMI-Display
+
+        * Benutzerinteraktion HMI-Display
         * ComAp InteliMonitor
         * Verfügbare Funktionen
         * WebsuperVisor (WSV) Portal
@@ -57,7 +58,7 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 	
 	Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
 
-Installation guides
+Aufstellen des BHKWs
 -------------------
 
 Pellentesque malesuada, ipsum ac mollis pellentesque, risus
