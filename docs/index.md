@@ -1,6 +1,111 @@
+<!-- Start Document Outline -->
+
+* [Einführungen](#einführungen)
+* [Anleitungen](#anleitungen)
+* [Handbücher](#handbücher)
+* [Erklärungen](#erklärungen)
+* [Einführungen](#einführungen)
+	* [1	Einführung](#1einführung)
+			* [1.1	Pflichten des Betreibers](#11pflichten-des-betreibers)
+			* [vor der Inbetriebnahme](#vor-der-inbetriebnahme)
+			* [nach der Inbetriebnahme](#nach-der-inbetriebnahme)
+		* [Einschalten der Maschine](#einschalten-der-maschine)
+		* [Ausschalten der Maschine](#ausschalten-der-maschine)
+		* [2 Entsorgung von Abfällen](#2-entsorgung-von-abfällen)
+			* [2.1	Abfälle durch den Transport und Installation der BHKW-Anlage](#21abfälle-durch-den-transport-und-installation-der-bhkw-anlage)
+			* [2.2	Abfälle durch den Betrieb der BHKW-Anlage](#22abfälle-durch-den-betrieb-der-bhkw-anlage)
+			* [2.3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit](#23abfälle-durch-die-entsorgung-der-anlage-am-ende-der-standzeit)
+		* [3 Grundsätze für die sichere Bedienung der BHKW-Anlage](#3-grundsätze-für-die-sichere-bedienung-der-bhkw-anlage)
+			* [3.1 Hinweise auf mögliche Risiken](#31-hinweise-auf-mögliche-risiken)
+	* [4	Transport und Aufstellung](#4transport-und-aufstellung)
+			* [4.1	Transport der BHKW-Anlage](#41transport-der-bhkw-anlage)
+			* [4.2	Krantransport](#42krantransport)
+			* [4.3	Aufstellung](#43aufstellung)
+	* [5	BIBLOC Betrieb](#5bibloc-betrieb)
+			* [5.1	Betriebsarten](#51betriebsarten)
+			* [5.2	Gasarten](#52gasarten)
+			* [5.3	Abgasbehandlung](#53abgasbehandlung)
+	* [6	Beschreibung des BIBLOC BV](#6beschreibung-des-bibloc-bv)
+		* [6.1	Funktion und Aufbau](#61funktion-und-aufbau)
+		* [6.2	Abmessungen der BHKW-Anlage](#62abmessungen-der-bhkw-anlage)
+	* [7	Hauptkomponenten der BHKW-Anlage](#7hauptkomponenten-der-bhkw-anlage)
+	* [8	Betriebsstoffe](#8betriebsstoffe)
+		* [8.1	Brenngase](#81brenngase)
+			* [8.1.2	Erdgas](#812erdgas)
+			* [8.1.3	Propangas](#813propangas)
+		* [8.2	Motorkühlflüssigkeit](#82motorkühlflüssigkeit)
+		* [8.3	Heizwasser](#83heizwasser)
+		* [8.4	Schmieröl](#84schmieröl)
+	* [9	Einspeisung der elektrischen Energie](#9einspeisung-der-elektrischen-energie)
+		* [9.1	Schaltschrank](#91schaltschrank)
+		* [9.2	Anschluss der BHKW-Anlage ans Netz](#92anschluss-der-bhkw-anlage-ans-netz)
+		* [9.3	Leistungsteil](#93leistungsteil)
+		* [9.4	Schutzeinrichtungen](#94schutzeinrichtungen)
+			* [9.4.1	Schutz vor nichtionisierender Strahlung](#941schutz-vor-nichtionisierender-strahlung)
+			* [9.4.2	Generatorschutz](#942generatorschutz)
+			* [9.4.3	Schutz im Parallelbetrieb mit dem Netz](#943schutz-im-parallelbetrieb-mit-dem-netz)
+			* [9.4.4	Rückwirkungen der BHKW-Anlage auf das Netz](#944rückwirkungen-der-bhkw-anlage-auf-das-netz)
+			* [9.4.5	Sternpunktbehandlung](#945sternpunktbehandlung)
+		* [9.5	Blockschema der elektrischen Einbindung](#95blockschema-der-elektrischen-einbindung)
+		* [10.1	Bedienfeld des Schaltschrank](#101bedienfeld-des-schaltschrank)
+			* [10.1.1	Steuersystem IS-GAS](#1011steuersystem-is-gas)
+			* [10.1.2	Schlüsselschalter Steuerung Ein/Aus](#1012schlüsselschalter-steuerung-einaus)
+			* [10.1.3	Not-Aus Schalter](#1013not-aus-schalter)
+	* [11	Steuersystem ComAp IS GAS](#11steuersystem-comap-is-gas)
+		* [11.1	Allgemeine Beschreibung](#111allgemeine-beschreibung)
+		* [11.2	Aufgaben des Steuersystems IS-GAS](#112aufgaben-des-steuersystems-is-gas)
+		* [11.3	Das Operations-Panel](#113das-operations-panel)
+			* [11.3.1	Leuchtdioden](#1131leuchtdioden)
+			* [11.3.2	Grafisches Display](#1132grafisches-display)
+			* [11.3.3	Funktionstasten](#1133funktionstasten)
+		* [11.4	Die Menüs](#114die-menüs)
+			* [11.4.1	Menü Messung](#1141menü-messung)
+			* [11.4.2	Menü Parameter](#1142menü-parameter)
+			* [11.4.3	Menü History](#1143menü-history)
+		* [11.5	Ändern von Parametern](#115ändern-von-parametern)
+			* [11.5.1	Service-Code eingeben](#1151service-code-eingeben)
+			* [11.5.2	Einstellen der Servicestunden](#1152einstellen-der-servicestunden)
+			* [11.5.3	Einstellen der maximalen Servicestundenüberschreitung](#1153einstellen-der-maximalen-servicestundenüberschreitung)
+		* [11.6	Die Betriebsmodi](#116die-betriebsmodi)
+			* [11.6.1	Einschalten des Steuersystem IS-GAS](#1161einschalten-des-steuersystem-is-gas)
+			* [11.6.2	Betriebsmodus “AUT“](#1162betriebsmodus-aut)
+			* [11.6.3	Betriebsmodus “MAN“](#1163betriebsmodus-man)
+			* [11.6.4	Betriebsmodus “AUS“](#1164betriebsmodus-aus)
+	* [12	Schutzfunktionen und Sensoren](#12schutzfunktionen-und-sensoren)
+		* [12.1	elektrische Schutzeinrichtungen](#121elektrische-schutzeinrichtungen)
+		* [12.2	technische Schutzeinrichtungen](#122technische-schutzeinrichtungen)
+		* [12.3	Sensoren und ihre Positionierung](#123sensoren-und-ihre-positionierung)
+			* [12.3.1	Übersicht der analogen Sensoren](#1231übersicht-der-analogen-sensoren)
+			* [12.3.2	Übersicht der digitalen Sensoren](#1232übersicht-der-digitalen-sensoren)
+		* [13	Störungen und Diagnostik](#13störungen-und-diagnostik)
+		* [13.1	interne Störungsursachen](#131interne-störungsursachen)
+		* [13.2	externe Störungsursachen](#132externe-störungsursachen)
+		* [13.3	Störungen, ihre Ursachen und Behebung](#133störungen-ihre-ursachen-und-behebung)
+	* [2. für Anlagenbenutzer](#2-für-anlagenbenutzer)
+		* [Sichtkontrollen](#sichtkontrollen)
+	* [3. für Servicetechniker](#3-für-servicetechniker)
+	* [4. für Inbetriebnahme-Techniker](#4-für-inbetriebnahme-techniker)
+* [Anleitungen](#anleitungen)
+	* [Betriebsanleitung (DIN EN ISO 20607)](#betriebsanleitung-din-en-iso-20607)
+		* [Sicherheit](#sicherheit)
+		* [Maschinenbeschreibung](#maschinenbeschreibung)
+			* [Hauptkomponenten der Anlage](#hauptkomponenten-der-anlage)
+			* [Betriebsstoffe](#betriebsstoffe)
+		* [Montage/Installation](#montageinstallation)
+		* [Bedienung/Betrieb](#bedienungbetrieb)
+			* [Grundsätze für die sichere Bedienung der BHKW-Anlage](#grundsätze-für-die-sichere-bedienung-der-bhkw-anlage)
+		* [Wartung/Instandhaltung](#wartunginstandhaltung)
+	* [Aufstellen des BHKWs](#aufstellen-des-bhkws)
+		* [Unterlage](#unterlage)
+* [Handbücher](#handbücher)
+* [Erklärungen](#erklärungen)
+	* [Systemübersicht](#systemübersicht)
+	* [Leistungsregler](#leistungsregler)
+
+<!-- End Document Outline -->
 
 BES BHKW BIBLOC BV
-==================
+
 
 | Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674  | 684 SBTK | 684  |
 |-------------------------------------|---------|----------|---------|-----------|----------|-----------|
@@ -14,7 +119,7 @@ BES BHKW BIBLOC BV
 | Option Notstrom                     |    NS   |     NS   |    NS   |     NS    |     NS   |     NS    |
 
 Einführungen
---------------
+==================	
 [Einschalten der Maschine](#einschalten-der-maschine)
 
 [Kontrolle auf sicheren Bedienung der Maschine](#sichere-bedienung)
@@ -22,11 +127,11 @@ Einführungen
 [Ausschalten der Maschine](#ausschalten-der-maschine)
 		
 Anleitungen
---------------	
+==================
 [Aufstellen des BHKWs](#aufstellen-des-bhkws)
 		
 Handbücher
---------------
+==================
 
         * Benutzerinteraktion HMI-Display
         * InteliMonitor
@@ -34,7 +139,7 @@ Handbücher
         * WebsuperVisor (WSV) Portal
 		
 Erklärungen
---------------	
+==================	
 [Systemübersicht](#systemübersicht)
 
 [Zurück nach oben](#top)
@@ -47,6 +152,7 @@ Erklärungen
 # Einführungen
 ==================
 ## 1	Einführung
+------------------	
 
 Das nachfolgende Betriebshandbuch bildet eine Zusammenfassung der Informationen betreffend:
 
@@ -95,7 +201,7 @@ Bei Eingriffen durch ungeschulte und unbefugte Personen, lehnt die Herstellerfir
 [Zurück nach oben](#top)
 
 ### 2 Entsorgung von Abfällen
-
+-----------------------------	
 Durch den Transport und Betrieb der BHKW-Anlage fallen Abfallstoffe mit unterschiedlichen Eigenschaften an. 
 
 Für die Entsorgung dieser Stoffe müssen die geltenden Vorschriften eingehalten werden. 
