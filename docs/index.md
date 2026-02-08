@@ -102,7 +102,7 @@ Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden.
 Eine unsachgemässe Bedienung kann die Gesundheit oder das Leben von Personen gefährden und erhebliche Sachschaden verursachen.
 Die nachfolgenden Hinweise sind als allgemein und grundsätzlich zu verstehen. Sie erfassen nicht alle mögliche Gefährdungssituationen. 
 Einige der folgenden Hinweise werden in weiteren Teilen dieses Betriebshandbuchs wiederholt.
-[Achtung](/images/Achtung.jpg)
+[Achtung](/docs/images/Achtung.jpg)
 
 
 Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Be-triebsordnung zu integrieren.
