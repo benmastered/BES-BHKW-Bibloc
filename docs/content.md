@@ -1,12 +1,15 @@
 
 BES BHKW BIBLOC BV
+==================
 
-    * Einführungen             
+Einführungen
+--------------
         * Einschalten der Maschine
         * Kontrolle auf ruhigen, optimalen Betrieb der Maschine
         * Ausschalten der Maschine
 		
-    * Anleitungen        
+Anleitungen
+--------------	
         * Aufstellen des BHKWs           
             * Local installation
             * Docker
@@ -15,23 +18,31 @@ BES BHKW BIBLOC BV
         * Deploy
         * Scale
 		
-    * Handbücher
+Handbücher
+--------------
 		* Benutzerinteraktion HMI-Display
         * ComAp InteliMonitor
         * Verfügbare Funktionen
         * WebsuperVisor (WSV) Portal
 		
-    * Erklärungen           
+Erklärungen
+--------------	
         * Systemübersicht
         * Leistungsregler
 		
 Anleitung (DIN EN ISO 20607)
+============================
 
 	* Sicherheit
+	
 	* Maschinenbeschreibung
+	
 	* Montage/Installation
+	
 	* Bedienung/Betrieb 
+	
 	* Wartung/Instandhaltung
+	
 
 How to guides
 =============
