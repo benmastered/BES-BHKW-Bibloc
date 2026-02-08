@@ -74,20 +74,43 @@ _________________________________________________________________________
 [Zurück nach oben](#top)
 
 #### sichere Bedienung
-Bedienung der BHKW-Anlage
+
+##### Bedienung der BHKW-Anlage
+
 Bedienung der BHKW-Anlage dürfen nur Personen durchführen welche:
+
 •	entsprechend instruiert und von autorisierten Service-Mitarbeitern unter Berücksichtigung der lokalen, spezifischen Betriebsbedingungen der BHKW-Anlage geschult wurden
-•	neben der erwähnten Instruktion und Schulung vom Anlagebetreiber für die Betreuung der BHKW-Anlage bestimmt worden sind (meistens werden für diese Aufgaben Personen mit genügend fachmännischen und technischen Qualifikation bestimmt (Schlosser, Mechani-ker, Elektromonteur etc.)
+
+•	neben der erwähnten Instruktion und Schulung vom Anlagebetreiber für die Betreuung der BHKW-Anlage bestimmt worden sind (meistens werden für diese Aufgaben Personen mit genügend fachmännischen und technischen Qualifikation bestimmt (Schlosser, Mechaniker, Elektromonteur etc.)
+
 Das Bedienpersonal muss weiter folgende Kriterien erfüllen:
+
 •	erwachsen und volljährig sein
+
 •	genügend Sozialkompetenz zur Einschätzung von möglichen Risiken aufweisen
+
 •	nicht unter Einfluss von Alkohol oder Rauschgiften stehen
+
 •	in guter gesundheitlicher und seelischer Verfassung sein
+
 •	keine schlechte Absichten hegen
+
 •	geeignetes Schuhwerk tragen
+
 •	in geeigneter Kleidung ohne lose herabhängende Teile gekleidet sein
+
 •	keine langen, lose fliegende Haare haben(Kopfbedeckung verwenden)
 
+_________________________________________________________________________
+<div align="left">
+  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
+Die BHKW-Anlage darf nur von Personen bedient werden, die die oben genannten Kriterien und den allgemeinen rechtlichen Vorgaben bezüglich Zutritts in den Aufstellungsraum erfüllen. 
+
+Unbefugten Personen ist der Zutritt verboten
+_________________________________________________________________________
+[Zurück nach oben](#top)
 [Zurück nach oben](#top)
 	
 ## 2. für Anlagenbenutzer
