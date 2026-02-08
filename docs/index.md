@@ -54,7 +54,7 @@ Erklärungen
 ### Ausschalten der Maschine
 [Zurück nach oben](#top)
 
-### sichere Bedienung
+### 3 Grundsätze für die sichere Bedienung der BHKW-Anlage
 
 Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden. 
 
@@ -73,11 +73,11 @@ Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete B
 _________________________________________________________________________
 [Zurück nach oben](#top)
 
-#### sichere Bedienung
+#### 3.1 Hinweise auf mögliche Risiken
 
 ##### Bedienung der BHKW-Anlage
 
-Bedienung der BHKW-Anlage dürfen nur Personen durchführen welche:
+Die Bedienung der BHKW-Anlage dürfen nur Personen durchführen welche:
 
 •	entsprechend instruiert und von autorisierten Service-Mitarbeitern unter Berücksichtigung der lokalen, spezifischen Betriebsbedingungen der BHKW-Anlage geschult wurden
 
