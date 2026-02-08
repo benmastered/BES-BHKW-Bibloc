@@ -74,7 +74,7 @@ _________________________________________________________________________
 [Zurück nach oben](#top)
 
 #### 3.1 Hinweise auf mögliche Risiken
-
+
 ##### Bedienung der BHKW-Anlage
 
 Die Bedienung der BHKW-Anlage dürfen nur Personen durchführen welche:
@@ -111,6 +111,24 @@ Die BHKW-Anlage darf nur von Personen bedient werden, die die oben genannten Kri
 Unbefugten Personen ist der Zutritt verboten
 _________________________________________________________________________
 [Zurück nach oben](#top)
+
+##### Verwendung des Not-Aus-Tasters
+
+Entsteht durch den Betrieb der BHKW-Anlage eine Gefährdung von Gesundheit, Leben oder Material, kann dieses mit nachfolgenden Möglichkeiten abgeschaltet werden:
+
+•	Drücken des Not-Aus-Tasters auf BHKW-Steuerschrank (Bedienfeld des Schaltschrank)
+
+•	Drücken eines allfällig installierten und angeschlossenen Not-Aus-Tasters ausserhalb des Aufstellungsraumes
+
+•	Schliessen der Gaszufuhr mit Absperrarmatur unmittelbar vor der BHKW-Anlage
+_________________________________________________________________________
+<div align="left">
+  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
+Die BHKW-Anlage darf erst wieder in Betrieb gesetzt werden wenn sicherge-stellt ist, dass die Störung ordentlich beseitigt wurde und keine weitere Gefähr-dung von Mensch und Maschine besteht.
+_________________________________________________________________________
+
 [Zurück nach oben](#top)
 	
 ## 2. für Anlagenbenutzer
