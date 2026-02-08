@@ -37,13 +37,13 @@ Erklärungen
 ==================
 ## 1.Allgemein
 
-	### Einschalten der Maschine
+### Einschalten der Maschine
 [Zurück nach oben](#top)
 
-	### Ausschalten der Maschine
+### Ausschalten der Maschine
 [Zurück nach oben](#top)
 
-	### Optimaler Betrieb
+### Optimaler Betrieb
 [Zurück nach oben](#top)
 	
 ## 2. für Anlagenbenutzer
@@ -61,13 +61,13 @@ Erklärungen
 
 Anforderungen an die Anleitung (DIN EN ISO 20607)
 
-	Sicherheit zuerst: Das Kapitel Sicherheit muss vor der Beschreibung stehen.
+	** Sicherheit zuerst: Das Kapitel Sicherheit muss vor der Beschreibung stehen.
 	
-	Bestimmungsgemäße Verwendung: Einschließlich vorhersehbarer Fehlanwendungen.
+	** Bestimmungsgemäße Verwendung: Einschließlich vorhersehbarer Fehlanwendungen.
 	
-	Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
+	** Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
 	
-	Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
+	** Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
 
 
 ## Anleitung (DIN EN ISO 20607)
