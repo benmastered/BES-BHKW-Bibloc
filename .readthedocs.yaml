@@ -13,8 +13,8 @@ build:
   tools:
     python: "3.12"
 
-sphinx:
-  configuration: docs/conf.py
+# sphinx:
+#   configuration: docs/conf.py
 
 mkdocs:
   configuration: mkdocs.yml
