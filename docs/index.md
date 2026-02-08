@@ -2,7 +2,7 @@
 BES BHKW BIBLOC BV
 ==================
 
-| Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674 SBTLK | 684 SBTK | 684 SBTLK |
+| Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674  | 684 SBTK | 684  |
 |-------------------------------------|---------|----------|---------|-----------|----------|-----------|
 | Synchrongenerator                   |    X    |     X    |    X    |     X     |     X    |     X     |
 | Gasmischer für Biogas / Klärgas     |    X    |     X    |    X    |     X     |     X    |     X     |
@@ -47,21 +47,30 @@ Erklärungen
 # Einführungen
 ==================
 ## 1	Einführung
+
 Das nachfolgende Betriebshandbuch bildet eine Zusammenfassung der Informationen betreffend:
 
 - Konstruktion, 
 - Gebrauch und 
-- Wartung des BHKW Typ BIBLOC BV SBTLK. Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
-Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Kompo-nenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
+- Wartung des BHKW Typ BIBLOC BV. 
+
+
+Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
+
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
+
 Es sind keine detaillierten Wartungsarbeiten beschrieben. Das Kapitel über die Störmeldungen behandelt nur die Störungen, die der Betreiber selbst beheben kann.
 
- 	Lesen Sie vor Inbetriebnahme der BHKW-Anlage diese Anleitung aufmerksam durch. Die BHKW-Anlage ist ein elektrisches Aggregat mit drehenden Kompo-nenten, welches mit explosiven Brenngasen und Schmierstoffen arbeitet.
+Lesen Sie vor Inbetriebnahme der BHKW-Anlage diese Anleitung aufmerksam durch. Die BHKW-Anlage ist ein elektrisches Aggregat mit drehenden Komponenten, welches mit explosiven Brenngasen und Schmierstoffen arbeitet.
+ 
 Es ist generell mit hohen Oberflächentemperaturen, gefährlichen elektrischen Spannungen und giftigen Abgasen zu rechnen.
 Durch die Einhaltung der in dieser Anleitung aufgeführten Grundsätze für die Bedienung und Wartung dieser BHKW-Anlage vermeiden Sie Personen- und Sachschäden.
 
- 	Die Durchführung von technischen Wartungen und Reparaturen, welche über den Rahmen dieser Anleitung hinausgehen und durch Personen ohne Berechti-gung der Firma BIBLOC oder BES erfolgen, können einen Verlust der Garantie-ansprüche zur Folge haben, sofern die Schäden auf eine nicht fachgerechte Handhabung zurück zu führen sind.
+Die Durchführung von technischen Wartungen und Reparaturen, welche über den Rahmen dieser Anleitung hinausgehen und durch Personen ohne Berechtigung der Firma BES erfolgen, können einen Verlust der Garantieansprüche zur Folge haben, sofern die Schäden auf eine nicht fachgerechte Handhabung zurückzuführen sind.
+
 Im Weiteren besteht für ungeschulte Personen die Gefahr, bei Missachtung des obigen Abschnitts sich ernsthafte Verletzungen mit Todesfolge zu zufügen oder die BHKW-Anlage und angrenzende Komponenten zu beschädigen.
-Bei Eingriffen durch ungeschulte und unbefugte Personen, lehnt die Hersteller-firma BIBLOC sowie Betriebsfirma BES die Verantwortung für entstandene Sach- und Personenschäden ab.$
+
+Bei Eingriffen durch ungeschulte und unbefugte Personen, lehnt die Herstellerfirma BES die Verantwortung für entstandene Sach- und Personenschäden ab.
 
 #### 1.1	Pflichten des Betreibers
 
@@ -79,14 +88,11 @@ Bei Eingriffen durch ungeschulte und unbefugte Personen, lehnt die Hersteller-fi
 
 •	Er ist für die Einhaltung der Bedienungssicherheit und aller weiteren Vorschriften und Normen, welche Auswirkungen auf den Betrieb des BHKW‘s haben, verantwortlich.
  
-
-
 ### Einschalten der Maschine
 [Zurück nach oben](#top)
 
 ### Ausschalten der Maschine
 [Zurück nach oben](#top)
-
 
 ### 2 Entsorgung von Abfällen
 
@@ -110,7 +116,7 @@ Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfall
 Beim Transport und der Installation der BIBLOC BV entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
 Es handelt sich vor allem um:
 
-•	Kartonpapier, Kunststofffolien auf Polyethylen-Basis (PE), durch welche einige empfindliche Maschinenteile geschützt werden. 
+•	Kartonpapier, Kunststofffolien auf Polyethylen-Basis (PE), durch welche einige empfindliche Maschinenteile geschützt werden.
 	Papier und auch PE-Folien sind an die entsprechenden Sammelstellen zwecks Wiederverwertung zu zuführen.
 
 •	Metall- und Kunststoffstopfen von Rohrabschlüssen sind dem Altmetall respektive dem PET-Recycling zu zuführen oder für eine weitere Verwendung aufzubewahren.
@@ -129,25 +135,44 @@ Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservi
 [Zurück nach oben](#top)
  
 #### 2.2	Abfälle durch den Betrieb der BHKW-Anlage
-Beim Betrieb der BIBLOC BV ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BIBLOC oder BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
+
+Beim Betrieb der BIBLOC BV ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
 
 Diese Personen haben Kenntnis bezüglich dem Umgang mit folgenden Stoffen:
 
 •	Betriebsstoffe aus dem unmittelbaren Betrieb der BHKW-Anlage
 •	Kühlmittelflüssigkeit,
 •	Motoröl,
-•	Motorölreiniger	
+•	Motorölreiniger
 
-Es handelt sich hier um gefährliche Betriebsmittel. Diese sind entspre-chend den chemischen Eigenschaften zu behandeln. Die Art der Ent-sorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+Es handelt sich hier um gefährliche Betriebsmittel. 
+
+Diese sind entsprechend den chemischen Eigenschaften zu behandeln. 
+Die Art der Entsorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+
 Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
-Abfall aus der Reini-gung des Abgaswär-metauschers	Die Reinigungsrückstände sind auf ihre chemische Zusammensetzung zu prüfen und entsprechend den geltenden Bestimmungen zu entsor-gen.
+
+Abfall aus der Reinigung des Abgaswärmetauschers	
+
+Die Reinigungsrückstände sind auf ihre chemische Zusammensetzung zu prüfen und entsprechend den geltenden Bestimmungen zu entsorgen.
+
 •	Abfälle und Betriebsstoffe aus Wartung und Reparatur der BHKW-Anlage
-Bleiakkumulatoren
-(Batterien)	Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln. Die Art der Entsor-gung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+Bleiakkumulatoren (Batterien)
+
+Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln. 
+
+Die Art der Entsorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+
 Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
-gebrauchter
-Katalysatoren	Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln. Die Art der Entsor-gung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+
+gebrauchte Katalysatoren
+
+Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln.
+
+Die Art der Entsorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+
 Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
+
 Verpackungen sind gemäss den behördlichen Vorschriften zu entsorgen. Kontaminierte Verpa-ckungen sind wie der Stoff selbst zu behandeln. Sofern nicht behördlich geregelt, können nicht kontaminierte Verpackungen wie Hausmüll behandelt oder einem Recycling zugeführt werden.
 _________________________________________________________________________
 <div align="left">
@@ -155,7 +180,8 @@ _________________________________________________________________________
 </div>
 
 Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl, durch Öl verschmutzte Filter unsachgemäss entsorgt, sprich auf die Deponie gelegt oder frei in die Kanalisation abgelassen werden.
-Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben werden, welche nicht fähig oder bemächtigt sind die erwähnten Stoffe zu ent-sorgen.
+
+Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben werden, welche nicht fähig oder bemächtigt sind die erwähnten Stoffe zu entsorgen.
 _________________________________________________________________________
 
 #### 2.3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit
@@ -540,8 +566,282 @@ Der Not-Aus Schalter dient zur Notabschaltung der BIBLOC BV. Durch Drücken des 
 </div>
 
 Der Not-Aus Schalter darf nur im Notfall verwendet werden.
-
 _________________________________________________________________________
+
+## 11	Steuersystem ComAp IS GAS
+
+### 11.1	Allgemeine Beschreibung
+
+Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BIBLOC BV entwickelt worden und ist direkt im Schaltschrank integriert. 
+
+Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Überwachung und den Schutz der BHKW-Anlage mit diversen Zustand-überwachungen gewährleistet. 
+
+Die Steuerung zeichnet sich durch hohe Beständigkeit gegen Fremdstörungen und Schwankungen der Versorgungsspannung aus. 
+
+Das Steuersystem IS-GAS kann für die Asynchronausführung (Netzparallel-Betrieb), wie auch für die Synchronaus-führung (Notstrom-Betrieb) verwendet werden. 
+
+Dabei ist nur die Anzahl der zusätzlichen Module und die Software unterschiedlich. 
+
+Das Steuersystem ist mit einer grafischen Anzeige ausgerüstet, was eine einfache Bedienung gewährleistet.
+
+Sämtliche Betriebsparameter und Anlagezustände können am grafischen Display angezeigt oder visualisiert werden. Über ein Modem kann das BHKW fernüberwacht und gesteuert werden.
+
+Das Steuerungssystem IS-GAS kennt zwei verschiedene Betriebarten des BIBLOC BV: 
+
+Den Hand- respektive Automatik-Modus. 
+
+Bei beiden Betriebsmodi kann die Leistung manuell über die Bedieneinheit des Steuerungssystems eingestellt werden oder automatisch anhand des vorhandenen Stromverbrauchs reguliert werden (optional).
+
+### 11.2	Aufgaben des Steuersystems IS-GAS
+Für den Betrieb des BIBLOC BVübernimmt das Steuersystem folgende Aufgaben:
+
+•	sammelt sämtliche gemessene Betriebsparameter und garantiert mit entsprechend vorgege-benen Grenzwerten den Schutz von Maschine und Personen
+
+•	steuert alle notwendigen Hilfsgeräte wie Pumpen, Ventile oder Zündung und sichert damit einen korrekten Betrieb für den Netzparallel- und Ersatzstrombetrieb.
+
+•	steuert den Startvorgang des BIBLOC mittels des Synchrongenerators.
+
+•	ermöglicht eine Leistungsregulierung aufgrund des momentanen elektrischen Gebäudeverbrauchs
+
+•	erhebt eine Betriebsstatistik bezüglich Betriebsstunden, Startzahl und produzierte Wirk- und Blindenergie
+
+•	registriert die Betriebsparameter periodisch in ein History-Register (Geschichte)
+
+•	sichert die Verbindung zu einem übergeordnetem Steuersystem mittels potentialfreien Kontakten
+
+•	ermöglicht die Fernüberwachung und Fernmonitoring der Störungen über ein Modem (sofern Telefonanschluss vorhanden)
+
+•	verbindet mehrere IS-GAS–Steuersysteme bei Mehrmodulanlagen.
+ 
+### 11.3	Das Operations-Panel
+Das Bedienfeld des Steuersystems IS-GAS ist wie folgt eingeteilt:
+•	Leuchtdioden zur Anzeige von Betriebszuständen
+•	Grafisches Display
+•	Funktionstasten
+ 
+#### 11.3.1	Leuchtdioden
+Die Zustandssignalisation der wichtigsten elektrischen Komponenten erfolgt über Leuchtdioden, welche über einem einfachen Prinzipschema angeordnet sind. In diesem Prinzipschema sind von links nach rechts folgende Komponenten dargestellt:
+
+•	Transformator als Symbol für das Netz
+•	Netzkoppelschalter
+•	Verbraucher (Pfeil nach oben)
+•	Generatorschütz
+•	Generator
+
+Die Leuchtdioden zeigen folgende Zustände an:
+
+•	grüne Diode über Generator: 
+	Der Generator dreht, ist erregt und die Spannung liegt innerhalb der Toleranz.
+	
+•	grüne Diode über Transformator:
+	Das Netz ist vorhanden und die Netzspannung liegt innerhalb der Toleranz.
+	
+•	grüne Diode über Generatorschütz:
+	blinkt	Das Steuersystem synchronisiert zum Netz an: Der Generatorschütz ist geschlossen
+	
+•	rote Diode über Generator:
+	Das Aggregat ist in Störung
+	
+•	rote Diode über Netzkoppelschalter:
+	Es liegt eine Netzstörung vor
+ 
+#### 11.3.2	Grafisches Display
+Das Display mit Hintergrundbeleuchtung hat eine Auflösung von 128 x 64 Pixel. Damit können sämtliche Informationen bezüglich Betriebszuständen und Parameter abgerufen werden. Die verschiedenen Informationen sind in Menüs eingeteilt (siehe Kapitel 6.4).
+
+#### 11.3.3	Funktionstasten
+Um Einstellungen, Änderungen oder Messwerte abzurufen, stehen Funktionstasten zur Verfü-gung. Nachfolgend ist eine Erläuterung zu den einzelnen Tasten aufgeführt.
+
+ 	 
+Mit den MODE-Tasten erfolgt der Wechsel zwischen den verschiedenen Be-triebsmodi MAN / OFF / AUT.
+	
+ 
+Durch Drücken der PAGE-Taste kann zwischen den einzelnen Menüs gewech-selt werden. Innerhalb der Menüs bewegt man sich mit den PFEIL-Tasten.
+	
+ 	 
+Mit den PFEIL-Tasten AB und AUF wird der Pfeilbalken auf und ab bewegt. Damit erfolgt auch zum Beispiel die Auswahl einer bestimmten Parametergrup-pe.
+Die PFEIL-Tasten dienen auch zum Ändern von Parameterwerten.
+	
+ 
+Befindet sich die Pfeilmarkierung über einer bestimmten Parametergruppe, werden durch drücken der ENTER-Taste die entsprechenden Parameterwerte angewählt und angezeigt.
+Wird ein Wert verändert, muss dieser mit der ENTER-Taste bestätigt werden.
+	
+ 
+Mit der Taste FAULT RESET wird ein anstehender Fehler oder Alarm quittiert, sofern sich der entsprechende Zustand normalisiert hat. Durch die Quittierung wird auch der Ausgang STÖRUNG zurückgesetzt.
+	
+ 	 
+Durch die Tasten START und STOP wird das Aggregat im Modus HAND ge-startet und abgeschaltet.
+Im Modus OFF haben die Tasten keine Funktion und im AUTO-Modus ist nur die Taste STOP aktiv.
+	
+ 	 
+Die Tasten HORN RESET und ON/OFF werden für die Steuerung der BIBLOC Micro nicht verwendet und haben somit keine Funktion.
+ 
+### 11.4	Die Menüs
+#### 11.4.1	Menü Messung
+
+Beim Einschalten des Steuersystems IS-GAS und einer Initialisierung wird zuerst das Menü Messung angezeigt. 
+Auf der ersten Seite ist die momentane elektrische Leistung grafisch dargestellt.
+Darüber wird der aktuelle Betriebsmodus angezeigt.
+Das Textfeld neben der Grafik informiert über den aktuellen Betriebszustand, Betriebsart und einige relevante Messwerte.
+Durch drücken der Taste   wird die zweite Seite im Menü Messung ange-zeigt. Hier sind die Messwerte in Klartext sowie einem horizontalen Balkendia-gramm dargestellt
+Die entsprechenden Alarm- und Voral-armwerte sind im Balkendiagramm mit vertikalen Strichen eingezeichnet.
+Durch weiteres drücken der Taste   gelangt man zur nächsten Seite im Me-nü. Wiederum werden analoge Mess-werte in Klartext und Balkendiagramm angezeigt. 
+
+Mit der Taste   wird weiter zu den nachfolgenden Seiten geblättert.
+Im Unterschied zu den vorhergegange-nen Seiten werden hier die Messwerte tabellarisch aufgeführt. Digitale Mess-grössen werden entweder mit 0- (Ein-gang inaktiv) oder mit 1- (Eingang aktiv) angegeben.
+ 
+ 
+
+ 
+ 
+Nach der Zustandsanzeige der digitalen Eingänge wird die BHKW-Statistik ange-zeigt.
+Hier wird total produzierte Wirk- und Blindleistung, die Zeit bis zur nächsten Wartung, die totalen Betriebsstunden sowie die Anzahl erfolgten Starts aufge-listet.
+Als letzte Seite wird die Alarmliste ange-zeigt. 
+
+Hier wird angegeben, wie viele und welche Störungen anstehen.
+Wird die Taste   nochmals gedrückt gelangt man wieder zur 1. Seite mit der grafischen Leistungsdarstellung.
+ 
+ 	Wird anstelle der Taste   (AB) die Taste   (AUF) gedrückt, werden die Seiten im Menü Messung in umgekehrter Reihenfolge abgerufen. Um die Alarmliste oder die Statistik schneller abzurufen empfiehlt sich daher die Taste AUF zu benutzen
+#### 11.4.2	Menü Parameter
+Im Menü Parameter können sämtliche Betriebsparameter aufgerufen und eingestellt werden. Die Parameter sind in Parametergruppen unterteilt.
+
+ 	Die Änderung von Parameter, welche mit “*“ bezeichnet sind, können die Si-cherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. Der Zugriff auf diese Parameter ist codiert.
+
+ 
+ 
+
+ 
+ 
+Durch drücken der Taste   wird zwischen den verschiedenen Menüs gewechselt. Vom Menü Messung wech-selt das Steuersystem ins Menü Para-meter.
+Mit den PFEIL-Tasten können die Para-metergruppen ausgewählt werden. Durch drücken der Taste ENTER wird die entsprechende Gruppe geöffnet.
+Der gewünschte Parameter kann nun mit der PFEIL-Taste ausgewählt und mit ENTER bestätigt werden.
+Sofern der Parameter nicht mit einem “*“ bezeichnet ist, kann der Parameterwert mit den PFEIL-Tasten verändert werden.
+ 
+ 
+#### 11.4.3	Menü History
+Sämtliche Änderungen in der Betriebsart, Ein- oder Abschaltungen sowie Fehler- und Alarmmeldungen werden in einem History-Register gespeichert. Während dem Betrieb wird stündlich eine Kontrolle aller Parameter durchgeführt.
+
+Dieser Vorgang wird als “Periodische Abtastung“ in der History hinterlegt.
+
+Die Eintragungen werden mit Zeit, Datum und den Messwerten im History eingetragen. Inge-samt können 118 Meldungen in diesem Register hinterlegt werden. 
+
+Sind alle 118 Zeilen belegt, wird für eine Neueintragung stets die älteste Information gelöscht.
+
+Das History-Register ist für den Betreiber und Servicetechniker ein geeignetes Hilfsmittel, um bei Störungen mögliche Ursachen zu finden. 
+ 
+Mit den PFEIL-Tasten können die einzelnen Eintragungen angewählt werden. 
+
+Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
+C.	Nummer der Eintragung
+Grund	Beschreibung des Ereignis-ses
+Zeit 	Uhrzeit des Ereignisses
+Datum 	Datum des Ereignisses
+TWp	Wassertemperatur primär
+TWs	Wassertemperatur sekundär
+TAbg	Abgastemperatur nach Ab-gas-WT
+LS	Lambdaspannung
+Tkop	Abgastemperatur vor Abgas-WT
+Netz
+Sm	diverse digitale Zustände
+Lst	elektrische Leistung
+Cos	Cos-Phi
+Char
+Dr
+FrG	Frequenz Generator
+Ug1	Spannung Phase 1 Genera-tor
+Ug2	Spannung Phase 2 Genera-tor
+Ug3	Spannung Phase 3 Genera-tor
+Un1	Spannung Phase 1 Netz
+Un2	Spannung Phase 2 Netz
+Un3	Spannung Phase 3 Netz
+Ig1	Strom Phase 1 Generator
+Ig2	Strom Phase 2 Generator
+Ig3	Strom Phase 3 Generator
+Eins	Speisung Steuerung (12VDC)
+Pol	
+LO1	
+LWa	
+Durch drücken der Taste ENTER wer-den die einzelnen Spalten angezeigt.
+
+ 
+ 
+### 11.5	Ändern von Parametern
+
+#### 11.5.1	Service-Code eingeben
+
+Alle Parameter, welche mit einem “*“ bezeichnet sind, können nur geändert werden, wenn der Servicecode gegeben wird. Diese Parameter dürfen grundsätzlich durch den Servicetechniker geändert werden.  
+ 
+
+
+ 
+Durch drücken der Taste   wechselt das Steuersystem ins Menü Parameter.
+Wählen Sie mit der PFEIL-Taste die Pa-rametergruppe Code an und drücken Sie die Taste ENTER um zur Code-Eingabe zu gelangen.
+Mit den PFEIL-Tasten kann nun die Code-Zahl eingestellt und mit ENTER bestätigt werden. Der Code muss allen-falls bei der Servicefirma angefragt wer-den.
+ 
+	Die Anlage wird erst dann wieder freigegeben, wenn die Wartung ausgeführt worden ist und die Betriebsstundenzahl für den nächsten Service neu eingestellt worden ist.
+#### 11.5.2	Einstellen der Servicestunden
+Nach jedem Service muss die Betriebsstundenzahl für die nächste Wartung neu eingegeben werden. Damit wird dem Betriebspersonal über das Display angezeigt, wann die nächste periodi-sche Wartung fällig ist. 
+ 
+
+ 
+ 
+Durch drücken der Taste   wechselt das Steuersystem ins Menü Parameter.
+Wählen Sie mit der PFEIL-Tasten die Parametergruppe Grundparameter an und drücken Sie die Taste ENTER um die entsprechende Gruppe zu geöff-net.
+
+Wählen Sie den Parameter Naechst-Wart mit der PFEIL-Taste aus und be-stätigt Sie mit ENTER.
+Mit den PFEIL-Tasten kann nun die Be-triebsstundenzahl für den nächsten Ser-vice eingestellt werden.
+Sofern der Parameter mit einem “*“ be-zeichnet ist, muss vorgängig der Ser-vicecode eingegeben werden (siehe 6.5.1).
+
+ 
+Beispiel:	Das Serviceintervall beträgt 800 h und das BHKW hat zur Zeit 6400 Betriebsstunden. Die nächste Wartung erfolgt daher bei 7200 Betriebsstunden.
+ 
+#### 11.5.3	Einstellen der maximalen Servicestundenüberschreitung
+Um zu verhindern, dass die BHKW-Anlage den vorgegebenen Wartungsintervall nicht zu lange überschreitet, kann über den Parameter ServUeberschri die maximal zulässige Service-stundenüberschreitung eingestellt werden. Wird die Wartung bis zu diesem Zeitpunkt nicht durchgeführt, schaltet das BHKW ab. 
+ 
+
+ 
+ 
+Durch drücken der Taste   wechselt das Steuersystem ins Menü Parameter.
+Wählen Sie mit der PFEIL-Tasten die Parametergruppe Grundparameter an und drücken Sie die Taste ENTER um die entsprechende Gruppe zu geöff-net.
+
+Wählen Sie den Parameter Ser-vUeberschri mit der PFEIL-Taste aus und bestätigt Sie mit ENTER.
+Mit den PFEIL-Tasten kann nun die Stundenzahl für die maximale Service-stunden-überschreitung erhöht oder ge-senkt und mit ENTER bestätigt werden.
+Sofern der Parameter mit einem “*“ be-zeichnet ist, muss vorgängig der Ser-vicecode eingegeben werden (siehe 6.5.1).
+ 
+Beispiel:	Die maximale Servicestundenüberschreitung beträgt 100 h. Der nächste periodische Service ist bei 7200 Betriebsstunden fällig. Ist die Wartung bis 7300 Betriebsstunden nicht durchgeführt worden, schaltet das BHKW ab.
+ 
+### 11.6	Die Betriebsmodi
+#### 11.6.1	Einschalten des Steuersystem IS-GAS
+
+Das Steuersystem wird mittels Schlüsselschalter (siehe Kapitel 5.1 Position 2) eingeschaltet. Damit erfolgt die Spannungsversorgung 12 VDC des Steuersystems.
+Das Display leuchtet auf und nach einer kurzen Initialisierung, wird das Menü Messung ange-zeigt (grafische Darstellung der elektrischen Leistung). Dabei schaltet das Steuersystem in den Betriebsmodus, in dem das BHKW vor der Abschaltung war.
+#### 11.6.2	Betriebsmodus “AUT“
+Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung “AUT“ (automa-tisch) angezeigt. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld “VORBEREITET“ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+START-Prozedur
+Im Automatik-Betrieb wird die Anlage über eine externe Freigabe ein- bzw. ausgeschaltet. Dies erfolgt über einen potentialfreien Kontakt, welcher an Klemmen im Schaltschrank angeschlos-sen wird. Bei geschlossenem Kontakt startet die Anlage und schaltet sich wieder ab, sobald der Kontakt geöffnet wird. Die externe Freigabe kann auf Grund eines externen Wärme-, Strom- (Spitzenstromsteuerung) oder Gasmanagements erfolgen.
+Wird das BHKW von der externen Steuerung freigegeben, wird der Haupt- und Sternschütz des Generators gezogen, wodurch dieser als Elektromotor betrieben wird und der Motor mit 1500 1/min. dreht. Danach wird die Zündung eingeschalten und einige Sekunden später die Gasventile geöffnet, wodurch nun der Motor den Generator antreibt. Zeitverzögert erfolgt die Stern-Dreieckumschaltung.
+Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird “BELASTUNG“ angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BIBLOC BVseine Leistung auf die programmierte Nominalleistung.
+STOP-Prozedur
+Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint “ENTLASTET“) und öffnet den Generatorschütz.
+Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die Ausgänge für Zündung und Gasventile zurückgesetzt werden. Die Primär- und Sekundärpumpe bleiben wäh-rend der Nachkühlzeit in Betrieb, um den Motor weiter abzukühlen. Das BHKW ist in dieser Zeit bereits für den nächsten Start bereit. Am Display erscheint “VORBEREITET“.
+ 
+
+ 	Im Mode “AUT“ bleibt die Taste STOP aktiv. Durch drücken der Taste STOP schaltet die Steuerung in den Mode “MAN“ um und beginnt mit der Stoproutine. Für einen weiteren Automatik-Betrieb muss zurück in den Mode “AUT“ gewech-selt werden.
+
+ 	Schaltet das BHKW in Folge einer Störung ab, startet das Aggregat nach Quit-tierung mit der Taste FAULT RESET automatisch.
+#### 11.6.3	Betriebsmodus “MAN“
+Im Betriebsmenü ist die Bezeichnung “MAN“ (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld “VORBEREITET“ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+START-Prozedur
+Im Unterschied zum Mode “AUT“ wird im Mode “MAN“ das Aggregat nicht durch eine externe Freigabe gestartet, sondern durch drücken der Taste START.
+Der weitere Verlauf der Startroutine entspricht jenem im Mode “AUT“.
+STOP-Prozedur
+Das Abschalten des BHKW erfolgt durch drücken der Taste STOP.
+Der weitere Verlauf der Stopproutine entspricht jenem im Mode “AUT“. 
+
+ 	Im Mode “MAN“ reagiert das Steuersystem nicht auf ein externes Freigabesig-nal oder eine externe Leistungsregulierung.
+#### 11.6.4	Betriebsmodus “AUS“
+Im Betriebsmenü wird die Bezeichnung “AUS“ hinterleuchtet und im rechten Textfeld erscheint “SPS Aus“ in der obersten Zeile.
+Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
+ 
 
 ## 12	Schutzfunktionen und Sensoren
 Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BIBLOC BV diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
@@ -941,7 +1241,7 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 
 ## Betriebsanleitung (DIN EN ISO 20607)
 ------------------------------
-Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betref-fend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV SBTLK. Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
+Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betref-fend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV . Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
 Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Kompo-nenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 Es sind keine detaillierten Wartungsarbeiten beschrieben. Das Kapitel über die Störmeldungen behandelt nur die Störungen, die der Betreiber selbst beheben kann.
 
