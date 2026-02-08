@@ -1,6 +1,7 @@
 
 BES BHKW BIBLOC BV
 ==================
+
 | Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674 SBTLK | 684 SBTK | 684 SBTLK |
 |-------------------------------------|---------|----------|---------|-----------|----------|-----------|
 | Synchrongenerator                   |    X    |     X    |    X    |     X     |     X    |     X     |
