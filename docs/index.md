@@ -10,7 +10,7 @@ Einführungen
 		
 Anleitungen
 --------------	
-[Aufstellen des BHKWs][#aufstellen-des-bhkws]
+[Aufstellen des BHKWs](#aufstellen-des-bhkws)
 
             * Local installation
             * Docker
