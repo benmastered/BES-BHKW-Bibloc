@@ -4,20 +4,13 @@ BES BHKW BIBLOC BV
 
 Einführungen
 --------------
-        * Einschalten der Maschine
+        * [Einschalten der Maschine] (#einschalten-der-maschine)
         * Kontrolle auf ruhigen, optimalen Betrieb der Maschine
         * Ausschalten der Maschine
 		
 Anleitungen
 --------------	
-[Aufstellen des BHKWs](#aufstellen-des-bhkws)
-
-            * Local installation
-            * Docker
-            * Virtual machine
-            * Linux container
-        * Deploy
-        * Scale
+	* [Aufstellen des BHKWs](#aufstellen-des-bhkws)
 		
 Handbücher
 --------------
@@ -29,9 +22,20 @@ Handbücher
 		
 Erklärungen
 --------------	
-        * Systemübersicht
+        * [Systemübersicht] (#systemübersicht)
         * Leistungsregler
 		
+
+# Einführungen
+==================
+	## allgemeine Anleitung für alle Nutzerszenarien
+	
+    ## für Anlagenbenutzer
+        ### Einschalten der Maschine
+    ## für Servicetechniker
+        [...]
+    ## für Inbetriebnahme-Techniker
+        [...]
 
 # Anleitungen
 ==================
@@ -64,31 +68,15 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 ## Aufstellen des BHKWs
 --------------------
 
-Pellentesque malesuada, ipsum ac mollis pellentesque, risus
-nunc ornare odio, et imperdiet dui mi et dui. Phasellus vel
-porta turpis. In feugiat ultricies ipsum.
+### Unterlage
+* Anti-Vibrations-Matte
+* Maschinensockel mit Dämpfer
 
-* Local installation       |
-* Docker                   |  links to
-* Virtual machines         |  the guides
-* Linux containers         |
+# Handbücher
+==================
 
-## Deployment and scaling
------------------------
+# Erklärungen
+==================
 
-Morbi sed scelerisque ligula. In dictum lacus quis felis
-facilisisvulputate. Quisque lacinia condimentum ipsum
-laoreet tempus.
-
-* Deploy an instance       |  links to
-* Scale your application   |  the guides
-
-
-tutorial
-    for users on land
-        [...]
-    for users at sea
-        [...]
-    for users in the air
-        [...]
-[and then so on for how-to guides, reference and explanation]
+## Systemübersicht
+## Systemübersicht
