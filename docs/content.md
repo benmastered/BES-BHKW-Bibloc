@@ -1,11 +1,13 @@
 
-Home
-    * Anleitungen              
-        Part 1
-        Part 2
-        Part 3
-    * How-to guides         
-        * Install           
+BES BHKW BIBLOC BV
+
+    * Einführungen             
+        * Einschalten der Maschine
+        * Kontrolle auf ruhigen, optimalen Betrieb der Maschine
+        * Ausschalten der Maschine
+		
+    * Anleitungen        
+        * Aufstellen des BHKWs           
             * Local installation
             * Docker
             * Virtual machine
