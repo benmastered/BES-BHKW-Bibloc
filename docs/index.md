@@ -614,13 +614,18 @@ Für den Betrieb des BIBLOC BVübernimmt das Steuersystem folgende Aufgaben:
 •	verbindet mehrere IS-GAS–Steuersysteme bei Mehrmodulanlagen.
  
 ### 11.3	Das Operations-Panel
+
 Das Bedienfeld des Steuersystems IS-GAS ist wie folgt eingeteilt:
+
 •	Leuchtdioden zur Anzeige von Betriebszuständen
 •	Grafisches Display
 •	Funktionstasten
  
 #### 11.3.1	Leuchtdioden
-Die Zustandssignalisation der wichtigsten elektrischen Komponenten erfolgt über Leuchtdioden, welche über einem einfachen Prinzipschema angeordnet sind. In diesem Prinzipschema sind von links nach rechts folgende Komponenten dargestellt:
+
+Die Zustandssignalisation der wichtigsten elektrischen Komponenten erfolgt über Leuchtdioden, welche über einem einfachen Prinzipschema angeordnet sind. 
+
+In diesem Prinzipschema sind von links nach rechts folgende Komponenten dargestellt:
 
 •	Transformator als Symbol für das Netz
 •	Netzkoppelschalter
@@ -646,33 +651,35 @@ Die Leuchtdioden zeigen folgende Zustände an:
 	Es liegt eine Netzstörung vor
  
 #### 11.3.2	Grafisches Display
-Das Display mit Hintergrundbeleuchtung hat eine Auflösung von 128 x 64 Pixel. Damit können sämtliche Informationen bezüglich Betriebszuständen und Parameter abgerufen werden. Die verschiedenen Informationen sind in Menüs eingeteilt (siehe Kapitel 6.4).
+Das Display mit Hintergrundbeleuchtung hat eine Auflösung von 128 x 64 Pixel. 
+
+Damit können sämtliche Informationen bezüglich Betriebszuständen und Parameter abgerufen werden. 
+Die verschiedenen Informationen sind in Menüs eingeteilt (siehe Kapitel 6.4).
 
 #### 11.3.3	Funktionstasten
-Um Einstellungen, Änderungen oder Messwerte abzurufen, stehen Funktionstasten zur Verfü-gung. Nachfolgend ist eine Erläuterung zu den einzelnen Tasten aufgeführt.
 
- 	 
-Mit den MODE-Tasten erfolgt der Wechsel zwischen den verschiedenen Be-triebsmodi MAN / OFF / AUT.
-	
+Um Einstellungen, Änderungen oder Messwerte abzurufen, stehen Funktionstasten zur Verfügung.
  
-Durch Drücken der PAGE-Taste kann zwischen den einzelnen Menüs gewech-selt werden. Innerhalb der Menüs bewegt man sich mit den PFEIL-Tasten.
-	
- 	 
-Mit den PFEIL-Tasten AB und AUF wird der Pfeilbalken auf und ab bewegt. Damit erfolgt auch zum Beispiel die Auswahl einer bestimmten Parametergrup-pe.
+Nachfolgend ist eine Erläuterung zu den einzelnen Tasten aufgeführt.
+
+Mit den MODE-Tasten erfolgt der Wechsel zwischen den verschiedenen Betriebsmodi MAN / OFF / AUT.
+
+Durch Drücken der PAGE-Taste kann zwischen den einzelnen Menüs gewechselt werden. Innerhalb der Menüs bewegt man sich mit den PFEIL-Tasten.
+
+Mit den PFEIL-Tasten AB und AUF wird der Pfeilbalken auf- und abbewegt. 
+Damit erfolgt auch zum Beispiel die Auswahl einer bestimmten Parametergruppe.
+
 Die PFEIL-Tasten dienen auch zum Ändern von Parameterwerten.
-	
  
 Befindet sich die Pfeilmarkierung über einer bestimmten Parametergruppe, werden durch drücken der ENTER-Taste die entsprechenden Parameterwerte angewählt und angezeigt.
+
 Wird ein Wert verändert, muss dieser mit der ENTER-Taste bestätigt werden.
-	
- 
+
 Mit der Taste FAULT RESET wird ein anstehender Fehler oder Alarm quittiert, sofern sich der entsprechende Zustand normalisiert hat. Durch die Quittierung wird auch der Ausgang STÖRUNG zurückgesetzt.
-	
- 	 
-Durch die Tasten START und STOP wird das Aggregat im Modus HAND ge-startet und abgeschaltet.
+
+Durch die Tasten START und STOP wird das Aggregat im Modus HAND gestartet und abgeschaltet.
 Im Modus OFF haben die Tasten keine Funktion und im AUTO-Modus ist nur die Taste STOP aktiv.
-	
- 	 
+ 
 Die Tasten HORN RESET und ON/OFF werden für die Steuerung der BIBLOC Micro nicht verwendet und haben somit keine Funktion.
  
 ### 11.4	Die Menüs
@@ -706,11 +713,6 @@ Im Menü Parameter können sämtliche Betriebsparameter aufgerufen und eingestel
 
  	Die Änderung von Parameter, welche mit “*“ bezeichnet sind, können die Si-cherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. Der Zugriff auf diese Parameter ist codiert.
 
- 
- 
-
- 
- 
 Durch drücken der Taste   wird zwischen den verschiedenen Menüs gewechselt. Vom Menü Messung wech-selt das Steuersystem ins Menü Para-meter.
 Mit den PFEIL-Tasten können die Para-metergruppen ausgewählt werden. Durch drücken der Taste ENTER wird die entsprechende Gruppe geöffnet.
 Der gewünschte Parameter kann nun mit der PFEIL-Taste ausgewählt und mit ENTER bestätigt werden.
