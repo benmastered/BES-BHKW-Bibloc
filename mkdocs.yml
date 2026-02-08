@@ -41,8 +41,8 @@ markdown_extensions:
   - tables
   #- pymdownx.highlight:
   #    use_pygments: false
-  - pymdownx.snippets
-  - pymdownx.superfences
+  #- pymdownx.snippets
+  #- pymdownx.superfences
   - callouts
   - mdx_gh_links:
       user: mkdocs
