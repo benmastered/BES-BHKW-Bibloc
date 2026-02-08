@@ -10,7 +10,7 @@ Einführungen
 		
 Anleitungen
 --------------	
-        [Aufstellen des BHKWs][aufstellen-des-bhkws]
+        * [Aufstellen des BHKWs][aufstellen-des-bhkws]
             * Local installation
             * Docker
             * Virtual machine
@@ -31,8 +31,23 @@ Erklärungen
         * Systemübersicht
         * Leistungsregler
 		
-Anleitung (DIN EN ISO 20607)
-============================
+
+# Anleitungen
+==================
+
+Anforderungen an die Anleitung (DIN EN ISO 20607)
+
+	Sicherheit zuerst: Das Kapitel Sicherheit muss vor der Beschreibung stehen.
+	
+	Bestimmungsgemäße Verwendung: Einschließlich vorhersehbarer Fehlanwendungen.
+	
+	Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
+	
+	Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
+
+
+##Anleitung (DIN EN ISO 20607)
+------------------------------
 
 	* Sicherheit
 	
@@ -45,21 +60,8 @@ Anleitung (DIN EN ISO 20607)
 	* Wartung/Instandhaltung
 	
 
-How to guides
-=============
-
-Anforderungen an die Anleitung (DIN EN ISO 20607)
-
-	Sicherheit zuerst: Das Kapitel Sicherheit muss vor der Beschreibung stehen.
-	
-	Bestimmungsgemäße Verwendung: Einschließlich vorhersehbarer Fehlanwendungen.
-	
-	Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
-	
-	Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
-
-Aufstellen des BHKWs
--------------------
+## Aufstellen des BHKWs
+--------------------
 
 Pellentesque malesuada, ipsum ac mollis pellentesque, risus
 nunc ornare odio, et imperdiet dui mi et dui. Phasellus vel
@@ -70,7 +72,7 @@ porta turpis. In feugiat ultricies ipsum.
 * Virtual machines         |  the guides
 * Linux containers         |
 
-Deployment and scaling
+## Deployment and scaling
 -----------------------
 
 Morbi sed scelerisque ligula. In dictum lacus quis felis
