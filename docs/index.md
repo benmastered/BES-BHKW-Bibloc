@@ -17,7 +17,7 @@ Einführungen
 --------------
 [Einschalten der Maschine](#einschalten-der-maschine)
 
-[Kontrolle auf optimalen Betrieb der Maschine](#optimaler-betrieb)
+[Kontrolle auf sicheren Bedienung der Maschine](#sichere-bedienung)
 
 [Ausschalten der Maschine](#ausschalten-der-maschine)
 		
@@ -54,7 +54,40 @@ Erklärungen
 ### Ausschalten der Maschine
 [Zurück nach oben](#top)
 
-### Optimaler Betrieb
+### sichere Bedienung
+
+Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden. 
+
+Eine unsachgemässe Bedienung kann die Gesundheit oder das Leben von Personen gefährden und erhebliche Sachschaden verursachen.
+
+Die nachfolgenden Hinweise sind als allgemein und grundsätzlich zu verstehen. Sie erfassen nicht alle mögliche Gefährdungssituationen. 
+
+Einige der folgenden Hinweise werden in weiteren Teilen dieses Betriebshandbuchs wiederholt.
+
+_________________________________________________________________________
+<div align="left">
+  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
+Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Betriebsordnung zu integrieren.
+_________________________________________________________________________
+[Zurück nach oben](#top)
+
+#### sichere Bedienung
+Bedienung der BHKW-Anlage
+Bedienung der BHKW-Anlage dürfen nur Personen durchführen welche:
+•	entsprechend instruiert und von autorisierten Service-Mitarbeitern unter Berücksichtigung der lokalen, spezifischen Betriebsbedingungen der BHKW-Anlage geschult wurden
+•	neben der erwähnten Instruktion und Schulung vom Anlagebetreiber für die Betreuung der BHKW-Anlage bestimmt worden sind (meistens werden für diese Aufgaben Personen mit genügend fachmännischen und technischen Qualifikation bestimmt (Schlosser, Mechani-ker, Elektromonteur etc.)
+Das Bedienpersonal muss weiter folgende Kriterien erfüllen:
+•	erwachsen und volljährig sein
+•	genügend Sozialkompetenz zur Einschätzung von möglichen Risiken aufweisen
+•	nicht unter Einfluss von Alkohol oder Rauschgiften stehen
+•	in guter gesundheitlicher und seelischer Verfassung sein
+•	keine schlechte Absichten hegen
+•	geeignetes Schuhwerk tragen
+•	in geeigneter Kleidung ohne lose herabhängende Teile gekleidet sein
+•	keine langen, lose fliegende Haare haben(Kopfbedeckung verwenden)
+
 [Zurück nach oben](#top)
 	
 ## 2. für Anlagenbenutzer
@@ -102,13 +135,14 @@ Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden.
 Eine unsachgemässe Bedienung kann die Gesundheit oder das Leben von Personen gefährden und erhebliche Sachschaden verursachen.
 Die nachfolgenden Hinweise sind als allgemein und grundsätzlich zu verstehen. Sie erfassen nicht alle mögliche Gefährdungssituationen. 
 Einige der folgenden Hinweise werden in weiteren Teilen dieses Betriebshandbuchs wiederholt.
-<!-- Left align -->
+
+_________________________________________________________________________
 <div align="left">
   <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
-Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Be-triebsordnung zu integrieren.
-
+Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Betriebsordnung zu integrieren.
+_________________________________________________________________________
 	
 ### Wartung/Instandhaltung
 	
