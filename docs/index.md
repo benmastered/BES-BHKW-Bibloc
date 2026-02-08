@@ -126,11 +126,48 @@ _________________________________________________________________________
   <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
-Die BHKW-Anlage darf erst wieder in Betrieb gesetzt werden wenn sicherge-stellt ist, dass die Störung ordentlich beseitigt wurde und keine weitere Gefähr-dung von Mensch und Maschine besteht.
+Die BHKW-Anlage darf erst wieder in Betrieb gesetzt werden wenn sichergestellt ist, dass die Störung ordentlich beseitigt wurde und keine weitere Gefährdung von Mensch und Maschine besteht.
 _________________________________________________________________________
 
 [Zurück nach oben](#top)
 	
+##### Zugang für Personen in den Aufstellungsraum - Verweilzeit von Personen im Aufstellungsraum - Massnahmen
+
+•	Die BHKW-Anlage darf nur mit geschlossener Schalldämmhaube betrieben werden.
+ 
+•	Die Schalldämmhaube darf nur durch das autorisierte Betriebspersonal oder Service-Mitarbeiter zur Durchführung von Kontroll-, Wartungs- und Reparaturarbeiten geöffnet werden.
+
+•	Es darf nicht geraucht und kein offenes Feuer entfacht werden.
+
+•	Der Bereich um die BHKW-Anlage muss frei gelassen werden (keine Gegenstände, Ersatzteile etc. lagern), damit im Notfall die Fluchtwege nicht versperrt sind.
+
+•	Während dem Betrieb des Verbrennungsmotors ist es verboten sich unter den Lärmschutzdeckel aufzuhalten. 
+
+•	Bei Arbeiten an der BHKW-Anlage und unter dem Lärmschutzdeckel (sofern die Abmessungen der Lärmschutzverkleidung dies zulassen) muss :
+
+		-> die Kraftstoffzufuhr geschlossen, 
+		-> die elektrische Zuleitung abgeschaltet und 
+		-> der automatische Anlauf der Maschine durch herausziehen des Schlüssels vom Steuerschalter auf Position 0 verhindert werden.
+		
+•	Aus dem Sicherheitsventil im Ausgleichsgefäss des Primärkreislaufes und aus dem Sicherheitsventil des Sekundärkreislaufes kann es zu spontanem Austritt von heisser Flüssigkeit kommen:
+
+	-> Der Aufenthalt im Bereich dieser Ventile sollte vermieden werden. 
+	-> Manipulationen an den Ventilen dürfen nur vorgenommen werden, wenn die Flüssigkeit kalt und drucklos ist.
+	
+•	Bei engen Platzverhältnissen muss vor Eintritt in den Aufstellungsraum die BHKW-Anlage abgeschaltet und gegen unerwünschtes Anlaufen gesichert werden.
+
+•	Die Verweilzeit im Aufstellungsraum ist auf die unbedingt benötige Zeit zu beschränken.
+_________________________________________________________________________
+<div align="left">
+  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
+Die oben genannten Massnahmen umfassen nicht alle mögliche Gefährdungssituationen für das Bedienpersonal !!!
+Es ist notwendig, die Massnahmen unter Berücksichtigung der lokalen Betriebs-bedingungen neu zu beurteilen.
+_________________________________________________________________________
+
+[Zurück nach oben](#top)
+
 ## 2. für Anlagenbenutzer
 	
 ### Sichtkontrollen
