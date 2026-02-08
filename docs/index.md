@@ -4,15 +4,15 @@ BES BHKW BIBLOC BV
 
 Einführungen
 --------------
-1. [Einschalten der Maschine](#einschalten-der-maschine)
+[Einschalten der Maschine](#einschalten-der-maschine)
 
-2. [Kontrolle auf ruhigen, optimalen Betrieb der Maschine](#optimaler-betrieb)
+[Kontrolle auf optimalen Betrieb der Maschine](#optimaler-betrieb)
 
-3. [Ausschalten der Maschine](#ausschalten-der-maschine)
+[Ausschalten der Maschine](#ausschalten-der-maschine)
 		
 Anleitungen
 --------------	
-	* [Aufstellen des BHKWs](#aufstellen-des-bhkws)
+[Aufstellen des BHKWs](#aufstellen-des-bhkws)
 		
 Handbücher
 --------------
@@ -24,23 +24,24 @@ Handbücher
 		
 Erklärungen
 --------------	
-[Systemübersicht](#systemübersicht)
+[Systemübersicht](#systemubersicht)
+
 [Leistungsregler](#leistungsregler)
 		
 
 # Einführungen
 ==================
-## 1. allgemeine Anleitung für alle Nutzerszenarien
+## allgemeine Anleitung für alle Nutzerszenarien
 
-### 1.2 Einschalten der Maschine
+### Einschalten der Maschine
 
-### 1.3 Ausschalten der Maschine
+### Ausschalten der Maschine
 
-### 1.4 Optimaler Betrieb
+### Optimaler Betrieb
 	
 ## 2. für Anlagenbenutzer
 	
-### 2.1 Einschalten der Maschine
+### Sichtkontrollen
 		
 ## 3. für Servicetechniker
         [...]
