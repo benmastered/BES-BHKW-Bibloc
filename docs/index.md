@@ -79,20 +79,36 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 	** Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
 	
 	** Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
+	
 
-
-## Anleitung (DIN EN ISO 20607)
+## Betriebsanleitung (DIN EN ISO 20607)
 ------------------------------
+Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betref-fend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV684 SBTLK SBTLK. Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
+Das ganze Handbuch ist nach den Hauptbestandteilen der BV684 SBTLK in Kapitel gegliedert. Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Kompo-nenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
+Es sind keine detaillierten Wartungsarbeiten beschrieben. Das Kapitel über die Störmeldungen behandelt nur die Störungen, die der Betreiber selbst beheben kann.
 
-	* Sicherheit
+
+### Sicherheit
 	
-	* Maschinenbeschreibung
+### Maschinenbeschreibung
+#### Hauptkomponenten der Anlage
+#### Betriebsstoffe
 	
-	* Montage/Installation
+### Montage/Installation
 	
-	* Bedienung/Betrieb 
+### Bedienung/Betrieb
+#### Grundsätze für die sichere Bedienung der BHKW-Anlage
+Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden. 
+Eine unsachgemässe Bedienung kann die Gesundheit oder das Leben von Personen gefährden und erhebliche Sachschaden verursachen.
+Die nachfolgenden Hinweise sind als allgemein und grundsätzlich zu verstehen. Sie erfassen nicht alle mögliche Gefährdungssituationen. 
+Einige der folgenden Hinweise werden in weiteren Teilen dieses Betriebshandbuchs wiederholt.
+[Achtung](/images/Achtung.jpg)
+
+
+Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Be-triebsordnung zu integrieren.
+
 	
-	* Wartung/Instandhaltung
+### Wartung/Instandhaltung
 	
 
 ## Aufstellen des BHKWs
