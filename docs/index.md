@@ -25,9 +25,11 @@ Handbücher
 Erklärungen
 --------------	
 [Systemübersicht](#systemübersicht)
+
 [Zurück nach oben](#top)
 
 [Leistungsregler](#leistungsregler)
+
 [Zurück nach oben](#top)
 		
 
