@@ -1,31 +1,35 @@
 
-Home                      <- landing page
-    Tutorial              <- landing page
+Home
+    * Anleitungen              
         Part 1
         Part 2
         Part 3
-    How-to guides         <- landing page
-        Install           <- landing page
-            Local installation
-            Docker
-            Virtual machine
-            Linux container
-        Deploy
-        Scale
-    Reference             <- landing page
-        Command-line tool
-        Available endpoints
-        API
-    Explanation           <- landing page
-        Best practice recommendations
-        Security overview
-        Performance
+    * How-to guides         
+        * Install           
+            * Local installation
+            * Docker
+            * Virtual machine
+            * Linux container
+        * Deploy
+        * Scale
+		
+    * Handbücher
+		* Benutzerinteraktion HMI-Display
+        * ComAp InteliMonitor
+        * Verfügbare Funktionen
+        * WebsuperVisor (WSV) Portal
+		
+    * Erklärungen           
+        * Systemübersicht
+        * Leistungsregler
+		
+Anleitung (DIN EN ISO 20607)
 
-* Sicherheit
-* Maschinenbeschreibung       			|
-* Montage/Installation                  |  links to
-* Bedienung/Betrieb        				|  the guides
-* Wartung/Instandhaltung         		|
+	* Sicherheit
+	* Maschinenbeschreibung
+	* Montage/Installation
+	* Bedienung/Betrieb 
+	* Wartung/Instandhaltung
 
 How to guides
 =============
