@@ -9,6 +9,8 @@ BES BHKW BIBLOC BV
 | Turbomotor                          |         |     X    |         |     X     |     X    |     X     |
 | Ladeluftkühlung                     |         |          |         |     X     |          |     X     |
 | Dreiwegkatalysator (Lambda = 1)     |    X    |     X    |    X    |     X     |     X    |     X     |
+| Notkühlung (2-, 3-, 4-fach)         |    2    |     2    |    3    |     3     |     4    |     4     |
+| Option Notstrom                     |    NS   |     NS   |    NS   |     NS    |     NS   |     NS    |
 
 Einführungen
 --------------
