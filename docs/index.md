@@ -10,7 +10,7 @@ Einführungen
 		
 Anleitungen
 --------------	
-        * Aufstellen des BHKWs           
+        * [Aufstellen des BHKWs][]
             * Local installation
             * Docker
             * Virtual machine
