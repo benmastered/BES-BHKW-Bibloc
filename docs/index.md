@@ -35,15 +35,15 @@ Erklärungen
 
 # Einführungen
 ==================
-## allgemeine Anleitung für alle Nutzerszenarien
+## 1.Allgemein
 
-### Einschalten der Maschine
+	### Einschalten der Maschine
 [Zurück nach oben](#top)
 
-### Ausschalten der Maschine
+	### Ausschalten der Maschine
 [Zurück nach oben](#top)
 
-### Optimaler Betrieb
+	### Optimaler Betrieb
 [Zurück nach oben](#top)
 	
 ## 2. für Anlagenbenutzer
