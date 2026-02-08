@@ -54,6 +54,70 @@ Erklärungen
 ### Ausschalten der Maschine
 [Zurück nach oben](#top)
 
+
+### 2 Entsorgung von Abfällen
+
+Durch den Transport und Betrieb der BHKW-Anlage fallen Abfallstoffe mit unterschiedlichen Eigenschaften an. 
+
+Für die Entsorgung dieser Stoffe müssen die geltenden Vorschriften eingehalten werden. 
+
+Allenfalls kommen die gültigen EG-Richtlinie über „Verpackungen und Verpackungsabfälle“ zum Tragen.
+
+Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfallen, werden in folgende 3 Gruppen aufgeteilt:
+
+1	Abfälle durch den Transport und Installation der Anlage
+
+2	Abfälle durch den Betrieb der Anlage (abgenutzte Verschleissteile und Betriebsstoffe wie Alt-öl)
+
+3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit der BHKW-Anlage
+
+[Zurück nach oben](#top)
+
+#### 2.1	Abfälle durch den Transport und Installation der BHKW-Anlage
+Beim Transport und der Installation der BV684 SBTLK entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
+Es handelt sich vor allem um:
+
+•	Kartonpapier, Kunststofffolien auf Polyethylen-Basis (PE), durch welche einige empfindliche Maschinenteile geschützt werden. 
+	Papier und auch PE-Folien sind an die entsprechenden Sammelstellen zwecks Wiederverwertung zu zuführen.
+
+•	Metall- und Kunststoffstopfen von Rohrabschlüssen sind dem Altmetall respektive dem PET-Recycling zu zuführen oder für eine weitere Verwendung aufzubewahren.
+
+•	Die Transportsicherungen zur Fixierung der Motorgeneratoreinheit während des Transports kann zur Wiederverwendung dem Lieferanten zurückgeben oder für die eigene Wiederver-wendung in der BHKW-Anlage aufbewahren werden.
+
+Je nach Lieferumfang der BHKW-Anlage werden Zubehör-Teile des BHKW als Einzelteile auf Euro-Paletten, eventuell auch in einem Holzverschlag transportiert und mit PE-Folie geschützt. 
+
+•	Die Entsorgung der PE-Folie ist oben beschrieben. 
+•	Euro-Palette sind zur weiteren Verwendung an eine Transportfirma zurück zugeben. 
+•	Holzverschläge sind der kommunalen Abfallentsorgung zu zuführen.
+•	Euro-Palette und Holzverschläge dürfen nicht als Brennholz verwendet werden.
+
+Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservierungsmitteln behandelt und müssen vor der Inbetriebnahme nicht entsprechend gereinigt werden.
+
+[Zurück nach oben](#top)
+ 
+#### 2.2	Abfälle durch den Betrieb der BHKW-Anlage
+Beim Betrieb der BV684 SBTLK ist es erforderlich, dass alle Arbeiten, welche über die Ausfüh-rungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BIBLOC oder BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. Diese Personen haben Kenntnis bezüglich dem Umgang mit folgenden Stoffen:
+•	Betriebsstoffe aus dem unmittelbaren Betrieb der BHKW-Anlage
+Kühlmittelflüssigkeit,
+Motoröl,
+Motorölreiniger	Es handelt sich hier um gefährliche Betriebsmittel. Diese sind entspre-chend den chemischen Eigenschaften zu behandeln. Die Art der Ent-sorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
+Abfall aus der Reini-gung des Abgaswär-metauschers	Die Reinigungsrückstände sind auf ihre chemische Zusammensetzung zu prüfen und entsprechend den geltenden Bestimmungen zu entsor-gen.
+•	Abfälle und Betriebsstoffe aus Wartung und Reparatur der BHKW-Anlage
+Bleiakkumulatoren
+(Batterien)	Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln. Die Art der Entsor-gung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
+gebrauchter
+Katalysatoren	Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln. Die Art der Entsor-gung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
+Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
+Verpackungen sind gemäss den behördlichen Vorschriften zu entsorgen. Kontaminierte Verpa-ckungen sind wie der Stoff selbst zu behandeln. Sofern nicht behördlich geregelt, können nicht kontaminierte Verpackungen wie Hausmüll behandelt oder einem Recycling zugeführt werden.
+
+ 	Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl, durch Öl verschmutzte Filter unsachgemäss entsorgt, sprich auf die Deponie gelegt oder frei in die Kanalisation abgelassen werden.
+Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben werden, welche nicht fähig oder bemächtigt sind die erwähnten Stoffe zu ent-sorgen.
+#### 2.3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit
+Die Stilllegung, der Ausbau und die Entsorgung der BHKW-Anlage hat in bestmöglichem Ein-klang zur Natur und der Umwelt zu erfolgen. Bitte wenden Sie sich an die Firma BIBLOC, BES oder eine andere Institution, welche ein fachgerechtes Entsorgen und Recyceln anbietet.
+ 
+
 ### 3 Grundsätze für die sichere Bedienung der BHKW-Anlage
 
 Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden. 
