@@ -6,7 +6,7 @@ Einführungen
 --------------
         * [Einschalten der Maschine] (#einschalten-der-maschine)
         * Kontrolle auf ruhigen, optimalen Betrieb der Maschine
-        * Ausschalten der Maschine
+        * [Ausschalten der Maschine] (#einschalten-der-maschine)
 		
 Anleitungen
 --------------	
@@ -28,13 +28,15 @@ Erklärungen
 
 # Einführungen
 ==================
-	## allgemeine Anleitung für alle Nutzerszenarien
+## allgemeine Anleitung für alle Nutzerszenarien
 	
-    ## für Anlagenbenutzer
-        ### Einschalten der Maschine
-    ## für Servicetechniker
+## für Anlagenbenutzer
+	
+### Einschalten der Maschine
+		
+## für Servicetechniker
         [...]
-    ## für Inbetriebnahme-Techniker
+## für Inbetriebnahme-Techniker
         [...]
 
 # Anleitungen
@@ -79,4 +81,5 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 ==================
 
 ## Systemübersicht
-## Systemübersicht
+
+## Leistungsregler
