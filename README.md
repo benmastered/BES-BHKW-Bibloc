@@ -24,7 +24,15 @@ Home                      <- landing page
 How to guides
 =============
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Anforderungen an die Anleitung (DIN EN ISO 20607)
+
+	Sicherheit zuerst: Das Kapitel Sicherheit muss vor der Beschreibung stehen.
+	
+	Bestimmungsgemäße Verwendung: Einschließlich vorhersehbarer Fehlanwendungen.
+	
+	Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
+	
+	Störungsbeseitigung: Tabelle mit Lösungen für Fehler. 
 
 Installation guides
 -------------------
