@@ -943,7 +943,7 @@ Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes einge
 	Beschreibung:
 	Der Gasdruckschalter ist am Gasmultiblock vor dem Aggregat in der Gasleitung montiert und überwacht den Gasdruck. Sinkt der Gasdruck unter den voreingestellten Wert, schaltet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet. Damit wird das Aggregat wie auch die Gaszuleitung vor einem Gasunterdruck geschützt.
 
-### 13	Störungen und Diagnostik
+## 13	Störungen und Diagnostik
 Überschreiten ein oder mehrere Betriebsparameter ihren vorgegebenen Grenzwert, wird das Aggregat über das Steuersystem IS-GAS abgeschaltet. Die entsprechende Fehlermeldung wird ins Fehler- und Historyregister geschrieben.
 
 ### 13.1	interne Störungsursachen
