@@ -1,8 +1,7 @@
 "# BES-BHKW-Bibloc" 
 
-[Benutzeranleitung besuchen][ref]
+[Dokumentation anzeigen][ref]
 
 [ref]:https://bes-bhkw-bibloc.readthedocs.io/de/latest/ "Benutzeranleitung besuchen"
-[Linktext]:BES-BHKW-Bibloc
 
 [Zurück nach oben](#top)
