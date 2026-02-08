@@ -1,6 +1,14 @@
 
 BES BHKW BIBLOC BV
 ==================
+| Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674 SBTLK | 684 SBTK | 684 SBTLK |
+|-------------------------------------|---------|----------|---------|-----------|----------|-----------|
+| Synchrongenerator                   |    X    |     X    |    X    |     X     |     X    |     X     |
+| Gasmischer für Biogas / Klärgas     |    X    |     X    |    X    |     X     |     X    |     X     |
+| Saugmotor                           |    X    |          |    X    |           |          |           |
+| Turbomotor                          |         |     X    |         |     X     |     X    |     X     |
+| Ladeluftkühlung                     |         |          |         |     X     |          |     X     |
+| Dreiwegkatalysator (Lambda = 1)     |    X    |     X    |    X    |     X     |     X    |     X     |
 
 Einführungen
 --------------
@@ -18,7 +26,7 @@ Handbücher
 --------------
 
         * Benutzerinteraktion HMI-Display
-        * ComAp InteliMonitor
+        * InteliMonitor
         * Verfügbare Funktionen
         * WebsuperVisor (WSV) Portal
 		
