@@ -346,7 +346,7 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ### 6.2	Abmessungen der BHKW-Anlage
 
 <div align="center">
-  <img src="./images/BHKW-Abmessungen-T30.jpg" alt="Center Aligned Image" width="200">
+  <img src="./images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="200">
 </div>
 
 ## 7	Hauptkomponenten der BHKW-Anlage
