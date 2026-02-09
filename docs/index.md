@@ -352,7 +352,7 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ## 7	Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="./images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="200">
+  <img src="./images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -370,8 +370,531 @@ Legende :
 | 9.   |Gasregelstrecke                      |14.  |Umwälzpumpe Sekundärkreislauf        |
 | 10.  |Gasmischer                           |15.  |3-Wegventil Sekundärkreislauf        |
 | 11.  |Drosselklappe                        |16.  |Zündung (nicht gezeichnet)           |
+ 
+### 7.1	 Gasmotor
+Der Gasmotor Kubota V3800DI dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
+Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heiz-zwecken an einen sekundären Wasserkreislauf abgegeben.
 
+#### 7.1.1	Konstruktion
+Der Otto-Gasmotor Kubota ist ein stehender, rechts drehender Vierzylindermotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+ 
+Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
+Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschmierung mit Öl. Der Ölkreislauf ist durch ein Überdruckventil gesichert. Der Ölfilter befindet sich im Hauptstrom und fängt allfällige Partikel auf. Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ölabscheider geführt
+
+#### 7.1.2	Technische Daten Motor
+
+Motorfabrikat	Kubota 
+Motortyp	V3800DI
+Motorart	Gasmotor 
+Nennleistung	max. 36 kW  bei 1500 min-1 und  = 1
+Drehmoment	220 Nm bei 1500 min-1 	( 5%)
+spezifischer Brennstoffverbrauch 	3.2 kWh / kWh mech.	( 5%)
+absoluter Brennstoffverbrauch		
+Grundbrennstoff	Gas
+Arbeitsumlauf 	Viertakter
+Zylinderzahl	4
+Zylinderanordnung	stehend, einreihige
+Steuerung	OHV
+Zylinderfüllung	atmosphärisch
+Umdrehungssinn 	rechtsdrehend 
+Kühlungsart 	Wasserkühlung mit Überdruck
+Zylinderbohrung	100  mm
+Kolbenhub 	120 mm
+Hubraum	3769 cm3
+Verdichtung	13:1
+Zündfolge	1-3-4-2
+Vorzündung	20-24 (Erdgas); 26-32° (Biogas)
+max. zulässige Umdrehungen	1750 min-1
+ 
+
+Steuerzeiten	
+Einlassventil öffnet	14 vor O.T.
+Einlassventil schliesst	36 nach U.T.
+Auslassventil öffnet	45 vor U.T
+Auslassventil schliesst	17 nach O.T.
+Ventilspiel im kalt (203C) 	
+Saugventil	0.25
+Auslassventil	0.25
+
+#### 7.1.3	Motorschmierung
+
+Ausführung	Druckumlauf, durch Zahnradpumpe
+Zahnradpumpe	einfach, mit Überdruckventil
+Schmieröldruck	200 bis 400 kPa (2 - 4 bar)
+Ölfilter	Volldurchflussfilter Kubota W920/24 (W920/80, P3251)
+Ölwanneninhalt	30 Liter + 20 Liter (Reservoir)
+Ölart	STRUB BES (teilsynthetisch)	Erd- Flüssiggas
+MOBIL Pegasus 1              Bio-Klärgas,	Erd- Flüssiggas
+STRUB 43LA Pex	Bio- Klärgas
+Ölwechselintervall	siehe spezifischen Wartungsplan
+
+#### 7.1.4	Motorkühlung
+
+Kühlungsart	Wasserkühlung mit Überdruck
+Pumpenleistung	0,8 kg/s
+Regulierung der Betriebstemperatur	3-Wegventil im Heizungsrücklauf
+Solltemperatur Heizungsrücklauf	70C
+Motortemperatur max.	90C
+
+#### 7.1.5	Zündsystem
+
+Zündungstyp 	Mikroprozessorgesteuerte Zündanlage OEZ4
+Zündkerzen	NGK PMR8A; NGK CPR8E; BRISK AR12YS;
+DENSO IU24
+Anzahl der Zündkerzen	4
+Elektrodenabstand	0,4  0,1 mm
+
+#### 7.1.6	Brennstoffsystem
+
+Vermischungsart	Niederdruck, am Rohrleitungseintritt 
+Mischungsart 	stöchiometrisches Gemisch	( = 1)	Erdgas
+Magergemisch	( = 1.4-1.5)	Bio- Klärgas
+ 
+### 7.2	Synchrongenerator
+
+Der verwendete Generator ist ein zweifach gelagerter, wassergekühlter Synchrongenerator.
+Fabrikat :	Zanardi 	Typ:	AS225/4-200H
+
+#### 7.2.1	Konstruktion Synchrongenerator
+Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Stern- respektive 400V in Dreieckschaltung ausgelegt. Unter Berücksichtigung des Schlupfes wird die Anlage bei 1527 min-1 betrieben. Der Generator entspricht der Schutzart IP21. 
+
+Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
+
+Das Statorpaket besteht aus lammeliertem Dynamoblech und wird in das Statorgehäuse einge-presst. Dieses ist für die Wasserkühlung doppelwandig ausgeführt. Das Statorgehäuse ist in Stahlguss, der hintere Lagerschild und der vordere Anschlussflansch aus Grauguss gefertigt. 
+
+Der Rotor wird an der Hinterseite mit einem Wälzlager gelagert, dessen Nachschmierung im Rahmen der vorgeschriebenen technischen Wartung durchgeführt werden muss. An der Vor-derseite wird die Kupplungsscheibe direkt auf das Schwungrad des Motors geschraubt und benötigt daher kein weiters Wälzlager.
+
+#### 7.2.2	Funktionsweise Synchrongenerator
+Beim Startvorgang entspricht der Synchrongenerator einem Synchronelektromotor. Dabei entsteht nach der Zuführung der dreiphasigen Wechselspannung an die Ständerwicklung ein drehendes Magnetfeld. 
+
+Dieses Feld induziert der Rotorwicklung eine Spannung, welche ihrerseits ein Magnetfeld aufbaut. 
+
+Aufgrund der gegenseitigen Magnetfeldeinwirkung kommt es zum Andrehen des Motors. 
+
+Die Drehzahl ist durch die Polzahl gegeben und ihre Abweichung von den Synchronumdrehungen wird durch den Schlupf (1.8%) bestimmt. 
+
+Im Betrieb wird die Stator-wicklung in Dreieck umgeschaltet und der produzierte Strom ins Netz abgegeben.
+
+#### 7.2.3	Technische Daten
+
+Nennleistung	30 kW
+cos 	0,81
+Wirkungsgrad im Arbeitspunkt 	92.9 %
+Ständerwicklung	Stern- Dreieckschaltung
+max. Kühlmediumtemperatur	70 °C
+Spannung 	3x400 V
+Nennstrom bei 30 kW	53.5 A
+Kurzschlussstrom	250 A
+Frequenz	50 Hz
+Nenndrehzahl	1527 min-1
+Gewicht	210 kg
+Zulassung	VDE
+Schutzart	IP21
+Isolationsklasse 	F
+Bauform	B15T
+ 
+### 7.3	Primärkreislauf
+
+Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf installiert. Ein Plattenwärmetauscher übergibt die Motorabwärme an den Sekundärkreislauf. 
+
+#### 7.3.1	Komponenten und Schema des Primärkreislaufes
+
+<div align="center">
+  <img src="./images/BHKW-Primärkreislauf-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende :	
+	1	Gasmotor				5	Sicherheits-Überdruckventil
+	2	Plattenwärmetauscher	6	Temperaturfühler
+	3	Umwälzpumpe				7	Ölkühler
+	4	Ausgleichsgefäss (Expansion)
+	
+#### 7.3.2	Beschreibung des Primärkreislaufes
+Im Primärkreislauf zirkuliert die Kühlflüssigkeit (siehe 7.3.4) mittels separater Umwälzpumpe und durchströmt mit konstanter Wassermenge den Motor sowie Plattenwärmetauscher. Dort wird die thermische Energie aus dem Motor an den Sekundärkreislauf übertragen.
+
+Die minimale Betriebstemperatur des Motors wird indirekt über die Rücklaufhochhaltung im Se-kundärkreislauf (siehe 7.4) garantiert. Der Sollwert zur Regulierung der Rücklaufhochhaltung beträgt minimal 60 bis maximal 70°C, idealerweise 65°C.
+
+Die Überdruckabsicherung des Primärkreislaufes übernimmt ein im Deckel des Ausgleichsge-fäss integriertes Über- und Unterdruckventil. Die Entlüftung des Primärkreislaufes erfolgt durch Schläuche zum Ausgleichsgefäss.
+
+Die Temperaturüberwachung des Primärkreislaufes wird durch ein PT100 Temperaturfühler gewährleistet, dessen Messsignal vom Steuersystem im Schaltschrank verarbeitet wird.
+ 
+#### 7.3.3	Auffüllen des Primärkreislaufes
+Zum Auffüllen des Primärkreislaufes wird nach folgenden Punkten vorgegangen:
+
+•	den Deckel des Ausgleichsgefässes entfernen
+•	den Primärkreislauf mit dem vorgeschriebenen Kühlmittel auf den Maximalstand auffüllen 
+•	den Deckel des Ausgleichsgefässes schliessen
+•	die Anlage in Betrieb setzen und auf Betriebstemperatur erwärmen lassen
+•	Senkt sich das Niveau im Ausgleichsgefäss die Anlage ausschalten
+•	den Deckel des Ausgleichsgefässes entfernen
+ACHTUNG! Deckel nie bei heissem Motor öffnen!
+•	Das Ausgleichsgefäss bis zur Niveaumarkierung MAX mit Kühlmittelflüssigkeit nachfüllen
+•	den Deckel des Ausgleichsgefäss schliessen
+
+#### 7.3.4	Spezifikationen der Kühlflüssigkeit
+
+Die Kühlflüssigkeit besteht aus einem Wasser- Frostschutzgemisch mit min. 40 % Ethylenglykol. Die Zugabe von Frostschutz ist auch in frostsicheren Räumen notwendig, da diese Zusätze auch die Korrosion sowie mineralische Ablagerungen verhindern.
+
+Die Standzeit der Kühlflüssigkeit beträgt ca. *drei Jahre* und muss danach gewechselt werden.
+
+Die Kühlflüssigkeit muss den allgemeinen Anforderungen gemäss dem Kapitel 8.2 Motorkühlflüssig entsprechen.
+
+Alle Frostschutzmittel auf der Basis von Ethylenglykol sind grundsätzlich untereinander mischbar. Trotzdem wird empfohlen mit dem Hersteller oder Lieferan-ten Rücksprache zu nehmen.
+
+#### 7.3.5	Wartung des Primärkreislaufes
+
+Die Kontrolle und Wartung des Primärkreislaufes ist grundsätzlich ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt. 
+Dem Betriebspersonal wird empfohlen, folgende Kon-trollen wöchentlich durchzuführen:
+
+•	Niveaukontrolle im Ausgleichsgefäss des Primärkreislaufes, eventuell Wasser nachfüllen.
+•	Dichtheitskontrolle der Flansch- und Schlauchverbindungen, allfällige Leckagen beseitigen.
+
+#### 7.3.6	Störungen im Primärkreislauf
+Störungen im Primärkreislauf äussern sich meistens in Form von zu hohen Kühlwassertempera-turen. Die Gründe dafür können im Primär- oder Sekundärkreislauf liegen.
+
+Störungen im Primärkreislauf:
+
+•	Kühlflüssigkeitsverlust infolge Leckagen
+•	zu kleiner Kühlflüssigkeitsdurchsatz infolge defekter Umwälzpumpe oder verstopftem Plat-tenwärmetauscher
+
+•	Fehler in der Messung der Motortemperatur Störungen im Sekundärkreislauf:
+•	Heizwasserverlust infolge Leckagen
+•	zu kleiner Heizwasserdurchsatz infolge defekter Umwälzpumpe oder verstopftem Schmutz-fänger oder Plattenwärmetauscher
+•	schlechte Wärmeübertragung durch Ablagerungen im Plattenwärmetauscher
+ 
+### 7.4	Sekundärkreislauf
+
+Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwärmetauscher) und Abgaswärmetauscher auf und führt damit die komplette Wärmeleistung der BHKW-Anlage in ein entsprechendes Wärmesystem ab.
+
+#### 7.4.1	Komponenten und Schema des Sekundärkreislaufes
+
+<div align="center">
+  <img src="./images/BHKW-Sekundärkreislauf-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende :
+
+	1	Generator wassergekühlt		6	Strangregulierventil
+	2	Plattenwärmetauscher		7	Sicherheitsventil 3 bar
+	3	Abgaswärmetauscher			8	Temperaturfühler Rücklauf
+	4	Umwälzpumpe sekundär		9	Rücklauf BHKW
+	5	Dreiwegventil Hochhaltung	10	Vorlauf BHKW
+	
+#### 7.4.2	Beschreibung des Sekundärkreislaufes
+
+Eine Umwälzpumpe im Sekundärkreislauf fördert das Heizwasser über den wassergekühlten Mantel des Generators zur Sekundärseite desPlattenwärmetauschers im BHKW, wo die Motorabwärme des Primärkreislaufes übernommen wird. Weiter gelangt das Heizwasser in den Abgaswärmetauscher, wo die Abwärme aus der Abgasrückkühlung abgeführt wird. Über den BHKW-Vorlauf gelangt die komplette Wärmeleistung zu dem oder den Wärmeverbraucher.
+ 
+Bei Rücklauftemperaturen zum BHKW kälter als 60 °C besteht die Gefahr, dass im Abgaswär-metauscher die Abgase auskondensieren, was vor allem bei Verwendung von Bio- oder Klärgas zu Korrosionsschäden führen kann. Um dies zu verhindern empfiehlt es sich, in den BHKW-Rücklauf eine Hochhaltung zu installieren, welche die Eintrittstemperatur konstant auf minimal 60 °C und maximal 70 °C anhebt. 
+
+ 	Der Sekundärkreislauf ist standardmässig nicht mit einem Sicherheitsventil aus-gerüstet. Bauseits muss ein Sicherheitsventil 3 bar ausserhalb des BIBLOC in-stalliert werden, um die BHKW-Anlage auch bei geschlossenen Absperrarmaturen vor Überdruck zu schützen.
+	
+#### 7.4.3	Auffüllen des Sekundärkreislaufes
+Zum Auffüllen des Sekundärkreislaufes wird nach folgenden Punkten vorgegangen:
+•	das Entlüftungsventil im Sekundärkreislauf innerhalb des Aggregats öffnen
+•	die Absperrorgane ausserhalb des BHKW langsam und nur teilweise öffnen, wodurch sich der Sekundärkreislauf im BHKW mit Wasser aus dem Heizungssystem zu füllen beginnt
+•	sobald Wasser aus dem Entlüftungsventil austritt, dieses schliessen
+•	alle Ansperrorgane nun ganz öffnen
+•	sofern auch der Primärkreislauf bereits gefüllt ist, das BHKW starten
+•	nach ca. 2-3 Minuten die Anlage ausschalten
+•	den Sekundärkreislauf bei allen darin vorhanden Entlüftungsventilen entlüften
+
+ 	Der Sekundärkreislauf muss gemäss den SWKI-Richtlinien und allgemeinen eingefüllt werden, damit die max. erlaubte Wasserhärte von 13 °F (= 130 g Kalk/m3 Wasser) nicht überschritten wird.
+Im BHKW-Rücklauf muss ein Schmutzfänger installiert werden.
+Bei Missachtung dieser Vorschriften können die Wärmetauscher durch Ablage-rungen verstopft werden.
+
+ 	Wassergekühlter Generator und Rohrleitungen des Sekundärkreislaufs inner-halb der Schalldämmhaube dürfen nicht mit einer Wärmeisolation versehen werden. Diese Komponenten helfen die Strahlungswärme unter der Schall-dämmhaube abzuführen.
+	
+#### 7.4.4	Wartung des Sekundärkreislaufes
+Die Kontrolle und Wartung des Sekundärkreislaufes ist grundsätzlich ein Bestandteil der techni-schen Anlagewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt. Dem Betriebspersonal wird empfohlen, folgende Kon-trollen wöchentlich durchzuführen:
+•	Druckkontrolle, eventuell Wasser nachfüllen 
+•	Dichtheitskontrolle der Flansch- und Schlauchverbindungen, allfällige Leckagen beseitigen.
+#### 7.4.5	Störungen im Sekundärkreislauf
+Siehe 7.3.6 “Störungen im Primärkreislauf“.
+ 
+### 7.5	Aufbereitung des Verbrennungsgemisch
+#### 7.5.1	Komponenten und Schema der Gasregelstrecke und Luftzufuhr
+
+<div align="center">
+  <img src="./images/BHKW-Verbrennungsgemisch-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende :
+	1	Luftfilter			6	Gasfilter
+	2	Venturimischer		7	flexibler Ganzmetallgasschlauch
+	3	Drosselklappe		8	Gasmultiblock mit Druckwächter
+	4	Schrittmotor Lambdaregelung und integriertem Gasnulldruckregler
+	5	Gaskugelhahn		9	Lambdasonde
+
+#### 7.5.2	Gasregelstrecke
+Ein Gaskugelhahn zur manuellen Absperrung der Gaszufuhr bildet den Anfang der Gasregelstrecke. Um zu verhindern, dass Festpartikel in den Motor gelangen, wird ein Gasfilter vor die Gasstrasse montiert. 
+
+Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BV684 SBTLK aufgebaut. 
+
+Diese Gasmagnetventile werden vom Steuersystem für den BHKW-Betrieb geöffnet respektive wieder geschlossen. Der im zweiten Gasventil integrierte Nulldruckregler reduziert den Gasvor-druck in der Gasleitung auf ein atmosphärisches Druckniveau. 
+ 
+Der Gaseintritt in die Anlage erfolgt durch ein Stahlrohr, welches fest mit der Kapsel verbunden ist. 
+
+Am anderen Ende dieses Rohrs ist ein Aluminiumblock mit dem Gasdosierventil der Lambdaregelung sowie einer Haupteinstellschraube montiert. Die Funktion des Gasdosierventils wird im nächsten Kapitel detailliert beschrieben.
+
+Ein flexibler Ganzmetallschlauch führt das Gas zum Gasmischer, auch Venturi genannt, wo das Gas und die Luft zum Verbrennungsgemisch aufbereitet wird.
+
+#### 7.5.3	Einregulierung der Gasregelstrecke
+
+Vor Inbetriebnahme der Gasregelstrecke beziehungsweise des BHKW ist die Gasleitung bis zum Anschlussstutzen des BHKW zu entlüften. Zudem ist eine Dichtheitskontrolle der Gaskomponenten respektive deren Anschlüsse vorzunehmen (Seifenwasserspray).
+
+Nach dem ersten Start kann der Gasvordruck, Druck nach dem Nullregler, gemessen und einreguliert werden. 
+
+Mit der Hauptgasschraube ist eine Grobeinstellung derart vorzunehmen, dass zur Regulierung des gewünschten Verbrennungsgemisches der Schrittmotor der Lambdaregulie-rung ungefähr in der Mitte des möglichen Bereichs arbeitet.
+
+Die Einregulierung der Gasregelstrecke erfolgt grundsätzlich in Kombination mit einem Ab-gasanalysegerät. Damit kann der Restsauerstoff im Abgas gemessen werden, welcher die Regelgrösse für eine optimale Verbrennung hinsichtlich Abgasemissionen und Wirkungsgrad ist.
+Die Funktionskontrolle der Lambdaregelung und die Einstellung deren Sollwerte kann nur durch geschulte Servicetechniker und mit einem Abgasanalysegerät durchgeführt werden
+
+ 	Die Einstellung von Nulldruckregler, Haupteinstellschraube, -Regelung und Drehzahlregler beeinflussen sich gegenseitig. Änderungen bei einer Komponen-te können sich auch auf die Arbeit der anderen Komponenten auswirken.
+So sind bei einer Neueinstellung einer Komponente meistens auch die anderen Regelkomponenten nachzujustieren.
+
+#### 7.5.4	Verbrennungsluftzufuhr
+
+Die Verbrennungsluft wird über Lüftungsschlitze an der Hinterseite des BHKW durch den Motor in den kalten Bereich der Schalldämmhaube angesogen. Im Luftfilter werden feste Partikel in der Luft zurückgehalten. 
+
+Vom Filter gelangt die Luft direkt zum Gasmischer (Venturi), wo es zur Vermischung mit dem Gas und damit zur Bildung der Verbrennungsmischung kommt. Über den Ansaugkollektor strömt das Gemisch in den Motor zur Verbrennung. 
+
+#### 7.5.5	Aufbereitung Verbrennungsgemisch
+
+Der Motor erzeugt im Ansaugkollektor einen Unterdruck und saugt auf diese Weise die Verbrennungsluft an.
+
+Im Venturirohr wird der Querschnitt für die Verbrennungsluftzufuhr verengt, wodurch sich die Strömungsgeschwindigkeit im Venturi erhöht und einen Unterdruck erzeugt. 
+
+Damit wird die notwendige Gasmenge radial am engsten Querschnitt des Venturi angesogen. Die angesogene Gasmenge wird zum einen durch das Verhältnis der Luft- und Gasöffnung im Venturirohr vorgegeben, hauptsächlich aber durch das Dosierventil der -Regelung und der Haupteinstellschraube reguliert. 
+
+Die Wartung der Gasregelstrecke wird durch Servicetechniker der Servicefirma durchgeführt und ist ein Bestandteil der Anlagewartung gemäss Wartungsplan.
+ 
+#### 7.5.6	Wartung der Gasregelstrecke
+
+Die Kontrolle und Wartung der Gasregelstrecke ist grundsätzlich ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt. 
+
+Das Betriebspersonal ist verantwortlich und angewiesen, fol-gende Kontrollen wöchentlich durchzuführen:
+
+•	Kontrolle des Gasvordruckes (sofern Manometer vorhanden)
+•	Dichtheitskontrolle der Flansch- und Schraubverbindungen (Lecksuchspray, Geruch)
+
+ 	Der Kunde ist für die Kontrolle des Gasdruckes sowie der Dichtheit der Gas-komponenten ausserhalb der Schalldämmhaube verantwortlich.
+
+ 	Unbefugten nicht qualifizierten Personen ist es untersagt Montage- oder Einstel-larbeiten an der Gasregelstrecke ausser- und innerhalb des BHKW vorzuneh-men.
+ 
+### 7.6	Leistungsregelung
+
+Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
+
+#### 7.6.1	Komponenten der Leistungsregulierung
+
+<div align="center">
+  <img src="./images/BHKW-Leistungsregelung-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende:
+1	Drosselklappe
+2	Stellmotor
+3	Kabelzug
+4	Steuersystem IS-GAS
+5	Steuerschrank
+
+#### 7.6.2	Funktionsbeschreibung der Leistungsregulierung
+
+Die Hauptkomponenten der Leistungsregulierung bilden der vom Steuersystem IS-GAS ange-steuerte Stellmotor sowie die Drosselklappe. Diese beiden Komponenten sind über einen Seilzug verbunden.
+
+Das Steuersystem IS-GAS öffnet oder schliesst den Stellmotor, indem es über zwei digitale Ausgänge den Auf- oder Zu-Eingang (12 VDC) des Stellmotors ansteuert. Wird kein Eingang angesteuert, bleibt der Stellmotor in der jeweiligen Position stehen (3-Punktregulierung).
+Die Drehzahl bei einem Synchrongenerator ist stets konstant und ist durch die Polzahl vorgege-ben. Eine Drehzahlregulierung wie bei einem Synchrongenerator ist daher nicht notwendig. Eine Änderung der Drosselklappenstellung hat eine Änderung der Leistung zur Folge. 
+Während den Startvorbereitungen öffnet der Stellmotor (Aktuator) die Drosselklappe auf die vorgegebene Startposition und regelt anschliessend auf den vorgegebenen Sollwert.
+Die Stillsetzung der Anlage erfolgt in umgekehrter Reihenfolge der vorher beschriebenen Proze-dur.
+ 
+#### 7.6.3	Einregulierung und Wartung der Leistungsregulierung
+Die Einregulierung respektive das Ändern von Parametern der Leistungsregulierung darf nur durch geschulte Servicetechniker ausgeführt werden.
+#### 7.6.4	Wartung der Leistungsregulierung
+Die Kontrolle und Wartung der Leistungsregulierung ist ein Bestandteil der technischen Anlage-wartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
+
+ 	Eingriffe am Hebelmechanismus und Seilzug können Störungen im BHKW-Betrieb verursachen. Vor allem sind Fehler im Startvorgang und in der Leis-tungsregulierung zu erwarten.
+ 
+### 7.7	Abgassystem
+Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach der Rückkühlung im Abgaswärmetauscher werden die Abgase über eine Abgasleitung abgeführt.
+
+#### 7.7.1	Komponenten und Schema des Abgassystems
+
+<div align="center">
+  <img src="./images/BHKW-Abgassystem-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende :
+
+	1	Abgaswärmetauscher	5	Thermoelement vor Abgas-WT
+	2	Schalldämpfer		6	Thermoelement nach Abgas-WT
+	3	Katalysator		7	Kompensator
+	4	Lambdasonde		8	Kompensator
+
+#### 7.7.2	Beschreibung der Abgassystems
+Die Abgase werden über die Auslassventile im Zylinderkopf ausgestossen und gelangen direkt in oben liegenden Abgaswärmetauscher. Hier wird die Wärmeenergie aus den Abgasen auf den Sekundärkreislauf übertragen. Vor der Rückkühlung durchströmen die Abgase den im Abgas-wärmetauscher integrierten Katalysator. Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den Schalldämpfer. Danach werden die Abgase senkrecht nach oben aus der Schalldämmhau-be geführt, wo über einen weiteren Kompensator der Anschluss an die bauseitige Abgasleitung erfolgt. Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Abgassysteme.
+ 
+#### 7.7.3	Eigenschaften der Abgase
+
+	Erdgas	Klär-, Biogas	
+Abgastemperatur am Austrittsflansch	110 - 130	130 - 160	°C
+Abgaswärmeleistung	21	16	kW
+Abgasmassenstrom	129	149	kg/h
+Abgasvolumenstrom bei 120 °C	151	178	m3/h
+Abgasgeschwindigkeit am Austrittsflansch (120°C)	21	25	m/s
+Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400°C auf 120 C abgekühlt werden. Während des Betriebs können die Ab-gastemperaturen ca. 110 – 160 C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
+
+#### 7.7.4	Material der Abgasleitung
+Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
+
+Damit können für die Abgasleitung folgende Materialien verwendet werden:
+•	Abgasleitungssystem aus rostfreiem Stahlrohr (V4A) mit einem Durchmesser von 80 mm.
+•	PVDF Kunststoffrohr (z.B. Technaflon) mit einem Durchmesser von 75 mm und einer Tem-peraturbeständigkeit bis 160 °C
+
+ 	Bei zu grossen Querschnitten der Abgasleitung können Resonanzen und entsprechende Schallprobleme entstehen.
+	
+#### 7.7.5	Konstruktion der Abgasleitung
+•	Die Abgasableitung der BHKW-Anlage muss die vorgeschriebenen Normen erfüllen und eine entsprechende VKF-Zulassung aufweisen.
+•	In der Abgasleitung einer BHKW-Anlage herrscht stets Überdruck. Aus diesem Grund muss die Abgasleitung gasdicht bis min. 10 mbar (1000 Pa) sein.
+•	An der tiefsten Stelle der Abgasleitung, idealerweise vor Anschluss an das BHKW muss ein Kondensatabscheider mit einer Syphonierung (200 mm) montiert werden.
+•	Der maximale, dynamische Abgasgegendruck des gesamten Abgassystems beträgt 50 mbar. Damit dieser Grenzwert nicht überschritten wird, darf der Druckverlust der Abgaslei-tung (Austritt BHKW bis Kaminmündung im Freien) 10 mbar nicht überschreiten.
+•	Der Anschluss von mehreren BHKW-Anlagen an eine Abgasleitung ist nur unter bestimmten Voraussetzungen zu empfehlen, da bei Betrieb des einen Aggregates Abgase in den Motor des anderen, stillstehenden Moduls gelangen können. 
+•	Im Aufstellungslokal müssen zugängliche Abgasleitungen aus Stahl einen Berührungsschutz aufweisen (Oberflächentemperatur < 60 °C), wodurch doppelwandige, isolierte Abgasleitun-gen zur Anwendung kommen.
+
+ 	Eine nachträgliche Wärmeisolierung von einwandigen Abgasleitungen ist unter Umständen nicht erlaubt (siehe VKF-Zulassung der verwendeten Abgasleitung)
+ 
+### 7.8	Rauchgasbehandlung
+Zur Reduktion der Abgasemissionen werden je nach Betriebsstoff zwei unterschiedliche Reini-gungssysteme verwendet:
+2.	Mittels Dreiwegkatalysator: Dieses System kann bei Verwendung von Erd- oder Flüssiggas erfolgen. Der Einsatz von Dreiweg- oder Oxidationskatalysatoren ist bei der Verwendung von Biogas nicht möglich, da die Verunreinigungen im Biogas Ablagerungen im Katalysator verur-sachen und damit dessen Funktion verunmöglicht.
+3.	Durch Verbrennung des Gas-Luftgemisches mit Sauerstoffüberschuss (Magermotor). Diese Methode gelangt vor allem bei der Verwendung von Bio- und Klärgas zum Einsatz.
+In beiden Systemen wird eine Lambdaregelung eingesetzt, welche die Gaszufuhr zum Gasmi-scher derart dosiert, dass während des Betriebs im Venturi immer ein konstantes Gas- Luftge-mischverhältnis entsteht.
+
+#### 7.8.1	Funktion der Lambdaregelung
+
+Die Lambdaregelung ist im Steuersystem IS-GAS integriert. Sie dosiert die Gasmenge in den Venturimischer derart, dass während des Betriebs im Venturi immer ein konstantes Gas-, Luftgemischverhältnis entsteht.
+Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den Abgasen. Dieser Sauerstoffgehalt wird mit einer Lambdasonde gemessen, welche ein entsprechendes Spannungssignal (U=700mV bei Lambda=1 mit Dreiwegkatalysator oder U= 30mV bei Lambda=1.5 mit Magermotor) an die Lambdaregelung übermittelt. Aufgrund dieses Signals erteilt das Steuersystem dem Schrittmotor des Dosierventils den Befehl zum Öffnen oder Schliessen.
+
+Die Lambdaregelung besteht aus einem Regelalgorithmus, welcher im Steuersystem IS-GAS integriert ist. Beim START-Befehl des BHKW wird dieser Regelalgorithmus aktiviert. Dabei schliesst das Dosierventil komplett, wodurch sich die Regelung eine Referenzposition sucht. Da-nach öffnet das Dosierventil auf die vorgegebene Startposition und wartet den Start der Anlage ab. Nach dem Anlagestart bleibt das Ventil in dieser Position, bis die vorgegebene Aufwärmzeit für die Lambdasonde abgelaufen ist. Nach Ablauf dieser Zeit beginnt es das Gasgemisch in Ab-hängigkeit der Lambdasondenspannung zu regulieren.
+Nach dem STOP-Befehl des BHKW wird der Regelalgorithmus gleichzeitig mit den anderen Systemen der Anlage ausgeschaltet respektive deaktiviert. Das Regelventil bleibt in der vor dem Ausschalten gehaltenen Lage.
+
+#### 7.8.2	Funktion des Dreiwegkatalysator
+
+Für den Betrieb mit Dreiwegkatalysator reguliert die Lambdaregelung die Gasmenge in den Venturimischer so, dass das Verbrennungsgemisch stets stöchiometrisch verbrannt wird. Von einem stöchiometrischen Verbrennungsgemisch oder einem Gemisch Lambda = 1 spricht man, wenn in den Abgasen kein Sauerstoff O2 mehr enthalten ist. 
+
+Dies ist die Voraussetzung für die chemische, katalytische Reaktion der Schadstoffe im Katalysator, bei welcher die giftigen Stickoxide NOx zu ungiftigem Stickstoff reduziert werden. Gleichzeitig oxidiert das giftige Kohlenmonoxid CO mit dem freiwerdenden Sauerstoff zu Kohlendioxid CO2. Dieser Vorgang wiederholt sich ständig.
+
+Als Schutz für den Katalysator wird die Abgastemperatur nach dem Katalysator permanent mit einem Thermoelement gemessen. Übersteigt die Abgastemperatur den vorgegebenen Sollwert, wird das BHKW über das Steuersystem abgeschaltet. Ein Anstieg der Abgastemperatur nach dem Katalysator erfolgt vor allem dann, wenn das Verbrennungsgemisch durch einen Defekt in der Lambdaregelung nicht stöchiometrisch verbrennt oder infolge einer defekten Zündkerze unverbranntes Gas in den Katalysator gelangt, wo eine Nachverbrennung erfolgt.
+ 
+#### 7.8.3	Funktion des Oxidationskatalysator
+
+Oxidationskatalysatoren werden ausschliesslich für den Betrieb mit Magermotoren eingesetzt. Beim Magermotor erfolgt die Verbrennung mit Luftüberschuss, wodurch sich die NOx- und CO-Emissionen stark reduzieren. Zusätzlich können die CO-Emissionen durch den Einsatz eines Oxidationskatalysators weiter reduziert werden. 
+
+Die Lambdaregelung sorgt bei diesem Verfahren wie beim 3-Wegkatalysator für ein konstantes Verbrennungsgemisch, welches jedoch nicht stö-chiometrisch verbrannt wird (Lambda = 1) ist, sondern nach der Verbrennung Restsauerstoff in den Abgasen aufweist (Lambda = 1.4 – 1.5). Im Oxidationskatalysator oxidiert nun das Kohlenmonoxid CO mit diesem Restsauerstoff O2 zu CO2.
+
+Grundsätzlich funktioniert der 3-Wegkatalysator auch als Oxidationskatalysator. Beim Betrieb des Magermotors findet die Reduktion der Stickoxide zu Stickstoff nicht statt.
+
+#### 7.8.4	Wartung der Rauchgasbehandlung 
+Die Kontrolle und Wartung der Rauchgasbehandlung ist ein Bestandteil der technischen Anlage-wartung gemäss Wartungsplan und können nur in Kombination mit einem Abgasanalysegerät durchgeführt werden. Arbeiten bezüglich Rauchgasbehandlung können daher ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt werden.
+
+ 	Jede Änderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
+ 
+### 7.9	Schmierölsystem
+Das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
+
+#### 7.9.1	Komponenten und Schema des Schmierölsystems
+
+<div align="center">
+  <img src="./images/BHKW-Schmierölsystem-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende :
+
+	1	zusätzliches Ölreservoir	4	Öldrucksensor
+	2	Ölwanne Motor				5	Ölablasshahn
+	3	Niveauschalter Reservoir
+	
+#### 7.9.2	Funktionsbeschrieb des Ölsystems
+Um die Schmierölkapazität der BV684 SBTLK und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
+
+Diese entstehen vor allem beim Start und Stopp des Aggregats, wo der Motor mit Ölfilter gefüllt respektive entleert wird. Ein Niveauschalter im Ölre-servoir überwacht das Ölniveau im Ölsystem und schaltet das Aggregat bei Unterschreitung des minimalen Niveaus über einen binären Kontakt ab.
+ 
+#### 7.9.3	Ölwechsel
+Das Ölwechselintervall ist von den eingesetzten Brenngasen abhängig und ist durch anfängliche, regelmässige Ölanalysen festzulegen (siehe Wartungsplan).
+Um das Altöl möglichst vollständig abzulassen, wird empfohlen den Ölwechsel mit heissem Öl vorzunehmen.
+
+Der Ölwechsel erfolgt über den Ölablasshahn im untersten Teil Motorölwanne. Die Ausgleichsleitung zum Ölreservoir ist dabei zu schliessen. 
+
+Da sich der Ölablasshahn im unteren Bereich des BHKW-Moduls befindet, ist es notwendig das Altöl in entsprechende Altölbehältnisse zu pumpen. Es ist nicht möglich genügend grosse Altölbehälter untern Ölablasshahn zu stellen. Dazu wird ein passender Schlauch mit Überwurfmutter auf das passende Gegenstück am Ölablasshahn geschraubt.
+
+Je nach den Ergebnissen der Ölanalysen wird das Öl im Reservoir jedes 2. Mal gewechselt.
+
+#### 7.9.4	Wartung des Ölsystems
+
+Die Kontrolle und Wartung des Ölsystems ist grundsätzlich ein Bestandteil der technischen Anla-gewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
+Vom Betriebspersonal können bezüglich dem Ölsystem folgende Wartungsarbeiten durchgeführt werden:
+
+•	Dichtheitskontrolle des Ölsystems; kleinere Ölleckagen können im der technischen Möglichkeiten beseitigt werden (lose Verbindungen nachziehen).
+•	Überprüfung des Ölniveaus im Ölsystem. Die Überprüfung sollte erst 10 min. nach dem Ab-schalten des Motors durchgeführt werden.
+•	Nachfüllen von Schmieröl bis maximal 30 mm unter die Oberkante des Ölreservoirs, falls das Aggregat durch den Ölniveauschalter abgeschaltet wurde.
+
+ 	Es dürfen nur Motorenöle verwendet werden, welche durch die Firma BIBLOC oder BES zugelassen sind (siehe 8.4 Schmieröl).
+Die Verwendung von anderen Motorölen kann einen Verlust der Garantiean-sprüche zur Folge haben.
+
+ 	Die von der Firma BES festgelegten Wartungsintervalle dürfen nicht überschritten werden. Eine Überschreitung der Wartungsintervalle kann eine Verminderung der Schmierfähigkeiten zur Folge haben und die Standzeit vom Motor beeinträchtigen oder diesen beschädigen.
+
+ 	Es ist nicht erlaubt bei sichtbaren Ölleckagen die BHKW-Anlage weiter zu be-treiben.
+
+ 	Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
+
+ 
+### 7.10	Zündanlage
+Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches im Gasmotor-Verbrennungsraum mittels eines Funkensprungs bei den Zündkerzen. 
+#### 7.10.1	Komponenten der Zündanlage
+
+<div align="center">
+  <img src="./images/BHKW-Zündsystem-T30.jpg" alt="Center Aligned Image" width="300">
+</div>
+
+Legende :	1	Einspeisung von Batterie	5	Zündspulen
+	2	elektronische Zündbox	6	Zündkerzen
+	3	Hallgeber	7	Zündkabel
+	4	Pick-Up induktiv
+ 
+#### 7.10.2	Funktionsbeschrieb der Zündanlage
+Die Austrittsignale (Zündimpulse auf die einzelnen Zündspulen) werden wie folgt generiert:
+•	Signal vom Hallgeber ab Nockenwelle für RESET (Impuls alle 720°)
+•	Signal vom Pick-Up beim Schwungradkranz (Impuls alle 180°)
+•	Einstellung der Vorzündung durch DIP-Schalter.
+Die Zündkerze zündet zwischen 90°–180° nach Signalende des Pick-Up ab Kurbelwelle. Der Winkel um den die Zündung verschoben ist, wird gegeben durch 90°+ N x 0.703°
+Dabei ergibt sich N (Vorzündung) aus der Position der DIP-Schalter Nr. 1–7 (Summe aller Wer-te, welche gemäss nachfolgender Tabelle in ON Position stehen).
+
+DIP	1	2	3	4	5	6	7	8
+ON	1	2	4	8	16	32	64	
+OFF	0	0	0	0	0	0	0	
+
+RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. Das Ende des RESET-Signals synchronisiert die Zün-dung so, dass nach Ende des nächstfolgenden Pick-Up Signals ab Kurbelwelle die Zündkerze im Zylinder 1 (C1) mit der definierten Verzögerung (90°-180°) zündet (bei DIP Nr. 8 = ON). Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360° neu definiert werden.
+ 
+ 
+#### 7.10.3	Einstellung der Zündanlage
+Für eine korrekte Funktion der Zündanlage müssen folgende Grundeinstellungen vorgenommen werden: 
+Zündkerze
+Die Wahl der richtigen Zündkerze ist stark vom verwendeten Brenngas abhängig. Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze. Der Einsatz von Platin- oder Iridiumzündkerzen ist hier in den meisten Fällen unumgänglich. Folgende Zündkerzen können eingesetzt werden:
+Betrieb mit Erdgas:	BRISK AR12YS
+Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
+Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
+Zündbox
+Den Zündzeitpunkt (Vorzündung) einstellen.
+Betrieb mit Erdgas:	24° vor O.T.
+Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
+Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 “Funktionsbeschrieb der Zündanlage“).
+
+#### 7.10.4	Wartung der Zündanlage
+Die Kontrolle und Wartung der Zündanlage ist ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
+
+ 	Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+
+ 	Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisier-tem Fachpersonal ausgeführt werden. Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen. Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
+ 
 ## 8	Betriebsstoffe
 ### 8.1	Brenngase
 
@@ -953,7 +1476,7 @@ Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erf
 ### 13.2	externe Störungsursachen
 Darunter versteht man Störungen, welche auf Grund von Problemen in der Einbindung des BHKW verursacht werden. Sie sind oft auf regeltechnische und thermisch-hydraulische Proble-me des Sekundärkreises (Heizkreis) oder auf Störungen in der elektrischen Einbindung zurück-zuführen.
 Die Behebung solcher Störungen muss nicht zwingend durch BHKW-Servicetechniker ausge-führt werden, jedoch in dessen Absprache. Solche Störungsbehebungen sind in einem allfällig abgeschlossenen Vollwartungsvertrag nicht eingeschlossen und unterliegen auch nicht der Anla-gegarantie.
-Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen, welche nach Rücksprache mit Service-Abteilung der Firma BIBLOC oder BES gegebenenfalls durch den Betreiber selber behoben werden können. 
+Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen, welche nach Rücksprache mit Service-Abteilung der Firma BES gegebenenfalls durch den Betreiber selber behoben werden können. 
 
 ### 13.3	Störungen, ihre Ursachen und Behebung
 
