@@ -352,7 +352,7 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ## 7	Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="./images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Hauptkomponenten-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -570,7 +570,7 @@ Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwä
 #### 7.4.1	Komponenten und Schema des Sekundärkreislaufes
 
 <div align="center">
-  <img src="./images/BHKW-Sekundärkreislauf-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -616,7 +616,7 @@ Siehe 7.3.6 “Störungen im Primärkreislauf“.
 #### 7.5.1	Komponenten und Schema der Gasregelstrecke und Luftzufuhr
 
 <div align="center">
-  <img src="./images/BHKW-Verbrennungsgemisch-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -689,7 +689,7 @@ Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 #### 7.6.1	Komponenten der Leistungsregulierung
 
 <div align="center">
-  <img src="./images/BHKW-Leistungsregelung-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende:
@@ -721,7 +721,7 @@ Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach 
 #### 7.7.1	Komponenten und Schema des Abgassystems
 
 <div align="center">
-  <img src="./images/BHKW-Abgassystem-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -804,7 +804,7 @@ Das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestat
 #### 7.9.1	Komponenten und Schema des Schmierölsystems
 
 <div align="center">
-  <img src="./images/BHKW-Schmierölsystem-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -852,7 +852,7 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 #### 7.10.1	Komponenten der Zündanlage
 
 <div align="center">
-  <img src="./images/BHKW-Zündsystem-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :	1	Einspeisung von Batterie	5	Zündspulen
@@ -1038,14 +1038,14 @@ Nullleiter des Generators wird nicht herausgeführt
 ### 9.5	Blockschema der elektrischen Einbindung
  
 <div align="center">
-  <img src="./images/BHKW-Blockschema-Einspeisung.jpg" alt="Center Aligned Image" width="200">
+  <img src="./images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="200">
 </div>
 ## 10	Steuerung der BHKW-Anlage
 
 ### 10.1	Bedienfeld des Schaltschrank
 
 <div align="center">
-  <img src="./images/BHKW-Bedienfeld-Schaltschrank-T30.jpg" alt="Center Aligned Image" width="200">
+  <img src="./images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="200">
 </div>
 
 Legende :	
@@ -1363,7 +1363,7 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### 12.3	Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="./images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="100">
+  <img src="./images/BHKW-Sensoren-T30.JPG" alt="Left Aligned Image" width="100">
 </div>
 
 Legende :
