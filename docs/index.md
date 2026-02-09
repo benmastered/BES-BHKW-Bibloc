@@ -49,6 +49,7 @@ _________________________________________________________________________
 <div align="left">
   <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
+
 Die Durchführung von technischen Wartungen und Reparaturen, welche über den Rahmen dieser Anleitung hinausgehen und durch Personen ohne Berechtigung der Firma BES erfolgen, können einen Verlust der Garantieansprüche zur Folge haben, sofern die Schäden auf eine nicht fachgerechte Handhabung zurückzuführen sind.
 
 Im Weiteren besteht für ungeschulte Personen die Gefahr, bei Missachtung des obigen Abschnitts sich ernsthafte Verletzungen mit Todesfolge zu zufügen oder die BHKW-Anlage und angrenzende Komponenten zu beschädigen.
@@ -272,6 +273,7 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre Ø2
 
 •	der Untergrund glatt und eben ist
 
+[Zurück nach oben](#top)
 
 #### 4.2	Krantransport
 
@@ -282,6 +284,8 @@ Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Öffn
 Der Haken, bei welchen die Traggurten eingeschlauft werden muss mindestens 1.5 m über der Oberkante des BHKW sein, damit die Querkräfte den Deckel der Schalldämmhaube nicht eindrücken.
 
 Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölzer mit Kerben, damit die Gurten nicht verrutschen) verwendet werden.
+
+[Zurück nach oben](#top)
 
 #### 4.3	Aufstellung
 
@@ -304,6 +308,8 @@ Um die verbliebenen Kräfte- und Momentübertragung ins Fundament (Körperschall
 Eine Verankerung der Anlage wird aufgrund der Schwingungsübertragung nicht empfohlen.
 
 Die Freihalteräume (siehe 6.2) um die BHKW-Anlage sind für eine korrekte In-stallation und zur periodischen Wartung einzuhalten.
+
+[Zurück nach oben](#top)
  
 ## 5	BIBLOC Betrieb
 
