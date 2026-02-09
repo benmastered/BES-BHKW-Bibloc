@@ -896,7 +896,7 @@ Vom Betriebspersonal können bezüglich dem Ölsystem folgende Wartungsarbeiten 
 •	Überprüfung des Ölniveaus im Ölsystem. Die Überprüfung sollte erst 10 min. nach dem Ab-schalten des Motors durchgeführt werden.
 •	Nachfüllen von Schmieröl bis maximal 30 mm unter die Oberkante des Ölreservoirs, falls das Aggregat durch den Ölniveauschalter abgeschaltet wurde.
 
- 	Es dürfen nur Motorenöle verwendet werden, welche durch die Firma BIBLOC oder BES zugelassen sind (siehe 8.4 Schmieröl).
+ 	Es dürfen nur Motorenöle verwendet werden, welche durch die Firma BES zugelassen sind (siehe 8.4 Schmieröl).
 Die Verwendung von anderen Motorölen kann einen Verlust der Garantiean-sprüche zur Folge haben.
 
  	Die von der Firma BES festgelegten Wartungsintervalle dürfen nicht überschritten werden. Eine Überschreitung der Wartungsintervalle kann eine Verminderung der Schmierfähigkeiten zur Folge haben und die Standzeit vom Motor beeinträchtigen oder diesen beschädigen.
