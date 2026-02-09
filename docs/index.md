@@ -16,8 +16,13 @@ BES BHKW BIBLOC BV - Typenfamilie
 ## 1	Einführung
 ------------------	
 
-Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betref-fend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV . Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
-Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Kompo-nenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
+Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betref-fend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV . 
+
+Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
+
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. 
+
+Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 
 Es sind keine detaillierten Wartungsarbeiten beschrieben. Das Kapitel über die Störmeldungen behandelt nur die Störungen, die der Betreiber selbst beheben kann.
 
@@ -30,7 +35,9 @@ Das nachfolgende Betriebshandbuch bildet eine Zusammenfassung der Informationen 
 
 Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
 
-Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV in Kapitel gegliedert. 
+
+Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 
 Es sind keine detaillierten Wartungsarbeiten beschrieben. Das Kapitel über die Störmeldungen behandelt nur die Störungen, die der Betreiber selbst beheben kann.
 _________________________________________________________________________
@@ -125,36 +132,36 @@ Beim Betrieb der BIBLOC BV ist es erforderlich, dass alle Arbeiten, welche über
 
 Diese Personen haben Kenntnis bezüglich dem Umgang mit folgenden Stoffen:
 
-•	Betriebsstoffe aus dem unmittelbaren Betrieb der BHKW-Anlage
+**Betriebsstoffe aus dem unmittelbaren Betrieb der BHKW-Anlage**
 
-•	Kühlmittelflüssigkeit,
+ •	Kühlmittelflüssigkeit,
 
-•	Motoröl,
+ •	Motoröl,
 
-•	Motorölreiniger
-
+ •	Motorölreiniger
 
 Es handelt sich hier um gefährliche Betriebsmittel. 
 
-Diese sind entsprechend den chemischen Eigenschaften zu behandeln. 
+Diese sind entsprechend den chemischen Eigenschaften zu behandeln.
+
 Die Art der Entsorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
 
 Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
 
-Abfall aus der Reinigung des Abgaswärmetauschers	
+**Abfall aus der Reinigung des Abgaswärmetauschers**
 
 Die Reinigungsrückstände sind auf ihre chemische Zusammensetzung zu prüfen und entsprechend den geltenden Bestimmungen zu entsorgen.
 
-•	Abfälle und Betriebsstoffe aus Wartung und Reparatur der BHKW-Anlage
-Bleiakkumulatoren (Batterien)
+**Abfälle und Betriebsstoffe aus Wartung und Reparatur der BHKW-Anlage
+Bleiakkumulatoren (Batterien)**
 
-Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln. 
+Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den chemischen Eigenschaften entsprechend zu behandeln. 
 
 Die Art der Entsorgung ist den jeweiligen Sicherheitsdatenblättern zu entnehmen.
 
 Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezialisierte Firmen entsorgt werden.
 
-gebrauchte Katalysatoren
+**gebrauchte Katalysatoren**
 
 Es handelt sich hier um gefährliche Betriebsstoffe. Diese sind den che-mischen Eigenschaften entsprechend zu behandeln.
 
