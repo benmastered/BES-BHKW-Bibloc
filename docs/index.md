@@ -372,11 +372,11 @@ Legende :
 | 11.  |Drosselklappe                        |16.  |Zündung (nicht gezeichnet)           |
  
 ### 7.1	 Gasmotor
-Der Gasmotor Kubota V3800DI dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
+Der Gasmotor Mamotec MAG dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heiz-zwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### 7.1.1	Konstruktion
-Der Otto-Gasmotor Kubota ist ein stehender, rechts drehender Vierzylindermotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor Mamotec MAGist ein stehender, rechts drehender Vierzylindermotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
@@ -384,7 +384,7 @@ Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschm
 
 #### 7.1.2	Technische Daten Motor
 
-Motorfabrikat	Kubota 
+Motorfabrikat	Mamotec MAG
 Motortyp	V3800DI
 Motorart	Gasmotor 
 Nennleistung	max. 36 kW  bei 1500 min-1 und  = 1
@@ -422,7 +422,7 @@ Auslassventil	0.25
 Ausführung	Druckumlauf, durch Zahnradpumpe
 Zahnradpumpe	einfach, mit Überdruckventil
 Schmieröldruck	200 bis 400 kPa (2 - 4 bar)
-Ölfilter	Volldurchflussfilter Kubota W920/24 (W920/80, P3251)
+Ölfilter	Volldurchflussfilter Mamotec MAGW920/24 (W920/80, P3251)
 Ölwanneninhalt	30 Liter + 20 Liter (Reservoir)
 Ölart	STRUB BES (teilsynthetisch)	Erd- Flüssiggas
 MOBIL Pegasus 1              Bio-Klärgas,	Erd- Flüssiggas
