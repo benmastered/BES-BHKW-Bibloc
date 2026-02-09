@@ -1435,7 +1435,7 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### 12.3	Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="./images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="100">
+  <img src="./images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="300">
 </div>
 
 Legende :
