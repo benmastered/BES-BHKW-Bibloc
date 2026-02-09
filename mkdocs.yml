@@ -2,6 +2,12 @@ site_name: BES BHKW BIBLOC BV
 theme:
   name: readthedocs
   highlightjs: true
+  navigation_depth: 6
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - toc.integrate
 plugins:
   - search
   - mkdocstrings:
@@ -11,6 +17,8 @@ plugins:
           options:
             docstring_style: mkdocs
 markdown_extensions:
+  - toc:
+      toc_depth: 6
   - markdown_include.include:
       base_path: .
   - admonition

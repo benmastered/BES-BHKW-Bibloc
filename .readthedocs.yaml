@@ -5,7 +5,7 @@
 version: 2
 
 # Build PDF & ePub
-formats: [htmlzip, pdf]
+formats: all
  
 # Set the version of Python and other tools you might need
 build:
@@ -13,9 +13,16 @@ build:
   tools:
     python: "3.12"
 
+# sphinx:
+#   configuration: docs/conf.py
+
 mkdocs:
   configuration: mkdocs.yml
   fail_on_warning: true
+
+# Build PDF & ePub
+formats: all
+
 # Optionally declare the Python requirements required to build your docs
 python:
   install:
