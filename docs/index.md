@@ -51,8 +51,6 @@ Es ist generell mit hohen Oberflächentemperaturen, gefährlichen elektrischen S
 
 Durch die Einhaltung der in dieser Anleitung aufgeführten Grundsätze für die Bedienung und Wartung dieser BHKW-Anlage vermeiden Sie Personen- und Sachschäden.
 _________________________________________________________________________
-
-_________________________________________________________________________
 <div align="left">
   <img src="/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
@@ -600,7 +598,9 @@ Zum Auffüllen des Primärkreislaufes wird nach folgenden Punkten vorgegangen:
 •	die Anlage in Betrieb setzen und auf Betriebstemperatur erwärmen lassen
 •	Senkt sich das Niveau im Ausgleichsgefäss die Anlage ausschalten
 •	den Deckel des Ausgleichsgefässes entfernen
+
 ACHTUNG! Deckel nie bei heissem Motor öffnen!
+
 •	Das Ausgleichsgefäss bis zur Niveaumarkierung MAX mit Kühlmittelflüssigkeit nachfüllen
 •	den Deckel des Ausgleichsgefäss schliessen
 
@@ -1452,30 +1452,36 @@ Legende :
 
 ##### Analog-Sensor Nr. 1
 
-gemessene Grösse	Motordrehzahl
-Art des Fühlers 	Induktionsfühler 
-Hersteller / Typ	ČKD Hronov / IS 03
-Messbereich	0 - 3500 min-1
-Beschreibung:
-Der Induktionsfühler (Pick-Up) ist auf dem Schwungradgehäuse montiert, wo er die Zähne des Anlasserkranzes zählt. Diese Angaben werden durch das Steuersystem ausgewertet und für die Steuerung verschiedener Funktionen verwendet. Sicherheitsrelevant  davon ist  die Begrenzung der maximal zulässigen Drehzahl, die standardmässig auf 3300 min-1 eingestellt ist.
+	gemessene Grösse	Motordrehzahl
+	Art des Fühlers 	Induktionsfühler 
+	Hersteller / Typ	ČKD Hronov / IS 03
+	Messbereich		0 - 3500 min-1
+
+	Beschreibung:
+	Der Induktionsfühler (Pick-Up) ist auf dem Schwungradgehäuse montiert, wo er die Zähne des Anlasserkranzes zählt. Diese Angaben werden durch das Steuersystem ausgewertet und für die Steuerung verschiedener Funktionen verwendet. Sicherheitsrelevant  davon ist  die Begrenzung der maximal zulässigen Drehzahl, die standardmässig auf 3300 min-1 eingestellt ist.
 
 ##### Analog-Sensor Nr. 2
 
-gemessene Grösse	Motortemperatur
-Art des Fühlers 	PT 100
-Hersteller / Typ	JUMO / 902004/20
-Messbereich	-50 bis +150 °C
-Beschreibung:
-Der Temperaturfühler ist in die Kühlwasser-Austrittsleitung beim Motor eingeschraubt und misst die aktuelle Motortemperatur. Er schütz den Motor vor einer Überhitzung. Das Steuer-system meldet einen Voralarm beim Überschreitung der Warngrenze von 93 °C und schaltet das Aggregat bei Überschreitung der maximalen Wassertemperatur von 95 °C ab.
+	gemessene Grösse	Motortemperatur
+	Art des Fühlers 	PT 100
+	Hersteller / Typ	JUMO / 902004/20
+	Messbereich		-50 bis +150 °C
+	
+	Beschreibung:
+	Der Temperaturfühler ist in die Kühlwasser-Austrittsleitung beim Motor eingeschraubt und misst die aktuelle Motortemperatur.
+	Er schützt den Motor vor einer Überhitzung.
+	Das Steuersystem meldet einen Voralarm beim Überschreitung der Warngrenze von 93 °C und schaltet das Aggregat bei Überschreitung der maximalen Wassertemperatur von 95 °C ab.
 
 ##### Analog-Sensor Nr. 3
 
-gemessene Grösse	Rücklauf Sekundärkreislauf
-Art des Fühlers 	PT 100
-Hersteller / Typ	JUMO / 902004/20
-Messbereich	-50 bis +150 °C
-Beschreibung:
-Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes eingeschraubt und misst die aktuelle Rücklauftemperatur nach dem 3-Wegventil der Hochhaltung. Diese Tempe-ratur ist die Führungsgrösse zur Regulierung einer konstanten Rücklauftemperatur im Sekun-därkreislauf, welche die minimale Motortemperatur und die Verhinderung von Kondensat  ga-rantiert. Der Sollwert liegt zwischen minimal 60°C und maximal 70°C.
+	gemessene Grösse	Rücklauf Sekundärkreislauf
+	Art des Fühlers 	PT 100
+	Hersteller / Typ	JUMO / 902004/20
+	Messbereich		-50 bis +150 °C
+
+	Beschreibung:
+	Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes eingeschraubt und misst die aktuelle Rücklauftemperatur nach dem 3-Wegventil der Hochhaltung.
+	Diese Temperatur ist die Führungsgrösse zur Regulierung einer konstanten Rücklauftemperatur im Sekundärkreislauf, welche die minimale Motortemperatur und die Verhinderung von Kondensat garantiert. Der Sollwert liegt zwischen minimal 60°C und maximal 70°C.
 
  
 ##### Analog-Sensor Nr. 4
@@ -1484,10 +1490,11 @@ Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes einge
 	Art des Fühlers 	Thermoelement Typ K
 	Hersteller / Typ	JUMO / 901221/34-1043
 	Messbereich		0 bis +1000 °C
-	
+
 	Beschreibung:
-	
-	Dieses Thermoelement ist unmittelbar nach dem Katalysator in die interne Abgasleitung montiert. Es schützt den Katalysator vor einer Überhitzung infolge eines falschen Verbrennungs-gemisches. Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Ab-gastemperatur von 700 °C ab.
+	Dieses Thermoelement ist unmittelbar nach dem Katalysator in die interne Abgasleitung montiert
+	Es schützt den Katalysator vor einer Überhitzung infolge eines falschen Verbrennungsgemisches.
+	Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgastemperatur von 700 °C ab.
 
 ##### Analog-Sensor Nr. 5
 
@@ -1495,7 +1502,7 @@ Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes einge
 	Art des Fühlers 	Thermoelement Typ “K“
 	Hersteller / Typ	JUMO / 901221/34-1043
 	Messbereich		0 bis +1000 °C
-	
+
 	Beschreibung:
 	Dieser Temperaturfühler ist nach dem Abgaswärmetauscher in der Abgasleitung ausserhalb des BHKW-Moduls montiert. 
 	Er schützt die nachfolgende Abgasleitung vor einer Überhitzung. 
@@ -1508,9 +1515,11 @@ Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes einge
 	Art des Fühlers 	Lambdasonde
 	Hersteller / Typ	BOSCH / LSH 24 (Erdgas), LSH 11 (Biogas)
 	Messbereich		0 bis 900 mV
-	
+
 	Beschreibung:
-	Die Lambdasonde ist unmittelbar vor dem Katalysator im Abgaswärmetauscher montiert. Sie misst permanent den Restsauerstoff im Abgas. Der Sauerstoffgehalt im Abgas ist die Füh-rungsgrösse für die Lambdaregelung, welche ein konstantes Verbrennungsgemisch reguliert.
+	Die Lambdasonde ist unmittelbar vor dem Katalysator im Abgaswärmetauscher montiert. 
+	Sie misst permanent den Restsauerstoff im Abgas. 
+	Der Sauerstoffgehalt im Abgas ist die Führungsgrösse für die Lambdaregelung, welche ein konstantes Verbrennungsgemisch reguliert.
  
 #### 12.3.2 Übersicht der digitalen Sensoren
 
@@ -1518,9 +1527,12 @@ Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes einge
 
 	gemessene Grösse	Öldruck
 	Art des Fühlers 	Druckschalter
-	Hersteller / Typ	Motorbestandteil 
+	Hersteller / Typ	Motorbestandteil
+	
 	Beschreibung:
-	Der Öldruckschalter ist am Motor in den Schmierölkreislauf eingebaut und überwacht den Öldruck. Bei zu tiefem Öldruck öffnet der Kontakt im Druckschalter, wodurch das Steuersys-tem das Aggregat sofort abschaltet. Damit wird das Aggregat vor ungenügender Schmierung geschützt.
+	Der Öldruckschalter ist am Motor in den Schmierölkreislauf eingebaut und überwacht den Öldruck. 
+	Bei zu tiefem Öldruck öffnet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet. 
+	Damit wird das Aggregat vor ungenügender Schmierung geschützt.
 
 ##### Digital Sensor Nr. 8
 
@@ -1557,7 +1569,8 @@ Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes einge
 Überschreiten ein oder mehrere Betriebsparameter ihren vorgegebenen Grenzwert, wird das Aggregat über das Steuersystem IS-GAS abgeschaltet. Die entsprechende Fehlermeldung wird ins Fehler- und Historyregister geschrieben.
 
 ### 13.1 interne Störungsursachen
-Unter internen Störungen versteht man Fehler des BHKW-Aggregates, welche auf mangelhafte oder defekte Bestandteile des BHKW zurückzuführen sind. Aber auch ungenügende Reglerein-stellungen können Fehler verursachen. Häufig entstehen diese durch betriebsbedingten Ver-schleiss von Bauteilen. Im Wartungsplan ist ein präventiver Austausch von diversen Bauteilen vorgesehen, was jedoch nicht ausschliesst, dass ein Bauteil seine vorgesehene Standzeit nicht erreicht. 
+Unter internen Störungen versteht man Fehler des BHKW-Aggregates, welche auf mangelhafte oder defekte Bestandteile des BHKW zurückzuführen sind. Aber auch ungenügende Reglerein-stellungen können Fehler verursachen. Häufig entstehen diese durch betriebsbedingten Ver-schleiss von Bauteilen. Im Wartungsplan ist ein präventiver Austausch von diversen Bauteilen vorgesehen, was jedoch nicht ausschliesst, dass ein Bauteil seine vorgesehene Standzeit nicht erreicht.
+
 Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erfolgt nach Ein-gang eines Reparaturauftrages des Betreibers. Die Deckung der Reparaturkosten ist durch die im Kaufvertrag aufgeführten Garantiebestimmungen geregelt. Nach Ablauf der Garantie wird der Aufwand dem Betreiber verrechnet, sofern für die Wartung der BIBLOC BIBLOC BVkein Vollwartungsvertrag abgeschlossen wurde.
 
 ### 13.2 externe Störungsursachen
@@ -1701,10 +1714,10 @@ Service anrufen
 LA U2 unter	Generatorunterspannung in Phase 2	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
 Service anrufen 
 
-LA U3 ueber	Generatorüberspannung in Phase 3	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
+LA U3ueber	Generatorüberspannung in Phase 3	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
 Service anrufen 
 
-LA U3 unter	Generatorunterspannung in Phase 3	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
+LA U3unter	Generatorunterspannung in Phase 3	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
 Service anrufen 
 
 LA UgAsym	Spannungsasymmetrie in den Phasen	zu grosse Spannungsunterschiede in den Phasen	Spannungsregler im Generator einstellen

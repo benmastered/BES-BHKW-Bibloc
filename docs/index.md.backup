@@ -1701,7 +1701,7 @@ Service anrufen
 LA U2 unter	Generatorunterspannung in Phase 2	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
 Service anrufen 
 
-LA U3ueber	Generatorüberspannung in Phase 3	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
+LA U3 ueber	Generatorüberspannung in Phase 3	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
 Service anrufen 
 
 LA U3 unter	Generatorunterspannung in Phase 3	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
