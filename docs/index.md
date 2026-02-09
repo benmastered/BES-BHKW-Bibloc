@@ -52,7 +52,7 @@ Es ist generell mit hohen Oberflächentemperaturen, gefährlichen elektrischen S
 Durch die Einhaltung der in dieser Anleitung aufgeführten Grundsätze für die Bedienung und Wartung dieser BHKW-Anlage vermeiden Sie Personen- und Sachschäden.
 _________________________________________________________________________
 <div align="left">
-  <img src="/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Die Durchführung von technischen Wartungen und Reparaturen, welche über den Rahmen dieser Anleitung hinausgehen und durch Personen ohne Berechtigung der Firma BES erfolgen, können einen Verlust der Garantieansprüche zur Folge haben, sofern die Schäden auf eine nicht fachgerechte Handhabung zurückzuführen sind.
@@ -1415,7 +1415,7 @@ Das Abschalten des BHKW erfolgt durch drücken der Taste STOP.
 Der weitere Verlauf der Stopproutine entspricht jenem im Mode “AUT“. 
 
  	Im Mode “MAN“ reagiert das Steuersystem nicht auf ein externes Freigabesig-nal oder eine externe Leistungsregulierung.
-#### 11.6.4	Betriebsmodus “AUS“
+#### 11.6.4 Betriebsmodus “AUS“
 Im Betriebsmenü wird die Bezeichnung “AUS“ hinterleuchtet und im rechten Textfeld erscheint “SPS Aus“ in der obersten Zeile.
 Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
  
@@ -1601,12 +1601,9 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
 
 	Fhl P Oel	Fehler	Öldruck zu niedrig	Ölpumpe ist defekt	Service anrufen
-			Verschleiss am Motor	Service anrufen
+					Verschleiss am Motor		Service anrufen
 
 	Fhl L Oel	Fehler	Ölniveau zu tief	Ölniveau zu tief	Öl nachfühlen
-	 
-
-	Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 	Fhl L Wasser	Fehler	Wasserniveau im Primärkreislauf zu tief	Wassermangel in Primärkreislauf	Wasser und/oder Korrosionsschutz ins Ausgleichgefäss nachfüllen (rein destilliertes Wasser darf nicht nachgefüllt werden)
 			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
