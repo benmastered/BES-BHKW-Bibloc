@@ -501,7 +501,7 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 #### 7.3.1	Komponenten und Schema des Primärkreislaufes
 
 <div align="center">
-  <img src="./images/BHKW-Primärkreislauf-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :	
