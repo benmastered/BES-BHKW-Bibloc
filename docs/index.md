@@ -556,7 +556,7 @@ Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Überwachung und den 
 
 Die Steuerung zeichnet sich durch hohe Beständigkeit gegen Fremdstörungen und Schwankungen der Versorgungsspannung aus. 
 
-Das Steuersystem IS-GAS kann für die Asynchronausführung (Netzparallel-Betrieb), wie auch für die Synchronaus-führung (Notstrom-Betrieb) verwendet werden. 
+Das Steuersystem IS-GAS kann für die Synchronausführung (Netzparallel-Betrieb), wie auch für die Synchronaus-führung (Notstrom-Betrieb) verwendet werden. 
 
 Dabei ist nur die Anzahl der zusätzlichen Module und die Software unterschiedlich. 
 
