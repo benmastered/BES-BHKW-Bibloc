@@ -352,7 +352,7 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ## 7	Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="./images/BHKW-Hauptkomponenten-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="./images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -376,7 +376,7 @@ Der Gasmotor Mamotec MAG dient als Antrieb der BHKW-Anlage. Er wandelt den Brenn
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heiz-zwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### 7.1.1	Konstruktion
-Der Otto-Gasmotor Mamotec MAGist ein stehender, rechts drehender Vierzylindermotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor Mamotec MAG ist ein stehender, rechts drehender Vierzylindermotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
@@ -385,7 +385,7 @@ Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschm
 #### 7.1.2	Technische Daten Motor
 
 Motorfabrikat	Mamotec MAG
-Motortyp	V3800DI
+Motortyp	Mamotec MAG
 Motorart	Gasmotor 
 Nennleistung	max. 36 kW  bei 1500 min-1 und  = 1
 Drehmoment	220 Nm bei 1500 min-1 	( 5%)
@@ -1363,7 +1363,7 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### 12.3	Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="./images/BHKW-Sensoren-T30.JPG" alt="Left Aligned Image" width="100">
+  <img src="./images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Legende :
