@@ -119,9 +119,13 @@ Beim Betrieb der BIBLOC BV ist es erforderlich, dass alle Arbeiten, welche über
 Diese Personen haben Kenntnis bezüglich dem Umgang mit folgenden Stoffen:
 
 •	Betriebsstoffe aus dem unmittelbaren Betrieb der BHKW-Anlage
+
 •	Kühlmittelflüssigkeit,
+
 •	Motoröl,
+
 •	Motorölreiniger
+
 
 Es handelt sich hier um gefährliche Betriebsmittel. 
 
@@ -161,10 +165,12 @@ Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl,
 
 Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben werden, welche nicht fähig oder bemächtigt sind die erwähnten Stoffe zu entsorgen.
 _________________________________________________________________________
+[Zurück nach oben](#top)
 
 #### 2.3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit
 Die Stilllegung, der Ausbau und die Entsorgung der BHKW-Anlage hat in bestmöglichem Ein-klang zur Natur und der Umwelt zu erfolgen. Bitte wenden Sie sich an die Firma BIBLOC, BES oder eine andere Institution, welche ein fachgerechtes Entsorgen und Recyceln anbietet.
  
+[Zurück nach oben](#top)
 
 ### 3 Grundsätze für die sichere Bedienung der BHKW-Anlage
 
@@ -245,13 +251,19 @@ _________________________________________________________________________
 
 	
 ## 4	Transport und Aufstellung
+
 #### 4.1	Transport der BHKW-Anlage
+
  - Das BHKW-Aggregat stellt zusammen mit dem Schaltschrank eine Moduleinheit dar.
  
  - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm Breite.
  
- - 
-Das BIBLOC BV wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. Beim Transport ist dies zu berücksichtigen. Das Gewicht von 1100 kg ermöglicht das einfache Handling mit einem Handhubwagen. Dabei muss das Anheben gleich-zeitig über die ganze Rahmenlänge oder Rahmenbreite erfolgen, um eine eventuelle Chassisde-formation während der Verschiebung zu verhindern.
+Das BIBLOC BV wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
+
+Beim Transport ist dies zu berücksichtigen. Das Gewicht von *1100 kg* ermöglicht das einfache Handling mit einem Handhubwagen. 
+
+Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmenbreite erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
+
 Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre Ø20 bis Ø 50 mm und Wandstärke min. 2 mm) erfolgen. Dabei ist zu achten, dass
 
 •	die Rohre seitlich je minimal 100 mm vorstehen
@@ -267,9 +279,12 @@ Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen �
 
 Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Öffnungen gezogen werden (Kantenschutz verwenden) oder an in die Öffnungen geschobene Stangen befestigt werden.
 
-Der Haken, bei welchen die Traggurten eingeschlauft werden muss mindestens 1.5 m über der Oberkante des BHKW sein, damit die Querkräfte den Deckel der Schalldämmhaube nicht eindrücken. Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölzer mit Kerben, damit die Gurten nicht verrutschen) verwendet werden.
+Der Haken, bei welchen die Traggurten eingeschlauft werden muss mindestens 1.5 m über der Oberkante des BHKW sein, damit die Querkräfte den Deckel der Schalldämmhaube nicht eindrücken.
+
+Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölzer mit Kerben, damit die Gurten nicht verrutschen) verwendet werden.
 
 #### 4.3	Aufstellung
+
 Die Installation BIBLOC BV muss in einem wettergeschützten, trockenen Raum erfolgen. 
 
 Die Aufstellung erfolgt gemäss den:
@@ -278,7 +293,9 @@ Die Aufstellung erfolgt gemäss den:
 
 •	aktuellen, spezifischen Projektunterlagen
 
-Grundsätzlich ist zur Aufstellung der BIBLOC BV ein Betonsockel nicht zwingend notwendig, sofern die Auflage eben ist. Bei unebener Auflage oder bei Gefahr von Wassereinbrüchen empfehlen wir einen 100 bis 150 mm hohen Betonsockel.
+Grundsätzlich ist zur Aufstellung der BIBLOC BV ein Betonsockel nicht zwingend notwendig, sofern die Auflage eben ist.
+
+Bei unebener Auflage oder bei Gefahr von Wassereinbrüchen empfehlen wir einen 100 bis 150 mm hohen Betonsockel.
 
 Da die Motor-Generator-Einheit über Schwingungsdämpfer auf dem Chassisrahmen gelagert ist, sind die in den Rahmen und damit auch ins Fundament übertragenen Kräfte und Momente minimal. 
 
@@ -288,8 +305,9 @@ Eine Verankerung der Anlage wird aufgrund der Schwingungsübertragung nicht empf
 
 Die Freihalteräume (siehe 6.2) um die BHKW-Anlage sind für eine korrekte In-stallation und zur periodischen Wartung einzuhalten.
  
-## 5	BIBLOC Betrieb 
-Die BIBLOC BIBLOC BVBlockheizkraftwerke sind je nach Verwendungszweck und Betriebs-stoff in verschiedenen Ausführungen lieferbar.
+## 5	BIBLOC Betrieb
+
+Die BIBLOC BIBLOC BVBlockheizkraftwerke sind je nach Verwendungszweck und Betriebsstoff in verschiedenen Ausführungen lieferbar.
 
 #### 5.1	Betriebsarten
 
@@ -297,16 +315,25 @@ Aktuell ist das BHKW Typ BIBLOC BV nur mit einem luftgekühlten Synchrongenerato
 
 Aus diesem Grund kann die BIBLOC BV BHKW-Anlage nur im Netzparallelbetrieb betrieben werden.
 
-##### 5.1.1	Netzparallelbetrieb 
-Beim Netzparallelbetrieb der BIBLOC BV mit Synchrongenerator wird für den Start der Ge-neratorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt. Nach Erreichen der Nenndrehzahl wird zeitverzögert der Stern-Dreieckschütz angesteuert und gleichzeitig die Gaszufuhr und Zündung freigegeben. Der vom Verbrennungsmotor angetriebene Generator liefert nun ebenfalls die elektrische Energie ans Netz. 
+##### 5.1.1	Netzparallelbetrieb
+
+Beim Netzparallelbetrieb der BIBLOC BV mit Synchrongenerator wird für den Start der Ge-neratorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
+
+Nach Erreichen der Nenndrehzahl wird zeitverzögert der Stern-Dreieckschütz angesteuert und gleichzeitig die Gaszufuhr und Zündung freigegeben. Der vom Verbrennungsmotor angetriebene Generator liefert nun ebenfalls die elektrische Energie ans Netz.
+
 Bei einem BHKW mit Synchrongenerator durchläuft die Maschine den Abkühlzyklus und der Generatorschütz löst gleichzeitig mit dem Anhalten des Motors. 
+
+[Zurück nach oben](#top)
 
 #### 5.2	Gasarten
 
- 	Die Anforderungen an die jeweiligen Brenngase können dem Merkblatt “Eigenschaften von Brenngasen“ entnommen werden.
+Die Anforderungen an die jeweiligen Brenngase können dem Merkblatt **Eigenschaften von Brenngasen** entnommen werden.
+
+[Zurück nach oben](#top)
 
 #### 5.3	Abgasbehandlung
-In der Schweiz unterliegen stationäre Verbrennungsmotoren ab einer Inputleistung >100 kW der Luftreinhalteverordnung (LRV). 
+
+In der Schweiz unterliegen stationäre Verbrennungsmotoren ab einer Feuerungswärmeleistung >100 kW der Luftreinhalteverordnung (LRV). 
 
 Einige Kantone wie ZH, BL, BS, TG und SG haben zusätzlich zur LRV einen Massnahmeplan erlassen, bei welchem die Emissionsgrenzwerte unabhängig von der Inputleistung eingehalten werden müssen.
 
@@ -315,6 +342,7 @@ Für mit Erd- und Flüssiggas betriebene BHKW’s wird zur Reduktion der Schadst
 Bei Verwendung von Biogas können infolge der Gasverunreinigungen Katalysatoren nur bedingt verwendet werden. Die Schadstoffemissionen werden mittels Magermotor (Verbrennung mit Luftüberschuss) auf die gemäss LRV vorgeschriebenen Grenzwerte reduziert.
 
 Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator möglich, wodurch im Magerbetrieb die CO (Kohlenmonoxyd) zusätzlich reduziert werden.
+
 [Zurück nach oben](#top)
 
 ## 6	Beschreibung des BIBLOC BV
@@ -329,20 +357,26 @@ Diese Einheit bildet das Herzstück der BHKW-Anlage und ist hochelastisch auf ei
 
 Dieser dient gleichzeitig als Auffangwanne bei allfälligen Leckagen im Öl- oder Kühlsystem und verhindert ein Auslaufen der Flüssigkeiten in den Aufstellungsraum.
 
-Die schall- und wärmedämmende Kapsel mit abnehmbaren Panels sorgt für bestmögliche Lauf-ruhe und eine optimale Zugänglichkeit für Servicearbeiten. Durch den Einbau eines wasserge-kühlten Generators ist es nicht notwendig die Schalldämmhaube zu belüften, was den Installati-onsaufwand minimiert und den thermischen Wirkungsgrad erhöht. Die Schalldämmhaube ist in einen kalten und warmen Bereich aufgeteilt. In den kalten Teil sind wärmeempfindliche Bau-gruppen, wie Zündung, Luftfilter und Lambdaregelventil eingebaut. Der kalte Bereich wird durch die Verbrennungsluft etwas belüftet, während der heisse Bereich gegen aussen komplett ge-schlossen ist.
+Die schall- und wärmedämmende Kapsel mit rundum öffenbaren Türen sorgt für bestmögliche Laufruhe und eine optimale Zugänglichkeit für Servicearbeiten. 
+
+Durch den Einbau eines luftgekühlten Generators ist es notwendig die Schalldämmhaube zu belüften, was Einfluss auch auf den Installationsaufwand hat und aber den thermischen Wirkungsgrad erhöht.
+
+Die Schalldämmhaube ist in einen kalten und warmen Bereich aufgeteilt. In den kalten Teil sind wärmeempfindliche Baugruppen, wie Zündung, Luftfilter und Lambdaregelventil eingebaut. Der kalte Bereich wird durch die Verbrennungsluft etwas belüftet, während der heisse Bereich gegen aussen komplett geschlossen ist.
 
 Der Schaltschrank mit der Bedieneinheit, sowie allen notwendigen Steuer-, Regel- und Überwachungsseinrichtungen für den Netzparallel- respektive Notstrombetrieb, ist serienmässig neben der BHKW-Kapsel aufgestellt.
 
-Die Abwärme von Motor und Schmieröl wird mittels eines geschlossenen Primärkreislaufes (Motorkühlung) mit eigener Umwälzpumpe und Expansionsgefäss über einen Plattenwärmetau-scher an den Sekundärkreislauf (z.B. Heizungssystem) abgegeben. 
+Die Abwärme von Motor und Schmieröl wird mittels eines geschlossenen Primärkreislaufes (Motorkühlung) mit eigener Umwälzpumpe und Expansionsgefäss über einen Plattenwärmetauscher an den Sekundärkreislauf (z.B. Heizungssystem) abgegeben. 
 
 Eine Rücklaufhochhaltung mit 3-Weg-Ventil gewährleistet, dass auch bei tiefen Sekundärtemperaturen die minimale Motortemperatur nicht unterschritten wird. 
 
 Der Abgaswärmetauscher ist seriell zum Plattenwärmetauscher direkt im Sekundärkreislauf eingebunden und erlaubt dadurch Heizungsvorlauftemperaturen bis 90 °C
 
-Sämtliche Anschlüsse für Heizung, Gas und Abgas werden nach oben aus der Kapsel herausgeführt und können einfach mittels flexiblen Anschlüssen mit den entsprechenden Systemen ver-bunden werden.
+Sämtliche Anschlüsse für Heizung, Gas und Abgas werden nach oben aus der Kapsel herausgeführt und können einfach mittels flexiblen Anschlüssen mit den entsprechenden Systemen verbunden werden.
 
 Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prüfstand getestet.
- 
+
+[Zurück nach oben](#top)
+
 ### 6.2	Abmessungen der BHKW-Anlage
 
 <div align="center">
@@ -371,16 +405,25 @@ Legende :
 | 10.  |Gasmischer                           |15.  |3-Wegventil Sekundärkreislauf        |
 | 11.  |Drosselklappe                        |16.  |Zündung (nicht gezeichnet)           |
  
+[Zurück nach oben](#top)
+
 ### 7.1	 Gasmotor
 Der Gasmotor Mamotec MAG dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
-Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heiz-zwecken an einen sekundären Wasserkreislauf abgegeben.
+
+Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### 7.1.1	Konstruktion
-Der Otto-Gasmotor Mamotec MAG ist ein stehender, rechts drehender Vierzylindermotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor Mamotec MAG ist ein stehender, rechts drehender Verbrennungsmotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
-Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschmierung mit Öl. Der Ölkreislauf ist durch ein Überdruckventil gesichert. Der Ölfilter befindet sich im Hauptstrom und fängt allfällige Partikel auf. Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ölabscheider geführt
+Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschmierung mit Öl. 
+
+Der Ölkreislauf ist durch ein Überdruckventil gesichert. Der Ölfilter befindet sich im Hauptstrom und fängt allfällige Partikel auf. 
+
+Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ölabscheider geführt
+
+[Zurück nach oben](#top)
 
 #### 7.1.2	Technische Daten Motor
 
@@ -417,6 +460,8 @@ Ventilspiel im kalt (203C)
 Saugventil	0.25
 Auslassventil	0.25
 
+[Zurück nach oben](#top)
+
 #### 7.1.3	Motorschmierung
 
 Ausführung	Druckumlauf, durch Zahnradpumpe
@@ -429,6 +474,8 @@ MOBIL Pegasus 1              Bio-Klärgas,	Erd- Flüssiggas
 STRUB 43LA Pex	Bio- Klärgas
 Ölwechselintervall	siehe spezifischen Wartungsplan
 
+[Zurück nach oben](#top)
+
 #### 7.1.4	Motorkühlung
 
 Kühlungsart	Wasserkühlung mit Überdruck
@@ -436,6 +483,8 @@ Pumpenleistung	0,8 kg/s
 Regulierung der Betriebstemperatur	3-Wegventil im Heizungsrücklauf
 Solltemperatur Heizungsrücklauf	70C
 Motortemperatur max.	90C
+
+[Zurück nach oben](#top)
 
 #### 7.1.5	Zündsystem
 
@@ -445,19 +494,23 @@ DENSO IU24
 Anzahl der Zündkerzen	4
 Elektrodenabstand	0,4  0,1 mm
 
+[Zurück nach oben](#top)
+
 #### 7.1.6	Brennstoffsystem
 
 Vermischungsart	Niederdruck, am Rohrleitungseintritt 
 Mischungsart 	stöchiometrisches Gemisch	( = 1)	Erdgas
 Magergemisch	( = 1.4-1.5)	Bio- Klärgas
+
+[Zurück nach oben](#top)
  
 ### 7.2	Synchrongenerator
 
-Der verwendete Generator ist ein zweifach gelagerter, wassergekühlter Synchrongenerator.
+Der verwendete Generator ist ein zweifach gelagerter, luftgekühlter Synchrongenerator.
 Fabrikat :	Zanardi 	Typ:	AS225/4-200H
 
 #### 7.2.1	Konstruktion Synchrongenerator
-Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Stern- respektive 400V in Dreieckschaltung ausgelegt. Unter Berücksichtigung des Schlupfes wird die Anlage bei 1527 min-1 betrieben. Der Generator entspricht der Schutzart IP21. 
+Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Stern- respektive 400V in Dreieckschaltung ausgelegt. Unter Berücksichtigung des Schlupfes wird die Anlage bei 1500 min-1 betrieben. Der Generator entspricht der Schutzart IP21. 
 
 Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
 
