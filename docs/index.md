@@ -69,6 +69,7 @@ _________________________________________________________________________
 	- Bewilligung kommunaler Stromlieferant (örtliches EW)
 
 ##### nach der Inbetriebnahme
+
 •	Er ist verpflichtet, regelmässig Nachprüfungen, inkl. Gasanschluss durchzuführen,
 
 •	Er ist für die Einhaltung der Bedienungssicherheit und aller weiteren Vorschriften und Normen, welche Auswirkungen auf den Betrieb des BHKW‘s haben, verantwortlich.
@@ -85,14 +86,16 @@ Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfall
 
 1	Abfälle durch den Transport und Installation der Anlage
 
-2	Abfälle durch den Betrieb der Anlage (abgenutzte Verschleissteile und Betriebsstoffe wie Alt-öl)
+2	Abfälle durch den Betrieb der Anlage (abgenutzte Verschleissteile und Betriebsstoffe wie Altöl)
 
 3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit der BHKW-Anlage
 
 [Zurück nach oben](#top)
 
 #### 2.1	Abfälle durch den Transport und Installation der BHKW-Anlage
+
 Beim Transport und der Installation der BIBLOC BV entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
+
 Es handelt sich vor allem um:
 
 •	Kartonpapier, Kunststofffolien auf Polyethylen-Basis (PE), durch welche einige empfindliche Maschinenteile geschützt werden.
@@ -100,14 +103,17 @@ Es handelt sich vor allem um:
 
 •	Metall- und Kunststoffstopfen von Rohrabschlüssen sind dem Altmetall respektive dem PET-Recycling zu zuführen oder für eine weitere Verwendung aufzubewahren.
 
-•	Die Transportsicherungen zur Fixierung der Motorgeneratoreinheit während des Transports kann zur Wiederverwendung dem Lieferanten zurückgeben oder für die eigene Wiederver-wendung in der BHKW-Anlage aufbewahren werden.
+•	Die Transportsicherungen zur Fixierung der Motorgeneratoreinheit während des Transports kann zur Wiederverwendung dem Lieferanten zurückgeben oder für die eigene Wiederverwendung in der BHKW-Anlage aufbewahrt werden.
 
 Je nach Lieferumfang der BHKW-Anlage werden Zubehör-Teile des BHKW als Einzelteile auf Euro-Paletten, eventuell auch in einem Holzverschlag transportiert und mit PE-Folie geschützt. 
 
 •	Die Entsorgung der PE-Folie ist oben beschrieben. 
+
 •	Euro-Palette sind zur weiteren Verwendung an eine Transportfirma zurück zugeben. 
+
 •	Holzverschläge sind der kommunalen Abfallentsorgung zu zuführen.
-•	Euro-Palette und Holzverschläge dürfen nicht als Brennholz verwendet werden.
+
+•	Euro-Paletten und Holzverschläge dürfen nicht als Brennholz verwendet werden.
 
 Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservierungsmitteln behandelt und müssen vor der Inbetriebnahme nicht entsprechend gereinigt werden.
 
