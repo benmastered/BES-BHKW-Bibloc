@@ -1424,14 +1424,22 @@ Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagier
 Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BIBLOC BV diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
 Dazu werden alle betriebsrelevanten Daten erfasst und vom Steuersystem IS-GAS ausgewer-tet. Dies ist eine Voraussetzung zur Erfüllung der geltenden Vorschriften und verhindert schluss-endlich auch Schäden an Mensch und Maschine.
 Es bestehen zwei verschiedene Schutzarten der BHKW-Anlage:
+
 •	elektrische Schutzeinrichtungen
+
 •	technische Schutzeinrichtungen
+
 ### 12.1 elektrische Schutzeinrichtungen
-Siehe Punkt 9.4 “Schutzeinrichtungen“
+
+Siehe Punkt 9.4 *Schutzeinrichtungen*
+
 ### 12.2 technische Schutzeinrichtungen
-Durch die technischen Schutzeinrichtungen werden mechanische und thermische Betriebszu-stände des BHKW-Aggregates überwacht. Dazu sind analoge und digitale Sensoren in der Ma-schine eingebaut. 
-Analoge Sensoren messen konstant eine Messgrösse und geben diese über ein entsprechendes Signal dem Steuersystem weiter, welches das Signal in einen Messwert umwandelt und anzeigt.
-Digitale Sensoren liefern dem Steuersystem ein binäres Signal (0/1), womit einzig der aktuelle Zustand (OK oder nicht OK) der entsprechenden Schutzeinrichtung signalisiert wird.
+Durch die technischen Schutzeinrichtungen werden mechanische und thermische Betriebszustände des BHKW-Aggregates überwacht. Dazu sind analoge und digitale Sensoren in der Maschine eingebaut.
+
+*Analoge Sensoren* messen konstant eine Messgrösse und geben diese über ein entsprechendes Signal dem Steuersystem weiter, welches das Signal in einen Messwert umwandelt und anzeigt.
+
+*Digitale Sensoren* liefern dem Steuersystem ein binäres Signal (0/1), womit einzig der aktuelle Zustand (OK oder nicht OK) der entsprechenden Schutzeinrichtung signalisiert wird.
+
 Die analogen Messwerte wie auch die digitalen Informationen können direkt auf dem Display der Bedieneinheit aufgerufen und angezeigt werden.
  
 ### 12.3 Sensoren und ihre Positionierung
@@ -1446,7 +1454,7 @@ Legende :
 	2	Temperaturfühler Motorkreis	  7	  Öldruckschalter	
 	3	Temperaturfühler Rücklauf	  8	  Ölniveauschalter Reservoir
 	4	Thermoelement Abgas vor WT	  9	  Wasserniveauschalter
-	5	Thermoelement Abgas nach WT	  10	  Gasdruckwächter
+	5	Thermoelement Abgas nach WT	 10	  Gasdruckwächter
  
 #### 12.3.1 Übersicht der analogen Sensoren
 
@@ -1454,8 +1462,8 @@ Legende :
 
 	gemessene Grösse	Motordrehzahl
 	Art des Fühlers 	Induktionsfühler 
-	Hersteller / Typ	ČKD Hronov / IS 03
-	Messbereich		0 - 3500 min-1
+	Hersteller / Typ	Bosch / IS 03
+	Messbereich			0 - 3500 min-1
 
 	Beschreibung:
 	Der Induktionsfühler (Pick-Up) ist auf dem Schwungradgehäuse montiert, wo er die Zähne des Anlasserkranzes zählt. Diese Angaben werden durch das Steuersystem ausgewertet und für die Steuerung verschiedener Funktionen verwendet. Sicherheitsrelevant  davon ist  die Begrenzung der maximal zulässigen Drehzahl, die standardmässig auf 3300 min-1 eingestellt ist.
@@ -1465,7 +1473,7 @@ Legende :
 	gemessene Grösse	Motortemperatur
 	Art des Fühlers 	PT 100
 	Hersteller / Typ	JUMO / 902004/20
-	Messbereich		-50 bis +150 °C
+	Messbereich			-50 bis +150 °C
 	
 	Beschreibung:
 	Der Temperaturfühler ist in die Kühlwasser-Austrittsleitung beim Motor eingeschraubt und misst die aktuelle Motortemperatur.
@@ -1477,7 +1485,7 @@ Legende :
 	gemessene Grösse	Rücklauf Sekundärkreislauf
 	Art des Fühlers 	PT 100
 	Hersteller / Typ	JUMO / 902004/20
-	Messbereich		-50 bis +150 °C
+	Messbereich			-50 bis +150 °C
 
 	Beschreibung:
 	Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes eingeschraubt und misst die aktuelle Rücklauftemperatur nach dem 3-Wegventil der Hochhaltung.
@@ -1489,7 +1497,7 @@ Legende :
 	gemessene Grösse	Abgastemperatur vor Abgaswärmetauscher
 	Art des Fühlers 	Thermoelement Typ K
 	Hersteller / Typ	JUMO / 901221/34-1043
-	Messbereich		0 bis +1000 °C
+	Messbereich			0 bis +1000 °C
 
 	Beschreibung:
 	Dieses Thermoelement ist unmittelbar nach dem Katalysator in die interne Abgasleitung montiert
@@ -1501,7 +1509,7 @@ Legende :
 	gemessene Grösse	Abgastemperatur nach Abgaswärmetauscher
 	Art des Fühlers 	Thermoelement Typ “K“
 	Hersteller / Typ	JUMO / 901221/34-1043
-	Messbereich		0 bis +1000 °C
+	Messbereich			0 bis +1000 °C
 
 	Beschreibung:
 	Dieser Temperaturfühler ist nach dem Abgaswärmetauscher in der Abgasleitung ausserhalb des BHKW-Moduls montiert. 
@@ -1514,7 +1522,7 @@ Legende :
 	gemessene Grösse	Sauerstoffgehalt im Abgas
 	Art des Fühlers 	Lambdasonde
 	Hersteller / Typ	BOSCH / LSH 24 (Erdgas), LSH 11 (Biogas)
-	Messbereich		0 bis 900 mV
+	Messbereich			0 bis 900 mV
 
 	Beschreibung:
 	Die Lambdasonde ist unmittelbar vor dem Katalysator im Abgaswärmetauscher montiert. 
@@ -1531,7 +1539,7 @@ Legende :
 	
 	Beschreibung:
 	Der Öldruckschalter ist am Motor in den Schmierölkreislauf eingebaut und überwacht den Öldruck. 
-	Bei zu tiefem Öldruck öffnet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet. 
+	Bei zu tiefem Öldruck öffnet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet.
 	Damit wird das Aggregat vor ungenügender Schmierung geschützt.
 
 ##### Digital Sensor Nr. 8
@@ -1580,74 +1588,80 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 
 ### 13.3 Störungen, ihre Ursachen und Behebung
 
-	Meldung		Beschreibung			mögliche Ursachen	Störungsbehebung
-
-	Sto P Oel	Sensorstörung Öldruckgeber	Fühler defekt		Öldruckfühler wechseln
-							Kabelbruch		Verkabelung kontrollieren und evtl. reparieren
-
-	Sto L Oel	Sensorstörung	Ölstand		Fühler defekt		Ölniveauschalter des Ölniveaureglers wechseln
-							Kabelbruch		Verkabelung kontrollieren und evtl. reparieren
-
-	Sto L Wasser	Sensorstörung	Wasserstand	Fühler defekt	Wasserstandfühler wechseln
-			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
-
-	Sto T Wasser	Sensorstörung	Motorkühlwassertem-peratur	Fühler defekt	Temperaturfühler wechseln
-			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
-
-	Sto Sek T	Sensorstörung	Rücklauftemperatur	Fühler defekt	Temperaturfühler wechseln
-			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
-
-	Sto-Abgasfúhler	Sensorstörung	Abgastemperatur	Fühler defekt	Temperaturfühler wechseln
-			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
-
-	Fhl P Oel	Fehler	Öldruck zu niedrig	Ölpumpe ist defekt	Service anrufen
-					Verschleiss am Motor		Service anrufen
-
-	Fhl L Oel	Fehler	Ölniveau zu tief	Ölniveau zu tief	Öl nachfühlen
-
-	Fhl L Wasser	Fehler	Wasserniveau im Primärkreislauf zu tief	Wassermangel in Primärkreislauf	Wasser und/oder Korrosionsschutz ins Ausgleichgefäss nachfüllen (rein destilliertes Wasser darf nicht nachgefüllt werden)
-			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
-
-	Sto AbgasFueh	Sensorstörung	Abgastemperatur	Fühler defekt	Temperaturfühler wechseln
-			Kabelbruch	Verkabelung kontrollieren und evtl. reparieren
-
-T Wasser Alarm	Alarm	Motorwassertemperatur
-(Voralarm)	zu hohe Rücklauftemperatur im Heizkreis	Ausschaltpunkt der externen Steuerung überprüfen und wenn nötig senken
-Wärmeabnahme vergrössern (evtl. Notkühlung)
-		zu kleiner Wärmeverbrauch	Wärmeabnahme vergrössern (evtl. Notkühlung)
-		Luft in Motorkreislauf	Motorkreislauf entlüften
-		Dreiwegventil der Rücklaufregulie-rung öffnet zu langsam	Rücklaufhochhaltung kontrollieren, evtl. neu einregu-lieren, wenn nötig Service anrufen
-		Wasser-Wasser-Wärmetauscher verschmutzt	Wärmetauscher reinigen oder austauschen
-
-Sek T Alarm	Alarm	Heizwassertemperatur
-(Voralarm) 	zu hohe Rücklauftemperatur im Heizkreis	Ausschaltpunkt der externen Steuerung überprüfen und wenn nötig senken
-		Pumpe Heizkreis defekt	Pumpe ersetzen
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
-
-T Abgas Alarm 	Alarm	Abgastemperatur ist zu hoch
-(Voralarm)	Gemisch ist zu fett oder zu mager	Verbrennungsgemisch neu einstellen
-(Lambdaregelung)
-		zu hoher Abgasgegendruck	Abgasgegendruck am Austrittsstutzen messen und Abgasleitung auf Verschmutzung kontrollieren
-		falscher Zündzeitpunkt	Zündzeitpunkt kontrollieren und einstellen
-		Zündaussetzer	Zündung kontrollieren, evtl. defekte Teile
-(Zündkerzen, Zündkabel) ersetzen
-
-T Wasser Fehler	Fehler	Motorwassertemperatur	zu hohe Rücklauftemperatur im Heizkreis	Ausschaltpunkt der externen Steuerung überprüfen und wenn nötig senken
-		zu kleiner Wärmeverbrauch	Wärmeabnahme vergrössern (evtl. Notkühlung)
-		Luft im Primärkreislauf	Primärkreislauf entlüften
-		Wasser-Wasser-Wärmetauscher verschmutzt	Wärmetauscher reinigen oder austauschen
-		Primärkreislauf undicht	Undichtheit im Primärkreislauf suchen und abdichten und Wasser auffüllen
-		Pumpe Motorkreislauf defekt	Pumpe ersetzen
-		Dreiwegventil der Rücklaufregulie-rung öffnet nicht oder zu langsam	Rücklaufhochhaltung kontrollieren, evtl. neu einregu-lieren, wenn nötig Service anrufen
-		Thermostatventil in Motorkreislauf defekt	Thermostat ersetzen
+| Meldung              | Beschreibung                    | mögliche Ursachen                       | Störungsbehebung                              |
+|----------------------|---------------------------------|-----------------------------------------|-----------------------------------------------|
+| Sto P Oel            | Sensorstörung Öldruckgeber      | Fühler defekt                           | Öldruckfühler wechseln                        |
+|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+| Sto L Oel            | Sensorstörung Ölstand           | Fühler defekt                           | Ölniveauschalter des Ölniveaureglers wechseln |
+|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+| Sto L Wasser         | Sensorstörung Ölstand           | Fühler defekt                           | Wasserstandfühler wechseln                    |
+|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+| Sto T Wasser         | Sensorstörung                   | Fühler defekt                           | Motorkühlwassertemperatur wechseln            |
+|                      | Motorkühlwassertemperatur       | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+| Sto Sek T            | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
+|                      | Rücklauftemperatur              | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+| Sto Abgasfühler      | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
+|                      | Abgastemperatur                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+| Fhl P Oel            | Fehler                          | Ölpumpe ist defekt                      | Service anrufen                               |
+|                      | Öldruck zu niedrig              | Verschleiss am Motor                    | Service anrufen                               |
+| Fhl L Oel            | Fehler                          | Ölniveau zu tief                        | Öl nachfühlen                                 |
+|                      | Ölstand zu niedrig              |                                         | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| Fhl L Wasser         | Fehler                          | Wasserniveau im                         | Wasser-Ethylenglykol ins Ausgleichgefäss      |
+|                      | Ölstand zu niedrig              | Primärkreislauf zu tief                 | nachfüllen, Öl nachfühlen                     |
+|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
+| T Wasser Alarm       | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
+|                      | Motorwassertemperatur           | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
+|                      | (Voralarm)                      |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 |                                         |                                               |
+|                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Luft in Motorkreislauf                  | Motorkreislauf entlüften                      |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Dreiwegventil der Rücklaufregulierung   | Rücklaufhochhaltung kontrollieren, evtl. neu  |
+|                      |                                 | öffnet zu langsam                       | einregulieren, wenn nötig Service anrufen     |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Wasser-Wasser-Wärmetauscher verschmutzt | Wärmetauscher reinigen oder austauschen       |
+|                      |                                 |                                         |                                               |
+| Sek T  Alarm         | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
+|                      | Heizwassertemperatur            |                                         | überprüfen und wenn nötig senken              |
+|                      | (Voralarm)                      |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Pumpe Heizkreis defekt                  | Pumpe ersetzen                                |
+|                      |                                 |                                         |                                               |
+| T Abgas Alarm        | Alarm                           | Gemisch ist zu fett oder zu mager       | Verbrennungsgemisch neu einstellen (Lambda)   |
+|                      | Abgastemperatur ist zu hoch     |                                         |                                               |
+|                      | (Voralarm)                      |zu hoher Abgasgegendruck                 | Abgasgegendruck am Austrittsstutzen messen und|
+|                      |                                 |                                         | Abgasleitung auf Verschmutzung kontrollieren  |
+|                      |                                 |                                         |                                               |
+|                      |                                 | falscher Zündzeitpunkt                  | Zündzeitpunkt kontrollieren und einstellen    |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Zündaussetzer                           | Zündung kontrollieren, evtl. defekte Teile    |
+|                      |                                 |                                         | (Zündkerzen, Zündkabel) ersetzen              |
+| T Wasser Fehler      | Fehler                          | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
+|                      | Motorwassertemperatur           | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
+|                      |                                 |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 |                                         |                                               |
+|                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Luft in Primärkreislauf                 | Primärkreislauf entlüften                     |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Dreiwegventil der Rücklaufregulierung   | Rücklaufhochhaltung kontrollieren, evtl. neu  |
+|                      |                                 | öffnet nicht oder zu langsam            | einregulieren, wenn nötig Service anrufen     |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Wasser-Wasser-Wärmetauscher verschmutzt | Wärmetauscher reinigen oder austauschen       |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Primärkreislauf undicht                 | Undichtheit im Primärkreislauf suchen und     |
+|                      |                                 |                                         | abdichten und Wasser auffüllen                |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Pumpe Motorkreis defekt                 | Pumpe ersetzen                                |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Thermostatventil Motorkreislauf defekt  | Thermostat ersetzen                           |
 
 Sek T Fehler	Fehler	Heizwassertemperatur 	zu hohe Rücklauftemperatur im Heizkreis	Ausschaltpunkt der externen Steuerung überprüfen und wenn nötig senken
 		zu kleiner Wärmeverbrauch	Wärmeabnahme vergrössern (evtl. Notkühlung)
- 
 
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 T Abgas Fehler	Fehler	Abgastemperatur	Abgastemperatur nach Katalysator ist zu hoch	Verbrennungsgemisch neu einstellen (Lambdarege-lung)
 		zu hoher Abgasgegendruck	Abgasgegendruck am Austrittsstutzen messen und Abgasleitung auf Verschmutzung kontrollieren
@@ -1667,11 +1681,7 @@ Spann LaS Alarm	Alarm	Lambdasonde	das Gemisch ist zu mager oder zu fett	Gasnulld
 		Sondenheizung funktioniert nicht	Einspeisung kontrollieren, Lambdasonde ersetzen
 
 StoThermoelement2	Fühlerstörung	Thermoelementspan-nung	nach Start ist Abgastemperatur klei-ner -50 °C	die Polarität kontrollieren oder Thermoelement erset-zen 
-
 Stop Fehler	Anlage wurde infolge einer Störung abgeschaltet	Eine der  Schutzeinrichtung hat an-gesprochen	Möglicher Fehler aus History erkennbar
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 Fehler Drehz H	Drehzahl zu hoch	Hauptschalter hat ausgelöst	Einstellung des Schutzschalters kontrollieren
 		Netzkoppelschalter hat geöffnet	Ansteuerung des Netzkoppelschalters kontrollieren
@@ -1693,9 +1703,6 @@ Not Aus	Stop Not-Aus	Kontakt auf Klemmenleiste X4 1,2 ist offen	wenn kein extern
 LA Ueberstrom	Generatorschutzschalter hat geöffnet	Generatorschutzschalter hat ange-sprochen	Einstellung kontrollieren
 			Aggregat auf Kurzschluss überprüfen
 			Überstromschutz entriegeln
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 LA NPU	Abschaltung durch Netzüberwachung	Ein oder mehrere Netzparameter-grenzwerte wurden über- oder un-terschritten	Netzstörungen sind aufgetreten
 
