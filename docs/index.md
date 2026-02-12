@@ -1592,18 +1592,25 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 |----------------------|---------------------------------|-----------------------------------------|-----------------------------------------------|
 | Sto P Oel            | Sensorstörung Öldruckgeber      | Fühler defekt                           | Öldruckfühler wechseln                        |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
 | Sto L Oel            | Sensorstörung Ölstand           | Fühler defekt                           | Ölniveauschalter des Ölniveaureglers wechseln |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
 | Sto L Wasser         | Sensorstörung Ölstand           | Fühler defekt                           | Wasserstandfühler wechseln                    |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
 | Sto T Wasser         | Sensorstörung                   | Fühler defekt                           | Motorkühlwassertemperatur wechseln            |
 |                      | Motorkühlwassertemperatur       | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
 | Sto Sek T            | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
 |                      | Rücklauftemperatur              | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
 | Sto Abgasfühler      | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
 |                      | Abgastemperatur                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
 | Fhl P Oel            | Fehler                          | Ölpumpe ist defekt                      | Service anrufen                               |
 |                      | Öldruck zu niedrig              | Verschleiss am Motor                    | Service anrufen                               |
+|                      |                                 |                                         |                                               |
 | Fhl L Oel            | Fehler                          | Ölniveau zu tief                        | Öl nachfühlen                                 |
 |                      | Ölstand zu niedrig              |                                         | Service anrufen                               |
 |                      |                                 |                                         |                                               |
@@ -1614,14 +1621,10 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 | T Wasser Alarm       | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
 |                      | Motorwassertemperatur           | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
 |                      | (Voralarm)                      |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 |                                         |                                               |
 |                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Luft in Motorkreislauf                  | Motorkreislauf entlüften                      |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Dreiwegventil der Rücklaufregulierung   | Rücklaufhochhaltung kontrollieren, evtl. neu  |
 |                      |                                 | öffnet zu langsam                       | einregulieren, wenn nötig Service anrufen     |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Wasser-Wasser-Wärmetauscher verschmutzt | Wärmetauscher reinigen oder austauschen       |
 |                      |                                 |                                         |                                               |
 | Sek T  Alarm         | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
@@ -1632,7 +1635,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 |                      |                                 |                                         |                                               |
 | T Abgas Alarm        | Alarm                           | Gemisch ist zu fett oder zu mager       | Verbrennungsgemisch neu einstellen (Lambda)   |
 |                      | Abgastemperatur ist zu hoch     |                                         |                                               |
-|                      | (Voralarm)                      |zu hoher Abgasgegendruck                 | Abgasgegendruck am Austrittsstutzen messen und|
+|                      | (Voralarm)                      | zu hoher Abgasgegendruck                | Abgasgegendruck am Austrittsstutzen messen und|
 |                      |                                 |                                         | Abgasleitung auf Verschmutzung kontrollieren  |
 |                      |                                 |                                         |                                               |
 |                      |                                 | falscher Zündzeitpunkt                  | Zündzeitpunkt kontrollieren und einstellen    |
@@ -1642,59 +1645,68 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 | T Wasser Fehler      | Fehler                          | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
 |                      | Motorwassertemperatur           | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
 |                      |                                 |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 |                                         |                                               |
 |                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Luft in Primärkreislauf                 | Primärkreislauf entlüften                     |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Dreiwegventil der Rücklaufregulierung   | Rücklaufhochhaltung kontrollieren, evtl. neu  |
 |                      |                                 | öffnet nicht oder zu langsam            | einregulieren, wenn nötig Service anrufen     |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Wasser-Wasser-Wärmetauscher verschmutzt | Wärmetauscher reinigen oder austauschen       |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Primärkreislauf undicht                 | Undichtheit im Primärkreislauf suchen und     |
 |                      |                                 |                                         | abdichten und Wasser auffüllen                |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Pumpe Motorkreis defekt                 | Pumpe ersetzen                                |
-|                      |                                 |                                         |                                               |
 |                      |                                 | Thermostatventil Motorkreislauf defekt  | Thermostat ersetzen                           |
-
-Sek T Fehler	Fehler	Heizwassertemperatur 	zu hohe Rücklauftemperatur im Heizkreis	Ausschaltpunkt der externen Steuerung überprüfen und wenn nötig senken
-		zu kleiner Wärmeverbrauch	Wärmeabnahme vergrössern (evtl. Notkühlung)
-
-
-T Abgas Fehler	Fehler	Abgastemperatur	Abgastemperatur nach Katalysator ist zu hoch	Verbrennungsgemisch neu einstellen (Lambdarege-lung)
-		zu hoher Abgasgegendruck	Abgasgegendruck am Austrittsstutzen messen und Abgasleitung auf Verschmutzung kontrollieren
-		falscher Zündzeitpunkt	Zündzeitpunkt kontrollieren und einstellen
-		Zündaussetzer	Zündung kontrollieren, evtl. defekte Teile
-(Zündkerzen, Zündkabel) ersetzen
-
-Eigenverbrauch	Fehler	Leistungsumsetzer	defekter Umsetzer 4-20 mA	Austausch des Umsetzers
-		Kabelbruch 	Kontrolle und Reparatur der Leitung
-
-Sto Reg Lamsonde	Fehler	Lambdasonde	defekte Lambdasonde	Lambdasonde wechseln
-		Kabelbruch	Kontrolle und Reparatur der Verkabelung
-
-Spann LaS Alarm	Alarm	Lambdasonde	das Gemisch ist zu mager oder zu fett	Gasnulldruckregler einstellen
-			Schrittmotor der Lambdaregelung kontrollieren
-			Funktion der Lambdaregelung überprüfen
-		Sondenheizung funktioniert nicht	Einspeisung kontrollieren, Lambdasonde ersetzen
-
-StoThermoelement2	Fühlerstörung	Thermoelementspan-nung	nach Start ist Abgastemperatur klei-ner -50 °C	die Polarität kontrollieren oder Thermoelement erset-zen 
-Stop Fehler	Anlage wurde infolge einer Störung abgeschaltet	Eine der  Schutzeinrichtung hat an-gesprochen	Möglicher Fehler aus History erkennbar
-
-Fehler Drehz H	Drehzahl zu hoch	Hauptschalter hat ausgelöst	Einstellung des Schutzschalters kontrollieren
-		Netzkoppelschalter hat geöffnet	Ansteuerung des Netzkoppelschalters kontrollieren
-		Drehzahl nach Start zu hoch	Einstellung Drehzahlregler kontrollieren
-
-Fehler Drehz T	Drehzahl zu niedrig	Gemisch ist zu fett oder zu mager	Verbrennungsgemisch neu einstellen: Lambdarege-lung, Haupteinstellschraube, Nulldruckregler
-		mangelnde Zündung	Zündung kontrollieren
-		Pick-up defekt	Pick-up kontrollieren (Distanz) oder ersetzen
-
-Sto T Komp	Kompensation Spannungsmessung des Thermoelements	Interne SPS Störung	Steuersystem mit Schlüsselschalter aus- und ein-schalten
-
-Sto BattSpann	zu niedrige Steuerspannung	Interne SPS Störung	DC Einspeisung und Sicherungen kontrollieren
-			Steuersystem mit Schlüsselschalter aus- und ein-schalten
+|                      |                                 |                                         | (Zündkerzen, Zündkabel) ersetzen              |
+|                      |                                 |                                         |                                               |
+| Sek T Fehler         | Fehler                          | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
+|                      | Heizwassertemperatur            | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
+|                      |                                 |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
+|                      |                                 |                                         |                                               |
+| T Abgas Fehler       | Fehler                          | Abgastemperatur nach Katalysator        | Verbrennungsgemisch neu einstellen (Lambda)   |
+|                      | Abgastemperatur                 | ist zu hoch                             |                                               |
+|                      |                                 | zu hoher Abgasgegendruck                | Abgasgegendruck am Austrittsstutzen messen und|
+|                      |                                 |                                         | Abgasleitung auf Verschmutzung kontrollieren  |
+|                      |                                 | falscher Zündzeitpunkt                  | Zündzeitpunkt kontrollieren und einstellen    |
+|                      |                                 |                                         |                                               |
+|                      |                                 | Zündaussetzer                           | Zündung kontrollieren, evtl. defekte Teile    |
+|                      |                                 |                                         | (Zündkerzen, Zündkabel) ersetzen              |
+|                      |                                 |                                         |                                               |
+| Eigenverbrauch       | Fehler                          | defekter Umsetzer 4-20 mA               | Austausch des Umsetzers                       |
+|                      | Leistungsumsetzer               | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
+| Sto Reg Lamsonde     | Fehler                          | defekte Lambdasonde                     | Lambdasonde wechseln                          |
+|                      | Lambdasonde                     | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
+|                      |                                 |                                         |                                               |
+| Spann LaS            | Alarm                           | das Gemisch ist zu mager oder zu fett   | Gasnulldruckregler einstellen                 |
+|                      | Lambdasonde                     |                                         | Schrittmotor der Lambdaregelung kontrollieren |
+|                      |                                 |                                         | Funktion der Lambdaregelung überprüfen        |
+|                      |                                 | Sondenheizung funktioniert nicht        | Einspeisung kontrollieren,                    |
+|                      |                                 |                                         | Lambdasonde ersetzen                          |
+|                      |                                 |                                         |                                               |
+| StoThermoelement2    | Fühlerstörung                   | Thermoelementspannung nach Start        | die Polarität kontrollieren oder Thermoelement|
+|                      | Stop Fehler                     | ist Abgastemperatur kleiner -50 °C      | ersetzen                                      |
+|                      |                                 | Anlage wurde infolge einer Störung      | Möglicher Fehler aus History erkennbar        |
+|                      |                                 | abgeschaltet, eine der Schutzeinrichtung|                                               |
+|                      |                                 | hat angesprochen                        |                                               |
+|                      |                                 |                                         |                                               |
+| Fehler Drehz H       | Fehler                          | Hauptschalter hat ausgelöst             | Einstellung des Schutzschalters kontrollieren |
+|                      | Drehzahl zu hoch                | Netzkoppelschalter hat geöffnet         | Ansteuerung des Netzkoppelschalters           |
+|                      |                                 |                                         | kontrollieren                                 |
+|                      |                                 | Drehzahl nach Start zu hoch             | Einstellung Drehzahlregler kontrollieren      |
+|                      |                                 |                                         |                                               |
+|                      |                                 |                                         |                                               |
+| Fehler Drehz T       | Fehler                          | Gemisch ist zu fett oder zu mager       | Verbrennungsgemisch neu einstellen:           |
+|                      | Drehzahl zu niedrig             | Netzkoppelschalter hat geöffnet         | - Lambdaregelung,                             |
+|                      |                                 |                                         | - Haupteinstellschraube,                      |
+|                      |                                 | Drehzahl nach Start zu hoch             | - Nulldruckregler                             |
+|                      |                                 | mangelnde Zündung                       | Zündung kontrollieren                         |
+|                      |                                 | Pick-up defekt                          | Pick-up kontrollieren (Distanz) oder ersetzen |
+|                      |                                 |                                         |                                               |
+| Sto T Komp           | Kompensation Spannungsmessung   | Interne SPS Störung                     | Steuersystem mit Schlüsselschalter aus- und   |
+|                      | des Thermoelements              |                                         | einschalten                                   |
+|                      |                                 |                                         |                                               |
+| Sto BattSpann        | zu niedrige Steuerspannung      | Interne SPS Störung                     | DC Einspeisung und Sicherungen kontrollieren  |
+|                      |                                 |                                         | Steuersystem mit Schlüsselschalter aus- und   |
+|                      |                                 |                                         | einschalten                                   |
 
 Not Aus	Stop Not-Aus	Kontakt auf Klemmenleiste X4 1,2 ist offen	wenn kein externer Not-Aus Stop verwendet wird, Klemme X4 1,2 verbinden
 		Not-Aus Schalter ist gedrückt	Not-Aus Schalter entriegeln
@@ -1726,9 +1738,6 @@ Service anrufen
 
 LA UgAsym	Spannungsasymmetrie in den Phasen	zu grosse Spannungsunterschiede in den Phasen	Spannungsregler im Generator einstellen
 Service anrufen 
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 LA Ueberstrom1	Überstrom Generator in Phase 1	Die Generatorstrom in Phase 1 hat den oberen Grenzwert überschritten	Phasenbelastung kontrollieren
 			Anschlüsse überprüfen. Achtung Spannung!
@@ -1752,9 +1761,6 @@ LA IgenAsym	Stromasymmetrie zwischen den Pha-sen	zu grosse Stromunterschiede zwi
 			Service anrufen
 
 LA Ueberfr	Generatorüberfrequenz	Die Generatorfrequenz hat den obe-ren Grenzwert überschritten	Drehzahl in Inselbetrieb einstellen
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 LA Untfreq	Generatorunterfrequenz	Die Generatorfrequenz hat den unte-ren Grenzwert unterschritten	Drehzahl einstellen
 			Aggregat im Inselbetrieb überlastet
@@ -1779,9 +1785,6 @@ N Unterfreq	Netzunterfrequenz	Die Netzfrequenz ist unter dem Grenzwert	Netzstör
 
 Gen Ueberlast	Generator überlastet		Verbrennungsgemisch einstellen
 			Seil von Gaszug kontrollieren
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 Rückleistung	Die abgegebene Leistung ist negativ	Generator arbeitet als Elektromotor	Gaszufuhr kontrollieren
 			Gasnulldruckregler einstellen
@@ -1803,9 +1806,6 @@ Fhl LeistReg	Fehler	Leistungsregulierung	Die maximal zulässige Leistungsab-weic
 FehlerGenSchütz	Die verlangte und aktuelle Generator-schützposition ist verschieden	Die nach Programm verlangte und effektive Generatorschützposition ist verschieden 	Ansteuerung und Spule von Generatorschütz
 kontrollieren
 			Hilfskontakt von Generatorschutz sowie Signal auf die IG kontrollieren
- 
-
-Meldung	Beschreibung	mögliche Ursachen	Störungsbehebung
 
 	Verlangte und aktuelle Schützposition unterschiedlich	falscher Schütz oder Relais	Modul der Schützsteuerung kontrollieren
 Fehler Netzschütz	Die verlangte und aktuelle Netzkoppel-schalterposition verschieden	Die nach Programm verlangte und effektive Netzkoppelschalterposition ist verschieden.	Ansteuerung und Spule von Netzkoppelschalter
@@ -1816,10 +1816,13 @@ Fehler Erregung	Generator wurde nicht erregt	keine oder unzureichende Erregung	S
 
 Wartung	Die periodische Wartung ist fällig		Service anfordern. Ist keine Störung!
 
-Erläuterung:	Sto:	Meldungen, welche mit “Sto“ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
-	Alarm	Meldungen, welche zusätzlich mit “Alarm“ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
+Erläuterung:	
+Sto:	Meldungen, welche mit “Sto“ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
+
+Alarm	Meldungen, welche zusätzlich mit “Alarm“ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
 		Bedingungen. Diese Meldungen sind einem Voralarm gleichzustellen, da die Anlange weiter läuft
-	Fhl	Meldungen, welche mit “Fhl“ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
+		
+Fhl		Meldungen, welche mit “Fhl“ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
 
 
 ## 2. für Anlagenbenutzer
