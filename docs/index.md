@@ -1707,116 +1707,133 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 | Sto BattSpann        | zu niedrige Steuerspannung      | Interne SPS Störung                     | DC Einspeisung und Sicherungen kontrollieren  |
 |                      |                                 |                                         | Steuersystem mit Schlüsselschalter aus- und   |
 |                      |                                 |                                         | einschalten                                   |
+|                      |                                 |                                         |                                               |
+| Not Aus              | Stop Not-Aus                    | Kontakt auf Klemmenleiste               | wenn kein externer Not-Aus Stop verwendet     |
+|                      |                                 | X4 1,2 ist offen                        | wird, Klemme X4 1,2 verbinden                 |
+|                      | Drehzahl zu niedrig             | Not-Aus Schalter ist gedrückt           | Not-Aus Schalter entriegeln                   |
+|                      |                                 | externer Not-Aus Schalter ist gedrückt  | externer Not-Aus Schalter entriegeln          |
+|                      |                                 |                                         |                                               |
+| LA Ueberstrom        | Generatorschutzschalter         | Generatorschutzschalter hat angesprochen| Einstellung kontrollieren                     |
+|                      | hat geöffnet                    | X4 1,2 ist offen                        | Aggregat auf Kurzschluss überprüfen           |
+|                      |                                 |                                         | Überstromschutz entriegeln                    |
+|                      |                                 |                                         |                                               |
+| LA NPU               | Abschaltung                     | Ein oder mehrere Netzparametergrenzwerte| Netzstörungen sind aufgetreten                |
+|                      | durch Netzüberwachung           | wurden über- oder unterschritten        |                                               |
+|                      |                                 |                                         |                                               |
+| LA U1ueber           | Generatorüberspannung in Ph. 1  | Die Generatorspannung hat den oberen    | Spannungsregler im Generator einstellen       |
+|                      |                                 | Grenzwert überschritten                 | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA U1unter           | Generatorunterspannung in Ph. 1 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
+|                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA U2ueber           | Generatorüberspannung in Ph. 2  | Die Generatorspannung hat den oberen    | Spannungsregler im Generator einstellen       |
+|                      |                                 | Grenzwert überschritten                 | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA U2unter           | Generatorunterspannung in Ph. 2 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
+|                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA U3ueber           | Generatorüberspannung in Ph. 3  | Die Generatorspannung hat den oberen    | Spannungsregler im Generator einstellen       |
+|                      |                                 | Grenzwert überschritten                 | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA U3unter           | Generatorunterspannung in Ph. 3 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
+|                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA Ueberstrom1       | Überstrom Generator in Phase 1  | Die Generatorstrom in Phase 1 hat       | Phasenbelastung kontrollieren                 |
+|                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
+|                      |                                 |                                         | Spannungswandler kontrollieren                |
+|                      |                                 |                                         | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA Ueberstrom2       | Überstrom Generator in Phase 2  | Die Generatorstrom in Phase 2 hat       | Phasenbelastung kontrollieren                 |
+|                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
+|                      |                                 |                                         | Spannungswandler kontrollieren                |
+|                      |                                 |                                         | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA Ueberstrom3       | Überstrom Generator in Phase 3  | Die Generatorstrom in Phase 3 hat       | Phasenbelastung kontrollieren                 |
+|                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
+|                      |                                 |                                         | Spannungswandler kontrollieren                |
+|                      |                                 |                                         | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA IgenAsym          | Stromasymmetrie zwischen den    | zu grosse Stromunterschiede zwischen    | Phasenbelastung kontrollieren                 |
+|                      | Phasen                          | den Phasen                              | Anschlüsse überprüfen. Achtung Spannung!      |
+|                      |                                 |                                         | Alle Schaltkontakte überprüfen                |
+|                      |                                 |                                         | (z.B. Widerstandsmessung über Generatorschütz)|
+|                      |                                 |                                         | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA Ueberfr           | Generatorüberfrequenz           | Die Generatorfrequenz hat den oberen    | Drehzahl in Inselbetrieb einstellen           |
+|                      | Phasen                          | Grenzwert überschritten                 |                                               |
+|                      |                                 | Aggregat im Inselbetrieb überlastet     | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| LA Untfreq           | Generatorunterfrequenz          | Die Generatorfrequenz hat den unteren   | Drehzahl einstellen                           |
+|                      | Phasen                          | Grenzwert unterschritten                |                                               |
+|                      |                                 | Aggregat im Inselbetrieb überlastet     | Service anrufen                               |
+|                      |                                 |                                         |                                               |
+| N U1ueber            | Netzüberspannung in Phase 1     | zu hohe Spannung in Phase 1             | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N U2ueber            | Netzüberspannung in Phase 2     | zu hohe Spannung in Phase 2             | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N U3ueber            | Netzüberspannung in Phase 3     | zu hohe Spannung in Phase 3             | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N U1unter            | Netzunterspannung in Phase 1    | zu niedrige Spannung in Phase 1         | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N U2unter            | Netzunterspannung in Phase 2    | zu niedrige Spannung in Phase 2         | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N U3unter            | Netzunterspannung in Phase 3    | zu niedrige Spannung in Phase 3         | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N Asymet             | Netzspannungsasymmetrie         | Die Netzspannung hat zwischen den       | Netzstörung                                   |
+|                      |                                 | Phasen zu grosse Unterschiede           |                                               |
+|                      |                                 |                                         |                                               |
+| N Ueberfreq          | Netzüberfrequenz                | Die Netzfrequenz ist über dem Grenzwert | Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| N Unterfreq          | Netzüberfrequenz                | Die Netzfrequenz ist unter dem Grenzwert| Netzstörung                                   |
+|                      |                                 |                                         |                                               |
+| Gen Ueberlast        | Generator überlastet            | Generator überlastet                    | Verbrennungsgemisch einstellen                |
+|                      |                                 |                                         | Seil von Gaszug kontrollieren                 |
+|                      |                                 |                                         |                                               |
+| Rückleistung         | Die abgegebene Leistung         | Generator arbeitet als Elektromotor     | Gaszufuhr kontrollieren                       |
+|                      | ist negativ                     |                                         | Gasnulldruckregler einstellen                 |
+|                      |                                 |                                         | Verbrennungsgemisch einstellen                |
+|                      |                                 |                                         |                                               |
+| Fehler kein Start    | Die Startdrehzahl wurde         | Der Anlagestart wurde unterbrochen,     | Gasdruck kontrollieren                        |
+|                      | nicht erreicht                  | da die Startdrehzahl zu tief war        | Verbrennungsgemisch einstellen                |
+|                      |                                 |                                         |                                               |
+| BinEing unstab       | Digitaleingänge sind nicht      | Digitaleingänge sind nicht stabil       | Alle Klemmen der digitalen Eingänge nachziehen|
+|                      | stabil                          |                                         |                                               |
+|                      |                                 |                                         |                                               |
+| Fehler Param         | Fehler in der SPS-              | falsch eingestellte Parameter in der SPS| Parameter in der SPS kontrollieren, einstellen|
+|                      | Parametertabelle                |                                         |                                               |
+|                      |                                 |                                         |                                               |
+| IOT Stoer            | IG - IOT nicht verbunden        | Keine oder unzureichende Verbindung     | Datenkabel IG - IOT kontrollieren             |
+|                      |                                 | IG- und IOT-Modul                       |                                               |
+|                      |                                 |                                         |                                               |
+| Nachr.IOT-Fehler     | falsche Nachr.für IOT           | Keine oder unzureichende Verbindung     | Datenkabel IG - IOT kontrollieren             |
+|                      | identifiziert                   | IG- und IOT-Modul                       |                                               |
+|                      |                                 |                                         |                                               |
+| Fhl LeistReg         | Fehler                          | Die maximal zulässige Leistungsab-      | Gaszufuhr kontrollieren                       |
+|                      | Leistungsregulierung            | weichung wurde überschritten            | Gasnulldruckregler einstellen                 |
+|                      |                                 |                                         | Verbrennungsgemisch einstellen                |
+|                      |                                 |                                         | Seil von Gaszug kontrollieren                 |
+|                      |                                 |                                         |                                               |
+| FehlerGenSchütz      | Fehler                          | Die nach Programm verlangte  und        | Ansteuerung und Spule von Generatorschütz     |
+|                      | Die verlangte und aktuelle      | effektive Generatorschützposition       | kontrollieren                                 |
+|                      | Generatorschützposition ist     | ist verschieden                         | Hilfskontakt von Generatorschutz              |
+|                      | verschieden                     |                                         | sowie Signal auf die IG kontrollieren         |
+|                      | Die verlangte und aktuelle      | falscher Schütz oder Relais             | Modul der Schützsteuerung kontrollieren       |
+|                      | Schützposition ist verschieden  |                                         |                                               |
+|                      |                                 |                                         |                                               |
+| FehlerNetzschütz     | Fehler                          | Die nach Programm verlangte  und        | Ansteuerung und Spule von Netzkoppelschalter  |
+|                      | Die verlangte und aktuelle      | effektive Netzkoppelschalterposition    | kontrollieren                                 |
+|                      | Netzkoppelschalterposition ist  | ist verschieden                         | Hilfskontakt von Netzkoppelschalter           |
+|                      | verschieden                     |                                         | sowie Signal auf die IG kontrollieren         |
+|                      | Die verlangte und aktuelle      | falscher Schütz oder Relais             | Modul der Schützsteuerung kontrollieren       |
+|                      | Schützposition ist verschieden  |                                         |                                               |
+|                      |                                 |                                         |                                               |
+| Fehler Erregung      | Generator wurde nicht erregt    | keine oder unzureichende Erregung       | Spannungsregler des Generators reparieren     |
+|                      |                                 |                                         |                                               |
+| Fehler Erregung      | Die periodische Wartung         |Service anfordern. Ist keine Störung!    | Service anrufen                               |
+|                      | ist fällig                      |                                         |                                               |
 
-Not Aus	Stop Not-Aus	Kontakt auf Klemmenleiste X4 1,2 ist offen	wenn kein externer Not-Aus Stop verwendet wird, Klemme X4 1,2 verbinden
-		Not-Aus Schalter ist gedrückt	Not-Aus Schalter entriegeln
-		externer Not-Aus Schalter ist ge-drückt	externer Not-Aus Schalter entriegeln
+Erläuterung:
 
-LA Ueberstrom	Generatorschutzschalter hat geöffnet	Generatorschutzschalter hat ange-sprochen	Einstellung kontrollieren
-			Aggregat auf Kurzschluss überprüfen
-			Überstromschutz entriegeln
-
-LA NPU	Abschaltung durch Netzüberwachung	Ein oder mehrere Netzparameter-grenzwerte wurden über- oder un-terschritten	Netzstörungen sind aufgetreten
-
-LA U1ueber	Generatorüberspannung in Phase 1	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA U1unter	Generatorunterspannung in Phase 1	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA U2ueber	Generatorüberspannung in Phase 2	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA U2 unter	Generatorunterspannung in Phase 2	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA U3ueber	Generatorüberspannung in Phase 3	Die Generatorspannung hat den oberen Grenzwert überschritten	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA U3unter	Generatorunterspannung in Phase 3	Die Generatorspannung hat den unteren Grenzwert unterschritten	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA UgAsym	Spannungsasymmetrie in den Phasen	zu grosse Spannungsunterschiede in den Phasen	Spannungsregler im Generator einstellen
-Service anrufen 
-
-LA Ueberstrom1	Überstrom Generator in Phase 1	Die Generatorstrom in Phase 1 hat den oberen Grenzwert überschritten	Phasenbelastung kontrollieren
-			Anschlüsse überprüfen. Achtung Spannung!
-			Spannungswandler kontrollieren
-			Service anrufen
-
-LA Ueberstrom2	Überstrom Generator in Phase 2	Die Generatorstrom in Phase 2 hat den oberen Grenzwert überschritten	Phasenbelastung kontrollieren
-			Anschlüsse überprüfen. Achtung Spannung!
-			Spannungswandler kontrollieren
-			Service anrufen
-
-LA Ueberstrom3	Überstrom Generator in Phase 3	Die Generatorstrom in Phase 3 hat den oberen Grenzwert überschritten	Phasenbelastung kontrollieren
-			Anschlüsse überprüfen. Achtung Spannung!
-			Spannungswandler kontrollieren
-			Service anrufen
-
-LA IgenAsym	Stromasymmetrie zwischen den Pha-sen	zu grosse Stromunterschiede zwi-schen den Phasen	Phasenbelastung kontrollieren
-			Anschlüsse überprüfen. Achtung Spannung!
-			Alle Schaltkontakte überprüfen
-(z.B. Widerstandsmessung über Generatorschütz)
-			Service anrufen
-
-LA Ueberfr	Generatorüberfrequenz	Die Generatorfrequenz hat den obe-ren Grenzwert überschritten	Drehzahl in Inselbetrieb einstellen
-
-LA Untfreq	Generatorunterfrequenz	Die Generatorfrequenz hat den unte-ren Grenzwert unterschritten	Drehzahl einstellen
-			Aggregat im Inselbetrieb überlastet
-
-N U1ueber	Netzüberspannung in Phase 1	zu hohe Spannung in Phase 1	Netzstörung
-
-N U1unter	Netzunterspannung in Phase 1	zu niedrige Spannung in Phase 1	Netzstörung
-
-N U2ueber	Netzüberspannung in Phase 2	zu hohe Spannung in Phase 2	Netzstörung
-
-N U2unter	Netzunterspannung in Phase 2	zu niedrige Spannung in Phase 2	Netzstörung
-
-N U3ueber	Netzüberspannung in Phase 3	zu hohe Spannung in Phase 3	Netzstörung
-
-N U3unter	Netzunterspannung in Phase 3	zu niedrige Spannung in Phase 3	Netzstörung
-
-N Asymet	Netzspannungsasymmetrie	Die Netzspannung hat zwischen den Phasen zu grosse Unterschiede	Netzstörung
-
-N Ueberfreq	Netzüberfrequenz	Die Netzfrequenz ist über dem Grenzwert	Netzstörung
-
-N Unterfreq	Netzunterfrequenz	Die Netzfrequenz ist unter dem Grenzwert	Netzstörung
-
-Gen Ueberlast	Generator überlastet		Verbrennungsgemisch einstellen
-			Seil von Gaszug kontrollieren
-
-Rückleistung	Die abgegebene Leistung ist negativ	Generator arbeitet als Elektromotor	Gaszufuhr kontrollieren
-			Gasnulldruckregler einstellen
-			Verbrennungsgemisch einstellen
-
-Fehler kein Start	Die Startdrehzahl wurde nicht erreicht	Der Anlagestart wurde unterbro-chen, da Startdrehzahl zu tief war	Gasdruck kontrollieren
-			Verbrennungsgemisch einstellen
-
-BinEing unstab	Digitaleingänge sind nicht stabil		Alle Klemmen der digitalen Eingänge nachziehen
-
-Fehler Param	Fehler in der SPS-Parametertabelle		falsch eingestellte Parameter in der SPS 
-
-IOT Stoer	IG - IOT nicht verbunden	Keine oder unzureichende Verbin-dung IG- und IOT-Modul 	Datenkabel IG - IOT kontrollieren
-
-Nachr.IOT-Fehler	falsche Nachr.für IOT identifiziert	Keine oder unzureichende Verbin-dung IG- und IOT-Modul 	Datenkabel IG - IOT kontrollieren
-
-Fhl LeistReg	Fehler	Leistungsregulierung	Die maximal zulässige Leistungsab-weichung wurde überschritten	Seil von Gaszug kontrollieren
-
-FehlerGenSchütz	Die verlangte und aktuelle Generator-schützposition ist verschieden	Die nach Programm verlangte und effektive Generatorschützposition ist verschieden 	Ansteuerung und Spule von Generatorschütz
-kontrollieren
-			Hilfskontakt von Generatorschutz sowie Signal auf die IG kontrollieren
-
-	Verlangte und aktuelle Schützposition unterschiedlich	falscher Schütz oder Relais	Modul der Schützsteuerung kontrollieren
-Fehler Netzschütz	Die verlangte und aktuelle Netzkoppel-schalterposition verschieden	Die nach Programm verlangte und effektive Netzkoppelschalterposition ist verschieden.	Ansteuerung und Spule von Netzkoppelschalter
-kontrollieren
-			Hilfskontakt von Netzkoppelschalter sowie Signal auf die IG kontrollieren
-
-Fehler Erregung	Generator wurde nicht erregt	keine oder unzureichende Erregung	Spannungsregler des Generators reparieren
-
-Wartung	Die periodische Wartung ist fällig		Service anfordern. Ist keine Störung!
-
-Erläuterung:	
 Sto:	Meldungen, welche mit “Sto“ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
 
 Alarm	Meldungen, welche zusätzlich mit “Alarm“ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
