@@ -1834,12 +1834,12 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 
 Erläuterung:
 
-Sto:	Meldungen, welche mit “Sto“ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
+**Sto**		Meldungen, welche mit “Sto“ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
 
-Alarm	Meldungen, welche zusätzlich mit “Alarm“ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
-		Bedingungen. Diese Meldungen sind einem Voralarm gleichzustellen, da die Anlange weiter läuft
+**Alarm**	Meldungen, welche zusätzlich mit “Alarm“ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
+			Bedingungen. Diese Meldungen sind einem Voralarm gleichzustellen, da die Anlange weiter läuft
 		
-Fhl		Meldungen, welche mit “Fhl“ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
+**Fhl**		Meldungen, welche mit “Fhl“ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
 
 
 ## 2. für Anlagenbenutzer
