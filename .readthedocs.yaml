@@ -14,7 +14,7 @@ build:
     python: "3.12"
 sphinx:
   builder: singlehtml
-  configuration: conf.py
+  configuration: docs/conf.py
   fail_on_warning: true
   
 #mkdocs:
