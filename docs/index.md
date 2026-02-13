@@ -12,6 +12,17 @@ BES BHKW BIBLOC BV - Typenfamilie
 | Notkühlung (2-, 3-, 4-fach)         |    2    |     2    |    3    |     3     |     4    |     4     |
 | Option Notstrom                     |    NS   |     NS   |    NS   |     NS    |     NS   |     NS    |
 
+\begin{gather*}
+a_1=b_1+c_1\\
+a_2=b_2+c_2-d_2+e_2
+\end{gather*}
+
+\begin{align}
+a_{11}& =b_{11}&
+  a_{12}& =b_{12}\\
+a_{21}& =b_{21}&
+  a_{22}& =b_{22}+c_{22}
+\end{align}
 
 ## 1 Einführung
 ------------------	
@@ -42,7 +53,7 @@ Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktio
 Es sind keine detaillierten Wartungsarbeiten beschrieben. Das Kapitel über die Störmeldungen behandelt nur die Störungen, die der Betreiber selbst beheben kann.
 _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="docs/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Lesen Sie vor Inbetriebnahme der BHKW-Anlage diese Anleitung aufmerksam durch. Die BHKW-Anlage ist ein elektrisches Aggregat mit drehenden Komponenten, welches mit explosiven Brenngasen und Schmierstoffen arbeitet.
