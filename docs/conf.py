@@ -49,6 +49,7 @@ myst_enable_extensions = [
     "smartquotes",
     "strikethrough",
     "substitution",
+    "mdinclude",
     "tasklist",
 ]
 # Optional: Configure linkify behavior
@@ -61,6 +62,7 @@ intersphinx_mapping = {
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
 intersphinx_disabled_domains = ["std"]
+
 # Source file suffixes
 source_suffix = {
     '.rst': 'restructuredtext',
