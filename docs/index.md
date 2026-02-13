@@ -1869,10 +1869,10 @@ Erläuterung:
 | 4.1.7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
 | 4.1.8       |  Motorkreis (MK) entlüften                                         |          |                     |            |☐              |
 | 4.1.9       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
-| 4.1.10      |  elektrische Erstprüfung durchführen                               |[4.2](4.2)|                     |            |☐              |
+| 4.1.10      |  elektrische Erstprüfung durchführen                               |[4.2](#4.2)|                     |            |☐              |
 | 4.1.11      |  Netzüberwachung einstellen                                        |          |                     |            |☐              |
 | 4.1.12      |  Batterieladegeräte kontrollieren, Poti einstellen, Jumper setzen  |          |                     |            |☐              |
-| 4.1.13      |  Erstprüfung Software                                              |[4.3](4.3)|                     |            |☐              |
+| 4.1.13      |  Erstprüfung Software                                              |[4.3](#4.3)|                     |            |☐              |
 | 4.1.14      |  Siphon füllen                                                     |          |                     |            |☐              |
 | 4.1.15      |  Siphon füllen                                                     |          |                     |            |☐              |
 | 4.1.16      |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
