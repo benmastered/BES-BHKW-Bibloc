@@ -64,10 +64,11 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ["std"]
 
 # Source file suffixes
-#source_suffix = {
+# source_suffix = {
 #    '.rst': 'restructuredtext',
 #    '.md': 'markdown',
 #}
+
 templates_path = ["_templates"]
 
 # -- Options for EPUB output
