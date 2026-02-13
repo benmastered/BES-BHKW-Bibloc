@@ -1850,7 +1850,27 @@ Erläuterung:
 ## 3. für Servicetechniker
         [...]
 ## 4. für Inbetriebnahme-Techniker
-        [...]
+### 4.1 Vor-Inbetriebnahme
+
+- [ ] 
+- [ ] Wasserdruck Minimum (-120S2) des Motorkreises (MK) einstellen
+
+
+| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
+|-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
+| 4.1.1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | 1.5 bar             |            |☐              |
+| 4.1.2       |  Vordruck der Expansion Motorkreis (MK) prüfen                     |          | 1.5 bar             |            |☐              |
+| 4.1.3       |  Wasserdruck Minimum mit Luft MK einstellen                        | -120S2   | 0.5 - 0.6 bar       |            |☐              |
+| 4.1.4       |  Sicherheitsthermostat MK einstellen                               | -120S7   | 100 - 110 °C        |            |☐              |
+| 4.1.5       |  Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren          |          | -24 C°              |            |☐              |
+| 4.1.5.1     |  Ethylenglykol bereitstellen                                       |          | 20 l (40%)          |            |☐              |
+| 4.1.5.2     |  Wasser bereitstellen                                              |          | 30 l (60%)          |            |☐              |
+| 4.1.6       |  Anlage mit Ethylenglykol-Wasser Gemisch befüllen                  |          | 50 l                |            |☐              |
+| 4.1.7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
+| 4.1.8       |  Motorkreis (MK) entlüften                                         |          |                     |            |☐              |
+| 4.1.9       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
+| 4.1.10      |  elektrische Erstprüfung durchführen                               |[5.1](5.1)|                     |            |☐              |
+### 5.1 elektrische Erstprüfung {#5.1}
 
 # Anleitungen
 ==================
