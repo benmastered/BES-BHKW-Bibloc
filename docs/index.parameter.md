@@ -1852,6 +1852,10 @@ Erläuterung:
 ## 4. für Inbetriebnahme-Techniker
 ### 4.1 Vor-Inbetriebnahme
 
+- [ ] 
+- [ ] Wasserdruck Minimum (-120S2) des Motorkreises (MK) einstellen
+
+
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert                | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------------|------------|----------------|
 | 4.1.1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | Expansionsgefäss_Vordruck |            |☐              |
