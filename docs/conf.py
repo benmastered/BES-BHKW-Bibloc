@@ -34,7 +34,6 @@ extensions = [
     'sphinx_rtd_theme',
     "myst_parser",
 ]
-myst-parser[linkify]
 myst_heading_anchors = 7
 
 myst_enable_extensions = [
@@ -52,6 +51,9 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
+# Optional: Configure linkify behavior
+myst_linkify_fuzzy_links = True  # Allow fuzzy matching for URLs without scheme
+myst_linkify_anchors = True      # Enable anchor links for headings
 
 intersphinx_mapping = {
     "rtd": ("https://docs.readthedocs.io/en/stable/", None),
@@ -59,7 +61,11 @@ intersphinx_mapping = {
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
 intersphinx_disabled_domains = ["std"]
-
+# Source file suffixes
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
 templates_path = ["_templates"]
 
 # -- Options for EPUB output
