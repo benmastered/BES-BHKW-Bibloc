@@ -1,4 +1,4 @@
-BES BHKW BIBLOC BV - Typenfamilie
+# BES BHKW BIBLOC BV - Typenfamilie
 ==================	
 
 | Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674 SBTLK | 684 SBTK | 684 SBTLK |
@@ -13,7 +13,7 @@ BES BHKW BIBLOC BV - Typenfamilie
 | Option Notstrom                     |    NS   |     NS   |    NS   |     NS    |     NS   |     NS    |
 
 
-## 1 Einführung
+## Einführung
 ------------------	
 
 Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betreffend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV . 
@@ -62,7 +62,7 @@ Im Weiteren besteht für ungeschulte Personen die Gefahr, bei Missachtung des ob
 Bei Eingriffen durch ungeschulte und unbefugte Personen, lehnt die Herstellerfirma BES die Verantwortung für entstandene Sach- und Personenschäden ab.
 _________________________________________________________________________
 
-#### 1.1 Pflichten des Betreibers
+#### Pflichten des Betreibers
 
 ##### vor der Inbetriebnahme
 
@@ -79,7 +79,7 @@ _________________________________________________________________________
 
 •	Er ist für die Einhaltung der Bedienungssicherheit und aller weiteren Vorschriften und Normen, welche Auswirkungen auf den Betrieb des BHKW‘s haben, verantwortlich.
 
-### 2 Entsorgung von Abfällen
+#### Entsorgung von Abfällen
 -----------------------------	
 Durch den Transport und Betrieb der BHKW-Anlage fallen Abfallstoffe mit unterschiedlichen Eigenschaften an. 
 
@@ -97,7 +97,7 @@ Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfall
 
 [Zurück nach oben](#top)
 
-#### 2.1 Abfälle durch den Transport und Installation der BHKW-Anlage
+##### Abfälle durch den Transport und Installation der BHKW-Anlage
 
 Beim Transport und der Installation der BIBLOC BV entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
 
@@ -124,7 +124,7 @@ Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservi
 
 [Zurück nach oben](#top)
  
-#### 2.2 Abfälle durch den Betrieb der BHKW-Anlage
+##### Abfälle durch den Betrieb der BHKW-Anlage
 
 Beim Betrieb der BIBLOC BV ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
 
@@ -179,12 +179,12 @@ Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben w
 _________________________________________________________________________
 [Zurück nach oben](#top)
 
-#### 2.3 Abfälle durch die Entsorgung der Anlage am Ende der Standzeit
+##### Abfälle durch die Entsorgung der Anlage am Ende der Standzeit
 Die Stilllegung, der Ausbau und die Entsorgung der BHKW-Anlage hat in bestmöglichem Ein-klang zur Natur und der Umwelt zu erfolgen. Bitte wenden Sie sich an die Firma BIBLOC, BES oder eine andere Institution, welche ein fachgerechtes Entsorgen und Recyceln anbietet.
  
 [Zurück nach oben](#top)
 
-### 3 Grundsätze für die sichere Bedienung der BHKW-Anlage
+## Grundsätze für die sichere Bedienung der BHKW-Anlage
 
 Der Betrieb der BHKW-Anlage ist mit bestimmten Risiken verbunden. 
 
@@ -203,9 +203,9 @@ Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete B
 _________________________________________________________________________
 [Zurück nach oben](#top)
 
-#### 3.1 Hinweise auf mögliche Risiken
+### Hinweise auf mögliche Risiken
 
-##### Bedienung der BHKW-Anlage
+#### Bedienung der BHKW-Anlage
 
 Die Bedienung der BHKW-Anlage dürfen nur Personen durchführen welche:
 
@@ -242,7 +242,7 @@ Unbefugten Personen ist der Zutritt verboten
 _________________________________________________________________________
 [Zurück nach oben](#top)
 
-##### Verwendung des Not-Aus-Tasters
+#### Verwendung des Not-Aus-Tasters
 
 Entsteht durch den Betrieb der BHKW-Anlage eine Gefährdung von Gesundheit, Leben oder Material, kann dieses mit nachfolgenden Möglichkeiten abgeschaltet werden:
 
@@ -262,9 +262,9 @@ _________________________________________________________________________
 [Zurück nach oben](#top)
 
 	
-## 4 Transport und Aufstellung
+## Transport und Aufstellung
 
-#### 4.1 Transport der BHKW-Anlage
+### Transport der BHKW-Anlage
 
  - Das BHKW-Aggregat stellt zusammen mit dem Schaltschrank eine Moduleinheit dar.
  
@@ -286,7 +286,7 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre Ø2
 
 [Zurück nach oben](#top)
 
-#### 4.2 Krantransport
+### Krantransport
 
 Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassisbreite vorhanden. 
 
@@ -298,7 +298,7 @@ Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölz
 
 [Zurück nach oben](#top)
 
-#### 4.3 Aufstellung
+### Aufstellung
 
 Die Installation BIBLOC BV muss in einem wettergeschützten, trockenen Raum erfolgen. 
 
@@ -322,17 +322,17 @@ Die Freihalteräume (siehe 6.2) um die BHKW-Anlage sind für eine korrekte In-st
 
 [Zurück nach oben](#top)
  
-## 5 BIBLOC Betrieb
+## BIBLOC Betrieb
 
 Die BIBLOC BIBLOC BVBlockheizkraftwerke sind je nach Verwendungszweck und Betriebsstoff in verschiedenen Ausführungen lieferbar.
 
-#### 5.1 Betriebsarten
+### Betriebsarten
 
 Aktuell ist das BHKW Typ BIBLOC BV nur mit einem luftgekühlten Synchrongenerator lieferbar.
 
 Aus diesem Grund kann die BIBLOC BV BHKW-Anlage nur im Netzparallelbetrieb betrieben werden.
 
-##### 5.1.1 Netzparallelbetrieb
+#### Netzparallelbetrieb
 
 Beim Netzparallelbetrieb der BIBLOC BV mit Synchrongenerator wird für den Start der Ge-neratorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
 
@@ -342,13 +342,17 @@ Bei einem BHKW mit Synchrongenerator durchläuft die Maschine den Abkühlzyklus 
 
 [Zurück nach oben](#top)
 
-#### 5.2 Gasarten
+#### Inselbetrieb
+
+[Zurück nach oben](#top)
+
+### Gasarten
 
 Die Anforderungen an die jeweiligen Brenngase können dem Merkblatt **Eigenschaften von Brenngasen** entnommen werden.
 
 [Zurück nach oben](#top)
 
-#### 5.3 Abgasbehandlung
+### Abgasbehandlung
 
 In der Schweiz unterliegen stationäre Verbrennungsmotoren ab einer Feuerungswärmeleistung >100 kW der Luftreinhalteverordnung (LRV). 
 
@@ -362,9 +366,9 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 
 [Zurück nach oben](#top)
 
-## 6 Beschreibung des BIBLOC BV
+## Beschreibung des BIBLOC BV
 
-### 6.1 Funktion und Aufbau
+### Funktion und Aufbau
 
 Das Blockheizkraftwerk BIBLOC BV arbeitet nach dem Prinzip der Wärmekraftkopplung, wobei Strom und Wärme gleichzeitig produziert und genutzt werden. 
 
@@ -394,13 +398,13 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 
 [Zurück nach oben](#top)
 
-### 6.2 Abmessungen der BHKW-Anlage
+### Abmessungen der BHKW-Anlage
 
 <div align="center">
   <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="200">
 </div>
 
-## 7 Hauptkomponenten der BHKW-Anlage
+## Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
   <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
@@ -424,12 +428,12 @@ Legende :
  
 [Zurück nach oben](#top)
 
-### 7.1 Gasmotor
+### Gasmotor
 Der Gasmotor Mamotec MAG dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
 
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
-#### 7.1.1 Konstruktion
+#### Konstruktion
 Der Otto-Gasmotor Mamotec MAG ist ein stehender, rechts drehender Verbrennungsmotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
@@ -442,7 +446,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ölabscheider gefü
 
 [Zurück nach oben](#top)
 
-#### 7.1.2 Technische Daten Motor
+#### Technische Daten Motor
 
 Motorfabrikat	Mamotec MAG
 Motortyp	Mamotec MAG
@@ -479,7 +483,7 @@ Auslassventil	0.25
 
 [Zurück nach oben](#top)
 
-#### 7.1.3 Motorschmierung
+#### Motorschmierung
 
 Ausführung	Druckumlauf, durch Zahnradpumpe
 Zahnradpumpe	einfach, mit Überdruckventil
@@ -493,7 +497,7 @@ STRUB 43LA Pex	Bio- Klärgas
 
 [Zurück nach oben](#top)
 
-#### 7.1.4 Motorkühlung
+#### Motorkühlung
 
 Kühlungsart	Wasserkühlung mit Überdruck
 Pumpenleistung	0,8 kg/s
@@ -503,7 +507,7 @@ Motortemperatur max.	90C
 
 [Zurück nach oben](#top)
 
-#### 7.1.5 Zündsystem
+#### Zündsystem
 
 Zündungstyp 	Mikroprozessorgesteuerte Zündanlage OEZ4
 Zündkerzen	NGK PMR8A; NGK CPR8E; BRISK AR12YS;
@@ -513,7 +517,7 @@ Elektrodenabstand	0,4  0,1 mm
 
 [Zurück nach oben](#top)
 
-#### 7.1.6 Brennstoffsystem
+#### Brennstoffsystem
 
 Vermischungsart	Niederdruck, am Rohrleitungseintritt 
 Mischungsart 	stöchiometrisches Gemisch	( = 1)	Erdgas
@@ -521,12 +525,12 @@ Magergemisch	( = 1.4-1.5)	Bio- Klärgas
 
 [Zurück nach oben](#top)
  
-### 7.2 Synchrongenerator
+### Synchrongenerator
 
 Der verwendete Generator ist ein zweifach gelagerter, luftgekühlter Synchrongenerator.
 Fabrikat :	Zanardi 	Typ:	AS225/4-200H
 
-#### 7.2.1 Konstruktion Synchrongenerator
+#### Konstruktion Synchrongenerator
 Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Stern- respektive 400V in Dreieckschaltung ausgelegt. Unter Berücksichtigung des Schlupfes wird die Anlage bei 1500 min-1 betrieben. Der Generator entspricht der Schutzart IP21. 
 
 Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
@@ -535,7 +539,7 @@ Das Statorpaket besteht aus lammeliertem Dynamoblech und wird in das Statorgehä
 
 Der Rotor wird an der Hinterseite mit einem Wälzlager gelagert, dessen Nachschmierung im Rahmen der vorgeschriebenen technischen Wartung durchgeführt werden muss. An der Vor-derseite wird die Kupplungsscheibe direkt auf das Schwungrad des Motors geschraubt und benötigt daher kein weiters Wälzlager.
 
-#### 7.2.2 Funktionsweise Synchrongenerator
+#### Funktionsweise Synchrongenerator
 Beim Startvorgang entspricht der Synchrongenerator einem Synchronelektromotor. Dabei entsteht nach der Zuführung der dreiphasigen Wechselspannung an die Ständerwicklung ein drehendes Magnetfeld. 
 
 Dieses Feld induziert der Rotorwicklung eine Spannung, welche ihrerseits ein Magnetfeld aufbaut. 
@@ -546,7 +550,7 @@ Die Drehzahl ist durch die Polzahl gegeben und ihre Abweichung von den Synchronu
 
 Im Betrieb wird die Stator-wicklung in Dreieck umgeschaltet und der produzierte Strom ins Netz abgegeben.
 
-#### 7.2.3 Technische Daten
+#### Technische Daten
 
 Nennleistung	30 kW
 cos 	0,81
@@ -564,11 +568,11 @@ Schutzart	IP21
 Isolationsklasse 	F
 Bauform	B15T
  
-### 7.3 Primärkreislauf
+### Primärkreislauf
 
 Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf installiert. Ein Plattenwärmetauscher übergibt die Motorabwärme an den Sekundärkreislauf. 
 
-#### 7.3.1 Komponenten und Schema des Primärkreislaufes
+#### Komponenten und Schema des Primärkreislaufes
 
 <div align="center">
   <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
@@ -580,7 +584,7 @@ Legende :
 	3	Umwälzpumpe				7	Ölkühler
 	4	Ausgleichsgefäss (Expansion)
 	
-#### 7.3.2 Beschreibung des Primärkreislaufes
+#### Beschreibung des Primärkreislaufes
 Im Primärkreislauf zirkuliert die Kühlflüssigkeit (siehe 7.3.4) mittels separater Umwälzpumpe und durchströmt mit konstanter Wassermenge den Motor sowie Plattenwärmetauscher. Dort wird die thermische Energie aus dem Motor an den Sekundärkreislauf übertragen.
 
 Die minimale Betriebstemperatur des Motors wird indirekt über die Rücklaufhochhaltung im Se-kundärkreislauf (siehe 7.4) garantiert. Der Sollwert zur Regulierung der Rücklaufhochhaltung beträgt minimal 60 bis maximal 70°C, idealerweise 65°C.
@@ -589,7 +593,7 @@ Die Überdruckabsicherung des Primärkreislaufes übernimmt ein im Deckel des Au
 
 Die Temperaturüberwachung des Primärkreislaufes wird durch ein PT100 Temperaturfühler gewährleistet, dessen Messsignal vom Steuersystem im Schaltschrank verarbeitet wird.
  
-#### 7.3.3 Auffüllen des Primärkreislaufes
+#### Auffüllen des Primärkreislaufes
 Zum Auffüllen des Primärkreislaufes wird nach folgenden Punkten vorgegangen:
 
 •	den Deckel des Ausgleichsgefässes entfernen
@@ -604,7 +608,7 @@ ACHTUNG! Deckel nie bei heissem Motor öffnen!
 •	Das Ausgleichsgefäss bis zur Niveaumarkierung MAX mit Kühlmittelflüssigkeit nachfüllen
 •	den Deckel des Ausgleichsgefäss schliessen
 
-#### 7.3.4 Spezifikationen der Kühlflüssigkeit
+#### Spezifikationen der Kühlflüssigkeit
 
 Die Kühlflüssigkeit besteht aus einem Wasser- Frostschutzgemisch mit min. 40 % Ethylenglykol. Die Zugabe von Frostschutz ist auch in frostsicheren Räumen notwendig, da diese Zusätze auch die Korrosion sowie mineralische Ablagerungen verhindern.
 
@@ -614,7 +618,7 @@ Die Kühlflüssigkeit muss den allgemeinen Anforderungen gemäss dem Kapitel 8.2
 
 Alle Frostschutzmittel auf der Basis von Ethylenglykol sind grundsätzlich untereinander mischbar. Trotzdem wird empfohlen mit dem Hersteller oder Lieferan-ten Rücksprache zu nehmen.
 
-#### 7.3.5 Wartung des Primärkreislaufes
+#### Wartung des Primärkreislaufes
 
 Die Kontrolle und Wartung des Primärkreislaufes ist grundsätzlich ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt. 
 Dem Betriebspersonal wird empfohlen, folgende Kon-trollen wöchentlich durchzuführen:
@@ -622,7 +626,7 @@ Dem Betriebspersonal wird empfohlen, folgende Kon-trollen wöchentlich durchzuf�
 •	Niveaukontrolle im Ausgleichsgefäss des Primärkreislaufes, eventuell Wasser nachfüllen.
 •	Dichtheitskontrolle der Flansch- und Schlauchverbindungen, allfällige Leckagen beseitigen.
 
-#### 7.3.6 Störungen im Primärkreislauf
+#### Störungen im Primärkreislauf
 Störungen im Primärkreislauf äussern sich meistens in Form von zu hohen Kühlwassertempera-turen. Die Gründe dafür können im Primär- oder Sekundärkreislauf liegen.
 
 Störungen im Primärkreislauf:
@@ -635,11 +639,11 @@ Störungen im Primärkreislauf:
 •	zu kleiner Heizwasserdurchsatz infolge defekter Umwälzpumpe oder verstopftem Schmutz-fänger oder Plattenwärmetauscher
 •	schlechte Wärmeübertragung durch Ablagerungen im Plattenwärmetauscher
  
-### 7.4 Sekundärkreislauf
+### Sekundärkreislauf
 
 Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwärmetauscher) und Abgaswärmetauscher auf und führt damit die komplette Wärmeleistung der BHKW-Anlage in ein entsprechendes Wärmesystem ab.
 
-#### 7.4.1 Komponenten und Schema des Sekundärkreislaufes
+#### Komponenten und Schema des Sekundärkreislaufes
 
 <div align="center">
   <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
@@ -653,7 +657,7 @@ Legende :
 	4	Umwälzpumpe sekundär		9	Rücklauf BHKW
 	5	Dreiwegventil Hochhaltung	10	Vorlauf BHKW
 	
-#### 7.4.2 Beschreibung des Sekundärkreislaufes
+#### Beschreibung des Sekundärkreislaufes
 
 Eine Umwälzpumpe im Sekundärkreislauf fördert das Heizwasser über den wassergekühlten Mantel des Generators zur Sekundärseite desPlattenwärmetauschers im BHKW, wo die Motorabwärme des Primärkreislaufes übernommen wird. Weiter gelangt das Heizwasser in den Abgaswärmetauscher, wo die Abwärme aus der Abgasrückkühlung abgeführt wird. Über den BHKW-Vorlauf gelangt die komplette Wärmeleistung zu dem oder den Wärmeverbraucher.
  
@@ -661,7 +665,7 @@ Bei Rücklauftemperaturen zum BHKW kälter als 60 °C besteht die Gefahr, dass i
 
  	Der Sekundärkreislauf ist standardmässig nicht mit einem Sicherheitsventil aus-gerüstet. Bauseits muss ein Sicherheitsventil 3 bar ausserhalb des BIBLOC in-stalliert werden, um die BHKW-Anlage auch bei geschlossenen Absperrarmaturen vor Überdruck zu schützen.
 	
-#### 7.4.3 Auffüllen des Sekundärkreislaufes
+#### Auffüllen des Sekundärkreislaufes
 Zum Auffüllen des Sekundärkreislaufes wird nach folgenden Punkten vorgegangen:
 •	das Entlüftungsventil im Sekundärkreislauf innerhalb des Aggregats öffnen
 •	die Absperrorgane ausserhalb des BHKW langsam und nur teilweise öffnen, wodurch sich der Sekundärkreislauf im BHKW mit Wasser aus dem Heizungssystem zu füllen beginnt
@@ -677,15 +681,16 @@ Bei Missachtung dieser Vorschriften können die Wärmetauscher durch Ablage-rung
 
  	Wassergekühlter Generator und Rohrleitungen des Sekundärkreislaufs inner-halb der Schalldämmhaube dürfen nicht mit einer Wärmeisolation versehen werden. Diese Komponenten helfen die Strahlungswärme unter der Schall-dämmhaube abzuführen.
 	
-#### 7.4.4 Wartung des Sekundärkreislaufes
+#### Wartung des Sekundärkreislaufes
 Die Kontrolle und Wartung des Sekundärkreislaufes ist grundsätzlich ein Bestandteil der techni-schen Anlagewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt. Dem Betriebspersonal wird empfohlen, folgende Kon-trollen wöchentlich durchzuführen:
 •	Druckkontrolle, eventuell Wasser nachfüllen 
 •	Dichtheitskontrolle der Flansch- und Schlauchverbindungen, allfällige Leckagen beseitigen.
-#### 7.4.5 Störungen im Sekundärkreislauf
+#### Störungen im Sekundärkreislauf
 Siehe 7.3.6 “Störungen im Primärkreislauf“.
  
-### 7.5 Aufbereitung des Verbrennungsgemisch
-#### 7.5.1 Komponenten und Schema der Gasregelstrecke und Luftzufuhr
+### Aufbereitung des Verbrennungsgemisch
+
+#### Komponenten und Schema der Gasregelstrecke und Luftzufuhr
 
 <div align="center">
   <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="300">
@@ -698,7 +703,7 @@ Legende :
 	4	Schrittmotor Lambdaregelung und integriertem Gasnulldruckregler
 	5	Gaskugelhahn		9	Lambdasonde
 
-#### 7.5.2 Gasregelstrecke
+#### Gasregelstrecke
 Ein Gaskugelhahn zur manuellen Absperrung der Gaszufuhr bildet den Anfang der Gasregelstrecke. Um zu verhindern, dass Festpartikel in den Motor gelangen, wird ein Gasfilter vor die Gasstrasse montiert. 
 
 Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BV684 SBTLK aufgebaut. 
