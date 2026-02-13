@@ -716,7 +716,7 @@ Am anderen Ende dieses Rohrs ist ein Aluminiumblock mit dem Gasdosierventil der 
 
 Ein flexibler Ganzmetallschlauch führt das Gas zum Gasmischer, auch Venturi genannt, wo das Gas und die Luft zum Verbrennungsgemisch aufbereitet wird.
 
-#### 7.5.3 Einregulierung der Gasregelstrecke
+#### Einregulierung der Gasregelstrecke
 
 Vor Inbetriebnahme der Gasregelstrecke beziehungsweise des BHKW ist die Gasleitung bis zum Anschlussstutzen des BHKW zu entlüften. Zudem ist eine Dichtheitskontrolle der Gaskomponenten respektive deren Anschlüsse vorzunehmen (Seifenwasserspray).
 
@@ -730,13 +730,13 @@ Die Funktionskontrolle der Lambdaregelung und die Einstellung deren Sollwerte ka
  	Die Einstellung von Nulldruckregler, Haupteinstellschraube, -Regelung und Drehzahlregler beeinflussen sich gegenseitig. Änderungen bei einer Komponen-te können sich auch auf die Arbeit der anderen Komponenten auswirken.
 So sind bei einer Neueinstellung einer Komponente meistens auch die anderen Regelkomponenten nachzujustieren.
 
-#### 7.5.4 Verbrennungsluftzufuhr
+#### Verbrennungsluftzufuhr
 
 Die Verbrennungsluft wird über Lüftungsschlitze an der Hinterseite des BHKW durch den Motor in den kalten Bereich der Schalldämmhaube angesogen. Im Luftfilter werden feste Partikel in der Luft zurückgehalten. 
 
 Vom Filter gelangt die Luft direkt zum Gasmischer (Venturi), wo es zur Vermischung mit dem Gas und damit zur Bildung der Verbrennungsmischung kommt. Über den Ansaugkollektor strömt das Gemisch in den Motor zur Verbrennung. 
 
-#### 7.5.5 Aufbereitung Verbrennungsgemisch
+#### Aufbereitung Verbrennungsgemisch
 
 Der Motor erzeugt im Ansaugkollektor einen Unterdruck und saugt auf diese Weise die Verbrennungsluft an.
 
@@ -746,7 +746,7 @@ Damit wird die notwendige Gasmenge radial am engsten Querschnitt des Venturi ang
 
 Die Wartung der Gasregelstrecke wird durch Servicetechniker der Servicefirma durchgeführt und ist ein Bestandteil der Anlagewartung gemäss Wartungsplan.
  
-#### 7.5.6 Wartung der Gasregelstrecke
+#### Wartung der Gasregelstrecke
 
 Die Kontrolle und Wartung der Gasregelstrecke ist grundsätzlich ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt. 
 
@@ -759,11 +759,11 @@ Das Betriebspersonal ist verantwortlich und angewiesen, fol-gende Kontrollen wö
 
  	Unbefugten nicht qualifizierten Personen ist es untersagt Montage- oder Einstel-larbeiten an der Gasregelstrecke ausser- und innerhalb des BHKW vorzuneh-men.
  
-### 7.6 Leistungsregelung
+### Leistungsregelung
 
 Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 
-#### 7.6.1 Komponenten der Leistungsregulierung
+#### Komponenten der Leistungsregulierung
 
 <div align="center">
   <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="300">
@@ -776,7 +776,7 @@ Legende:
 4	Steuersystem IS-GAS
 5	Steuerschrank
 
-#### 7.6.2 Funktionsbeschreibung der Leistungsregulierung
+#### Funktionsbeschreibung der Leistungsregulierung
 
 Die Hauptkomponenten der Leistungsregulierung bilden der vom Steuersystem IS-GAS ange-steuerte Stellmotor sowie die Drosselklappe. Diese beiden Komponenten sind über einen Seilzug verbunden.
 
@@ -785,17 +785,17 @@ Die Drehzahl bei einem Synchrongenerator ist stets konstant und ist durch die Po
 Während den Startvorbereitungen öffnet der Stellmotor (Aktuator) die Drosselklappe auf die vorgegebene Startposition und regelt anschliessend auf den vorgegebenen Sollwert.
 Die Stillsetzung der Anlage erfolgt in umgekehrter Reihenfolge der vorher beschriebenen Proze-dur.
  
-#### 7.6.3 Einregulierung und Wartung der Leistungsregulierung
+#### Einregulierung und Wartung der Leistungsregulierung
 Die Einregulierung respektive das Ändern von Parametern der Leistungsregulierung darf nur durch geschulte Servicetechniker ausgeführt werden.
-#### 7.6.4 Wartung der Leistungsregulierung
+#### Wartung der Leistungsregulierung
 Die Kontrolle und Wartung der Leistungsregulierung ist ein Bestandteil der technischen Anlage-wartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
 
  	Eingriffe am Hebelmechanismus und Seilzug können Störungen im BHKW-Betrieb verursachen. Vor allem sind Fehler im Startvorgang und in der Leis-tungsregulierung zu erwarten.
  
-### 7.7 Abgassystem
+### Abgassystem
 Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach der Rückkühlung im Abgaswärmetauscher werden die Abgase über eine Abgasleitung abgeführt.
 
-#### 7.7.1 Komponenten und Schema des Abgassystems
+#### Komponenten und Schema des Abgassystems
 
 <div align="center">
   <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="300">
@@ -808,10 +808,10 @@ Legende :
 	3	Katalysator		7	Kompensator
 	4	Lambdasonde		8	Kompensator
 
-#### 7.7.2 Beschreibung der Abgassystems
+#### Beschreibung der Abgassystems
 Die Abgase werden über die Auslassventile im Zylinderkopf ausgestossen und gelangen direkt in oben liegenden Abgaswärmetauscher. Hier wird die Wärmeenergie aus den Abgasen auf den Sekundärkreislauf übertragen. Vor der Rückkühlung durchströmen die Abgase den im Abgas-wärmetauscher integrierten Katalysator. Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den Schalldämpfer. Danach werden die Abgase senkrecht nach oben aus der Schalldämmhau-be geführt, wo über einen weiteren Kompensator der Anschluss an die bauseitige Abgasleitung erfolgt. Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Abgassysteme.
  
-#### 7.7.3 Eigenschaften der Abgase
+#### Eigenschaften der Abgase
 
 Erdgas	Klär-, Biogas	
 Abgastemperatur am Austrittsflansch	110 - 130	130 - 160	°C
@@ -821,7 +821,7 @@ Abgasvolumenstrom bei 120 °C	151	178	m3/h
 Abgasgeschwindigkeit am Austrittsflansch (120°C)	21	25	m/s
 Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400°C auf 120 C abgekühlt werden. Während des Betriebs können die Ab-gastemperaturen ca. 110 – 160 C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
-#### 7.7.4 Material der Abgasleitung
+#### Material der Abgasleitung
 Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
 
 Damit können für die Abgasleitung folgende Materialien verwendet werden:
@@ -830,7 +830,7 @@ Damit können für die Abgasleitung folgende Materialien verwendet werden:
 
  	Bei zu grossen Querschnitten der Abgasleitung können Resonanzen und entsprechende Schallprobleme entstehen.
 	
-#### 7.7.5 Konstruktion der Abgasleitung
+#### Konstruktion der Abgasleitung
 •	Die Abgasableitung der BHKW-Anlage muss die vorgeschriebenen Normen erfüllen und eine entsprechende VKF-Zulassung aufweisen.
 •	In der Abgasleitung einer BHKW-Anlage herrscht stets Überdruck. Aus diesem Grund muss die Abgasleitung gasdicht bis min. 10 mbar (1000 Pa) sein.
 •	An der tiefsten Stelle der Abgasleitung, idealerweise vor Anschluss an das BHKW muss ein Kondensatabscheider mit einer Syphonierung (200 mm) montiert werden.
@@ -840,13 +840,13 @@ Damit können für die Abgasleitung folgende Materialien verwendet werden:
 
  	Eine nachträgliche Wärmeisolierung von einwandigen Abgasleitungen ist unter Umständen nicht erlaubt (siehe VKF-Zulassung der verwendeten Abgasleitung)
  
-### 7.8 Rauchgasbehandlung
+### Rauchgasbehandlung
 Zur Reduktion der Abgasemissionen werden je nach Betriebsstoff zwei unterschiedliche Reini-gungssysteme verwendet:
 2.	Mittels Dreiwegkatalysator: Dieses System kann bei Verwendung von Erd- oder Flüssiggas erfolgen. Der Einsatz von Dreiweg- oder Oxidationskatalysatoren ist bei der Verwendung von Biogas nicht möglich, da die Verunreinigungen im Biogas Ablagerungen im Katalysator verur-sachen und damit dessen Funktion verunmöglicht.
 3.	Durch Verbrennung des Gas-Luftgemisches mit Sauerstoffüberschuss (Magermotor). Diese Methode gelangt vor allem bei der Verwendung von Bio- und Klärgas zum Einsatz.
 In beiden Systemen wird eine Lambdaregelung eingesetzt, welche die Gaszufuhr zum Gasmi-scher derart dosiert, dass während des Betriebs im Venturi immer ein konstantes Gas- Luftge-mischverhältnis entsteht.
 
-#### 7.8.1 Funktion der Lambdaregelung
+#### Funktion der Lambdaregelung
 
 Die Lambdaregelung ist im Steuersystem IS-GAS integriert. Sie dosiert die Gasmenge in den Venturimischer derart, dass während des Betriebs im Venturi immer ein konstantes Gas-, Luftgemischverhältnis entsteht.
 Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den Abgasen. Dieser Sauerstoffgehalt wird mit einer Lambdasonde gemessen, welche ein entsprechendes Spannungssignal (U=700mV bei Lambda=1 mit Dreiwegkatalysator oder U= 30mV bei Lambda=1.5 mit Magermotor) an die Lambdaregelung übermittelt. Aufgrund dieses Signals erteilt das Steuersystem dem Schrittmotor des Dosierventils den Befehl zum Öffnen oder Schliessen.
@@ -854,7 +854,7 @@ Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den
 Die Lambdaregelung besteht aus einem Regelalgorithmus, welcher im Steuersystem IS-GAS integriert ist. Beim START-Befehl des BHKW wird dieser Regelalgorithmus aktiviert. Dabei schliesst das Dosierventil komplett, wodurch sich die Regelung eine Referenzposition sucht. Da-nach öffnet das Dosierventil auf die vorgegebene Startposition und wartet den Start der Anlage ab. Nach dem Anlagestart bleibt das Ventil in dieser Position, bis die vorgegebene Aufwärmzeit für die Lambdasonde abgelaufen ist. Nach Ablauf dieser Zeit beginnt es das Gasgemisch in Ab-hängigkeit der Lambdasondenspannung zu regulieren.
 Nach dem STOP-Befehl des BHKW wird der Regelalgorithmus gleichzeitig mit den anderen Systemen der Anlage ausgeschaltet respektive deaktiviert. Das Regelventil bleibt in der vor dem Ausschalten gehaltenen Lage.
 
-#### 7.8.2 Funktion des Dreiwegkatalysator
+#### Funktion des Dreiwegkatalysator
 
 Für den Betrieb mit Dreiwegkatalysator reguliert die Lambdaregelung die Gasmenge in den Venturimischer so, dass das Verbrennungsgemisch stets stöchiometrisch verbrannt wird. Von einem stöchiometrischen Verbrennungsgemisch oder einem Gemisch Lambda = 1 spricht man, wenn in den Abgasen kein Sauerstoff O2 mehr enthalten ist. 
 
@@ -862,7 +862,7 @@ Dies ist die Voraussetzung für die chemische, katalytische Reaktion der Schadst
 
 Als Schutz für den Katalysator wird die Abgastemperatur nach dem Katalysator permanent mit einem Thermoelement gemessen. Übersteigt die Abgastemperatur den vorgegebenen Sollwert, wird das BHKW über das Steuersystem abgeschaltet. Ein Anstieg der Abgastemperatur nach dem Katalysator erfolgt vor allem dann, wenn das Verbrennungsgemisch durch einen Defekt in der Lambdaregelung nicht stöchiometrisch verbrennt oder infolge einer defekten Zündkerze unverbranntes Gas in den Katalysator gelangt, wo eine Nachverbrennung erfolgt.
  
-#### 7.8.3 Funktion des Oxidationskatalysator
+#### Funktion des Oxidationskatalysator
 
 Oxidationskatalysatoren werden ausschliesslich für den Betrieb mit Magermotoren eingesetzt. Beim Magermotor erfolgt die Verbrennung mit Luftüberschuss, wodurch sich die NOx- und CO-Emissionen stark reduzieren. Zusätzlich können die CO-Emissionen durch den Einsatz eines Oxidationskatalysators weiter reduziert werden. 
 
@@ -870,15 +870,15 @@ Die Lambdaregelung sorgt bei diesem Verfahren wie beim 3-Wegkatalysator für ein
 
 Grundsätzlich funktioniert der 3-Wegkatalysator auch als Oxidationskatalysator. Beim Betrieb des Magermotors findet die Reduktion der Stickoxide zu Stickstoff nicht statt.
 
-#### 7.8.4 Wartung der Rauchgasbehandlung 
+#### Wartung der Rauchgasbehandlung 
 Die Kontrolle und Wartung der Rauchgasbehandlung ist ein Bestandteil der technischen Anlage-wartung gemäss Wartungsplan und können nur in Kombination mit einem Abgasanalysegerät durchgeführt werden. Arbeiten bezüglich Rauchgasbehandlung können daher ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt werden.
 
  	Jede Änderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
  
-### 7.9 Schmierölsystem
+### Schmierölsystem
 Das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
 
-#### 7.9.1 Komponenten und Schema des Schmierölsystems
+#### Komponenten und Schema des Schmierölsystems
 
 <div align="center">
   <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="300">
@@ -890,12 +890,12 @@ Legende :
 	2	Ölwanne Motor				5	Ölablasshahn
 	3	Niveauschalter Reservoir
 	
-#### 7.9.2 Funktionsbeschrieb des Ölsystems
+#### Funktionsbeschrieb des Ölsystems
 Um die Schmierölkapazität der BV684 SBTLK und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
 
 Diese entstehen vor allem beim Start und Stopp des Aggregats, wo der Motor mit Ölfilter gefüllt respektive entleert wird. Ein Niveauschalter im Ölre-servoir überwacht das Ölniveau im Ölsystem und schaltet das Aggregat bei Unterschreitung des minimalen Niveaus über einen binären Kontakt ab.
  
-#### 7.9.3 Ölwechsel
+#### Ölwechsel
 Das Ölwechselintervall ist von den eingesetzten Brenngasen abhängig und ist durch anfängliche, regelmässige Ölanalysen festzulegen (siehe Wartungsplan).
 Um das Altöl möglichst vollständig abzulassen, wird empfohlen den Ölwechsel mit heissem Öl vorzunehmen.
 
@@ -905,7 +905,7 @@ Da sich der Ölablasshahn im unteren Bereich des BHKW-Moduls befindet, ist es no
 
 Je nach den Ergebnissen der Ölanalysen wird das Öl im Reservoir jedes 2. Mal gewechselt.
 
-#### 7.9.4 Wartung des Ölsystems
+#### Wartung des Ölsystems
 
 Die Kontrolle und Wartung des Ölsystems ist grundsätzlich ein Bestandteil der technischen Anla-gewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
 Vom Betriebspersonal können bezüglich dem Ölsystem folgende Wartungsarbeiten durchgeführt werden:
@@ -924,9 +924,9 @@ Die Verwendung von anderen Motorölen kann einen Verlust der Garantiean-sprüche
  	Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
 
  
-### 7.10	 Zündanlage
+### Zündanlage
 Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches im Gasmotor-Verbrennungsraum mittels eines Funkensprungs bei den Zündkerzen. 
-#### 7.10.1 Komponenten der Zündanlage
+#### Komponenten der Zündanlage
 
 <div align="center">
   <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="300">
@@ -937,7 +937,7 @@ Legende :	1	Einspeisung von Batterie	5	Zündspulen
 	3	Hallgeber	7	Zündkabel
 	4	Pick-Up induktiv
  
-#### 7.10.2 Funktionsbeschrieb der Zündanlage
+#### Funktionsbeschrieb der Zündanlage
 Die Austrittsignale (Zündimpulse auf die einzelnen Zündspulen) werden wie folgt generiert:
 •	Signal vom Hallgeber ab Nockenwelle für RESET (Impuls alle 720°)
 •	Signal vom Pick-Up beim Schwungradkranz (Impuls alle 180°)
@@ -952,7 +952,7 @@ OFF	0	0	0	0	0	0	0
 RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. Das Ende des RESET-Signals synchronisiert die Zün-dung so, dass nach Ende des nächstfolgenden Pick-Up Signals ab Kurbelwelle die Zündkerze im Zylinder 1 (C1) mit der definierten Verzögerung (90°-180°) zündet (bei DIP Nr. 8 = ON). Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360° neu definiert werden.
  
  
-#### 7.10.3 Einstellung der Zündanlage
+#### Einstellung der Zündanlage
 Für eine korrekte Funktion der Zündanlage müssen folgende Grundeinstellungen vorgenommen werden: 
 Zündkerze
 Die Wahl der richtigen Zündkerze ist stark vom verwendeten Brenngas abhängig. Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze. Der Einsatz von Platin- oder Iridiumzündkerzen ist hier in den meisten Fällen unumgänglich. Folgende Zündkerzen können eingesetzt werden:
@@ -965,15 +965,15 @@ Betrieb mit Erdgas:	24° vor O.T.
 Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
 Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 “Funktionsbeschrieb der Zündanlage“).
 
-#### 7.10.4 Wartung der Zündanlage
+#### Wartung der Zündanlage
 Die Kontrolle und Wartung der Zündanlage ist ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
 
  	Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
 
  	Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisier-tem Fachpersonal ausgeführt werden. Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen. Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
  
-## 8 Betriebsstoffe
-### 8.1 Brenngase
+## Betriebsstoffe
+### Brenngase
 
 Die Blockheizkraftwerke von BES können mit verschiedenen Brenngasen betrieben werden. Nachfolgend sind die wichtigsten Brenngase und ihre minimalen Anforderungen aufgeführt.
 8.1.1	Biogas
@@ -1002,7 +1002,7 @@ Bei der Verbrennung dieses Gases bildet sich Siliziumoxid (nichts anderes als Sa
 Die Probleme aufgrund von Siliziumablagerungen in Motoren und in den Zylinderköpfen nehmen tendenziell zu.
 Um bei Bedarf diesem Problem entgegenzutreten, empfehlen wir das Klärgas vor Eintritt in den Motor mittels Aktivkohlefilter von Siloxanen zu reinigen. Alternativ oder ergänzend zum Aktiv-kohlefilter kann das Klärgas bis unter die Kondensationstemperatur abgekühlt werden, wodurch kann ein Teil der Siloxane über das Kondensat ausgeschieden wird.
  
-#### 8.1.2 Erdgas
+#### Erdgas
 Das in der Schweiz angebotene Erdgas erreicht uns über Versorgungsleitungen aus Holland, der Nordsee, Deutschland, Frankreich, Italien und den GUS. Je nach Herkunft hat das Gas ver-schiedene Zusammensetzungen, was sich vor allem auf den Heizwert auswirkt. Den effektiven Brennwert Ho respektive Heizwert Hu muss bei der lokalen Gasversorgung nachgefragt werden. In unserer Dokumentation wird mit einem Gas-Heizwert Hu = 9.3 kWh/m3 (Ho = 10.3 kWh/m3) gerechnet, was dem Holland-Gas entspricht.
 
 Brennwert Ho	10.30	kWh/m3	Methanzahl MZ	86	-
@@ -1011,7 +1011,7 @@ Methangehalt CH4	83.57	Vol.-%	Zündtemperatur	640	°C
 min. Methanzahl MZ	80	-	
 
  	Manche Gaswerke mischen zur Spitzenabdeckung ein Propan/Luft-Gemisch dem Erdgasnetz bei. Dadurch verringert sich die Methanzahl (vergleichbar mit der Oktanzahl bei Benzinmotoren), was sich negativ auf die motorische Ver-brennung auswirkt und zu Motorenschäden führen kann. Diesbezüglich sind Informationen beim örtlichen Gaswerk einzuholen.
-#### 8.1.3 Propangas
+#### Propangas
 Propan und Butan sind leichte Kohlenwasserstoffe, die bei der Verarbeitung von Erdöl in Raffi-nerien gewonnen werden. Sie sind bei Atmosphärendruck gasförmig und lassen sich unter ge-ringem Überdruck verflüssigen. Daher stammt auch die Kurzbezeichnung “LPG“, die Anfangs-buchstaben der englischen Bezeichnung “Liquified Petroleum Gases“ (verflüssigte Petroleumga-se).
 Im Vergleich zum Erdgas, lässt sich Propan in relativ leichten, dünnwandigen Behältern transpor-tieren und aufbewahren (erdverlegte oder oberirdische Tanks). Daher kommt Propan in den Ge-bieten zum Einsatz, welche nicht durch das Erdgasnetz erschlossen sind.
 
@@ -1019,7 +1019,7 @@ Brennwert Ho	28.30	kWh/m3	Methanzahl MZ	35	-
 Heizwert Hu	25.88	kWh/m3	Dichte n	2.01	kg/m3
 Propangehalt C3H8	100.00	Vol.-%	Zündtemperatur	510	°C
  
-### 8.2 Motorkühlflüssigkeit
+### Motorkühlflüssigkeit
 
 Ziel und Zweck dieser Mindestanforderungen ist es, Steinbildung (Kalkablagerungen), Schlammablagerungen, wasserseitige Korrosionsschäden und Frostschäden im Motorkühlkreis-lauf zu verhindern.
 Aufgrund der relativ kleinen Wassermenge beschränken sich die Probleme bezüglich Kühlmittel-flüssigkeit mehrheitlich auf Schlammablagerungen und Korrosion. Letztere entsteht durch unter-schiedliche Spannungspotentials aufgrund von unterschiedlichen Materialien im Primärkreislauf. Diese sogenannte Spannungskorrosion kann verhindert werden, wenn der Flüssigkeit die elekt-rolytischen Eigenschaften entzogen werden. Dies erfolgt durch die Mischung von
@@ -1035,7 +1035,7 @@ Mischverhältnis	40	% Ethylenglykol (siehe Angaben Hersteller)
  	Der Frostschutzzusatz muss den allgemeinen Anforderungen gemäss ASTM D3306/D4656/D4985 entsprechen.
 Bezüglich Mischbarkeit von Frostschutzzusätzen mit dem Hersteller oder Liefe-ranten Rücksprache zu nehmen.
 
-### 8.3 Heizwasser
+### Heizwasser
 
 Ziel und Zweck dieser Mindestanforderungen ist es, Steinbildung (Kalkablagerungen), Schlammablagerungen und wasserseitige Korrosionsschäden im Heizwasserkreislauf zu verhin-dern. Die nachfolgenden Mindestanforderungen lehnen sich an die Richtlinie 97-1 des SWKI.
 Blockheizkraftwerke sind mit diversen Platten- und Rohrbündelwärmetauschern ausgestattet. Diese sind empfindlich auf die oben beschriebenen Verunreinigungen. Insbesondere Kalk- und Schlammablagerungen beeinträchtigen die Wärmeübertragung massiv und sind daher haupt-verantwortlich für thermische Probleme.
@@ -1049,7 +1049,7 @@ Sulfate SO42-	<50	mg/l
 Sauerstoff	<0.02	mg/l
 
  
-### 8.4 Schmieröl
+### Schmieröl
 
 Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motor-standzeiten. Folgende Motorenöle können für das BIBLOC BV eingesetzt werden:
 
@@ -1057,34 +1057,34 @@ Hersteller	Erd- Flüssiggas	Bio- Klärgas
 Blaser AG	BES-spezial 	BES -spezial
 MOBIL	Pegasus 1 (vollsynthetisch)	Pegasus 1 (vollsynthetisch
 
-## 9 Einspeisung der elektrischen Energie
+## Einspeisung der elektrischen Energie
 
 Sie erfolgt über den BHKW-Schaltschrank und einer Absicherung in der Hauptverteilung. Der Schaltschrank mit der integrierten Steuereinheit übernimmt alle Schalt-, Steuer- und Kontroll-funktionen, die für den störungsfreien Betrieb der BHKW-Anlage notwendig sind. 
 
-### 9.1 Schaltschrank
+### Schaltschrank
 Der Schaltschrank ist schwenkbar seitlich an das BIBLOC BV montiert. Sämtliche elektri-schen und elektronischen Baugruppen (Fühler, Pumpe, Generator etc.) sind auf den Schalt-schrank verdrahtet. Die Zuleitung des Leistungs- und Steuerkabel erfolgt durch M-Verschraubungen an der Unterseite des Schaltschranks.
 
-### 9.2 Anschluss der BHKW-Anlage ans Netz
+### Anschluss der BHKW-Anlage ans Netz
 Der Anschluss ans Netz erfolgt über ein Leistungskabel ab den Klemmen im BHKW-Schaltschrank in die zugewiesene Unter- oder Hauptverteilung. Die Anschlussleitungen auf das BHKW müssen entsprechend dem Leiterquerschnitt abgesichert werden.
 
-### 9.3 Leistungsteil
+### Leistungsteil
 Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit berechnet. Die vorge-sehene Beständigkeit gegenüber technisch bedingten Kurzschlüssen ist in den technischen Be-dingungen des Schaltschrankes angeführt. Bei der Berechnung der Kurzschlussverhältnisse in der Anschlussstelle ist es manchmal nötig, mit dem Kurzschlussstrom des Generators zu rech-nen. Beim verwendeten Generator ist der Kurzschlussstrom kleiner als das zehnfache des Nennstromes.
 
-### 9.4 Schutzeinrichtungen
+### Schutzeinrichtungen
 
-#### 9.4.1 Schutz vor nichtionisierender Strahlung
+#### Schutz vor nichtionisierender Strahlung
 Max. Strom mit cos * 0.81: 55 A 	(bei 30 kW)
 	magnetische Flussdichte BG = o * A/2r = 1.257 10-6 * 55/2 = 11 T
 	(Grenzwert nach NISV 814.710: 100 T)
 	
-#### 9.4.2 Generatorschutz
+#### Generatorschutz
 
 Schutzart	Einstellung	Schutzgerät
 Überstrom- thermische Auslösung	Nennstrom der Anlage IN	Schutzschalter
 Kurzschluss- magnetische Auslösung	5 x IN, unverzögert	Schutzschalter
 Der Überstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, das Modul (Generator) und teilweise auch die Zuleitung vor Überstrombelastungen.
  
-#### 9.4.3 Schutz im Parallelbetrieb mit dem Netz
+#### Schutz im Parallelbetrieb mit dem Netz
 Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BIBLOC BV mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Überwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
 Von der Netzüberwachung werden folgende Parameter überwacht:
 
@@ -1101,7 +1101,7 @@ Rückleistungschutz	1500 W; verzögert 5 - 10s	Steuersystem IS-GAS
 Drehzahlschutz	105 - 115% Nennumdrehungen	Steuersystem IS-GAS
 Der Rückleistungsschutz schützt das BHKW vor einer Beschädigung im Falle eines Leistungs-verlustes des Motors. Dabei käme es zu einem motorischen Generatorbetrieb, der vor allem den Motor beschädigen könnte. Die Kontrolle der Rückleistung wird durch vergleichen des voreinge-stellten Grenzwertes mit der Nennwirkleistung durchgeführt.
 Der Überdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz im Falle einer Über- oder Unterdrehzahl des Generators. Die Drehzahl wird durch das Signal des Drehzahlge-bers (Pick-up) und anhand der Anzahl Zähne auf dem Anlasserkranz durch das Steuersystem IS-GAS errechnet und ausgewertet.
-#### 9.4.4 Rückwirkungen der BHKW-Anlage auf das Netz
+#### Rückwirkungen der BHKW-Anlage auf das Netz
 Einfluss auf den Netzanschluss:
 Das BIBLOC BV wird über den Generator, welcher während des Starts als Elektromotor ein-gesetzt wird, in Betrieb gesetzt. Um hohe Anlaufströme zu vermeiden erfolgt die Zuschaltung über eine Stern-Dreieckschaltung.
  
@@ -1109,17 +1109,17 @@ Oberschwingungen:
 Allfällige Oberschwingungen des Generators sind konstruktionsbedingt. Für das BHKW vom Typ BIBLOC BV werden moderne Generatoren verwendet, welche die geltenden EU-Normen und Vorschriften erfüllen.
 Übrige Störungen:
 Im BHKW-Schaltschrank sind weder Kreisläufe mit starken Nieder- oder Hochfrequenzsignalen, Zerhackern, Impulsquellen, noch andere Einrichtungen, welche Störungen im öffentlichen Netz verursachen könnten, integriert.
-#### 9.4.5 Sternpunktbehandlung
+#### Sternpunktbehandlung
 Nullleiter des Generators wird nicht herausgeführt
 
-### 9.5 Blockschema der elektrischen Einbindung
+### Blockschema der elektrischen Einbindung
  
 <div align="center">
   <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="200">
 </div>
-## 10	Steuerung der BHKW-Anlage
+## Steuerung der BHKW-Anlage
 
-### 10.1 Bedienfeld des Schaltschrank
+### Bedienfeld des Schaltschrank
 
 <div align="center">
   <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="200">
@@ -1130,11 +1130,11 @@ Legende :
 2	Schlüsselschalter für Zugriff in die Steuerung
 3	Not-Aus Schalter
 
-#### 10.1.1 Steuersystem IS-GAS
+#### Steuersystem IS-GAS
 Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BIBLOC BV. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
-#### 10.1.2 Schlüsselschalter Steuerung Ein/Aus
+#### Schlüsselschalter Steuerung Ein/Aus
 Dieser Schlüsselschalter ermöglicht die komplette Sperrung der BIBLOC BV indem die Ver-sorgung der Steuereinheit mit 12 VDC unterbrochen wird. Das Einschalten des Aggregats durch nichtautorisierten Personen kann damit unterbunden werden.
-#### 10.1.3 Not-Aus Schalter
+#### Not-Aus Schalter
 Der Not-Aus Schalter dient zur Notabschaltung der BIBLOC BV. Durch Drücken des Not-Aus Tasters entkoppelt sich die Anlage sofort vom Netz und schaltet unverzögert ab. 
 
  	Der Not-Aus Schalter darf nur im Notfall verwendet werden.
@@ -1146,9 +1146,9 @@ Der Not-Aus Schalter dient zur Notabschaltung der BIBLOC BV. Durch Drücken des 
 Der Not-Aus Schalter darf nur im Notfall verwendet werden.
 _________________________________________________________________________
 
-## 11 Steuersystem ComAp IS GAS
+## Steuersystem ComAp IS GAS
 
-### 11.1 Allgemeine Beschreibung
+### Allgemeine Beschreibung
 
 Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BIBLOC BV entwickelt worden und ist direkt im Schaltschrank integriert. 
 
@@ -1170,7 +1170,7 @@ Den Hand- respektive Automatik-Modus.
 
 Bei beiden Betriebsmodi kann die Leistung manuell über die Bedieneinheit des Steuerungssystems eingestellt werden oder automatisch anhand des vorhandenen Stromverbrauchs reguliert werden (optional).
 
-### 11.2	 Aufgaben des Steuersystems IS-GAS
+### Aufgaben des Steuersystems IS-GAS
 Für den Betrieb des BIBLOC BVübernimmt das Steuersystem folgende Aufgaben:
 
 •	sammelt sämtliche gemessene Betriebsparameter und garantiert mit entsprechend vorgege-benen Grenzwerten den Schutz von Maschine und Personen
@@ -1191,7 +1191,7 @@ Für den Betrieb des BIBLOC BVübernimmt das Steuersystem folgende Aufgaben:
 
 •	verbindet mehrere IS-GAS–Steuersysteme bei Mehrmodulanlagen.
  
-### 11.3	 Das Operations-Panel
+### Das Operations-Panel
 
 Das Bedienfeld des Steuersystems IS-GAS ist wie folgt eingeteilt:
 
@@ -1199,7 +1199,7 @@ Das Bedienfeld des Steuersystems IS-GAS ist wie folgt eingeteilt:
 •	Grafisches Display
 •	Funktionstasten
  
-#### 11.3.1 Leuchtdioden
+#### Leuchtdioden
 
 Die Zustandssignalisation der wichtigsten elektrischen Komponenten erfolgt über Leuchtdioden, welche über einem einfachen Prinzipschema angeordnet sind. 
 
@@ -1228,13 +1228,13 @@ Die Leuchtdioden zeigen folgende Zustände an:
 •	rote Diode über Netzkoppelschalter:
 	Es liegt eine Netzstörung vor
  
-#### 11.3.2 Grafisches Display
+#### Grafisches Display
 Das Display mit Hintergrundbeleuchtung hat eine Auflösung von 128 x 64 Pixel. 
 
 Damit können sämtliche Informationen bezüglich Betriebszuständen und Parameter abgerufen werden. 
 Die verschiedenen Informationen sind in Menüs eingeteilt (siehe Kapitel 6.4).
 
-#### 11.3.3 Funktionstasten
+#### Funktionstasten
 
 Um Einstellungen, Änderungen oder Messwerte abzurufen, stehen Funktionstasten zur Verfügung.
  
@@ -1260,8 +1260,9 @@ Im Modus OFF haben die Tasten keine Funktion und im AUTO-Modus ist nur die Taste
  
 Die Tasten HORN RESET und ON/OFF werden für die Steuerung der BIBLOC Micro nicht verwendet und haben somit keine Funktion.
  
-### 11.4 Die Menüs
-#### 11.4.1 Menü Messung
+### Die Menüs
+
+#### Menü Messung
 
 Beim Einschalten des Steuersystems IS-GAS und einer Initialisierung wird zuerst das Menü Messung angezeigt. 
 Auf der ersten Seite ist die momentane elektrische Leistung grafisch dargestellt.
@@ -1287,7 +1288,7 @@ Wird die Taste   nochmals gedrückt gelangt man wieder zur 1. Seite mit der graf
  
  	Wird anstelle der Taste   (AB) die Taste   (AUF) gedrückt, werden die Seiten im Menü Messung in umgekehrter Reihenfolge abgerufen. Um die Alarmliste oder die Statistik schneller abzurufen empfiehlt sich daher die Taste AUF zu benutzen
 
-#### 11.4.2 Menü Parameter
+#### Menü Parameter
 Im Menü Parameter können sämtliche Betriebsparameter aufgerufen und eingestellt werden. Die Parameter sind in Parametergruppen unterteilt.
 
  	Die Änderung von Parameter, welche mit “*“ bezeichnet sind, können die Si-cherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. Der Zugriff auf diese Parameter ist codiert.
@@ -1298,7 +1299,7 @@ Der gewünschte Parameter kann nun mit der PFEIL-Taste ausgewählt und mit ENTER
 Sofern der Parameter nicht mit einem “*“ bezeichnet ist, kann der Parameterwert mit den PFEIL-Tasten verändert werden.
  
  
-#### 11.4.3 Menü History
+#### Menü History
 Sämtliche Änderungen in der Betriebsart, Ein- oder Abschaltungen sowie Fehler- und Alarmmeldungen werden in einem History-Register gespeichert. Während dem Betrieb wird stündlich eine Kontrolle aller Parameter durchgeführt.
 
 Dieser Vorgang wird als “Periodische Abtastung“ in der History hinterlegt.
@@ -1345,9 +1346,9 @@ Durch drücken der Taste ENTER wer-den die einzelnen Spalten angezeigt.
 
  
  
-### 11.5 Ändern von Parametern
+### Ändern von Parametern
 
-#### 11.5.1 Service-Code eingeben
+#### Service-Code eingeben
 
 Alle Parameter, welche mit einem “*“ bezeichnet sind, können nur geändert werden, wenn der Servicecode gegeben wird. Diese Parameter dürfen grundsätzlich durch den Servicetechniker geändert werden.  
  
@@ -1360,7 +1361,7 @@ Mit den PFEIL-Tasten kann nun die Code-Zahl eingestellt und mit ENTER bestätigt
  
 	Die Anlage wird erst dann wieder freigegeben, wenn die Wartung ausgeführt worden ist und die Betriebsstundenzahl für den nächsten Service neu eingestellt worden ist.
 	
-#### 11.5.2 Einstellen der Servicestunden
+#### Einstellen der Servicestunden
 Nach jedem Service muss die Betriebsstundenzahl für die nächste Wartung neu eingegeben werden. Damit wird dem Betriebspersonal über das Display angezeigt, wann die nächste periodi-sche Wartung fällig ist. 
  
 
@@ -1376,7 +1377,7 @@ Sofern der Parameter mit einem * bezeichnet ist, muss vorgängig der Servicecode
 
 Beispiel:	Das Serviceintervall beträgt 800 h und das BHKW hat zur Zeit 6400 Betriebsstunden. Die nächste Wartung erfolgt daher bei 7200 Betriebsstunden.
  
-#### 11.5.3 Einstellen der maximalen Servicestundenüberschreitung
+#### Einstellen der maximalen Servicestundenüberschreitung
 Um zu verhindern, dass die BHKW-Anlage den vorgegebenen Wartungsintervall nicht zu lange überschreitet, kann über den Parameter ServUeberschri die maximal zulässige Service-stundenüberschreitung eingestellt werden. Wird die Wartung bis zu diesem Zeitpunkt nicht durchgeführt, schaltet das BHKW ab. 
  
 
@@ -1391,12 +1392,12 @@ Sofern der Parameter mit einem “*“ be-zeichnet ist, muss vorgängig der Ser-
  
 Beispiel:	Die maximale Servicestundenüberschreitung beträgt 100 h. Der nächste periodische Service ist bei 7200 Betriebsstunden fällig. Ist die Wartung bis 7300 Betriebsstunden nicht durchgeführt worden, schaltet das BHKW ab.
  
-### 11.6	 Die Betriebsmodi
+### Die Betriebsmodi
 #### 11.6.1 Einschalten des Steuersystem IS-GAS
 
 Das Steuersystem wird mittels Schlüsselschalter (siehe Kapitel 5.1 Position 2) eingeschaltet. Damit erfolgt die Spannungsversorgung 12 VDC des Steuersystems.
 Das Display leuchtet auf und nach einer kurzen Initialisierung, wird das Menü Messung ange-zeigt (grafische Darstellung der elektrischen Leistung). Dabei schaltet das Steuersystem in den Betriebsmodus, in dem das BHKW vor der Abschaltung war.
-#### 11.6.2 Betriebsmodus “AUT“
+#### Betriebsmodus “AUT“
 Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung “AUT“ (automa-tisch) angezeigt. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld “VORBEREITET“ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
 START-Prozedur
 Im Automatik-Betrieb wird die Anlage über eine externe Freigabe ein- bzw. ausgeschaltet. Dies erfolgt über einen potentialfreien Kontakt, welcher an Klemmen im Schaltschrank angeschlos-sen wird. Bei geschlossenem Kontakt startet die Anlage und schaltet sich wieder ab, sobald der Kontakt geöffnet wird. Die externe Freigabe kann auf Grund eines externen Wärme-, Strom- (Spitzenstromsteuerung) oder Gasmanagements erfolgen.
@@ -1410,7 +1411,7 @@ Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die A
  	Im Mode “AUT“ bleibt die Taste STOP aktiv. Durch drücken der Taste STOP schaltet die Steuerung in den Mode “MAN“ um und beginnt mit der Stoproutine. Für einen weiteren Automatik-Betrieb muss zurück in den Mode “AUT“ gewech-selt werden.
 
  	Schaltet das BHKW in Folge einer Störung ab, startet das Aggregat nach Quit-tierung mit der Taste FAULT RESET automatisch.
-#### 11.6.3 Betriebsmodus “MAN“
+#### Betriebsmodus “MAN“
 Im Betriebsmenü ist die Bezeichnung “MAN“ (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld “VORBEREITET“ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
 START-Prozedur
 Im Unterschied zum Mode “AUT“ wird im Mode “MAN“ das Aggregat nicht durch eine externe Freigabe gestartet, sondern durch drücken der Taste START.
@@ -1420,12 +1421,12 @@ Das Abschalten des BHKW erfolgt durch drücken der Taste STOP.
 Der weitere Verlauf der Stopproutine entspricht jenem im Mode “AUT“. 
 
  	Im Mode “MAN“ reagiert das Steuersystem nicht auf ein externes Freigabesig-nal oder eine externe Leistungsregulierung.
-#### 11.6.4 Betriebsmodus “AUS“
+#### Betriebsmodus “AUS“
 Im Betriebsmenü wird die Bezeichnung “AUS“ hinterleuchtet und im rechten Textfeld erscheint “SPS Aus“ in der obersten Zeile.
 Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
  
 
-## 12 Schutzfunktionen und Sensoren
+## Schutzfunktionen und Sensoren
 Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BIBLOC BV diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
 Dazu werden alle betriebsrelevanten Daten erfasst und vom Steuersystem IS-GAS ausgewer-tet. Dies ist eine Voraussetzung zur Erfüllung der geltenden Vorschriften und verhindert schluss-endlich auch Schäden an Mensch und Maschine.
 Es bestehen zwei verschiedene Schutzarten der BHKW-Anlage:
@@ -1434,11 +1435,11 @@ Es bestehen zwei verschiedene Schutzarten der BHKW-Anlage:
 
 •	technische Schutzeinrichtungen
 
-### 12.1 elektrische Schutzeinrichtungen
+### elektrische Schutzeinrichtungen
 
 Siehe Punkt 9.4 *Schutzeinrichtungen*
 
-### 12.2 technische Schutzeinrichtungen
+### technische Schutzeinrichtungen
 Durch die technischen Schutzeinrichtungen werden mechanische und thermische Betriebszustände des BHKW-Aggregates überwacht. Dazu sind analoge und digitale Sensoren in der Maschine eingebaut.
 
 *Analoge Sensoren* messen konstant eine Messgrösse und geben diese über ein entsprechendes Signal dem Steuersystem weiter, welches das Signal in einen Messwert umwandelt und anzeigt.
@@ -1447,7 +1448,7 @@ Durch die technischen Schutzeinrichtungen werden mechanische und thermische Betr
 
 Die analogen Messwerte wie auch die digitalen Informationen können direkt auf dem Display der Bedieneinheit aufgerufen und angezeigt werden.
  
-### 12.3 Sensoren und ihre Positionierung
+### Sensoren und ihre Positionierung
 
 <div align="left">
   <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="300">
@@ -1461,7 +1462,7 @@ Legende :
 	4	Thermoelement Abgas vor WT	  9	  Wasserniveauschalter
 	5	Thermoelement Abgas nach WT	 10	  Gasdruckwächter
  
-#### 12.3.1 Übersicht der analogen Sensoren
+#### Übersicht der analogen Sensoren
 
 ##### Analog-Sensor Nr. 1
 
@@ -1534,7 +1535,7 @@ Legende :
 	Sie misst permanent den Restsauerstoff im Abgas. 
 	Der Sauerstoffgehalt im Abgas ist die Führungsgrösse für die Lambdaregelung, welche ein konstantes Verbrennungsgemisch reguliert.
  
-#### 12.3.2 Übersicht der digitalen Sensoren
+#### Übersicht der digitalen Sensoren
 
 ##### Digital-Sensor Nr. 7
 
@@ -1578,20 +1579,20 @@ Legende :
 	Sinkt der Gasdruck unter den voreingestellten Wert, schaltet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet. 
 	Damit wird das Aggregat wie auch die Gaszuleitung vor einem Gasunterdruck geschützt.
 
-## 13 Störungen und Diagnostik
+## Störungen und Diagnostik
 Überschreiten ein oder mehrere Betriebsparameter ihren vorgegebenen Grenzwert, wird das Aggregat über das Steuersystem IS-GAS abgeschaltet. Die entsprechende Fehlermeldung wird ins Fehler- und Historyregister geschrieben.
 
-### 13.1 interne Störungsursachen
+### interne Störungsursachen
 Unter internen Störungen versteht man Fehler des BHKW-Aggregates, welche auf mangelhafte oder defekte Bestandteile des BHKW zurückzuführen sind. Aber auch ungenügende Reglerein-stellungen können Fehler verursachen. Häufig entstehen diese durch betriebsbedingten Ver-schleiss von Bauteilen. Im Wartungsplan ist ein präventiver Austausch von diversen Bauteilen vorgesehen, was jedoch nicht ausschliesst, dass ein Bauteil seine vorgesehene Standzeit nicht erreicht.
 
 Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erfolgt nach Ein-gang eines Reparaturauftrages des Betreibers. Die Deckung der Reparaturkosten ist durch die im Kaufvertrag aufgeführten Garantiebestimmungen geregelt. Nach Ablauf der Garantie wird der Aufwand dem Betreiber verrechnet, sofern für die Wartung der BIBLOC BIBLOC BVkein Vollwartungsvertrag abgeschlossen wurde.
 
-### 13.2 externe Störungsursachen
+### externe Störungsursachen
 Darunter versteht man Störungen, welche auf Grund von Problemen in der Einbindung des BHKW verursacht werden. Sie sind oft auf regeltechnische und thermisch-hydraulische Proble-me des Sekundärkreises (Heizkreis) oder auf Störungen in der elektrischen Einbindung zurück-zuführen.
 Die Behebung solcher Störungen muss nicht zwingend durch BHKW-Servicetechniker ausge-führt werden, jedoch in dessen Absprache. Solche Störungsbehebungen sind in einem allfällig abgeschlossenen Vollwartungsvertrag nicht eingeschlossen und unterliegen auch nicht der Anla-gegarantie.
 Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen, welche nach Rücksprache mit Service-Abteilung der Firma BES gegebenenfalls durch den Betreiber selber behoben werden können. 
 
-### 13.3 Störungen, ihre Ursachen und Behebung
+### Störungen, ihre Ursachen und Behebung
 
 | Meldung              | Beschreibung                    | mögliche Ursachen                       | Störungsbehebung                              |
 |----------------------|---------------------------------|-----------------------------------------|-----------------------------------------------|
@@ -1847,15 +1848,16 @@ Erläuterung:
 **Fhl**		Meldungen, welche mit “Fhl“ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
 
 
-## 2. für Anlagenbenutzer
+## für Anlagenbenutzer
 	
 ### Sichtkontrollen
 [Zurück nach oben](#top)
 		
-## 3. für Servicetechniker
+## für Servicetechniker
         [...]
-## 4. für Inbetriebnahme-Techniker
-### 4.1 Vor-Inbetriebnahme
+## für Inbetriebnahme-Techniker
+
+### Vor-Inbetriebnahme {#vor-inbetriebnahme}
 
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert                | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------------|------------|----------------|
@@ -1879,7 +1881,7 @@ Erläuterung:
 | 4.1.16      |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
 | 4.1.17      |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
 
-### 4.2 elektrische Erstprüfung {#4.2}
+### elektrische Erstprüfung {#elektrische-erstprüfung}
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
 | 4.2.1       |  Sichtkontrolle 								                   |          |                     |            |☐              |
@@ -1940,7 +1942,7 @@ Erläuterung:
 | 4.2.6.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
 | 4.2.6.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |☐              |
 
-### 4.3 softwaretechnische Erstprüfung {#4.3}
+### softwaretechnische Erstprüfung {#4.3}
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
 | 4.3.1       |  IS-Gas Jumper richtig gesetzt ?                                   |  -60D1   |                     |            |☐              |
