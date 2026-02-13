@@ -32,7 +32,6 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
     'sphinx_rtd_theme',
-    "sphinx_mdinclude",
     "myst_parser",
 ]
 myst_heading_anchors = 7

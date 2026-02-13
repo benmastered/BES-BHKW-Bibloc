@@ -67,4 +67,3 @@ zipp==3.8.0
 myst-parser
 linkify-it-py
 sphinx_rtd_theme
-sphinx_mdinclude
