@@ -5,7 +5,7 @@ theme:
   navigation_depth: 6
   features:
     - navigation.instant
-    - navigation.tracking
+    - navigation.tracking   
     - navigation.tabs
     - toc.integrate
 plugins:
