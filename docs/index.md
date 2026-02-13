@@ -1929,21 +1929,15 @@ Erläuterung:
 | 4.2.5.3     |  Auslösestrom messen                                               |  -20F3   |  über I~Fehler~     |            |☐              |
 | 4.2.5.4     |  Auslösezeit  messen                                               |  -20F3   |  unter 0.03 s       |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.6       |  Erdwiderstand / Schleifenimpedanz (I~k~)                          |  -20X4   |                     |            |☐              |
+| 4.2.6       |  Funktionsprüfung                                                  |          |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.6.1     |  Z-Schleife: spannungsführendes Bauteil mit längster Leitungslänge |  -20X4   |  oder HK-Pumpe ?    |            |☐              |
-| 4.2.6.2     |  Sicherstellen, dass LS oder Sicherung schnell genug auslöst       |  -20X4   |                     |            |☐              |
-| 4.2.6.1     |  Z-Schleife bei ausgelösender Schutzeinrichtung                    |  -20X4   |  oder HK-Pumpe ?    |            |☐              |
-|             |                 								                   |          |                     |            |               |
-| 4.2.7       |  Funktionsprüfung                                                  |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-| 4.2.7.1     |  Not-Aus                                                           |  -35S2   |                     |            |☐              |
-| 4.2.7.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |☐              |
-| 4.2.7.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |☐              |
-| 4.2.7.4     |  Drehrichung Abluftventilator                                      |          |                     |            |☐              |
-| 4.2.7.5     |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
-| 4.2.7.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
-| 4.2.7.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |☐              |
+| 4.2.6.1     |  Not-Aus                                                           |  -35S2   |                     |            |☐              |
+| 4.2.6.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |☐              |
+| 4.2.6.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |☐              |
+| 4.2.6.4     |  Drehrichung Abluftventilator                                      |          |                     |            |☐              |
+| 4.2.6.5     |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
+| 4.2.6.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
+| 4.2.6.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |☐              |
 
 ### 4.3 softwaretechnische Erstprüfung {#4.3}
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
