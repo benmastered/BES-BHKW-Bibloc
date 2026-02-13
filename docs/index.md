@@ -1856,15 +1856,15 @@ Erläuterung:
 - [ ] Wasserdruck Minimum (-120S2) des Motorkreises (MK) einstellen
 
 
-| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
-|-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
-| 4.1.1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | 1.5 bar             |            |☐              |
-| 4.1.2       |  Vordruck der Expansion Motorkreis (MK) prüfen                     |          | 1.5 bar             |            |☐              |
-| 4.1.3       |  Wasserdruck Minimum mit Luft MK einstellen                        | -120S2   | 0.5 - 0.6 bar       |            |☐              |
-| 4.1.4       |  Sicherheitsthermostat MK einstellen                               | -120S7   | 100 - 110 °C        |            |☐              |
-| 4.1.5       |  Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren          |          | -24 C°              |            |☐              |
-| 4.1.5.1     |  Ethylenglykol bereitstellen                                       |          | 20 l (40%)          |            |☐              |
-| 4.1.5.2     |  Wasser bereitstellen                                              |          | 30 l (60%)          |            |☐              |
+| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert                | IST- Wert  | OK ☑ / NOK ☒ |
+|-------------|--------------------------------------------------------------------|----------|---------------------------|------------|----------------|
+| 4.1.1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | Expansionsgefäss_Vordruck |            |☐              |
+| 4.1.2       |  Vordruck der Expansion Motorkreis (MK) prüfen                     |          | Expansionsgefäss_Vordruck |            |☐              |
+| 4.1.3       |  Wasserdruck Minimum mit Luft MK einstellen                        | -120S2   | 0.5 - 0.6 bar             |            |☐              |
+| 4.1.4       |  Sicherheitsthermostat MK einstellen                               | -120S7   | 100 - 110 °C              |            |☐              |
+| 4.1.5       |  Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren          |          | -24 C°                    |            |☐              |
+| 4.1.5.1     |  Ethylenglykol bereitstellen                                       |          | 20 l (40%)                |            |☐              |
+| 4.1.5.2     |  Wasser bereitstellen                                              |          | 30 l (60%)                |            |☐              |
 | 4.1.6       |  Anlage mit Ethylenglykol-Wasser Gemisch befüllen                  |          | 50 l                |            |☐              |
 | 4.1.7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
 | 4.1.8       |  Motorkreis (MK) entlüften                                         |          |                     |            |☐              |
@@ -1894,41 +1894,50 @@ Erläuterung:
 |             |                 								                   |          |                     |            |               |
 | 4.2.2       |  Durchgängigkeit Schutzleiter                                      |          |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.2.1     |  alle Metallteile mit R~low~ abtasten (Haupterdung -> Peripherie ) |          |                     |            |☐              |
-| 4.2.2.2     |  Erdverbindungen zu Haupterder prüfen                              |          | < 1 Ω               |            |☐              |
+| 4.2.2.1     |  alle Metallteile mit R~low~ abtasten (Haupterdung -> Peripherie ) |          | < 1 Ω               |            |☐              |
+| 4.2.2.2     |  Sichtprüfung Erdverbindungen zu Haupterder (Anschluss i.O. ?)     |          |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
 | 4.2.3       |  Isolationsmessung                                                 |          |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
 | 4.2.3.1     |  Spannungsfreiheit prüfen                                          |  -30F1   |                     |            |☐              |
 | 4.2.3.2     |  Überspannungsableiter öffnen, demontieren                         |  -10F3   |                     |            |☐              |
 | 4.2.3.3     |  Neutralleitertrenner  öffnen                                      |  -11F8   |                     |            |☐              |
-| 4.2.3.4     |  Spannung 500V DC N -> PE messen                                   |  -11X1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.4     |  Spannung 500V DC Eingang Hauptschalter messen                     |  -10Q1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.4.1   |  Spannung 500V DC Eingang Hauptschalter -> N-PE messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.4.2   |  Spannung 500V DC Eingang Hauptschalter -> L~1~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.4.3   |  Spannung 500V DC Eingang Hauptschalter -> L~2~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.4.4   |  Spannung 500V DC Eingang Hauptschalter -> L~3~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
 | 4.2.3.5     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-| 4.2.3.6     |  Spannung 500V DC L~2~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.6     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
 | 4.2.3.7     |  Spannung 500V DC L~3~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-| 4.2.3.8     |  Neutralleitertrenner  schliesen                                   |  -11F8   |                     |            |☐              |
+| 4.2.3.8     |  Neutralleitertrenner  schliessen                                  |  -11F8   |                     |            |☐              |
 | 4.2.3.9     |  Überspannungsableiter schliessen, montieren                       |  -10F3   |                     |            |☐              |
 | 4.2.3.10    |  Spannung wieder einschalten                                       |  -30F1   |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
 | 4.2.4       |  Spannung / Drehfeld                                               |          |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.4.1     |  Spannungsmessung Eingangsklemme L-PE                              |          |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L-PE                              |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L-N                               |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~1~-L~2~                         |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~1~-L~3~                         |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~2~-L~3~                         |  -10X1   |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.5       |  FI-Schalter prüfen                                                |          |                     |            |☐              |
+| 4.2.5       |  FI-Schalter prüfen                                                |  -20F3   |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.5.1     |  Personenschutz überprüfen                                         |          |  30 mA              |            |☐              |
-| 4.2.5.2     |  Sachschutz überprüfen                                             |          |  300 mA             |            |☐              |
-| 4.2.5.3     |  Auslösestrom messen                                               |          |  über I~Fehler~     |            |☐              |
-| 4.2.5.4     |  Auslösezeit  messen                                               |          |  unter 0.03 s       |            |☐              |
+| 4.2.5.1     |  Personenschutz überprüfen                                         |  -20F3   |  30 mA              |            |☐              |
+| 4.2.5.2     |  Sachschutz überprüfen                                             |  -20F3   |  300 mA             |            |☐              |
+| 4.2.5.3     |  Auslösestrom messen                                               |  -20F3   |  über I~Fehler~     |            |☐              |
+| 4.2.5.4     |  Auslösezeit  messen                                               |  -20F3   |  unter 0.03 s       |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.6       |  Erdwiderstand / Schleifenimpedanz (I~k~)                          |          |                     |            |☐              |
+| 4.2.6       |  Erdwiderstand / Schleifenimpedanz (I~k~)                          |  -20X4   |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.6.1     |  Unterspannung Z-Schleife, bei weitest entfernten Steckdose messen |          |                     |            |☐              |
-| 4.2.6.2     |  Sicherstellen, dass LS oder Sicherung schnell genug auslöst       |          |                     |            |☐              |
+| 4.2.6.1     |  Z-Schleife: spannungsführendes Bauteil mit längster Leitungslänge |  -20X4   |  oder HK-Pumpe ?    |            |☐              |
+| 4.2.6.2     |  Sicherstellen, dass LS oder Sicherung schnell genug auslöst       |  -20X4   |                     |            |☐              |
+| 4.2.6.1     |  Z-Schleife bei ausgelösender Schutzeinrichtung                    |  -20X4   |  oder HK-Pumpe ?    |            |☐              |
 |             |                 								                   |          |                     |            |               |
 | 4.2.7       |  Funktionsprüfung                                                  |          |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
-| 4.2.7.1     |  Not-Aus                                                           |          |                     |            |☐              |
+| 4.2.7.1     |  Not-Aus                                                           |  -35S2   |                     |            |☐              |
 | 4.2.7.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |☐              |
 | 4.2.7.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |☐              |
 | 4.2.7.4     |  Drehrichung Abluftventilator                                      |          |                     |            |☐              |
