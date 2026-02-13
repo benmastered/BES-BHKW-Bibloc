@@ -33,9 +33,8 @@ extensions = [
     "sphinx.ext.intersphinx",
     'sphinx_rtd_theme',
     "myst_parser",
-    "myst-parser[linkify]",
 ]
-
+myst-parser[linkify]
 myst_heading_anchors = 7
 
 myst_enable_extensions = [
