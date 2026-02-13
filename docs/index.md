@@ -52,7 +52,7 @@ Es ist generell mit hohen Oberflächentemperaturen, gefährlichen elektrischen S
 Durch die Einhaltung der in dieser Anleitung aufgeführten Grundsätze für die Bedienung und Wartung dieser BHKW-Anlage vermeiden Sie Personen- und Sachschäden.
 _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Die Durchführung von technischen Wartungen und Reparaturen, welche über den Rahmen dieser Anleitung hinausgehen und durch Personen ohne Berechtigung der Firma BES erfolgen, können einen Verlust der Garantieansprüche zur Folge haben, sofern die Schäden auf eine nicht fachgerechte Handhabung zurückzuführen sind.
@@ -170,7 +170,7 @@ Im Zweifelsfall sollen die gebrauchten Betriebsmittel über diesbezüglich spezi
 Verpackungen sind gemäss den behördlichen Vorschriften zu entsorgen. Kontaminierte Verpa-ckungen sind wie der Stoff selbst zu behandeln. Sofern nicht behördlich geregelt, können nicht kontaminierte Verpackungen wie Hausmüll behandelt oder einem Recycling zugeführt werden.
 _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl, durch Öl verschmutzte Filter unsachgemäss entsorgt, sprich auf die Deponie gelegt oder frei in die Kanalisation abgelassen werden.
@@ -196,7 +196,7 @@ Einige der folgenden Hinweise werden in weiteren Teilen dieses Betriebshandbuchs
 
 _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Betriebsordnung zu integrieren.
@@ -233,7 +233,7 @@ Das Bedienpersonal muss weiter folgende Kriterien erfüllen:
 
 _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Die BHKW-Anlage darf nur von Personen bedient werden, die die oben genannten Kriterien und den allgemeinen rechtlichen Vorgaben bezüglich Zutritts in den Aufstellungsraum erfüllen. 
@@ -253,7 +253,7 @@ Entsteht durch den Betrieb der BHKW-Anlage eine Gefährdung von Gesundheit, Lebe
 •	Schliessen der Gaszufuhr mit Absperrarmatur unmittelbar vor der BHKW-Anlage
 _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Die BHKW-Anlage darf erst wieder in Betrieb gesetzt werden wenn sicherge-stellt ist, dass die Störung ordentlich beseitigt wurde und keine weitere Gefähr-dung von Mensch und Maschine besteht.
@@ -397,13 +397,13 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ### 6.2 Abmessungen der BHKW-Anlage
 
 <div align="center">
-  <img src="./images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="200">
 </div>
 
 ## 7 Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="./images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -571,7 +571,7 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 #### 7.3.1 Komponenten und Schema des Primärkreislaufes
 
 <div align="center">
-  <img src="./images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :	
@@ -642,7 +642,7 @@ Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwä
 #### 7.4.1 Komponenten und Schema des Sekundärkreislaufes
 
 <div align="center">
-  <img src="./images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -688,7 +688,7 @@ Siehe 7.3.6 “Störungen im Primärkreislauf“.
 #### 7.5.1 Komponenten und Schema der Gasregelstrecke und Luftzufuhr
 
 <div align="center">
-  <img src="./images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -761,7 +761,7 @@ Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 #### 7.6.1 Komponenten der Leistungsregulierung
 
 <div align="center">
-  <img src="./images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende:
@@ -793,7 +793,7 @@ Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach 
 #### 7.7.1 Komponenten und Schema des Abgassystems
 
 <div align="center">
-  <img src="./images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -876,7 +876,7 @@ Das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestat
 #### 7.9.1 Komponenten und Schema des Schmierölsystems
 
 <div align="center">
-  <img src="./images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :
@@ -924,7 +924,7 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 #### 7.10.1 Komponenten der Zündanlage
 
 <div align="center">
-  <img src="./images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="300">
 </div>
 
 Legende :	1	Einspeisung von Batterie	5	Zündspulen
@@ -1110,14 +1110,14 @@ Nullleiter des Generators wird nicht herausgeführt
 ### 9.5 Blockschema der elektrischen Einbindung
  
 <div align="center">
-  <img src="./images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="200">
 </div>
 ## 10	Steuerung der BHKW-Anlage
 
 ### 10.1 Bedienfeld des Schaltschrank
 
 <div align="center">
-  <img src="./images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="200">
 </div>
 
 Legende :	
@@ -1135,7 +1135,7 @@ Der Not-Aus Schalter dient zur Notabschaltung der BIBLOC BV. Durch Drücken des 
  	Der Not-Aus Schalter darf nur im Notfall verwendet werden.
  _________________________________________________________________________
 <div align="left">
-  <img src="./images/Achtung.jpg" alt="Left Aligned Image" width="100">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
 Der Not-Aus Schalter darf nur im Notfall verwendet werden.
@@ -1445,7 +1445,7 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### 12.3 Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="./images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="300">
+  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="300">
 </div>
 
 Legende :
