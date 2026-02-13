@@ -1869,8 +1869,86 @@ Erläuterung:
 | 4.1.7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
 | 4.1.8       |  Motorkreis (MK) entlüften                                         |          |                     |            |☐              |
 | 4.1.9       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
-| 4.1.10      |  elektrische Erstprüfung durchführen                               |[5.1](5.1)|                     |            |☐              |
-### 5.1 elektrische Erstprüfung {#5.1}
+| 4.1.10      |  elektrische Erstprüfung durchführen                               |[4.2](4.2)|                     |            |☐              |
+| 4.1.11      |  Netzüberwachung einstellen                                        |          |                     |            |☐              |
+| 4.1.12      |  Batterieladegeräte kontrollieren, Poti einstellen, Jumper setzen  |          |                     |            |☐              |
+| 4.1.13      |  Erstprüfung Software                                              |[4.3](4.3)|                     |            |☐              |
+| 4.1.14      |  Siphon füllen                                                     |          |                     |            |☐              |
+| 4.1.15      |  Siphon füllen                                                     |          |                     |            |☐              |
+| 4.1.16      |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
+| 4.1.17      |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
+
+### 4.2 elektrische Erstprüfung {#4.2}
+| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
+|-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
+| 4.2.1       |  Sichtkontrolle 								                   |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.1.1     |  alle Beschriftungen vorhanden (Piktogramme, bspw. Generator)      |          |                     |            |☐              |
+| 4.2.1.2     |  Aderfarben korrekt                                                |          |                     |            |☐              |
+| 4.2.1.3     |  Leitungen korrekt verlegt und angeschlossen (v.a. Generator)      |          |                     |            |☐              |
+| 4.2.1.4     |  Erde durchgehend angeschlossen                                    |          |                     |            |☐              |
+| 4.2.1.5     |  Trennung TN-S oder TN-C                                           |          |                     |            |☐              |
+| 4.2.1.6     |  richtige Sicherungsautomaten                                      |          |                     |            |☐              |
+| 4.2.1.7     |  richtige Einstellungen Motorschutzschalter                        |          |                     |            |☐              |
+| 4.2.1.8     |  IP-Schutzart passend zum Raum                                     |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.2       |  Durchgängigkeit Schutzleiter                                      |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.2.1     |  alle Metallteile mit R~low~ abtasten (Haupterdung -> Peripherie ) |          |                     |            |☐              |
+| 4.2.2.2     |  Erdverbindungen zu Haupterder prüfen                              |          | < 1 Ω               |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.3       |  Isolationsmessung                                                 |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.3.1     |  Spannungsfreiheit prüfen                                          |  -30F1   |                     |            |☐              |
+| 4.2.3.2     |  Überspannungsableiter öffnen, demontieren                         |  -10F3   |                     |            |☐              |
+| 4.2.3.3     |  Neutralleitertrenner  öffnen                                      |  -11F8   |                     |            |☐              |
+| 4.2.3.4     |  Spannung 500V DC N -> PE messen                                   |  -11X1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.5     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.6     |  Spannung 500V DC L~2~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.7     |  Spannung 500V DC L~3~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
+| 4.2.3.8     |  Neutralleitertrenner  schliesen                                   |  -11F8   |                     |            |☐              |
+| 4.2.3.9     |  Überspannungsableiter schliessen, montieren                       |  -10F3   |                     |            |☐              |
+| 4.2.3.10    |  Spannung wieder einschalten                                       |  -30F1   |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.4       |  Spannung / Drehfeld                                               |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L-PE                              |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.5       |  FI-Schalter prüfen                                                |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.5.1     |  Personenschutz überprüfen                                         |          |  30 mA              |            |☐              |
+| 4.2.5.2     |  Sachschutz überprüfen                                             |          |  300 mA             |            |☐              |
+| 4.2.5.3     |  Auslösestrom messen                                               |          |  über I~Fehler~     |            |☐              |
+| 4.2.5.4     |  Auslösezeit  messen                                               |          |  unter 0.03 s       |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.6       |  Erdwiderstand / Schleifenimpedanz (I~k~)                          |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.6.1     |  Unterspannung Z-Schleife, bei weitest entfernten Steckdose messen |          |                     |            |☐              |
+| 4.2.6.2     |  Sicherstellen, dass LS oder Sicherung schnell genug auslöst       |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.7       |  Funktionsprüfung                                                  |          |                     |            |☐              |
+|             |                 								                   |          |                     |            |               |
+| 4.2.7.1     |  Not-Aus                                                           |          |                     |            |☐              |
+| 4.2.7.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |☐              |
+| 4.2.7.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |☐              |
+| 4.2.7.4     |  Drehrichung Abluftventilator                                      |          |                     |            |☐              |
+| 4.2.7.5     |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
+| 4.2.7.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
+| 4.2.7.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |☐              |
+
+### 4.3 softwaretechnische Erstprüfung {#4.3}
+| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
+|-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
+| 4.3.1       |  IS-Gas Jumper richtig gesetzt ?                                   |  -60D1   |                     |            |☐              |
+| 4.3.2       |  IGS-PTM (SK) Jumper richtig gesetzt ?                             |  -62D1   |                     |            |☐              |
+| 4.3.3       |  IGS-PTM (MF) Jumper richtig gesetzt ?                             | -140D1   |                     |            |☐              |
+| 4.3.4       |  alle Werte vorhanden (keine roten Werte mit ###)                  |          |                     |            |☐              |
+| 4.3.5       |  alle Werte plausibel                                              |          |                     |            |☐              |
+| 4.3.6       |  Spannungsregler                                                   |          |                     |            |☐              |
+| 4.3.7       |  Werte auf Motorsteuerung (Trijekt) kontrollieren                  |          |                     |            |☐              |
+| 4.3.8       |  Zündtest auf Motorsteuerung (Trijekt) ausführen, i.O.?            |          |                     |            |☐              |
+| 4.3.9       |  Drosselklappen-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?    |          |                     |            |☐              |
+| 4.3.10      |  Lambdaventil-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?      |          |                     |            |☐              |
 
 # Anleitungen
 ==================
