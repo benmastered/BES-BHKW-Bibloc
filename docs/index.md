@@ -1918,9 +1918,9 @@ Erläuterung:
 |             |                 								                   |          |                     |            |               |
 | 4.2.4.1     |  Spannungsmessung Eingangsklemme L-PE                              |  -10X1   |                     |            |☐              |
 | 4.2.4.1     |  Spannungsmessung Eingangsklemme L-N                               |  -10X1   |                     |            |☐              |
-| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~2~                         |  -10X1   |                     |            |☐              |
-| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~3~                         |  -10X1   |                     |            |☐              |
-| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~2~ - L~3~                         |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~2~                       |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~3~                       |  -10X1   |                     |            |☐              |
+| 4.2.4.1     |  Spannungsmessung Eingangsklemme L~2~ - L~3~                       |  -10X1   |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
 | 4.2.5       |  FI-Schalter prüfen                                                |  -20F3   |                     |            |☐              |
 |             |                 								                   |          |                     |            |               |
