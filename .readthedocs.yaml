@@ -17,9 +17,9 @@ sphinx:
   configuration: conf.py
   fail_on_warning: true
   
-mkdocs:
-  configuration: mkdocs.yml
-  fail_on_warning: true
+#mkdocs:
+#  configuration: mkdocs.yml
+#  fail_on_warning: true
 
 python:
   install:
