@@ -1,4 +1,4 @@
-# BES BHKW BIBLOC BV - Typenfamilie
+﻿# BES BHKW BIBLOC BV - Typenfamilie
 ==================	
 
 | Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674 SBTLK | 684 SBTK | 684 SBTLK |
@@ -77,7 +77,7 @@ _________________________________________________________________________
 
 •	Er ist verpflichtet, regelmässig Nachprüfungen, inkl. Gasanschluss durchzuführen,
 
-•	Er ist für die Einhaltung der Bedienungssicherheit und aller weiteren Vorschriften und Normen, welche Auswirkungen auf den Betrieb des BHKW‘s haben, verantwortlich.
+•	Er ist für die Einhaltung der Bedienungssicherheit und aller weiteren Vorschriften und Normen, welche Auswirkungen auf den Betrieb des BHKWâ€˜s haben, verantwortlich.
 
 #### Entsorgung von Abfällen
 -----------------------------	
@@ -85,7 +85,7 @@ Durch den Transport und Betrieb der BHKW-Anlage fallen Abfallstoffe mit untersch
 
 Für die Entsorgung dieser Stoffe müssen die geltenden Vorschriften eingehalten werden. 
 
-Allenfalls kommen die gültigen EG-Richtlinie über „Verpackungen und Verpackungsabfälle“ zum Tragen.
+Allenfalls kommen die gültigen EG-Richtlinie über â€žVerpackungen und Verpackungsabfälleâ€œ zum Tragen.
 
 Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfallen, werden in folgende 3 Gruppen aufgeteilt:
 
@@ -173,7 +173,7 @@ _________________________________________________________________________
   <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
-Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl, durch Öl verschmutzte Filter unsachgemäss entsorgt, sprich auf die Deponie gelegt oder frei in die Kanalisation abgelassen werden.
+Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl, durch Ã–l verschmutzte Filter unsachgemäss entsorgt, sprich auf die Deponie gelegt oder frei in die Kanalisation abgelassen werden.
 
 Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben werden, welche nicht fähig oder bemächtigt sind die erwähnten Stoffe zu entsorgen.
 _________________________________________________________________________
@@ -276,7 +276,7 @@ Beim Transport ist dies zu berücksichtigen. Das Gewicht von *1100 kg* ermöglic
 
 Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmenbreite erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
 
-Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre Ø20 bis Ø 50 mm und Wandstärke min. 2 mm) erfolgen. Dabei ist zu achten, dass
+Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre Ã˜20 bis Ã˜ 50 mm und Wandstärke min. 2 mm) erfolgen. Dabei ist zu achten, dass
 
 •	die Rohre seitlich je minimal 100 mm vorstehen
 
@@ -288,9 +288,9 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre Ø2
 
 ### Krantransport
 
-Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassisbreite vorhanden. 
+Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Ã–ffnungen über die ganze Chassisbreite vorhanden. 
 
-Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Öffnungen gezogen werden (Kantenschutz verwenden) oder an in die Öffnungen geschobene Stangen befestigt werden.
+Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Ã–ffnungen gezogen werden (Kantenschutz verwenden) oder an in die Ã–ffnungen geschobene Stangen befestigt werden.
 
 Der Haken, bei welchen die Traggurten eingeschlauft werden muss mindestens 1.5 m über der Oberkante des BHKW sein, damit die Querkräfte den Deckel der Schalldämmhaube nicht eindrücken.
 
@@ -304,7 +304,7 @@ Die Installation BIBLOC BV muss in einem wettergeschützten, trockenen Raum erfo
 
 Die Aufstellung erfolgt gemäss den:
 
-•	minimalen Freihalteräumen gemäss 6.2 “Abmessungen der BHKW-Anlage“
+•	minimalen Freihalteräumen gemäss 6.2 â€œAbmessungen der BHKW-Anlageâ€œ
 
 •	aktuellen, spezifischen Projektunterlagen
 
@@ -358,7 +358,7 @@ In der Schweiz unterliegen stationäre Verbrennungsmotoren ab einer Feuerungswä
 
 Einige Kantone wie ZH, BL, BS, TG und SG haben zusätzlich zur LRV einen Massnahmeplan erlassen, bei welchem die Emissionsgrenzwerte unabhängig von der Inputleistung eingehalten werden müssen.
 
-Für mit Erd- und Flüssiggas betriebene BHKW’s wird zur Reduktion der Schadstoffemissionen ein 3-Wege-Katalysator mit einer Lambda=1 Regelung eingesetzt.
+Für mit Erd- und Flüssiggas betriebene BHKWâ€™s wird zur Reduktion der Schadstoffemissionen ein 3-Wege-Katalysator mit einer Lambda=1 Regelung eingesetzt.
 
 Bei Verwendung von Biogas können infolge der Gasverunreinigungen Katalysatoren nur bedingt verwendet werden. Die Schadstoffemissionen werden mittels Magermotor (Verbrennung mit Luftüberschuss) auf die gemäss LRV vorgeschriebenen Grenzwerte reduziert.
 
@@ -376,7 +376,7 @@ Dazu treibt der Gasmotor Typ Mamotec MAG einen luftgekühlten Synchrongenerator 
 
 Diese Einheit bildet das Herzstück der BHKW-Anlage und ist hochelastisch auf einem robusten Stahl-Grundrahmen gelagert. 
 
-Dieser dient gleichzeitig als Auffangwanne bei allfälligen Leckagen im Öl- oder Kühlsystem und verhindert ein Auslaufen der Flüssigkeiten in den Aufstellungsraum.
+Dieser dient gleichzeitig als Auffangwanne bei allfälligen Leckagen im Ã–l- oder Kühlsystem und verhindert ein Auslaufen der Flüssigkeiten in den Aufstellungsraum.
 
 Die schall- und wärmedämmende Kapsel mit rundum öffenbaren Türen sorgt für bestmögliche Laufruhe und eine optimale Zugänglichkeit für Servicearbeiten. 
 
@@ -384,13 +384,13 @@ Durch den Einbau eines luftgekühlten Generators ist es notwendig die Schalldäm
 
 Die Schalldämmhaube ist in einen kalten und warmen Bereich aufgeteilt. In den kalten Teil sind wärmeempfindliche Baugruppen, wie Zündung, Luftfilter und Lambdaregelventil eingebaut. Der kalte Bereich wird durch die Verbrennungsluft etwas belüftet, während der heisse Bereich gegen aussen komplett geschlossen ist.
 
-Der Schaltschrank mit der Bedieneinheit, sowie allen notwendigen Steuer-, Regel- und Überwachungsseinrichtungen für den Netzparallel- respektive Notstrombetrieb, ist serienmässig neben der BHKW-Kapsel aufgestellt.
+Der Schaltschrank mit der Bedieneinheit, sowie allen notwendigen Steuer-, Regel- und Ãœberwachungsseinrichtungen für den Netzparallel- respektive Notstrombetrieb, ist serienmässig neben der BHKW-Kapsel aufgestellt.
 
 Die Abwärme von Motor und Schmieröl wird mittels eines geschlossenen Primärkreislaufes (Motorkühlung) mit eigener Umwälzpumpe und Expansionsgefäss über einen Plattenwärmetauscher an den Sekundärkreislauf (z.B. Heizungssystem) abgegeben. 
 
 Eine Rücklaufhochhaltung mit 3-Weg-Ventil gewährleistet, dass auch bei tiefen Sekundärtemperaturen die minimale Motortemperatur nicht unterschritten wird. 
 
-Der Abgaswärmetauscher ist seriell zum Plattenwärmetauscher direkt im Sekundärkreislauf eingebunden und erlaubt dadurch Heizungsvorlauftemperaturen bis 90 °C
+Der Abgaswärmetauscher ist seriell zum Plattenwärmetauscher direkt im Sekundärkreislauf eingebunden und erlaubt dadurch Heizungsvorlauftemperaturen bis 90 Â°C
 
 Sämtliche Anschlüsse für Heizung, Gas und Abgas werden nach oben aus der Kapsel herausgeführt und können einfach mittels flexiblen Anschlüssen mit den entsprechenden Systemen verbunden werden.
 
@@ -419,9 +419,9 @@ Legende :
 | 3.   |Kupplung                             |14.  |Abgasschalldämpfer                   |
 | 4.   |Chassisrahmen                        |15.  |Umwälzpumpe Primärkreislauf          |
 | 5.   |Schalldämmhaube                      |16.  |Expansionsgefäss Primärkreislauf     |
-| 6.   |Abgaswärmetauscher                   |17.  |Ölwanne Motor                        |
-| 7.   |Katalysator integriert               |12.  |Ölreservoir                          |
-| 8.   |Plattenwärmetauscher                 |13.  |Ölfilter / Ölkühler                  |
+| 6.   |Abgaswärmetauscher                   |17.  |Ã–lwanne Motor                        |
+| 7.   |Katalysator integriert               |12.  |Ã–lreservoir                          |
+| 8.   |Plattenwärmetauscher                 |13.  |Ã–lfilter / Ã–lkühler                  |
 | 9.   |Gasregelstrecke                      |14.  |Umwälzpumpe Sekundärkreislauf        |
 | 10.  |Gasmischer                           |15.  |3-Wegventil Sekundärkreislauf        |
 | 11.  |Drosselklappe                        |16.  |Zündung (nicht gezeichnet)           |
@@ -434,15 +434,15 @@ Der Gasmotor Mamotec MAG dient als Antrieb der BHKW-Anlage. Er wandelt den Brenn
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### Konstruktion
-Der Otto-Gasmotor Mamotec MAG ist ein stehender, rechts drehender Verbrennungsmotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor Mamotec MAG ist ein stehender, rechts drehender Verbrennungsmotor mit unten lie-gender Nockenwelle. Ãœber die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
-Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
+Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Ãœberdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
-Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschmierung mit Öl. 
+Eine Zahnradpumpe versorgt den ganzen Motor nach dem Prinzip der Druckumlaufschmierung mit Ã–l. 
 
-Der Ölkreislauf ist durch ein Überdruckventil gesichert. Der Ölfilter befindet sich im Hauptstrom und fängt allfällige Partikel auf. 
+Der Ã–lkreislauf ist durch ein Ãœberdruckventil gesichert. Der Ã–lfilter befindet sich im Hauptstrom und fängt allfällige Partikel auf. 
 
-Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ölabscheider geführt
+Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ã–labscheider geführt
 
 [Zurück nach oben](#top)
 
@@ -451,9 +451,9 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohr-system zum Ölabscheider gefü
 Motorfabrikat	Mamotec MAG
 Motortyp	Mamotec MAG
 Motorart	Gasmotor 
-Nennleistung	max. 36 kW  bei 1500 min-1 und  = 1
-Drehmoment	220 Nm bei 1500 min-1 	( 5%)
-spezifischer Brennstoffverbrauch 	3.2 kWh / kWh mech.	( 5%)
+Nennleistung	max. 36 kW  bei 1500 min-1 und ï¬ = 1
+Drehmoment	220 Nm bei 1500 min-1 	(ï‚± 5%)
+spezifischer Brennstoffverbrauch 	3.2 kWh / kWh mech.	(ï‚± 5%)
 absoluter Brennstoffverbrauch		
 Grundbrennstoff	Gas
 Arbeitsumlauf 	Viertakter
@@ -462,22 +462,22 @@ Zylinderanordnung	stehend, einreihige
 Steuerung	OHV
 Zylinderfüllung	atmosphärisch
 Umdrehungssinn 	rechtsdrehend 
-Kühlungsart 	Wasserkühlung mit Überdruck
+Kühlungsart 	Wasserkühlung mit Ãœberdruck
 Zylinderbohrung	100  mm
 Kolbenhub 	120 mm
 Hubraum	3769 cm3
 Verdichtung	13:1
 Zündfolge	1-3-4-2
-Vorzündung	20-24 (Erdgas); 26-32° (Biogas)
+Vorzündung	20-24ï‚° (Erdgas); 26-32Â° (Biogas)
 max. zulässige Umdrehungen	1750 min-1
  
 
 Steuerzeiten	
-Einlassventil öffnet	14 vor O.T.
-Einlassventil schliesst	36 nach U.T.
-Auslassventil öffnet	45 vor U.T
-Auslassventil schliesst	17 nach O.T.
-Ventilspiel im kalt (203C) 	
+Einlassventil öffnet	14ï‚° vor O.T.
+Einlassventil schliesst	36ï‚° nach U.T.
+Auslassventil öffnet	45ï‚° vor U.T
+Auslassventil schliesst	17ï‚° nach O.T.
+Ventilspiel im kalt (20ï‚±3ï‚°C) 	
 Saugventil	0.25
 Auslassventil	0.25
 
@@ -486,24 +486,24 @@ Auslassventil	0.25
 #### Motorschmierung
 
 Ausführung	Druckumlauf, durch Zahnradpumpe
-Zahnradpumpe	einfach, mit Überdruckventil
+Zahnradpumpe	einfach, mit Ãœberdruckventil
 Schmieröldruck	200 bis 400 kPa (2 - 4 bar)
-Ölfilter	Volldurchflussfilter Mamotec MAGW920/24 (W920/80, P3251)
-Ölwanneninhalt	30 Liter + 20 Liter (Reservoir)
-Ölart	STRUB BES (teilsynthetisch)	Erd- Flüssiggas
+Ã–lfilter	Volldurchflussfilter Mamotec MAGW920/24 (W920/80, P3251)
+Ã–lwanneninhalt	30 Liter + 20 Liter (Reservoir)
+Ã–lart	STRUB BES (teilsynthetisch)	Erd- Flüssiggas
 MOBIL Pegasus 1              Bio-Klärgas,	Erd- Flüssiggas
 STRUB 43LA Pex	Bio- Klärgas
-Ölwechselintervall	siehe spezifischen Wartungsplan
+Ã–lwechselintervall	siehe spezifischen Wartungsplan
 
 [Zurück nach oben](#top)
 
 #### Motorkühlung
 
-Kühlungsart	Wasserkühlung mit Überdruck
+Kühlungsart	Wasserkühlung mit Ãœberdruck
 Pumpenleistung	0,8 kg/s
 Regulierung der Betriebstemperatur	3-Wegventil im Heizungsrücklauf
-Solltemperatur Heizungsrücklauf	70C
-Motortemperatur max.	90C
+Solltemperatur Heizungsrücklauf	70ï‚°C
+Motortemperatur max.	90ï‚°C
 
 [Zurück nach oben](#top)
 
@@ -513,15 +513,15 @@ Zündungstyp 	Mikroprozessorgesteuerte Zündanlage OEZ4
 Zündkerzen	NGK PMR8A; NGK CPR8E; BRISK AR12YS;
 DENSO IU24
 Anzahl der Zündkerzen	4
-Elektrodenabstand	0,4  0,1 mm
+Elektrodenabstand	0,4 ï‚± 0,1 mm
 
 [Zurück nach oben](#top)
 
 #### Brennstoffsystem
 
 Vermischungsart	Niederdruck, am Rohrleitungseintritt 
-Mischungsart 	stöchiometrisches Gemisch	( = 1)	Erdgas
-Magergemisch	( = 1.4-1.5)	Bio- Klärgas
+Mischungsart 	stöchiometrisches Gemisch	(ï¬ = 1)	Erdgas
+Magergemisch	(ï¬ = 1.4-1.5)	Bio- Klärgas
 
 [Zurück nach oben](#top)
  
@@ -533,7 +533,7 @@ Fabrikat :	Zanardi 	Typ:	AS225/4-200H
 #### Konstruktion Synchrongenerator
 Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Stern- respektive 400V in Dreieckschaltung ausgelegt. Unter Berücksichtigung des Schlupfes wird die Anlage bei 1500 min-1 betrieben. Der Generator entspricht der Schutzart IP21. 
 
-Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
+Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Ã–ldämpfe und Verschmutzungen resistent.
 
 Das Statorpaket besteht aus lammeliertem Dynamoblech und wird in das Statorgehäuse einge-presst. Dieses ist für die Wasserkühlung doppelwandig ausgeführt. Das Statorgehäuse ist in Stahlguss, der hintere Lagerschild und der vordere Anschlussflansch aus Grauguss gefertigt. 
 
@@ -553,10 +553,10 @@ Im Betrieb wird die Stator-wicklung in Dreieck umgeschaltet und der produzierte 
 #### Technische Daten
 
 Nennleistung	30 kW
-cos 	0,81
+cos ïª	0,81
 Wirkungsgrad im Arbeitspunkt 	92.9 %
 Ständerwicklung	Stern- Dreieckschaltung
-max. Kühlmediumtemperatur	70 °C
+max. Kühlmediumtemperatur	70 Â°C
 Spannung 	3x400 V
 Nennstrom bei 30 kW	53.5 A
 Kurzschlussstrom	250 A
@@ -579,17 +579,17 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 </div>
 
 Legende :	
-	1	Gasmotor				5	Sicherheits-Überdruckventil
+	1	Gasmotor				5	Sicherheits-Ãœberdruckventil
 	2	Plattenwärmetauscher	6	Temperaturfühler
-	3	Umwälzpumpe				7	Ölkühler
+	3	Umwälzpumpe				7	Ã–lkühler
 	4	Ausgleichsgefäss (Expansion)
 	
 #### Beschreibung des Primärkreislaufes
 Im Primärkreislauf zirkuliert die Kühlflüssigkeit (siehe 7.3.4) mittels separater Umwälzpumpe und durchströmt mit konstanter Wassermenge den Motor sowie Plattenwärmetauscher. Dort wird die thermische Energie aus dem Motor an den Sekundärkreislauf übertragen.
 
-Die minimale Betriebstemperatur des Motors wird indirekt über die Rücklaufhochhaltung im Se-kundärkreislauf (siehe 7.4) garantiert. Der Sollwert zur Regulierung der Rücklaufhochhaltung beträgt minimal 60 bis maximal 70°C, idealerweise 65°C.
+Die minimale Betriebstemperatur des Motors wird indirekt über die Rücklaufhochhaltung im Se-kundärkreislauf (siehe 7.4) garantiert. Der Sollwert zur Regulierung der Rücklaufhochhaltung beträgt minimal 60 bis maximal 70Â°C, idealerweise 65Â°C.
 
-Die Überdruckabsicherung des Primärkreislaufes übernimmt ein im Deckel des Ausgleichsge-fäss integriertes Über- und Unterdruckventil. Die Entlüftung des Primärkreislaufes erfolgt durch Schläuche zum Ausgleichsgefäss.
+Die Ãœberdruckabsicherung des Primärkreislaufes übernimmt ein im Deckel des Ausgleichsge-fäss integriertes Ãœber- und Unterdruckventil. Die Entlüftung des Primärkreislaufes erfolgt durch Schläuche zum Ausgleichsgefäss.
 
 Die Temperaturüberwachung des Primärkreislaufes wird durch ein PT100 Temperaturfühler gewährleistet, dessen Messsignal vom Steuersystem im Schaltschrank verarbeitet wird.
  
@@ -659,11 +659,11 @@ Legende :
 	
 #### Beschreibung des Sekundärkreislaufes
 
-Eine Umwälzpumpe im Sekundärkreislauf fördert das Heizwasser über den wassergekühlten Mantel des Generators zur Sekundärseite desPlattenwärmetauschers im BHKW, wo die Motorabwärme des Primärkreislaufes übernommen wird. Weiter gelangt das Heizwasser in den Abgaswärmetauscher, wo die Abwärme aus der Abgasrückkühlung abgeführt wird. Über den BHKW-Vorlauf gelangt die komplette Wärmeleistung zu dem oder den Wärmeverbraucher.
+Eine Umwälzpumpe im Sekundärkreislauf fördert das Heizwasser über den wassergekühlten Mantel des Generators zur Sekundärseite desPlattenwärmetauschers im BHKW, wo die Motorabwärme des Primärkreislaufes übernommen wird. Weiter gelangt das Heizwasser in den Abgaswärmetauscher, wo die Abwärme aus der Abgasrückkühlung abgeführt wird. Ãœber den BHKW-Vorlauf gelangt die komplette Wärmeleistung zu dem oder den Wärmeverbraucher.
  
-Bei Rücklauftemperaturen zum BHKW kälter als 60 °C besteht die Gefahr, dass im Abgaswär-metauscher die Abgase auskondensieren, was vor allem bei Verwendung von Bio- oder Klärgas zu Korrosionsschäden führen kann. Um dies zu verhindern empfiehlt es sich, in den BHKW-Rücklauf eine Hochhaltung zu installieren, welche die Eintrittstemperatur konstant auf minimal 60 °C und maximal 70 °C anhebt. 
+Bei Rücklauftemperaturen zum BHKW kälter als 60 Â°C besteht die Gefahr, dass im Abgaswär-metauscher die Abgase auskondensieren, was vor allem bei Verwendung von Bio- oder Klärgas zu Korrosionsschäden führen kann. Um dies zu verhindern empfiehlt es sich, in den BHKW-Rücklauf eine Hochhaltung zu installieren, welche die Eintrittstemperatur konstant auf minimal 60 Â°C und maximal 70 Â°C anhebt. 
 
- 	Der Sekundärkreislauf ist standardmässig nicht mit einem Sicherheitsventil aus-gerüstet. Bauseits muss ein Sicherheitsventil 3 bar ausserhalb des BIBLOC in-stalliert werden, um die BHKW-Anlage auch bei geschlossenen Absperrarmaturen vor Überdruck zu schützen.
+ 	Der Sekundärkreislauf ist standardmässig nicht mit einem Sicherheitsventil aus-gerüstet. Bauseits muss ein Sicherheitsventil 3 bar ausserhalb des BIBLOC in-stalliert werden, um die BHKW-Anlage auch bei geschlossenen Absperrarmaturen vor Ãœberdruck zu schützen.
 	
 #### Auffüllen des Sekundärkreislaufes
 Zum Auffüllen des Sekundärkreislaufes wird nach folgenden Punkten vorgegangen:
@@ -675,7 +675,7 @@ Zum Auffüllen des Sekundärkreislaufes wird nach folgenden Punkten vorgegangen:
 •	nach ca. 2-3 Minuten die Anlage ausschalten
 •	den Sekundärkreislauf bei allen darin vorhanden Entlüftungsventilen entlüften
 
- 	Der Sekundärkreislauf muss gemäss den SWKI-Richtlinien und allgemeinen eingefüllt werden, damit die max. erlaubte Wasserhärte von 13 °F (= 130 g Kalk/m3 Wasser) nicht überschritten wird.
+ 	Der Sekundärkreislauf muss gemäss den SWKI-Richtlinien und allgemeinen eingefüllt werden, damit die max. erlaubte Wasserhärte von 13 Â°F (= 130 g Kalk/m3 Wasser) nicht überschritten wird.
 Im BHKW-Rücklauf muss ein Schmutzfänger installiert werden.
 Bei Missachtung dieser Vorschriften können die Wärmetauscher durch Ablage-rungen verstopft werden.
 
@@ -686,7 +686,7 @@ Die Kontrolle und Wartung des Sekundärkreislaufes ist grundsätzlich ein Bestan
 •	Druckkontrolle, eventuell Wasser nachfüllen 
 •	Dichtheitskontrolle der Flansch- und Schlauchverbindungen, allfällige Leckagen beseitigen.
 #### Störungen im Sekundärkreislauf
-Siehe 7.3.6 “Störungen im Primärkreislauf“.
+Siehe 7.3.6 â€œStörungen im Primärkreislaufâ€œ.
  
 ### Aufbereitung des Verbrennungsgemisch
 
@@ -706,7 +706,7 @@ Legende :
 #### Gasregelstrecke
 Ein Gaskugelhahn zur manuellen Absperrung der Gaszufuhr bildet den Anfang der Gasregelstrecke. Um zu verhindern, dass Festpartikel in den Motor gelangen, wird ein Gasfilter vor die Gasstrasse montiert. 
 
-Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BV684 SBTLK aufgebaut. 
+Ãœber einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BV684 SBTLK aufgebaut. 
 
 Diese Gasmagnetventile werden vom Steuersystem für den BHKW-Betrieb geöffnet respektive wieder geschlossen. Der im zweiten Gasventil integrierte Nulldruckregler reduziert den Gasvor-druck in der Gasleitung auf ein atmosphärisches Druckniveau. 
  
@@ -727,14 +727,14 @@ Mit der Hauptgasschraube ist eine Grobeinstellung derart vorzunehmen, dass zur R
 Die Einregulierung der Gasregelstrecke erfolgt grundsätzlich in Kombination mit einem Ab-gasanalysegerät. Damit kann der Restsauerstoff im Abgas gemessen werden, welcher die Regelgrösse für eine optimale Verbrennung hinsichtlich Abgasemissionen und Wirkungsgrad ist.
 Die Funktionskontrolle der Lambdaregelung und die Einstellung deren Sollwerte kann nur durch geschulte Servicetechniker und mit einem Abgasanalysegerät durchgeführt werden
 
- 	Die Einstellung von Nulldruckregler, Haupteinstellschraube, -Regelung und Drehzahlregler beeinflussen sich gegenseitig. Änderungen bei einer Komponen-te können sich auch auf die Arbeit der anderen Komponenten auswirken.
+ 	Die Einstellung von Nulldruckregler, Haupteinstellschraube, ï¬-Regelung und Drehzahlregler beeinflussen sich gegenseitig. Ã„nderungen bei einer Komponen-te können sich auch auf die Arbeit der anderen Komponenten auswirken.
 So sind bei einer Neueinstellung einer Komponente meistens auch die anderen Regelkomponenten nachzujustieren.
 
 #### Verbrennungsluftzufuhr
 
 Die Verbrennungsluft wird über Lüftungsschlitze an der Hinterseite des BHKW durch den Motor in den kalten Bereich der Schalldämmhaube angesogen. Im Luftfilter werden feste Partikel in der Luft zurückgehalten. 
 
-Vom Filter gelangt die Luft direkt zum Gasmischer (Venturi), wo es zur Vermischung mit dem Gas und damit zur Bildung der Verbrennungsmischung kommt. Über den Ansaugkollektor strömt das Gemisch in den Motor zur Verbrennung. 
+Vom Filter gelangt die Luft direkt zum Gasmischer (Venturi), wo es zur Vermischung mit dem Gas und damit zur Bildung der Verbrennungsmischung kommt. Ãœber den Ansaugkollektor strömt das Gemisch in den Motor zur Verbrennung. 
 
 #### Aufbereitung Verbrennungsgemisch
 
@@ -742,7 +742,7 @@ Der Motor erzeugt im Ansaugkollektor einen Unterdruck und saugt auf diese Weise 
 
 Im Venturirohr wird der Querschnitt für die Verbrennungsluftzufuhr verengt, wodurch sich die Strömungsgeschwindigkeit im Venturi erhöht und einen Unterdruck erzeugt. 
 
-Damit wird die notwendige Gasmenge radial am engsten Querschnitt des Venturi angesogen. Die angesogene Gasmenge wird zum einen durch das Verhältnis der Luft- und Gasöffnung im Venturirohr vorgegeben, hauptsächlich aber durch das Dosierventil der -Regelung und der Haupteinstellschraube reguliert. 
+Damit wird die notwendige Gasmenge radial am engsten Querschnitt des Venturi angesogen. Die angesogene Gasmenge wird zum einen durch das Verhältnis der Luft- und Gasöffnung im Venturirohr vorgegeben, hauptsächlich aber durch das Dosierventil der ï¬-Regelung und der Haupteinstellschraube reguliert. 
 
 Die Wartung der Gasregelstrecke wird durch Servicetechniker der Servicefirma durchgeführt und ist ein Bestandteil der Anlagewartung gemäss Wartungsplan.
  
@@ -781,12 +781,12 @@ Legende:
 Die Hauptkomponenten der Leistungsregulierung bilden der vom Steuersystem IS-GAS ange-steuerte Stellmotor sowie die Drosselklappe. Diese beiden Komponenten sind über einen Seilzug verbunden.
 
 Das Steuersystem IS-GAS öffnet oder schliesst den Stellmotor, indem es über zwei digitale Ausgänge den Auf- oder Zu-Eingang (12 VDC) des Stellmotors ansteuert. Wird kein Eingang angesteuert, bleibt der Stellmotor in der jeweiligen Position stehen (3-Punktregulierung).
-Die Drehzahl bei einem Synchrongenerator ist stets konstant und ist durch die Polzahl vorgege-ben. Eine Drehzahlregulierung wie bei einem Synchrongenerator ist daher nicht notwendig. Eine Änderung der Drosselklappenstellung hat eine Änderung der Leistung zur Folge. 
+Die Drehzahl bei einem Synchrongenerator ist stets konstant und ist durch die Polzahl vorgege-ben. Eine Drehzahlregulierung wie bei einem Synchrongenerator ist daher nicht notwendig. Eine Ã„nderung der Drosselklappenstellung hat eine Ã„nderung der Leistung zur Folge. 
 Während den Startvorbereitungen öffnet der Stellmotor (Aktuator) die Drosselklappe auf die vorgegebene Startposition und regelt anschliessend auf den vorgegebenen Sollwert.
 Die Stillsetzung der Anlage erfolgt in umgekehrter Reihenfolge der vorher beschriebenen Proze-dur.
  
 #### Einregulierung und Wartung der Leistungsregulierung
-Die Einregulierung respektive das Ändern von Parametern der Leistungsregulierung darf nur durch geschulte Servicetechniker ausgeführt werden.
+Die Einregulierung respektive das Ã„ndern von Parametern der Leistungsregulierung darf nur durch geschulte Servicetechniker ausgeführt werden.
 #### Wartung der Leistungsregulierung
 Die Kontrolle und Wartung der Leistungsregulierung ist ein Bestandteil der technischen Anlage-wartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
 
@@ -809,34 +809,34 @@ Legende :
 	4	Lambdasonde		8	Kompensator
 
 #### Beschreibung der Abgassystems
-Die Abgase werden über die Auslassventile im Zylinderkopf ausgestossen und gelangen direkt in oben liegenden Abgaswärmetauscher. Hier wird die Wärmeenergie aus den Abgasen auf den Sekundärkreislauf übertragen. Vor der Rückkühlung durchströmen die Abgase den im Abgas-wärmetauscher integrierten Katalysator. Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den Schalldämpfer. Danach werden die Abgase senkrecht nach oben aus der Schalldämmhau-be geführt, wo über einen weiteren Kompensator der Anschluss an die bauseitige Abgasleitung erfolgt. Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Abgassysteme.
+Die Abgase werden über die Auslassventile im Zylinderkopf ausgestossen und gelangen direkt in oben liegenden Abgaswärmetauscher. Hier wird die Wärmeenergie aus den Abgasen auf den Sekundärkreislauf übertragen. Vor der Rückkühlung durchströmen die Abgase den im Abgas-wärmetauscher integrierten Katalysator. Ãœber einen flexiblen Hochtemperaturschlauch, der die Ãœbertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den Schalldämpfer. Danach werden die Abgase senkrecht nach oben aus der Schalldämmhau-be geführt, wo über einen weiteren Kompensator der Anschluss an die bauseitige Abgasleitung erfolgt. Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Abgassysteme.
  
 #### Eigenschaften der Abgase
 
 Erdgas	Klär-, Biogas	
-Abgastemperatur am Austrittsflansch	110 - 130	130 - 160	°C
+Abgastemperatur am Austrittsflansch	110 - 130	130 - 160	Â°C
 Abgaswärmeleistung	21	16	kW
 Abgasmassenstrom	129	149	kg/h
-Abgasvolumenstrom bei 120 °C	151	178	m3/h
-Abgasgeschwindigkeit am Austrittsflansch (120°C)	21	25	m/s
-Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400°C auf 120 C abgekühlt werden. Während des Betriebs können die Ab-gastemperaturen ca. 110 – 160 C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
+Abgasvolumenstrom bei 120 Â°C	151	178	m3/h
+Abgasgeschwindigkeit am Austrittsflansch (120Â°C)	21	25	m/s
+Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 Â°C von ca. 400Â°C auf 120 ï‚°C abgekühlt werden. Während des Betriebs können die Ab-gastemperaturen ca. 110 â€“ 160 ï‚°C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
 #### Material der Abgasleitung
-Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
+Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 Â°C wird das BHKW abgeschaltet. 
 
 Damit können für die Abgasleitung folgende Materialien verwendet werden:
 •	Abgasleitungssystem aus rostfreiem Stahlrohr (V4A) mit einem Durchmesser von 80 mm.
-•	PVDF Kunststoffrohr (z.B. Technaflon) mit einem Durchmesser von 75 mm und einer Tem-peraturbeständigkeit bis 160 °C
+•	PVDF Kunststoffrohr (z.B. Technaflon) mit einem Durchmesser von 75 mm und einer Tem-peraturbeständigkeit bis 160 Â°C
 
  	Bei zu grossen Querschnitten der Abgasleitung können Resonanzen und entsprechende Schallprobleme entstehen.
 	
 #### Konstruktion der Abgasleitung
 •	Die Abgasableitung der BHKW-Anlage muss die vorgeschriebenen Normen erfüllen und eine entsprechende VKF-Zulassung aufweisen.
-•	In der Abgasleitung einer BHKW-Anlage herrscht stets Überdruck. Aus diesem Grund muss die Abgasleitung gasdicht bis min. 10 mbar (1000 Pa) sein.
+•	In der Abgasleitung einer BHKW-Anlage herrscht stets Ãœberdruck. Aus diesem Grund muss die Abgasleitung gasdicht bis min. 10 mbar (1000 Pa) sein.
 •	An der tiefsten Stelle der Abgasleitung, idealerweise vor Anschluss an das BHKW muss ein Kondensatabscheider mit einer Syphonierung (200 mm) montiert werden.
 •	Der maximale, dynamische Abgasgegendruck des gesamten Abgassystems beträgt 50 mbar. Damit dieser Grenzwert nicht überschritten wird, darf der Druckverlust der Abgaslei-tung (Austritt BHKW bis Kaminmündung im Freien) 10 mbar nicht überschreiten.
 •	Der Anschluss von mehreren BHKW-Anlagen an eine Abgasleitung ist nur unter bestimmten Voraussetzungen zu empfehlen, da bei Betrieb des einen Aggregates Abgase in den Motor des anderen, stillstehenden Moduls gelangen können. 
-•	Im Aufstellungslokal müssen zugängliche Abgasleitungen aus Stahl einen Berührungsschutz aufweisen (Oberflächentemperatur < 60 °C), wodurch doppelwandige, isolierte Abgasleitun-gen zur Anwendung kommen.
+•	Im Aufstellungslokal müssen zugängliche Abgasleitungen aus Stahl einen Berührungsschutz aufweisen (Oberflächentemperatur < 60 Â°C), wodurch doppelwandige, isolierte Abgasleitun-gen zur Anwendung kommen.
 
  	Eine nachträgliche Wärmeisolierung von einwandigen Abgasleitungen ist unter Umständen nicht erlaubt (siehe VKF-Zulassung der verwendeten Abgasleitung)
  
@@ -849,7 +849,7 @@ In beiden Systemen wird eine Lambdaregelung eingesetzt, welche die Gaszufuhr zum
 #### Funktion der Lambdaregelung
 
 Die Lambdaregelung ist im Steuersystem IS-GAS integriert. Sie dosiert die Gasmenge in den Venturimischer derart, dass während des Betriebs im Venturi immer ein konstantes Gas-, Luftgemischverhältnis entsteht.
-Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den Abgasen. Dieser Sauerstoffgehalt wird mit einer Lambdasonde gemessen, welche ein entsprechendes Spannungssignal (U=700mV bei Lambda=1 mit Dreiwegkatalysator oder U= 30mV bei Lambda=1.5 mit Magermotor) an die Lambdaregelung übermittelt. Aufgrund dieses Signals erteilt das Steuersystem dem Schrittmotor des Dosierventils den Befehl zum Öffnen oder Schliessen.
+Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den Abgasen. Dieser Sauerstoffgehalt wird mit einer Lambdasonde gemessen, welche ein entsprechendes Spannungssignal (U=700mV bei Lambda=1 mit Dreiwegkatalysator oder U= 30mV bei Lambda=1.5 mit Magermotor) an die Lambdaregelung übermittelt. Aufgrund dieses Signals erteilt das Steuersystem dem Schrittmotor des Dosierventils den Befehl zum Ã–ffnen oder Schliessen.
 
 Die Lambdaregelung besteht aus einem Regelalgorithmus, welcher im Steuersystem IS-GAS integriert ist. Beim START-Befehl des BHKW wird dieser Regelalgorithmus aktiviert. Dabei schliesst das Dosierventil komplett, wodurch sich die Regelung eine Referenzposition sucht. Da-nach öffnet das Dosierventil auf die vorgegebene Startposition und wartet den Start der Anlage ab. Nach dem Anlagestart bleibt das Ventil in dieser Position, bis die vorgegebene Aufwärmzeit für die Lambdasonde abgelaufen ist. Nach Ablauf dieser Zeit beginnt es das Gasgemisch in Ab-hängigkeit der Lambdasondenspannung zu regulieren.
 Nach dem STOP-Befehl des BHKW wird der Regelalgorithmus gleichzeitig mit den anderen Systemen der Anlage ausgeschaltet respektive deaktiviert. Das Regelventil bleibt in der vor dem Ausschalten gehaltenen Lage.
@@ -860,23 +860,23 @@ Für den Betrieb mit Dreiwegkatalysator reguliert die Lambdaregelung die Gasmeng
 
 Dies ist die Voraussetzung für die chemische, katalytische Reaktion der Schadstoffe im Katalysator, bei welcher die giftigen Stickoxide NOx zu ungiftigem Stickstoff reduziert werden. Gleichzeitig oxidiert das giftige Kohlenmonoxid CO mit dem freiwerdenden Sauerstoff zu Kohlendioxid CO2. Dieser Vorgang wiederholt sich ständig.
 
-Als Schutz für den Katalysator wird die Abgastemperatur nach dem Katalysator permanent mit einem Thermoelement gemessen. Übersteigt die Abgastemperatur den vorgegebenen Sollwert, wird das BHKW über das Steuersystem abgeschaltet. Ein Anstieg der Abgastemperatur nach dem Katalysator erfolgt vor allem dann, wenn das Verbrennungsgemisch durch einen Defekt in der Lambdaregelung nicht stöchiometrisch verbrennt oder infolge einer defekten Zündkerze unverbranntes Gas in den Katalysator gelangt, wo eine Nachverbrennung erfolgt.
+Als Schutz für den Katalysator wird die Abgastemperatur nach dem Katalysator permanent mit einem Thermoelement gemessen. Ãœbersteigt die Abgastemperatur den vorgegebenen Sollwert, wird das BHKW über das Steuersystem abgeschaltet. Ein Anstieg der Abgastemperatur nach dem Katalysator erfolgt vor allem dann, wenn das Verbrennungsgemisch durch einen Defekt in der Lambdaregelung nicht stöchiometrisch verbrennt oder infolge einer defekten Zündkerze unverbranntes Gas in den Katalysator gelangt, wo eine Nachverbrennung erfolgt.
  
 #### Funktion des Oxidationskatalysator
 
 Oxidationskatalysatoren werden ausschliesslich für den Betrieb mit Magermotoren eingesetzt. Beim Magermotor erfolgt die Verbrennung mit Luftüberschuss, wodurch sich die NOx- und CO-Emissionen stark reduzieren. Zusätzlich können die CO-Emissionen durch den Einsatz eines Oxidationskatalysators weiter reduziert werden. 
 
-Die Lambdaregelung sorgt bei diesem Verfahren wie beim 3-Wegkatalysator für ein konstantes Verbrennungsgemisch, welches jedoch nicht stö-chiometrisch verbrannt wird (Lambda = 1) ist, sondern nach der Verbrennung Restsauerstoff in den Abgasen aufweist (Lambda = 1.4 – 1.5). Im Oxidationskatalysator oxidiert nun das Kohlenmonoxid CO mit diesem Restsauerstoff O2 zu CO2.
+Die Lambdaregelung sorgt bei diesem Verfahren wie beim 3-Wegkatalysator für ein konstantes Verbrennungsgemisch, welches jedoch nicht stö-chiometrisch verbrannt wird (Lambda = 1) ist, sondern nach der Verbrennung Restsauerstoff in den Abgasen aufweist (Lambda = 1.4 â€“ 1.5). Im Oxidationskatalysator oxidiert nun das Kohlenmonoxid CO mit diesem Restsauerstoff O2 zu CO2.
 
 Grundsätzlich funktioniert der 3-Wegkatalysator auch als Oxidationskatalysator. Beim Betrieb des Magermotors findet die Reduktion der Stickoxide zu Stickstoff nicht statt.
 
 #### Wartung der Rauchgasbehandlung 
 Die Kontrolle und Wartung der Rauchgasbehandlung ist ein Bestandteil der technischen Anlage-wartung gemäss Wartungsplan und können nur in Kombination mit einem Abgasanalysegerät durchgeführt werden. Arbeiten bezüglich Rauchgasbehandlung können daher ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt werden.
 
- 	Jede Änderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
+ 	Jede Ã„nderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
  
 ### Schmierölsystem
-Das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
+Das Ã–lsystem der BV684 SBTLK ist mit einem zusätzlichen Ã–lreservoir ausgestattet, was lange Ã–lwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
 
 #### Komponenten und Schema des Schmierölsystems
 
@@ -886,42 +886,42 @@ Das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestat
 
 Legende :
 
-	1	zusätzliches Ölreservoir	4	Öldrucksensor
-	2	Ölwanne Motor				5	Ölablasshahn
+	1	zusätzliches Ã–lreservoir	4	Ã–ldrucksensor
+	2	Ã–lwanne Motor				5	Ã–lablasshahn
 	3	Niveauschalter Reservoir
 	
-#### Funktionsbeschrieb des Ölsystems
-Um die Schmierölkapazität der BV684 SBTLK und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BV684 SBTLK ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
+#### Funktionsbeschrieb des Ã–lsystems
+Um die Schmierölkapazität der BV684 SBTLK und damit die Ã–lwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ã–lsystem der BV684 SBTLK ist mit einem zusätzlichen Ã–lreservoir (20 Liter) ausgestattet worden. Das Ã–lreservoir ist mit einer Ausgleichsleitung mit der Ã–lwanne (30 Liter) des Motors verbunden. Ãœber die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
 
-Diese entstehen vor allem beim Start und Stopp des Aggregats, wo der Motor mit Ölfilter gefüllt respektive entleert wird. Ein Niveauschalter im Ölre-servoir überwacht das Ölniveau im Ölsystem und schaltet das Aggregat bei Unterschreitung des minimalen Niveaus über einen binären Kontakt ab.
+Diese entstehen vor allem beim Start und Stopp des Aggregats, wo der Motor mit Ã–lfilter gefüllt respektive entleert wird. Ein Niveauschalter im Ã–lre-servoir überwacht das Ã–lniveau im Ã–lsystem und schaltet das Aggregat bei Unterschreitung des minimalen Niveaus über einen binären Kontakt ab.
  
-#### Ölwechsel
-Das Ölwechselintervall ist von den eingesetzten Brenngasen abhängig und ist durch anfängliche, regelmässige Ölanalysen festzulegen (siehe Wartungsplan).
-Um das Altöl möglichst vollständig abzulassen, wird empfohlen den Ölwechsel mit heissem Öl vorzunehmen.
+#### Ã–lwechsel
+Das Ã–lwechselintervall ist von den eingesetzten Brenngasen abhängig und ist durch anfängliche, regelmässige Ã–lanalysen festzulegen (siehe Wartungsplan).
+Um das Altöl möglichst vollständig abzulassen, wird empfohlen den Ã–lwechsel mit heissem Ã–l vorzunehmen.
 
-Der Ölwechsel erfolgt über den Ölablasshahn im untersten Teil Motorölwanne. Die Ausgleichsleitung zum Ölreservoir ist dabei zu schliessen. 
+Der Ã–lwechsel erfolgt über den Ã–lablasshahn im untersten Teil Motorölwanne. Die Ausgleichsleitung zum Ã–lreservoir ist dabei zu schliessen. 
 
-Da sich der Ölablasshahn im unteren Bereich des BHKW-Moduls befindet, ist es notwendig das Altöl in entsprechende Altölbehältnisse zu pumpen. Es ist nicht möglich genügend grosse Altölbehälter untern Ölablasshahn zu stellen. Dazu wird ein passender Schlauch mit Überwurfmutter auf das passende Gegenstück am Ölablasshahn geschraubt.
+Da sich der Ã–lablasshahn im unteren Bereich des BHKW-Moduls befindet, ist es notwendig das Altöl in entsprechende Altölbehältnisse zu pumpen. Es ist nicht möglich genügend grosse Altölbehälter untern Ã–lablasshahn zu stellen. Dazu wird ein passender Schlauch mit Ãœberwurfmutter auf das passende Gegenstück am Ã–lablasshahn geschraubt.
 
-Je nach den Ergebnissen der Ölanalysen wird das Öl im Reservoir jedes 2. Mal gewechselt.
+Je nach den Ergebnissen der Ã–lanalysen wird das Ã–l im Reservoir jedes 2. Mal gewechselt.
 
-#### Wartung des Ölsystems
+#### Wartung des Ã–lsystems
 
-Die Kontrolle und Wartung des Ölsystems ist grundsätzlich ein Bestandteil der technischen Anla-gewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
-Vom Betriebspersonal können bezüglich dem Ölsystem folgende Wartungsarbeiten durchgeführt werden:
+Die Kontrolle und Wartung des Ã–lsystems ist grundsätzlich ein Bestandteil der technischen Anla-gewartung gemäss Wartungsplan und wird durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
+Vom Betriebspersonal können bezüglich dem Ã–lsystem folgende Wartungsarbeiten durchgeführt werden:
 
-•	Dichtheitskontrolle des Ölsystems; kleinere Ölleckagen können im der technischen Möglichkeiten beseitigt werden (lose Verbindungen nachziehen).
-•	Überprüfung des Ölniveaus im Ölsystem. Die Überprüfung sollte erst 10 min. nach dem Ab-schalten des Motors durchgeführt werden.
-•	Nachfüllen von Schmieröl bis maximal 30 mm unter die Oberkante des Ölreservoirs, falls das Aggregat durch den Ölniveauschalter abgeschaltet wurde.
+•	Dichtheitskontrolle des Ã–lsystems; kleinere Ã–lleckagen können im der technischen Möglichkeiten beseitigt werden (lose Verbindungen nachziehen).
+•	Ãœberprüfung des Ã–lniveaus im Ã–lsystem. Die Ãœberprüfung sollte erst 10 min. nach dem Ab-schalten des Motors durchgeführt werden.
+•	Nachfüllen von Schmieröl bis maximal 30 mm unter die Oberkante des Ã–lreservoirs, falls das Aggregat durch den Ã–lniveauschalter abgeschaltet wurde.
 
  	Es dürfen nur Motorenöle verwendet werden, welche durch die Firma BES zugelassen sind (siehe 8.4 Schmieröl).
 Die Verwendung von anderen Motorölen kann einen Verlust der Garantiean-sprüche zur Folge haben.
 
- 	Die von der Firma BES festgelegten Wartungsintervalle dürfen nicht überschritten werden. Eine Überschreitung der Wartungsintervalle kann eine Verminderung der Schmierfähigkeiten zur Folge haben und die Standzeit vom Motor beeinträchtigen oder diesen beschädigen.
+ 	Die von der Firma BES festgelegten Wartungsintervalle dürfen nicht überschritten werden. Eine Ãœberschreitung der Wartungsintervalle kann eine Verminderung der Schmierfähigkeiten zur Folge haben und die Standzeit vom Motor beeinträchtigen oder diesen beschädigen.
 
- 	Es ist nicht erlaubt bei sichtbaren Ölleckagen die BHKW-Anlage weiter zu be-treiben.
+ 	Es ist nicht erlaubt bei sichtbaren Ã–lleckagen die BHKW-Anlage weiter zu be-treiben.
 
- 	Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
+ 	Der Ã–lwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ã–lwechsel ist gleichzeitig auch der Ã–lfilter zu ersetzen.
 
  
 ### Zündanlage
@@ -939,17 +939,17 @@ Legende :	1	Einspeisung von Batterie	5	Zündspulen
  
 #### Funktionsbeschrieb der Zündanlage
 Die Austrittsignale (Zündimpulse auf die einzelnen Zündspulen) werden wie folgt generiert:
-•	Signal vom Hallgeber ab Nockenwelle für RESET (Impuls alle 720°)
-•	Signal vom Pick-Up beim Schwungradkranz (Impuls alle 180°)
+•	Signal vom Hallgeber ab Nockenwelle für RESET (Impuls alle 720Â°)
+•	Signal vom Pick-Up beim Schwungradkranz (Impuls alle 180Â°)
 •	Einstellung der Vorzündung durch DIP-Schalter.
-Die Zündkerze zündet zwischen 90°–180° nach Signalende des Pick-Up ab Kurbelwelle. Der Winkel um den die Zündung verschoben ist, wird gegeben durch 90°+ N x 0.703°
-Dabei ergibt sich N (Vorzündung) aus der Position der DIP-Schalter Nr. 1–7 (Summe aller Wer-te, welche gemäss nachfolgender Tabelle in ON Position stehen).
+Die Zündkerze zündet zwischen 90Â°â€“180Â° nach Signalende des Pick-Up ab Kurbelwelle. Der Winkel um den die Zündung verschoben ist, wird gegeben durch 90Â°+ N x 0.703Â°
+Dabei ergibt sich N (Vorzündung) aus der Position der DIP-Schalter Nr. 1â€“7 (Summe aller Wer-te, welche gemäss nachfolgender Tabelle in ON Position stehen).
 
 DIP	1	2	3	4	5	6	7	8
 ON	1	2	4	8	16	32	64	
 OFF	0	0	0	0	0	0	0	
 
-RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. Das Ende des RESET-Signals synchronisiert die Zün-dung so, dass nach Ende des nächstfolgenden Pick-Up Signals ab Kurbelwelle die Zündkerze im Zylinder 1 (C1) mit der definierten Verzögerung (90°-180°) zündet (bei DIP Nr. 8 = ON). Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360° neu definiert werden.
+RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. Das Ende des RESET-Signals synchronisiert die Zün-dung so, dass nach Ende des nächstfolgenden Pick-Up Signals ab Kurbelwelle die Zündkerze im Zylinder 1 (C1) mit der definierten Verzögerung (90Â°-180Â°) zündet (bei DIP Nr. 8 = ON). Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360Â° neu definiert werden.
  
  
 #### Einstellung der Zündanlage
@@ -961,9 +961,9 @@ Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
 Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
 Zündbox
 Den Zündzeitpunkt (Vorzündung) einstellen.
-Betrieb mit Erdgas:	24° vor O.T.
-Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
-Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 “Funktionsbeschrieb der Zündanlage“).
+Betrieb mit Erdgas:	24Â° vor O.T.
+Betrieb mit Biogas:	26Â° bis 32Â° vor O.T. (abhängig von den Abgasemissionen)
+Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 â€œFunktionsbeschrieb der Zündanlageâ€œ).
 
 #### Wartung der Zündanlage
 Die Kontrolle und Wartung der Zündanlage ist ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
@@ -984,20 +984,20 @@ Biogase entstehen während dem Faulprozess von organischen Stoffen. Die damit ge
 Der Brenn- respektive Heizwert von Biogasen variiert stark, abhängig vom vorhandenen Faulgut und Faulprozess. Auch weisen Biogase oft Verunreinigungen auf, die für den Motor sehr schäd-lich sind. Deshalb müssen für Faulgase, wie sie auch genannt werden, Mindestanforderungen definiert werden.
 
 Physikalische Eigenschaften
-min. Heizwert Hu	6.0	kWh/m3	Dichte n	1.1–1.37	kg/m3
+min. Heizwert Hu	6.0	kWh/m3	Dichte ï²n	1.1â€“1.37	kg/m3
 zul. Schwankung Hu	+/- 5	%	min. Gasdruck	25	mbar
 min. Methangeh. CH4	> 60	Vol.-%	zul. Druckschwan-kung 	+/- 3	mbar
 min. Methanzahl MZ	80	-	
 
 maximal zulässige Bedingungen und Verunreinigungen
-max. Temperatur	40	°C	max. Cl-Gehalt	50	ppm
+max. Temperatur	40	Â°C	max. Cl-Gehalt	50	ppm
 max. rel. Feuchte	80	%	max. F-Gehalt	25	ppm
-Kondensat	0		max.  Cl+F-Gehalt	50	ppm
+Kondensat	0		max. ï“ Cl+F-Gehalt	50	ppm
 max. S-Gehalt (H2S)	300	ppm	max. NH3-Gehalt	20	ppm
 max. Staub	50	ppm	max. Restöl	5	ppm
 max. Silizium 	5	mg/m3	Kondensate	0	
 Bemerkung!
-Während den letzten Jahren werden Siloxane (eine Verbindung von Silizium und Sauerstoff) weit verbreitet in Waschmitteln und modernen Kosmetika eingesetzt. Über diese Produkte ge-langen die Siloxane ins Abwasser, in den Klärschlamm und schlussendlich ins Klärgas.
+Während den letzten Jahren werden Siloxane (eine Verbindung von Silizium und Sauerstoff) weit verbreitet in Waschmitteln und modernen Kosmetika eingesetzt. Ãœber diese Produkte ge-langen die Siloxane ins Abwasser, in den Klärschlamm und schlussendlich ins Klärgas.
 Bei der Verbrennung dieses Gases bildet sich Siliziumoxid (nichts anderes als Sand), welches zu einem vorzeitigen Verschleiss der Verbrennungsmotoren führen kann.
 Die Probleme aufgrund von Siliziumablagerungen in Motoren und in den Zylinderköpfen nehmen tendenziell zu.
 Um bei Bedarf diesem Problem entgegenzutreten, empfehlen wir das Klärgas vor Eintritt in den Motor mittels Aktivkohlefilter von Siloxanen zu reinigen. Alternativ oder ergänzend zum Aktiv-kohlefilter kann das Klärgas bis unter die Kondensationstemperatur abgekühlt werden, wodurch kann ein Teil der Siloxane über das Kondensat ausgeschieden wird.
@@ -1006,18 +1006,18 @@ Um bei Bedarf diesem Problem entgegenzutreten, empfehlen wir das Klärgas vor Ei
 Das in der Schweiz angebotene Erdgas erreicht uns über Versorgungsleitungen aus Holland, der Nordsee, Deutschland, Frankreich, Italien und den GUS. Je nach Herkunft hat das Gas ver-schiedene Zusammensetzungen, was sich vor allem auf den Heizwert auswirkt. Den effektiven Brennwert Ho respektive Heizwert Hu muss bei der lokalen Gasversorgung nachgefragt werden. In unserer Dokumentation wird mit einem Gas-Heizwert Hu = 9.3 kWh/m3 (Ho = 10.3 kWh/m3) gerechnet, was dem Holland-Gas entspricht.
 
 Brennwert Ho	10.30	kWh/m3	Methanzahl MZ	86	-
-Heizwert Hu	9.30	kWh/m3	Dichte n	0.83	kg/m3
-Methangehalt CH4	83.57	Vol.-%	Zündtemperatur	640	°C
+Heizwert Hu	9.30	kWh/m3	Dichte ï²n	0.83	kg/m3
+Methangehalt CH4	83.57	Vol.-%	Zündtemperatur	640	Â°C
 min. Methanzahl MZ	80	-	
 
  	Manche Gaswerke mischen zur Spitzenabdeckung ein Propan/Luft-Gemisch dem Erdgasnetz bei. Dadurch verringert sich die Methanzahl (vergleichbar mit der Oktanzahl bei Benzinmotoren), was sich negativ auf die motorische Ver-brennung auswirkt und zu Motorenschäden führen kann. Diesbezüglich sind Informationen beim örtlichen Gaswerk einzuholen.
 #### Propangas
-Propan und Butan sind leichte Kohlenwasserstoffe, die bei der Verarbeitung von Erdöl in Raffi-nerien gewonnen werden. Sie sind bei Atmosphärendruck gasförmig und lassen sich unter ge-ringem Überdruck verflüssigen. Daher stammt auch die Kurzbezeichnung “LPG“, die Anfangs-buchstaben der englischen Bezeichnung “Liquified Petroleum Gases“ (verflüssigte Petroleumga-se).
+Propan und Butan sind leichte Kohlenwasserstoffe, die bei der Verarbeitung von Erdöl in Raffi-nerien gewonnen werden. Sie sind bei Atmosphärendruck gasförmig und lassen sich unter ge-ringem Ãœberdruck verflüssigen. Daher stammt auch die Kurzbezeichnung â€œLPGâ€œ, die Anfangs-buchstaben der englischen Bezeichnung â€œLiquified Petroleum Gasesâ€œ (verflüssigte Petroleumga-se).
 Im Vergleich zum Erdgas, lässt sich Propan in relativ leichten, dünnwandigen Behältern transpor-tieren und aufbewahren (erdverlegte oder oberirdische Tanks). Daher kommt Propan in den Ge-bieten zum Einsatz, welche nicht durch das Erdgasnetz erschlossen sind.
 
 Brennwert Ho	28.30	kWh/m3	Methanzahl MZ	35	-
-Heizwert Hu	25.88	kWh/m3	Dichte n	2.01	kg/m3
-Propangehalt C3H8	100.00	Vol.-%	Zündtemperatur	510	°C
+Heizwert Hu	25.88	kWh/m3	Dichte ï²n	2.01	kg/m3
+Propangehalt C3H8	100.00	Vol.-%	Zündtemperatur	510	Â°C
  
 ### Motorkühlflüssigkeit
 
@@ -1041,8 +1041,8 @@ Ziel und Zweck dieser Mindestanforderungen ist es, Steinbildung (Kalkablagerunge
 Blockheizkraftwerke sind mit diversen Platten- und Rohrbündelwärmetauschern ausgestattet. Diese sind empfindlich auf die oben beschriebenen Verunreinigungen. Insbesondere Kalk- und Schlammablagerungen beeinträchtigen die Wärmeübertragung massiv und sind daher haupt-verantwortlich für thermische Probleme.
 
 allgemeine Anforderungen	farblos, klar und frei von ungelösten Stoffen
-Gesamthärte GH	0.8-1.0	mmol/l	(8-10 °f)
-Leitfähigkeit LH	<500	μS/cm
+Gesamthärte GH	0.8-1.0	mmol/l	(8-10 Â°f)
+Leitfähigkeit LH	<500	Î¼S/cm
 pH-Wert	8.3-9.5	---
 Chloride CL-	<20	mg/l
 Sulfate SO42-	<50	mg/l
@@ -1051,7 +1051,7 @@ Sauerstoff	<0.02	mg/l
  
 ### Schmieröl
 
-Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motor-standzeiten. Folgende Motorenöle können für das BIBLOC BV eingesetzt werden:
+Die Qualität des Motorschmieröls ist entscheidend für lange Ã–lwechselintervalle uns Motor-standzeiten. Folgende Motorenöle können für das BIBLOC BV eingesetzt werden:
 
 Hersteller	Erd- Flüssiggas	Bio- Klärgas
 Blaser AG	BES-spezial 	BES -spezial
@@ -1074,40 +1074,40 @@ Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit be
 
 #### Schutz vor nichtionisierender Strahlung
 Max. Strom mit cos * 0.81: 55 A 	(bei 30 kW)
-	magnetische Flussdichte BG = o * A/2r = 1.257 10-6 * 55/2 = 11 T
-	(Grenzwert nach NISV 814.710: 100 T)
+ïƒž	magnetische Flussdichte BG = ï­o * A/2ïr = 1.257 10-6 * 55/2ï = 11 ï­T
+	(Grenzwert nach NISV 814.710: 100 ï­T)
 	
 #### Generatorschutz
 
 Schutzart	Einstellung	Schutzgerät
-Überstrom- thermische Auslösung	Nennstrom der Anlage IN	Schutzschalter
+Ãœberstrom- thermische Auslösung	Nennstrom der Anlage IN	Schutzschalter
 Kurzschluss- magnetische Auslösung	5 x IN, unverzögert	Schutzschalter
-Der Überstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, das Modul (Generator) und teilweise auch die Zuleitung vor Überstrombelastungen.
+Der Ãœberstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, das Modul (Generator) und teilweise auch die Zuleitung vor Ãœberstrombelastungen.
  
 #### Schutz im Parallelbetrieb mit dem Netz
-Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BIBLOC BV mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Überwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
+Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BIBLOC BV mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Ãœberwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
 Von der Netzüberwachung werden folgende Parameter überwacht:
 
 Schutzart	Einstellung	Schutzgerät
-Überspannung	110 % (253V ),	verzögert 0,5 – 1s	Steuersystem IS-GAS
-Unterspannung 	90 % (207V),	verzögert 0,5 – 1s	Steuersystem IS-GAS
-Über-/ Unterfrequenz	/-2 % (51/49Hz),	verzögert 0,1s	Steuersystem IS-GAS
-Stromasymmetrie 	30 %	verzögert 0,5 – 1s	Steuersystem IS-GAS
+Ãœberspannung	110 % (253V ),	verzögert 0,5 â€“ 1s	Steuersystem IS-GAS
+Unterspannung 	90 % (207V),	verzögert 0,5 â€“ 1s	Steuersystem IS-GAS
+Ãœber-/ Unterfrequenz	ï€«/-2 % (51/49Hz),	verzögert 0,1s	Steuersystem IS-GAS
+Stromasymmetrie 	30 %	verzögert 0,5 â€“ 1s	Steuersystem IS-GAS
 Wird eine Netzstörung festgestellt, öffnet die Netzüberwachung über einen ersten Kontakt den Generatorschütz und signalisiert die Netzstörung über einen zweiten Kontakt dem Steuersystem IS-GAS. Damit wird sichergestellt, dass das BHKW unabhängig vom Steuersystem vom Netz abgekoppelt wird.
 Zusätzlich werden vom Steuersystem IS-GAS folgende Parameter überwacht:
 
 Schutzart	Einstellung	Schutzgerät
-Rückleistungschutz	1500 W; verzögert 5 - 10s	Steuersystem IS-GAS
+Rückleistungschutz	ï€­1500 W; verzögert 5 - 10s	Steuersystem IS-GAS
 Drehzahlschutz	105 - 115% Nennumdrehungen	Steuersystem IS-GAS
 Der Rückleistungsschutz schützt das BHKW vor einer Beschädigung im Falle eines Leistungs-verlustes des Motors. Dabei käme es zu einem motorischen Generatorbetrieb, der vor allem den Motor beschädigen könnte. Die Kontrolle der Rückleistung wird durch vergleichen des voreinge-stellten Grenzwertes mit der Nennwirkleistung durchgeführt.
-Der Überdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz im Falle einer Über- oder Unterdrehzahl des Generators. Die Drehzahl wird durch das Signal des Drehzahlge-bers (Pick-up) und anhand der Anzahl Zähne auf dem Anlasserkranz durch das Steuersystem IS-GAS errechnet und ausgewertet.
+Der Ãœberdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz im Falle einer Ãœber- oder Unterdrehzahl des Generators. Die Drehzahl wird durch das Signal des Drehzahlge-bers (Pick-up) und anhand der Anzahl Zähne auf dem Anlasserkranz durch das Steuersystem IS-GAS errechnet und ausgewertet.
 #### Rückwirkungen der BHKW-Anlage auf das Netz
 Einfluss auf den Netzanschluss:
 Das BIBLOC BV wird über den Generator, welcher während des Starts als Elektromotor ein-gesetzt wird, in Betrieb gesetzt. Um hohe Anlaufströme zu vermeiden erfolgt die Zuschaltung über eine Stern-Dreieckschaltung.
  
 Oberschwingungen:
 Allfällige Oberschwingungen des Generators sind konstruktionsbedingt. Für das BHKW vom Typ BIBLOC BV werden moderne Generatoren verwendet, welche die geltenden EU-Normen und Vorschriften erfüllen.
-Übrige Störungen:
+Ãœbrige Störungen:
 Im BHKW-Schaltschrank sind weder Kreisläufe mit starken Nieder- oder Hochfrequenzsignalen, Zerhackern, Impulsquellen, noch andere Einrichtungen, welche Störungen im öffentlichen Netz verursachen könnten, integriert.
 #### Sternpunktbehandlung
 Nullleiter des Generators wird nicht herausgeführt
@@ -1131,7 +1131,7 @@ Legende :
 3	Not-Aus Schalter
 
 #### Steuersystem IS-GAS
-Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BIBLOC BV. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
+Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Ãœberwachung und Bedienung der BIBLOC BV. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
 #### Schlüsselschalter Steuerung Ein/Aus
 Dieser Schlüsselschalter ermöglicht die komplette Sperrung der BIBLOC BV indem die Ver-sorgung der Steuereinheit mit 12 VDC unterbrochen wird. Das Einschalten des Aggregats durch nichtautorisierten Personen kann damit unterbunden werden.
 #### Not-Aus Schalter
@@ -1152,7 +1152,7 @@ _________________________________________________________________________
 
 Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BIBLOC BV entwickelt worden und ist direkt im Schaltschrank integriert. 
 
-Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Überwachung und den Schutz der BHKW-Anlage mit diversen Zustand-überwachungen gewährleistet. 
+Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Ãœberwachung und den Schutz der BHKW-Anlage mit diversen Zustand-überwachungen gewährleistet. 
 
 Die Steuerung zeichnet sich durch hohe Beständigkeit gegen Fremdstörungen und Schwankungen der Versorgungsspannung aus. 
 
@@ -1162,7 +1162,7 @@ Dabei ist nur die Anzahl der zusätzlichen Module und die Software unterschiedli
 
 Das Steuersystem ist mit einer grafischen Anzeige ausgerüstet, was eine einfache Bedienung gewährleistet.
 
-Sämtliche Betriebsparameter und Anlagezustände können am grafischen Display angezeigt oder visualisiert werden. Über ein Modem kann das BHKW fernüberwacht und gesteuert werden.
+Sämtliche Betriebsparameter und Anlagezustände können am grafischen Display angezeigt oder visualisiert werden. Ãœber ein Modem kann das BHKW fernüberwacht und gesteuert werden.
 
 Das Steuerungssystem IS-GAS kennt zwei verschiedene Betriebarten des BIBLOC BV: 
 
@@ -1189,7 +1189,7 @@ Für den Betrieb des BIBLOC BVübernimmt das Steuersystem folgende Aufgaben:
 
 •	ermöglicht die Fernüberwachung und Fernmonitoring der Störungen über ein Modem (sofern Telefonanschluss vorhanden)
 
-•	verbindet mehrere IS-GAS–Steuersysteme bei Mehrmodulanlagen.
+•	verbindet mehrere IS-GASâ€“Steuersysteme bei Mehrmodulanlagen.
  
 ### Das Operations-Panel
 
@@ -1236,7 +1236,7 @@ Die verschiedenen Informationen sind in Menüs eingeteilt (siehe Kapitel 6.4).
 
 #### Funktionstasten
 
-Um Einstellungen, Änderungen oder Messwerte abzurufen, stehen Funktionstasten zur Verfügung.
+Um Einstellungen, Ã„nderungen oder Messwerte abzurufen, stehen Funktionstasten zur Verfügung.
  
 Nachfolgend ist eine Erläuterung zu den einzelnen Tasten aufgeführt.
 
@@ -1247,13 +1247,13 @@ Durch Drücken der PAGE-Taste kann zwischen den einzelnen Menüs gewechselt werd
 Mit den PFEIL-Tasten AB und AUF wird der Pfeilbalken auf- und abbewegt. 
 Damit erfolgt auch zum Beispiel die Auswahl einer bestimmten Parametergruppe.
 
-Die PFEIL-Tasten dienen auch zum Ändern von Parameterwerten.
+Die PFEIL-Tasten dienen auch zum Ã„ndern von Parameterwerten.
  
 Befindet sich die Pfeilmarkierung über einer bestimmten Parametergruppe, werden durch drücken der ENTER-Taste die entsprechenden Parameterwerte angewählt und angezeigt.
 
 Wird ein Wert verändert, muss dieser mit der ENTER-Taste bestätigt werden.
 
-Mit der Taste FAULT RESET wird ein anstehender Fehler oder Alarm quittiert, sofern sich der entsprechende Zustand normalisiert hat. Durch die Quittierung wird auch der Ausgang STÖRUNG zurückgesetzt.
+Mit der Taste FAULT RESET wird ein anstehender Fehler oder Alarm quittiert, sofern sich der entsprechende Zustand normalisiert hat. Durch die Quittierung wird auch der Ausgang STÃ–RUNG zurückgesetzt.
 
 Durch die Tasten START und STOP wird das Aggregat im Modus HAND gestartet und abgeschaltet.
 Im Modus OFF haben die Tasten keine Funktion und im AUTO-Modus ist nur die Taste STOP aktiv.
@@ -1291,18 +1291,18 @@ Wird die Taste   nochmals gedrückt gelangt man wieder zur 1. Seite mit der graf
 #### Menü Parameter
 Im Menü Parameter können sämtliche Betriebsparameter aufgerufen und eingestellt werden. Die Parameter sind in Parametergruppen unterteilt.
 
- 	Die Änderung von Parameter, welche mit “*“ bezeichnet sind, können die Si-cherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. Der Zugriff auf diese Parameter ist codiert.
+ 	Die Ã„nderung von Parameter, welche mit â€œ*â€œ bezeichnet sind, können die Si-cherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. Der Zugriff auf diese Parameter ist codiert.
 
 Durch drücken der Taste   wird zwischen den verschiedenen Menüs gewechselt. Vom Menü Messung wech-selt das Steuersystem ins Menü Para-meter.
 Mit den PFEIL-Tasten können die Para-metergruppen ausgewählt werden. Durch drücken der Taste ENTER wird die entsprechende Gruppe geöffnet.
 Der gewünschte Parameter kann nun mit der PFEIL-Taste ausgewählt und mit ENTER bestätigt werden.
-Sofern der Parameter nicht mit einem “*“ bezeichnet ist, kann der Parameterwert mit den PFEIL-Tasten verändert werden.
+Sofern der Parameter nicht mit einem â€œ*â€œ bezeichnet ist, kann der Parameterwert mit den PFEIL-Tasten verändert werden.
  
  
 #### Menü History
-Sämtliche Änderungen in der Betriebsart, Ein- oder Abschaltungen sowie Fehler- und Alarmmeldungen werden in einem History-Register gespeichert. Während dem Betrieb wird stündlich eine Kontrolle aller Parameter durchgeführt.
+Sämtliche Ã„nderungen in der Betriebsart, Ein- oder Abschaltungen sowie Fehler- und Alarmmeldungen werden in einem History-Register gespeichert. Während dem Betrieb wird stündlich eine Kontrolle aller Parameter durchgeführt.
 
-Dieser Vorgang wird als “Periodische Abtastung“ in der History hinterlegt.
+Dieser Vorgang wird als â€œPeriodische Abtastungâ€œ in der History hinterlegt.
 
 Die Eintragungen werden mit Zeit, Datum und den Messwerten im History eingetragen. Inge-samt können 118 Meldungen in diesem Register hinterlegt werden. 
 
@@ -1346,11 +1346,11 @@ Durch drücken der Taste ENTER wer-den die einzelnen Spalten angezeigt.
 
  
  
-### Ändern von Parametern
+### Ã„ndern von Parametern
 
 #### Service-Code eingeben
 
-Alle Parameter, welche mit einem “*“ bezeichnet sind, können nur geändert werden, wenn der Servicecode gegeben wird. Diese Parameter dürfen grundsätzlich durch den Servicetechniker geändert werden.  
+Alle Parameter, welche mit einem â€œ*â€œ bezeichnet sind, können nur geändert werden, wenn der Servicecode gegeben wird. Diese Parameter dürfen grundsätzlich durch den Servicetechniker geändert werden.  
  
 
 
@@ -1388,7 +1388,7 @@ Wählen Sie mit der PFEIL-Tasten die Parametergruppe Grundparameter an und drüc
 
 Wählen Sie den Parameter Ser-vUeberschri mit der PFEIL-Taste aus und bestätigt Sie mit ENTER.
 Mit den PFEIL-Tasten kann nun die Stundenzahl für die maximale Service-stunden-überschreitung erhöht oder ge-senkt und mit ENTER bestätigt werden.
-Sofern der Parameter mit einem “*“ be-zeichnet ist, muss vorgängig der Ser-vicecode eingegeben werden (siehe 6.5.1).
+Sofern der Parameter mit einem â€œ*â€œ be-zeichnet ist, muss vorgängig der Ser-vicecode eingegeben werden (siehe 6.5.1).
  
 Beispiel:	Die maximale Servicestundenüberschreitung beträgt 100 h. Der nächste periodische Service ist bei 7200 Betriebsstunden fällig. Ist die Wartung bis 7300 Betriebsstunden nicht durchgeführt worden, schaltet das BHKW ab.
  
@@ -1397,32 +1397,32 @@ Beispiel:	Die maximale Servicestundenüberschreitung beträgt 100 h. Der nächst
 
 Das Steuersystem wird mittels Schlüsselschalter (siehe Kapitel 5.1 Position 2) eingeschaltet. Damit erfolgt die Spannungsversorgung 12 VDC des Steuersystems.
 Das Display leuchtet auf und nach einer kurzen Initialisierung, wird das Menü Messung ange-zeigt (grafische Darstellung der elektrischen Leistung). Dabei schaltet das Steuersystem in den Betriebsmodus, in dem das BHKW vor der Abschaltung war.
-#### Betriebsmodus “AUT“
-Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung “AUT“ (automa-tisch) angezeigt. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld “VORBEREITET“ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+#### Betriebsmodus â€œAUTâ€œ
+Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung â€œAUTâ€œ (automa-tisch) angezeigt. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld â€œVORBEREITETâ€œ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
 START-Prozedur
 Im Automatik-Betrieb wird die Anlage über eine externe Freigabe ein- bzw. ausgeschaltet. Dies erfolgt über einen potentialfreien Kontakt, welcher an Klemmen im Schaltschrank angeschlos-sen wird. Bei geschlossenem Kontakt startet die Anlage und schaltet sich wieder ab, sobald der Kontakt geöffnet wird. Die externe Freigabe kann auf Grund eines externen Wärme-, Strom- (Spitzenstromsteuerung) oder Gasmanagements erfolgen.
 Wird das BHKW von der externen Steuerung freigegeben, wird der Haupt- und Sternschütz des Generators gezogen, wodurch dieser als Elektromotor betrieben wird und der Motor mit 1500 1/min. dreht. Danach wird die Zündung eingeschalten und einige Sekunden später die Gasventile geöffnet, wodurch nun der Motor den Generator antreibt. Zeitverzögert erfolgt die Stern-Dreieckumschaltung.
-Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird “BELASTUNG“ angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BIBLOC BVseine Leistung auf die programmierte Nominalleistung.
+Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird â€œBELASTUNGâ€œ angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BIBLOC BVseine Leistung auf die programmierte Nominalleistung.
 STOP-Prozedur
-Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint “ENTLASTET“) und öffnet den Generatorschütz.
-Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die Ausgänge für Zündung und Gasventile zurückgesetzt werden. Die Primär- und Sekundärpumpe bleiben wäh-rend der Nachkühlzeit in Betrieb, um den Motor weiter abzukühlen. Das BHKW ist in dieser Zeit bereits für den nächsten Start bereit. Am Display erscheint “VORBEREITET“.
+Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint â€œENTLASTETâ€œ) und öffnet den Generatorschütz.
+Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die Ausgänge für Zündung und Gasventile zurückgesetzt werden. Die Primär- und Sekundärpumpe bleiben wäh-rend der Nachkühlzeit in Betrieb, um den Motor weiter abzukühlen. Das BHKW ist in dieser Zeit bereits für den nächsten Start bereit. Am Display erscheint â€œVORBEREITETâ€œ.
  
 
- 	Im Mode “AUT“ bleibt die Taste STOP aktiv. Durch drücken der Taste STOP schaltet die Steuerung in den Mode “MAN“ um und beginnt mit der Stoproutine. Für einen weiteren Automatik-Betrieb muss zurück in den Mode “AUT“ gewech-selt werden.
+ 	Im Mode â€œAUTâ€œ bleibt die Taste STOP aktiv. Durch drücken der Taste STOP schaltet die Steuerung in den Mode â€œMANâ€œ um und beginnt mit der Stoproutine. Für einen weiteren Automatik-Betrieb muss zurück in den Mode â€œAUTâ€œ gewech-selt werden.
 
  	Schaltet das BHKW in Folge einer Störung ab, startet das Aggregat nach Quit-tierung mit der Taste FAULT RESET automatisch.
-#### Betriebsmodus “MAN“
-Im Betriebsmenü ist die Bezeichnung “MAN“ (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld “VORBEREITET“ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+#### Betriebsmodus â€œMANâ€œ
+Im Betriebsmenü ist die Bezeichnung â€œMANâ€œ (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld â€œVORBEREITETâ€œ in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
 START-Prozedur
-Im Unterschied zum Mode “AUT“ wird im Mode “MAN“ das Aggregat nicht durch eine externe Freigabe gestartet, sondern durch drücken der Taste START.
-Der weitere Verlauf der Startroutine entspricht jenem im Mode “AUT“.
+Im Unterschied zum Mode â€œAUTâ€œ wird im Mode â€œMANâ€œ das Aggregat nicht durch eine externe Freigabe gestartet, sondern durch drücken der Taste START.
+Der weitere Verlauf der Startroutine entspricht jenem im Mode â€œAUTâ€œ.
 STOP-Prozedur
 Das Abschalten des BHKW erfolgt durch drücken der Taste STOP.
-Der weitere Verlauf der Stopproutine entspricht jenem im Mode “AUT“. 
+Der weitere Verlauf der Stopproutine entspricht jenem im Mode â€œAUTâ€œ. 
 
- 	Im Mode “MAN“ reagiert das Steuersystem nicht auf ein externes Freigabesig-nal oder eine externe Leistungsregulierung.
-#### Betriebsmodus “AUS“
-Im Betriebsmenü wird die Bezeichnung “AUS“ hinterleuchtet und im rechten Textfeld erscheint “SPS Aus“ in der obersten Zeile.
+ 	Im Mode â€œMANâ€œ reagiert das Steuersystem nicht auf ein externes Freigabesig-nal oder eine externe Leistungsregulierung.
+#### Betriebsmodus â€œAUSâ€œ
+Im Betriebsmenü wird die Bezeichnung â€œAUSâ€œ hinterleuchtet und im rechten Textfeld erscheint â€œSPS Ausâ€œ in der obersten Zeile.
 Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
  
 
@@ -1457,12 +1457,12 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 Legende :
 
 	1	Drehzahlgeber Steuerung 	  6	  Lambdasonde
-	2	Temperaturfühler Motorkreis	  7	  Öldruckschalter	
-	3	Temperaturfühler Rücklauf	  8	  Ölniveauschalter Reservoir
+	2	Temperaturfühler Motorkreis	  7	  Ã–ldruckschalter	
+	3	Temperaturfühler Rücklauf	  8	  Ã–lniveauschalter Reservoir
 	4	Thermoelement Abgas vor WT	  9	  Wasserniveauschalter
 	5	Thermoelement Abgas nach WT	 10	  Gasdruckwächter
  
-#### Übersicht der analogen Sensoren
+#### Ãœbersicht der analogen Sensoren
 
 ##### Analog-Sensor Nr. 1
 
@@ -1479,23 +1479,23 @@ Legende :
 	gemessene Grösse	Motortemperatur
 	Art des Fühlers 	PT 100
 	Hersteller / Typ	JUMO / 902004/20
-	Messbereich			-50 bis +150 °C
+	Messbereich			-50 bis +150 Â°C
 	
 	Beschreibung:
 	Der Temperaturfühler ist in die Kühlwasser-Austrittsleitung beim Motor eingeschraubt und misst die aktuelle Motortemperatur.
-	Er schützt den Motor vor einer Überhitzung.
-	Das Steuersystem meldet einen Voralarm beim Überschreitung der Warngrenze von 93 °C und schaltet das Aggregat bei Überschreitung der maximalen Wassertemperatur von 95 °C ab.
+	Er schützt den Motor vor einer Ãœberhitzung.
+	Das Steuersystem meldet einen Voralarm beim Ãœberschreitung der Warngrenze von 93 Â°C und schaltet das Aggregat bei Ãœberschreitung der maximalen Wassertemperatur von 95 Â°C ab.
 
 ##### Analog-Sensor Nr. 3
 
 	gemessene Grösse	Rücklauf Sekundärkreislauf
 	Art des Fühlers 	PT 100
 	Hersteller / Typ	JUMO / 902004/20
-	Messbereich			-50 bis +150 °C
+	Messbereich			-50 bis +150 Â°C
 
 	Beschreibung:
 	Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes eingeschraubt und misst die aktuelle Rücklauftemperatur nach dem 3-Wegventil der Hochhaltung.
-	Diese Temperatur ist die Führungsgrösse zur Regulierung einer konstanten Rücklauftemperatur im Sekundärkreislauf, welche die minimale Motortemperatur und die Verhinderung von Kondensat garantiert. Der Sollwert liegt zwischen minimal 60°C und maximal 70°C.
+	Diese Temperatur ist die Führungsgrösse zur Regulierung einer konstanten Rücklauftemperatur im Sekundärkreislauf, welche die minimale Motortemperatur und die Verhinderung von Kondensat garantiert. Der Sollwert liegt zwischen minimal 60Â°C und maximal 70Â°C.
 
  
 ##### Analog-Sensor Nr. 4
@@ -1503,24 +1503,24 @@ Legende :
 	gemessene Grösse	Abgastemperatur vor Abgaswärmetauscher
 	Art des Fühlers 	Thermoelement Typ K
 	Hersteller / Typ	JUMO / 901221/34-1043
-	Messbereich			0 bis +1000 °C
+	Messbereich			0 bis +1000 Â°C
 
 	Beschreibung:
 	Dieses Thermoelement ist unmittelbar nach dem Katalysator in die interne Abgasleitung montiert
-	Es schützt den Katalysator vor einer Überhitzung infolge eines falschen Verbrennungsgemisches.
-	Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgastemperatur von 700 °C ab.
+	Es schützt den Katalysator vor einer Ãœberhitzung infolge eines falschen Verbrennungsgemisches.
+	Das Steuersystem schaltet das Aggregat bei Ãœberschreitung der maximalen Abgastemperatur von 700 Â°C ab.
 
 ##### Analog-Sensor Nr. 5
 
 	gemessene Grösse	Abgastemperatur nach Abgaswärmetauscher
-	Art des Fühlers 	Thermoelement Typ “K“
+	Art des Fühlers 	Thermoelement Typ â€œKâ€œ
 	Hersteller / Typ	JUMO / 901221/34-1043
-	Messbereich			0 bis +1000 °C
+	Messbereich			0 bis +1000 Â°C
 
 	Beschreibung:
 	Dieser Temperaturfühler ist nach dem Abgaswärmetauscher in der Abgasleitung ausserhalb des BHKW-Moduls montiert. 
-	Er schützt die nachfolgende Abgasleitung vor einer Überhitzung. 
-	Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgastemperatur von 160 °C ab. 
+	Er schützt die nachfolgende Abgasleitung vor einer Ãœberhitzung. 
+	Das Steuersystem schaltet das Aggregat bei Ãœberschreitung der maximalen Abgastemperatur von 160 Â°C ab. 
 	Diese Schutzeinrichtung ist vor allem bei Verwendung von Kunststoff-Abgasleitungen wichtig.
 
 ##### Analog-Sensor Nr. 6
@@ -1535,28 +1535,28 @@ Legende :
 	Sie misst permanent den Restsauerstoff im Abgas. 
 	Der Sauerstoffgehalt im Abgas ist die Führungsgrösse für die Lambdaregelung, welche ein konstantes Verbrennungsgemisch reguliert.
  
-#### Übersicht der digitalen Sensoren
+#### Ãœbersicht der digitalen Sensoren
 
 ##### Digital-Sensor Nr. 7
 
-	gemessene Grösse	Öldruck
+	gemessene Grösse	Ã–ldruck
 	Art des Fühlers 	Druckschalter
 	Hersteller / Typ	Motorbestandteil
 	
 	Beschreibung:
-	Der Öldruckschalter ist am Motor in den Schmierölkreislauf eingebaut und überwacht den Öldruck. 
-	Bei zu tiefem Öldruck öffnet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet.
+	Der Ã–ldruckschalter ist am Motor in den Schmierölkreislauf eingebaut und überwacht den Ã–ldruck. 
+	Bei zu tiefem Ã–ldruck öffnet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet.
 	Damit wird das Aggregat vor ungenügender Schmierung geschützt.
 
 ##### Digital Sensor Nr. 8
 
-	gemessene Grösse	Öllevelschalter Ölreservoir
+	gemessene Grösse	Ã–llevelschalter Ã–lreservoir
 	Art des Fühlers 	Niveauschalter
 	Hersteller / Typ	BRISK S14S
 	
 	Beschreibung:
-	Der Ölniveauschalter ist im Ölreservoir montiert und überwacht Ölstand. 
-	Bei zu tiefem Ölstand öffnet der Kontakt und schaltet das BHKW-Modul ab.
+	Der Ã–lniveauschalter ist im Ã–lreservoir montiert und überwacht Ã–lstand. 
+	Bei zu tiefem Ã–lstand öffnet der Kontakt und schaltet das BHKW-Modul ab.
 
 ##### Digital Sensor Nr. 9
 
@@ -1580,7 +1580,7 @@ Legende :
 	Damit wird das Aggregat wie auch die Gaszuleitung vor einem Gasunterdruck geschützt.
 
 ## Störungen und Diagnostik
-Überschreiten ein oder mehrere Betriebsparameter ihren vorgegebenen Grenzwert, wird das Aggregat über das Steuersystem IS-GAS abgeschaltet. Die entsprechende Fehlermeldung wird ins Fehler- und Historyregister geschrieben.
+Ãœberschreiten ein oder mehrere Betriebsparameter ihren vorgegebenen Grenzwert, wird das Aggregat über das Steuersystem IS-GAS abgeschaltet. Die entsprechende Fehlermeldung wird ins Fehler- und Historyregister geschrieben.
 
 ### interne Störungsursachen
 Unter internen Störungen versteht man Fehler des BHKW-Aggregates, welche auf mangelhafte oder defekte Bestandteile des BHKW zurückzuführen sind. Aber auch ungenügende Reglerein-stellungen können Fehler verursachen. Häufig entstehen diese durch betriebsbedingten Ver-schleiss von Bauteilen. Im Wartungsplan ist ein präventiver Austausch von diversen Bauteilen vorgesehen, was jedoch nicht ausschliesst, dass ein Bauteil seine vorgesehene Standzeit nicht erreicht.
@@ -1596,13 +1596,13 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 
 | Meldung              | Beschreibung                    | mögliche Ursachen                       | Störungsbehebung                              |
 |----------------------|---------------------------------|-----------------------------------------|-----------------------------------------------|
-| Sto P Oel            | Sensorstörung Öldruckgeber      | Fühler defekt                           | Öldruckfühler wechseln                        |
+| Sto P Oel            | Sensorstörung Ã–ldruckgeber      | Fühler defekt                           | Ã–ldruckfühler wechseln                        |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
 |                      |                                 |                                         |                                               |
-| Sto L Oel            | Sensorstörung Ölstand           | Fühler defekt                           | Ölniveauschalter des Ölniveaureglers wechseln |
+| Sto L Oel            | Sensorstörung Ã–lstand           | Fühler defekt                           | Ã–lniveauschalter des Ã–lniveaureglers wechseln |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
 |                      |                                 |                                         |                                               |
-| Sto L Wasser         | Sensorstörung Ölstand           | Fühler defekt                           | Wasserstandfühler wechseln                    |
+| Sto L Wasser         | Sensorstörung Ã–lstand           | Fühler defekt                           | Wasserstandfühler wechseln                    |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
 |                      |                                 |                                         |                                               |
 | Sto T Wasser         | Sensorstörung                   | Fühler defekt                           | Motorkühlwassertemperatur wechseln            |
@@ -1614,14 +1614,14 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 | Sto Abgasfühler      | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
 |                      | Abgastemperatur                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
 |                      |                                 |                                         |                                               |
-| Fhl P Oel            | Fehler                          | Ölpumpe ist defekt                      | Service anrufen                               |
-|                      | Öldruck zu niedrig              | Verschleiss am Motor                    | Service anrufen                               |
+| Fhl P Oel            | Fehler                          | Ã–lpumpe ist defekt                      | Service anrufen                               |
+|                      | Ã–ldruck zu niedrig              | Verschleiss am Motor                    | Service anrufen                               |
 |                      |                                 |                                         |                                               |
-| Fhl L Oel            | Fehler                          | Ölniveau zu tief                        | Öl nachfühlen                                 |
-|                      | Ölstand zu niedrig              |                                         | Service anrufen                               |
+| Fhl L Oel            | Fehler                          | Ã–lniveau zu tief                        | Ã–l nachfühlen                                 |
+|                      | Ã–lstand zu niedrig              |                                         | Service anrufen                               |
 |                      |                                 |                                         |                                               |
 | Fhl L Wasser         | Fehler                          | Wasserniveau im                         | Wasser-Ethylenglykol ins Ausgleichgefäss      |
-|                      | Ölstand zu niedrig              | Primärkreislauf zu tief                 | nachfüllen, Öl nachfühlen                     |
+|                      | Ã–lstand zu niedrig              | Primärkreislauf zu tief                 | nachfüllen, Ã–l nachfühlen                     |
 |                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
 |                      |                                 |                                         |                                               |
 | T Wasser Alarm       | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
@@ -1689,7 +1689,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 |                      |                                 |                                         | Lambdasonde ersetzen                          |
 |                      |                                 |                                         |                                               |
 | StoThermoelement2    | Fühlerstörung                   | Thermoelementspannung nach Start        | die Polarität kontrollieren oder Thermoelement|
-|                      | Stop Fehler                     | ist Abgastemperatur kleiner -50 °C      | ersetzen                                      |
+|                      | Stop Fehler                     | ist Abgastemperatur kleiner -50 Â°C      | ersetzen                                      |
 |                      |                                 | Anlage wurde infolge einer Störung      | Möglicher Fehler aus History erkennbar        |
 |                      |                                 | abgeschaltet, eine der Schutzeinrichtung|                                               |
 |                      |                                 | hat angesprochen                        |                                               |
@@ -1721,7 +1721,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 |                      |                                 |                                         |                                               |
 | LA Ueberstrom        | Generatorschutzschalter         | Generatorschutzschalter hat angesprochen| Einstellung kontrollieren                     |
 |                      | hat geöffnet                    | X4 1,2 ist offen                        | Aggregat auf Kurzschluss überprüfen           |
-|                      |                                 |                                         | Überstromschutz entriegeln                    |
+|                      |                                 |                                         | Ãœberstromschutz entriegeln                    |
 |                      |                                 |                                         |                                               |
 | LA NPU               | Abschaltung                     | Ein oder mehrere Netzparametergrenzwerte| Netzstörungen sind aufgetreten                |
 |                      | durch Netzüberwachung           | wurden über- oder unterschritten        |                                               |
@@ -1744,17 +1744,17 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 | LA U3unter           | Generatorunterspannung in Ph. 3 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
 |                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
 |                      |                                 |                                         |                                               |
-| LA Ueberstrom1       | Überstrom Generator in Phase 1  | Die Generatorstrom in Phase 1 hat       | Phasenbelastung kontrollieren                 |
+| LA Ueberstrom1       | Ãœberstrom Generator in Phase 1  | Die Generatorstrom in Phase 1 hat       | Phasenbelastung kontrollieren                 |
 |                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
 |                      |                                 |                                         | Spannungswandler kontrollieren                |
 |                      |                                 |                                         | Service anrufen                               |
 |                      |                                 |                                         |                                               |
-| LA Ueberstrom2       | Überstrom Generator in Phase 2  | Die Generatorstrom in Phase 2 hat       | Phasenbelastung kontrollieren                 |
+| LA Ueberstrom2       | Ãœberstrom Generator in Phase 2  | Die Generatorstrom in Phase 2 hat       | Phasenbelastung kontrollieren                 |
 |                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
 |                      |                                 |                                         | Spannungswandler kontrollieren                |
 |                      |                                 |                                         | Service anrufen                               |
 |                      |                                 |                                         |                                               |
-| LA Ueberstrom3       | Überstrom Generator in Phase 3  | Die Generatorstrom in Phase 3 hat       | Phasenbelastung kontrollieren                 |
+| LA Ueberstrom3       | Ãœberstrom Generator in Phase 3  | Die Generatorstrom in Phase 3 hat       | Phasenbelastung kontrollieren                 |
 |                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
 |                      |                                 |                                         | Spannungswandler kontrollieren                |
 |                      |                                 |                                         | Service anrufen                               |
@@ -1840,12 +1840,12 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 
 Erläuterung:
 
-**Sto**		Meldungen, welche mit “Sto“ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
+**Sto**		Meldungen, welche mit â€œStoâ€œ gekennzeichnet sind, signalisieren Störungen von Sensoren oder deren Verkabelung (Kabelbruch)
 
-**Alarm**	Meldungen, welche zusätzlich mit “Alarm“ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
+**Alarm**	Meldungen, welche zusätzlich mit â€œAlarmâ€œ bezeichnet sind, signalisieren eine Warnung bezüglich unzulässigen Zuständen oder
 			Bedingungen. Diese Meldungen sind einem Voralarm gleichzustellen, da die Anlange weiter läuft
 		
-**Fhl**		Meldungen, welche mit “Fhl“ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
+**Fhl**		Meldungen, welche mit â€œFhlâ€œ gekennzeichnet sind, signalisieren Störungen, bei welchen die Anlage abgeschaltet wurde
 
 
 ## für Anlagenbenutzer
@@ -1861,100 +1861,100 @@ Erläuterung:
 
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert                | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------------|------------|----------------|
-|     1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | Expansionsgefäss_Vordruck |            |☐              |
-|     2       |  Vordruck der Expansion Motorkreis (MK) prüfen                     |          | Expansionsgefäss_Vordruck |            |☐              |
-|     3       |  Wasserdruck Minimum mit Luft MK einstellen                        | -120S2   | 0.5 - 0.6 bar             |            |☐              |
-|     4       |  Sicherheitsthermostat MK einstellen                               | -120S7   | 100 - 110 °C              |            |☐              |
-|     5       |  Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren          |          | -24 C°                    |            |☐              |
-|     5.1     |  Ethylenglykol bereitstellen                                       |          | 20 l (40%)                |            |☐              |
-|     5.2     |  Wasser bereitstellen                                              |          | 30 l (60%)                |            |☐              |
-|     6       |  Anlage mit Ethylenglykol-Wasser Gemisch befüllen                  |          | 50 l                |            |☐              |
-|     7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
-|     8       |  Motorkreis (MK) entlüften                                         |          |                     |            |☐              |
-|     9       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |☐              |
-|     10      |  elektrische Erstprüfung durchführen                               |[4.2](#4.2)|                     |            |☐              |
-|     11      |  Netzüberwachung einstellen                                        |          |                     |            |☐              |
-|     12      |  Batterieladegeräte kontrollieren, Poti einstellen, Jumper setzen  |          |                     |            |☐              |
-|     13      |  Erstprüfung Software                                              |[4.3](#4.3)|                     |            |☐              |
-|     14      |  Siphon füllen                                                     |          |                     |            |☐              |
-|     15      |  Siphon füllen                                                     |          |                     |            |☐              |
-|     16      |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
-|     17      |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
+|     1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | 0.5 |            |ɡ             |
+|     2       |  Vordruck der Expansion Motorkreis (MK) prüfen                     |          | 0.5 |            |ɡ             |
+|     3       |  Wasserdruck Minimum mit Luft MK einstellen                        | -120S2   | 0.5 - 0.6 bar             |            |ɡ             |
+|     4       |  Sicherheitsthermostat MK einstellen                               | -120S7   | 100 - 110 Â°C              |            |ɡ             |
+|     5       |  Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren          |          | -24 CÂ°                    |            |ɡ             |
+|     5.1     |  Ethylenglykol bereitstellen                                       |          | 20 l (40%)                |            |ɡ             |
+|     5.2     |  Wasser bereitstellen                                              |          | 30 l (60%)                |            |ɡ             |
+|     6       |  Anlage mit Ethylenglykol-Wasser Gemisch befüllen                  |          | 50 l                |            |ɡ             |
+|     7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |ɡ             |
+|     8       |  Motorkreis (MK) entlüften                                         |          |                     |            |ɡ             |
+|     9       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                |            |ɡ             |
+|     10      |  elektrische Erstprüfung durchführen                               |[4.2](#4.2)|                     |            |ɡ             |
+|     11      |  Netzüberwachung einstellen                                        |          |                     |            |ɡ             |
+|     12      |  Batterieladegeräte kontrollieren, Poti einstellen, Jumper setzen  |          |                     |            |ɡ             |
+|     13      |  Erstprüfung Software                                              |[4.3](#4.3)|                     |            |ɡ             |
+|     14      |  Siphon füllen                                                     |          |                     |            |ɡ             |
+|     15      |  Siphon füllen                                                     |          |                     |            |ɡ             |
+|     16      |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |ɡ             |
+|     17      |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |ɡ             |
 
 ### elektrische Erstprüfung {#elektrische-erstprüfung}
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
-|     1       |  Sichtkontrolle 								                   |          |                     |            |☐              |
+|     1       |  Sichtkontrolle 								                   |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     1.1     |  alle Beschriftungen vorhanden (Piktogramme, bspw. Generator)      |          |                     |            |☐              |
-|     1.2     |  Aderfarben korrekt                                                |          |                     |            |☐              |
-|     1.3     |  Leitungen korrekt verlegt und angeschlossen (v.a. Generator)      |          |                     |            |☐              |
-|     1.4     |  Erde durchgehend angeschlossen                                    |          |                     |            |☐              |
-|     1.5     |  Trennung TN-S oder TN-C                                           |          |                     |            |☐              |
-|     1.6     |  richtige Sicherungsautomaten                                      |          |                     |            |☐              |
-|     1.7     |  richtige Einstellungen Motorschutzschalter                        |          |                     |            |☐              |
-|     1.8     |  IP-Schutzart passend zum Raum                                     |          |                     |            |☐              |
+|     1.1     |  alle Beschriftungen vorhanden (Piktogramme, bspw. Generator)      |          |                     |            |ɡ             |
+|     1.2     |  Aderfarben korrekt                                                |          |                     |            |ɡ             |
+|     1.3     |  Leitungen korrekt verlegt und angeschlossen (v.a. Generator)      |          |                     |            |ɡ             |
+|     1.4     |  Erde durchgehend angeschlossen                                    |          |                     |            |ɡ             |
+|     1.5     |  Trennung TN-S oder TN-C                                           |          |                     |            |ɡ             |
+|     1.6     |  richtige Sicherungsautomaten                                      |          |                     |            |ɡ             |
+|     1.7     |  richtige Einstellungen Motorschutzschalter                        |          |                     |            |ɡ             |
+|     1.8     |  IP-Schutzart passend zum Raum                                     |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     2       |  Durchgängigkeit Schutzleiter                                      |          |                     |            |☐              |
+|     2       |  Durchgängigkeit Schutzleiter                                      |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     2.1     |  alle Metallteile mit R~low~ abtasten (Haupterdung -> Peripherie ) |          | < 1 Ω               |            |☐              |
-|     2.2     |  Sichtprüfung Erdverbindungen zu Haupterder (Anschluss i.O. ?)     |          |                     |            |☐              |
+|     2.1     |  alle Metallteile mit R~low~ abtasten (Haupterdung -> Peripherie ) |          | < 1 Î©               |            |ɡ             |
+|     2.2     |  Sichtprüfung Erdverbindungen zu Haupterder (Anschluss i.O. ?)     |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     3       |  Isolationsmessung                                                 |          |                     |            |☐              |
+|     3       |  Isolationsmessung                                                 |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     3.1     |  Spannungsfreiheit prüfen                                          |  -30F1   |                     |            |☐              |
-|     3.2     |  Überspannungsableiter öffnen, demontieren                         |  -10F3   |                     |            |☐              |
-|     3.3     |  Neutralleitertrenner  öffnen                                      |  -11F8   |                     |            |☐              |
-|     3.4     |  Spannung 500V DC Eingang Hauptschalter messen                     |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.1   |  Spannung 500V DC Eingang Hauptschalter -> N-PE messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.2   |  Spannung 500V DC Eingang Hauptschalter -> L~1~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.3   |  Spannung 500V DC Eingang Hauptschalter -> L~2~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.4   |  Spannung 500V DC Eingang Hauptschalter -> L~3~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.5     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-|     3.6     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-|     3.7     |  Spannung 500V DC L~3~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-|     3.8     |  Neutralleitertrenner  schliessen                                  |  -11F8   |                     |            |☐              |
-|     3.9     |  Überspannungsableiter schliessen, montieren                       |  -10F3   |                     |            |☐              |
-|     3.10    |  Spannung wieder einschalten                                       |  -30F1   |                     |            |☐              |
+|     3.1     |  Spannungsfreiheit prüfen                                          |  -30F1   |                     |            |ɡ             |
+|     3.2     |  Ãœberspannungsableiter öffnen, demontieren                         |  -10F3   |                     |            |ɡ             |
+|     3.3     |  Neutralleitertrenner  öffnen                                      |  -11F8   |                     |            |ɡ             |
+|     3.4     |  Spannung 500V DC Eingang Hauptschalter messen                     |  -10Q1   |  >=1 MÎ©             |            |ɡ             |
+|     3.4.1   |  Spannung 500V DC Eingang Hauptschalter -> N-PE messen             |  -10Q1   |  >=1 MÎ©             |            |ɡ             |
+|     3.4.2   |  Spannung 500V DC Eingang Hauptschalter -> L~1~ messen             |  -10Q1   |  >=1 MÎ©             |            |ɡ             |
+|     3.4.3   |  Spannung 500V DC Eingang Hauptschalter -> L~2~ messen             |  -10Q1   |  >=1 MÎ©             |            |ɡ             |
+|     3.4.4   |  Spannung 500V DC Eingang Hauptschalter -> L~3~ messen             |  -10Q1   |  >=1 MÎ©             |            |ɡ             |
+|     3.5     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MÎ©             |            |ɡ             |
+|     3.6     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MÎ©             |            |ɡ             |
+|     3.7     |  Spannung 500V DC L~3~ -> PE messen                                |  -11X1   |  >=1 MÎ©             |            |ɡ             |
+|     3.8     |  Neutralleitertrenner  schliessen                                  |  -11F8   |                     |            |ɡ             |
+|     3.9     |  Ãœberspannungsableiter schliessen, montieren                       |  -10F3   |                     |            |ɡ             |
+|     3.10    |  Spannung wieder einschalten                                       |  -30F1   |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     4       |  Spannung / Drehfeld                                               |          |                     |            |☐              |
+|     4       |  Spannung / Drehfeld                                               |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     4.1     |  Spannungsmessung Eingangsklemme L-PE                              |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L-N                               |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~2~                       |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~3~                       |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L~2~ - L~3~                       |  -10X1   |                     |            |☐              |
+|     4.1     |  Spannungsmessung Eingangsklemme L-PE                              |  -10X1   |                     |            |ɡ             |
+|     4.1     |  Spannungsmessung Eingangsklemme L-N                               |  -10X1   |                     |            |ɡ             |
+|     4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~2~                       |  -10X1   |                     |            |ɡ             |
+|     4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~3~                       |  -10X1   |                     |            |ɡ             |
+|     4.1     |  Spannungsmessung Eingangsklemme L~2~ - L~3~                       |  -10X1   |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     5       |  FI-Schalter prüfen                                                |  -20F3   |                     |            |☐              |
+|     5       |  FI-Schalter prüfen                                                |  -20F3   |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     5.1     |  Personenschutz überprüfen                                         |  -20F3   |  30 mA              |            |☐              |
-|     5.2     |  Sachschutz überprüfen                                             |  -20F3   |  300 mA             |            |☐              |
-|     5.3     |  Auslösestrom messen                                               |  -20F3   |  über I~Fehler~     |            |☐              |
-|     5.4     |  Auslösezeit  messen                                               |  -20F3   |  unter 0.03 s       |            |☐              |
+|     5.1     |  Personenschutz überprüfen                                         |  -20F3   |  30 mA              |            |ɡ             |
+|     5.2     |  Sachschutz überprüfen                                             |  -20F3   |  300 mA             |            |ɡ             |
+|     5.3     |  Auslösestrom messen                                               |  -20F3   |  über I~Fehler~     |            |ɡ             |
+|     5.4     |  Auslösezeit  messen                                               |  -20F3   |  unter 0.03 s       |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     6       |  Funktionsprüfung                                                  |          |                     |            |☐              |
+|     6       |  Funktionsprüfung                                                  |          |                     |            |ɡ             |
 |             |                 								                   |          |                     |            |               |
-|     6.1     |  Not-Aus                                                           |  -35S2   |                     |            |☐              |
-|     6.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |☐              |
-|     6.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |☐              |
-|     6.4     |  Drehrichung Abluftventilator                                      |          |                     |            |☐              |
-|     6.5     |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
-|     6.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
-|     6.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |☐              |
+|     6.1     |  Not-Aus                                                           |  -35S2   |                     |            |ɡ             |
+|     6.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |ɡ             |
+|     6.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |ɡ             |
+|     6.4     |  Drehrichung Abluftventilator                                      |          |                     |            |ɡ             |
+|     6.5     |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |ɡ             |
+|     6.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |ɡ             |
+|     6.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |ɡ             |
 
 ### softwaretechnische Erstprüfung {#softwaretechnische_Erstprüfung}
 | Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
 |-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
-|     1       |  IS-Gas Jumper richtig gesetzt ?                                   |  -60D1   |                     |            |☐              |
-|     2       |  IGS-PTM (SK) Jumper richtig gesetzt ?                             |  -62D1   |                     |            |☐              |
-|     3       |  IGS-PTM (MF) Jumper richtig gesetzt ?                             | -140D1   |                     |            |☐              |
-|     4       |  alle Werte vorhanden (keine roten Werte mit ###)                  |          |                     |            |☐              |
-|     5       |  alle Werte plausibel                                              |          |                     |            |☐              |
-|     6       |  Spannungsregler                                                   |          |                     |            |☐              |
-|     7       |  Werte auf Motorsteuerung (Trijekt) kontrollieren                  |          |                     |            |☐              |
-|     8       |  Zündtest auf Motorsteuerung (Trijekt) ausführen, i.O.?            |          |                     |            |☐              |
-|     9       |  Drosselklappen-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?    |          |                     |            |☐              |
-|     10      |  Lambdaventil-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?      |          |                     |            |☐              |
+|     1       |  IS-Gas Jumper richtig gesetzt ?                                   |  -60D1   |                     |            |ɡ             |
+|     2       |  IGS-PTM (SK) Jumper richtig gesetzt ?                             |  -62D1   |                     |            |ɡ             |
+|     3       |  IGS-PTM (MF) Jumper richtig gesetzt ?                             | -140D1   |                     |            |ɡ             |
+|     4       |  alle Werte vorhanden (keine roten Werte mit ###)                  |          |                     |            |ɡ             |
+|     5       |  alle Werte plausibel                                              |          |                     |            |ɡ             |
+|     6       |  Spannungsregler                                                   |          |                     |            |ɡ             |
+|     7       |  Werte auf Motorsteuerung (Trijekt) kontrollieren                  |          |                     |            |ɡ             |
+|     8       |  Zündtest auf Motorsteuerung (Trijekt) ausführen, i.O.?            |          |                     |            |ɡ             |
+|     9       |  Drosselklappen-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?    |          |                     |            |ɡ             |
+|     10      |  Lambdaventil-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?      |          |                     |            |ɡ             |
 
 # Anleitungen
 ==================
@@ -1963,7 +1963,7 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 
 	** Sicherheit zuerst: Das Kapitel Sicherheit muss vor der Beschreibung stehen.
 	
-	** Bestimmungsgemäße Verwendung: Einschließlich vorhersehbarer Fehlanwendungen.
+	** BestimmungsgemäÃŸe Verwendung: EinschlieÃŸlich vorhersehbarer Fehlanwendungen.
 	
 	** Sprache: Muss in der Amtssprache des Verwenderlandes verfasst sein.
 	
