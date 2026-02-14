@@ -34,7 +34,7 @@ extensions = [
     'sphinx_rtd_theme',
     "myst_parser",
 ]
-myst_heading_anchors = 7
+myst_heading_anchors = 3
 
 myst_enable_extensions = [
     "amsmath",
