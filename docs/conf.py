@@ -93,7 +93,7 @@ html_theme_options = {
     'style_external_links': True,
     "rightsidebar": "true",
     "relbarbgcolor": "black"
-    'vcs_pageview_mode': '',
+    #'vcs_pageview_mode': '',
     #'style_nav_header_background': 'white',
     'flyout_display': 'attached',
     'version_selector': False,
