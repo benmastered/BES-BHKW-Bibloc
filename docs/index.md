@@ -466,13 +466,11 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 ## Beschreibung des BHKWs BHKW_Typ
 
 <table>
-<thead>
-	<tr>
-		<th>Fabrikat</th>
-		<th>Wert</th>
-	</tr>
-</thead>
 <tbody>
+	<tr>
+		<td>Fabrikat</td>
+		<td>Fabrikat</td>
+	</tr>
 	<tr>
 		<td>Typ:</td>
 		<td>BHKW_Typ</td>
