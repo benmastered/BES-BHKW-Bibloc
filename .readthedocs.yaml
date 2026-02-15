@@ -23,11 +23,10 @@ build:
         - mkdir -p $READTHEDOCS_OUTPUT/html/
         - sphinx-build -n -b text docs $READTHEDOCS_OUTPUT/html/
       pdf:
-        - echo "Copy images"
-        - mkdir -p $READTHEDOCS_OUTPUT/latex/
-        - mkdir -p $READTHEDOCS_OUTPUT/latex/images/
-        - cp -r ../source/images/ $READTHEDOCS_OUTPUT/latex/images/
-        - sphinx-build -b latexpdf ./ $READTHEDOCS_OUTPUT/latex
+        - echo "Copy images and pdflatex"
+        - mkdir -p $READTHEDOCS_OUTPUT/images/
+        - cp -r ./_static/images/ $READTHEDOCS_OUTPUT/images/
+        - sphinx-build -b latexpdf ./ $READTHEDOCS_OUTPUT/pdf
 sphinx:
   builder: html
   configuration: docs/conf.py
