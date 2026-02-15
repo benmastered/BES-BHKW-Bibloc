@@ -100,9 +100,9 @@ html_theme_options = {
     #'version_selector': False,
     #'language_selector': False,
     # Toc options
-    #'collapse_navigation': False,
-    'sticky_navigation': True
-    #'navigation_depth': 4,
+    'collapse_navigation': False,
+    'sticky_navigation': True,
+    'navigation_depth': 4
     #'includehidden': False,
     #'titles_only': False
 }
@@ -115,7 +115,8 @@ html_static_path = ["_static"]
 # Posted by Jose Cherian, modified by community. See post 'Timeline' for change history
 # Retrieved 2026-02-13, License - CC BY-SA 4.0
 
-collapse_navigation= True
-html_css_files = [
-    'custom.css',
-]
+latex_logo = "docs/_static/images/logo_header.png"
+latex_use_latex_multicolumn = "true"
+latex_table_style = ['booktabs','colorrows']
+
+html_css_files = ['custom.css']
