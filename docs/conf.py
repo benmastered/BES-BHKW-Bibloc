@@ -81,18 +81,18 @@ html_theme = "sphinx_rtd_theme"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 html_theme_options = {
-    'logo_only': True,
+    #'logo_only': True,
     'prev_next_buttons_location': 'bottom',
-    'style_external_links': False,
+    'style_external_links': True,
     'vcs_pageview_mode': '',
-    'style_nav_header_background': 'white',
-    'flyout_display': 'hidden',
-    'version_selector': True,
-    'language_selector': True,
+    #'style_nav_header_background': 'white',
+    'flyout_display': 'attached',
+    'version_selector': False,
+    'language_selector': False,
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': True,
-    'navigation_depth': 3,
+    'navigation_depth': 4,
     'includehidden': False,
     'titles_only': False
 }
