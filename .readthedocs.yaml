@@ -9,7 +9,7 @@ formats:
   - pdf
   - epub
   - htmlzip
- 
+  
 # Set the version of Python and other tools you might need
 build:
   os: ubuntu-24.04
@@ -22,10 +22,12 @@ build:
         - echo "Override default build command for htmlzip format"
         - mkdir -p $READTHEDOCS_OUTPUT/html/
         - sphinx-build -n -b text docs $READTHEDOCS_OUTPUT/html/
-      images:
+      pdf:
         - echo "Copy images"
-        - mkdir -p $READTHEDOCS_OUTPUT/images/
-        - cp -r images/ $READTHEDOCS_OUTPUT/images/
+        - mkdir -p $READTHEDOCS_OUTPUT/latex/
+        - mkdir -p $READTHEDOCS_OUTPUT/latex/images/
+        - cp -r source/images/ $READTHEDOCS_OUTPUT/pdf/images/
+        - sphinx-build -b latexpdf source/ $READTHEDOCS_OUTPUT/latex
 sphinx:
   builder: html
   configuration: docs/conf.py
