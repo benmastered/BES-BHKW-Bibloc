@@ -102,10 +102,20 @@ html_logo = "_static/images/logo_header.png"
 html_show_sourcelink = True
 #html_favicon = "_static/images/favicon.ico"
 
- html_sidebars = {
-    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
-    'using/windows': ['windows-sidebar.html', 'searchbox.html'],
- }
+ # html_sidebars = {
+    # '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+    # 'using/windows': ['windows-sidebar.html', 'searchbox.html'],
+    # }
+
+# html_sidebars = {
+    # '**': [
+        # 'about.html',
+        # 'navigation.html',
+        # 'relations.html',
+        # 'searchbox.html',
+        # 'donate.html',
+    # ]
+# }
 
 htmlhelp_basename = slug
 
