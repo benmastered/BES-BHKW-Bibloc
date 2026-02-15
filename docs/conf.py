@@ -129,14 +129,14 @@ html_theme_options = {
     #'vcs_pageview_mode': 'blob',
     #'style_nav_header_background': 'white',
     'flyout_display': 'attached',
-    #'version_selector': False,
-    #'language_selector': False,
+    'version_selector': False,
+    'language_selector': False,
     # Toc options
     'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': 4
-    #'includehidden': False,
-    #'titles_only': True
+    'navigation_depth': 4,
+    'includehidden': False,
+    'titles_only': True,
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -144,10 +144,6 @@ html_theme_options = {
 html_static_path = ["_static"]
 html_context = {}
 html_css_files = ['custom.css']
-
-# Source - https://stackoverflow.com/a/57840173
-# Posted by Jose Cherian, modified by community. See post 'Timeline' for change history
-# Retrieved 2026-02-13, License - CC BY-SA 4.0
 
 latex_logo = "_static/images/logo_header.png"
 latex_use_latex_multicolumn = "true"
