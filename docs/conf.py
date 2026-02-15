@@ -94,22 +94,22 @@ html_logo = "_static/images/logo_header.png"
 
 html_theme_options = {
     'logo_only': True,
-    #'prev_next_buttons_location': 'bottom',
+    'prev_next_buttons_location': 'bottom',
     #'style_external_links': True,
-    #'sidebarbgcolor':'grey',
+    'sidebarbgcolor':'grey',
     'rightsidebar': 'true',
     #'relbarbgcolor': 'black',
     #'vcs_pageview_mode': 'blob',
-    #'style_nav_header_background': 'white',
-    #'flyout_display': 'attached',
+    'style_nav_header_background': 'white',
+    'flyout_display': 'attached',
     #'version_selector': False,
     #'language_selector': False,
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': True,
-    'navigation_depth': 4
+    'navigation_depth': -1,
     #'includehidden': False,
-    #'titles_only': False
+    'titles_only': True
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
