@@ -91,11 +91,11 @@ html_theme_options = {
     'logo_only': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
-    'sidebarbgcolor':'grey,'
+    'sidebarbgcolor':'grey',
     'rightsidebar': 'true',
     'relbarbgcolor': 'black',
     'vcs_pageview_mode': 'blob',
-    'style_nav_header_background': 'blue',
+    'style_nav_header_background': 'white',
     'flyout_display': 'attached',
     'version_selector': False,
     'language_selector': False,
