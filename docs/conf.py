@@ -134,10 +134,10 @@ html_theme_options = {
     # 'version_selector': False,
     # 'language_selector': False,
     # # Toc options
-    # 'collapse_navigation': True,
-    # 'sticky_navigation': True,
+     'collapse_navigation': False,
+     'sticky_navigation': True,
      'navigation_depth': 7,
-    # 'includehidden': False,
+     'includehidden': False
     # 'titles_only': True,
 }
 # Add any paths that contain custom static files (such as style sheets) here,
