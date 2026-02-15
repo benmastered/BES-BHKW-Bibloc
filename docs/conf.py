@@ -102,6 +102,21 @@ html_logo = "_static/images/logo_header.png"
 html_show_sourcelink = True
 #html_favicon = "_static/images/favicon.ico"
 
+# html_sidebars = {
+# '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+# 'using/windows': ['windows-sidebar.html', 'searchbox.html'],
+# }
+
+# html_sidebars = {
+# '**': [
+    # 'about.html',
+    # 'navigation.html',
+    # 'relations.html',
+    # 'searchbox.html',
+    # 'donate.html',
+# ]
+# }
+
 htmlhelp_basename = slug
 
 html_theme_options = {
@@ -117,11 +132,11 @@ html_theme_options = {
     #'version_selector': False,
     #'language_selector': False,
     # Toc options
-    'collapse_navigation': False,
+    'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': -1,
+    'navigation_depth': 4
     #'includehidden': False,
-    'titles_only': True
+    #'titles_only': True
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
