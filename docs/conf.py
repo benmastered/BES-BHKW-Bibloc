@@ -81,7 +81,7 @@ html_theme = "sphinx_rtd_theme"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 html_theme_options = {
-    'logo_only': False,
+    'logo_only': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'vcs_pageview_mode': '',
@@ -90,10 +90,10 @@ html_theme_options = {
     'version_selector': True,
     'language_selector': True,
     # Toc options
-    'collapse_navigation': True,
+    'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 3,
-    'includehidden': True,
+    'includehidden': False,
     'titles_only': False
 }
 # Add any paths that contain custom static files (such as style sheets) here,
