@@ -17,6 +17,9 @@
 | Notkühlung (2-, 3-, 4-fach)         |    2    |     2    |    3    |     3     |     4    |     4     |
 | Option Notstrom                     |    NS   |     NS   |    NS   |     NS    |     NS   |     NS    |
 
+### Betriebshandbücher
+----------------------
+* [BIBLOC BV684 SBTLK][1]
 
 ## Einführung
 ------------------	
@@ -372,11 +375,11 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 +-------------------------------+---------------------------------------+
 | Typ der Abgasbehandlung       |                                       |
 +===============================+=======================================+
-| Abgaswerte bezogen auf 5 % O2 | Reduktion der Abgasemissionen mit 3-Weg-Katalysator und Lambda-Regelung (stoechiometrisch l = 1.0). |
+| Abgaswerte bezogen auf 5 % O2 | Reduktion der Abgasemissionen mit 3-Weg-Katalysator und Lambda-Regelung (stoechiometrisch l = 1.0).
 +-------------------------------+---------------------------------------+
-| Kohlenmonoxid CO:             | < 650                      |
+| Kohlenmonoxid CO:             | < 650
 +-------------------------------+---------------------------------------+
-| Stickoxide NOx:               | < 250                        |
+| Stickoxide NOx:               | < 250
 +-------------------------------+---------------------------------------+
 
 
@@ -467,7 +470,7 @@ Der Gasmotor Motor_BHKW Energie-Service AG MAG 84.6 T213A dient als Antrieb der 
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### Konstruktion
-Der Otto-Gasmotor Motor_BHKW Energie-Service AG MAG 84.6 T213A ist ein stehender, rechts drehender Verbrennungsmotor mit unten lie-gender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor Motor_BHKW Energie-Service AG MAG 84.6 T213A ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
@@ -481,122 +484,122 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 
 #### Technische Daten Motor
 +---------------------------------------------+-------------------------------------+
-| BHKW Energie-Service AG                                    | Motor_BHKW Energie-Service AG                      |
+| BHKW Energie-Service AG                                    | Motor_BHKW Energie-Service AG
 +---------------------------------------------+-------------------------------------+
-| Typ:                                        | MAG 84.6 T213A                           |
+| Typ:                                        | MAG 84.6 T213A
 +---------------------------------------------+-------------------------------------+
-| Motorart                                    | Gasmotor                            |
+| Motorart                                    | Gasmotor
 +---------------------------------------------+-------------------------------------+
-| Arbeitsumlauf                               | Viertakter                          |
+| Arbeitsumlauf                               | Viertakter
 +---------------------------------------------+-------------------------------------+
-| 1500	U/min:                                   | 1500	U/min                            |
+| 1500	U/min:                                   | 1500	U/min
 +---------------------------------------------+-------------------------------------+
-| max. zulässige Umdrehungen                  | 1750 min-1                          |
+| max. zulässige Umdrehungen                  | 1750 min-1
 +---------------------------------------------+-------------------------------------+
-| Umdrehungssinn                              | rechtsdrehend                       |
+| Umdrehungssinn                              | rechtsdrehend 
 +---------------------------------------------+-------------------------------------+
-| 8420  cm3:                                    | 8420  cm3                             |
+| 8420  cm3:                                    | 8420  cm3
 +---------------------------------------------+-------------------------------------+
-| 145  mm:                                  | 145  mm                           |
+| 145  mm:                                  | 145  mm
 +---------------------------------------------+-------------------------------------+
-| Mittlere Kolbengeschwindigkeit:             | 7.2  m/s      |
+| Mittlere Kolbengeschwindigkeit:             | 7.2  m/s
 +---------------------------------------------+-------------------------------------+
-| 111  mm:                            | 111  mm                     |
+| 111  mm:                            | 111  mm
 +---------------------------------------------+-------------------------------------+
-| 6 in Reihe:                               | 6 in Reihe                        |
+| 6 in Reihe:                               | 6 in Reihe
 +---------------------------------------------+-------------------------------------+
-| Zylinderanordnung                           | stehend, einreihige                 |
+| Zylinderanordnung                           | stehend, einreihige
 +---------------------------------------------+-------------------------------------+
-| Zylinderfüllung                             | atmosphärisch/Ladedruck (T-Modell)  |
+| Zylinderfüllung                             | atmosphärisch/Ladedruck (T-Modell)
 +---------------------------------------------+-------------------------------------+
-| Steuerung                                   | OHV                                 |
+| Steuerung                                   | OHV
 +---------------------------------------------+-------------------------------------+
-| Zündfolge                                   |                            |
+| Zündfolge                                   | 
 +---------------------------------------------+-------------------------------------+
-| Vorzündung                                  | 20-24 Grad(Erdgas); 26-32_ (Biogas) |
+| Vorzündung                                  | 20-24 Grad(Erdgas); 26-32_ (Biogas)
 +---------------------------------------------+-------------------------------------+
-| 13:1:                                | 13:1                         |
+| 13:1:                                | 13:1
 +---------------------------------------------+-------------------------------------+
-| Gewicht (trocken):                          | 680  kg                   |
+| Gewicht (trocken):                          | 680  kg
 +---------------------------------------------+-------------------------------------+
-| Grundbrennstoff                             | Gas                                 |
+| Grundbrennstoff                             | Gas
 +---------------------------------------------+-------------------------------------+
-| zugef. Brennstoffleistung :                 | 342  kW                  |
+| zugef. Brennstoffleistung :                 | 342  kW
 +---------------------------------------------+-------------------------------------+
-| absoluter Brennstoffverbrauch               |                                     |
+| absoluter Brennstoffverbrauch               |
 +---------------------------------------------+-------------------------------------+
-| 128  kW:                             | 128  kW                      |
+| 128  kW:                             | 128  kW
 +---------------------------------------------+-------------------------------------+
-| Drehmoment                                  | 220 Nm bei 1500 min-1 (+- 5%)       |
+| Drehmoment                                  | 220 Nm bei 1500 min-1 (+- 5%)
 +---------------------------------------------+-------------------------------------+
-| Wirkungsgrad Motor:                         | 52.5                  |
+| Wirkungsgrad Motor:                         | 52.5
 +---------------------------------------------+-------------------------------------+
-| Kühlungsart                                 | Wasserkühlung mit Überdruck         |
+| Kühlungsart                                 | Wasserkühlung mit Überdruck
 +---------------------------------------------+-------------------------------------+
-| 92  kW:                            | 92  kW                     |
+| 92  kW:                            | 92  kW
 +---------------------------------------------+-------------------------------------+
-| Abgaswärme nutzbar (120°C):                 | 77  kW                  |
+| Abgaswärme nutzbar (120°C):                 | 77  kW
 +---------------------------------------------+-------------------------------------+
-| 460  kg/h:                           | 460  kg/h                    |
+| 460  kg/h:                           | 460  kg/h
 +---------------------------------------------+-------------------------------------+
-| 7  kW                             | 7  kW (L-Modell)          |
+| 7  kW                             | 7  kW (L-Modell)
 +---------------------------------------------+-------------------------------------+
-| 400  m3/h:                      | 400  m3/h               |
+| 400  m3/h:                      | 400  m3/h
 +---------------------------------------------+-------------------------------------+
-| max. Luft Ansaugtemperatur:                 | 25  °C           |
+| max. Luft Ansaugtemperatur:                 | 25  °C
 +---------------------------------------------+-------------------------------------+
-| relative Luftfeuchtigkeit                   | 60	%           |
+| relative Luftfeuchtigkeit                   | 60	%
 +---------------------------------------------+-------------------------------------+
-| 0  m ü. M:                           | 0  m ü. M                    |
+| 0  m ü. M:                           | 0  m ü. M
 +---------------------------------------------+-------------------------------------+
-| Leistungsreduktion bei 500 m.ü. Meeres2170  mm  | 3	%         |
+| Leistungsreduktion bei 500 m.ü. Meeres2170  mm  | 3	%
 +---------------------------------------------+-------------------------------------+
-| Leistungsreduktion bei 1000 m.ü. Meeres2170  mm | 8	%        |
+| Leistungsreduktion bei 1000 m.ü. Meeres2170  mm | 8	%
 +---------------------------------------------+-------------------------------------+
-| Leistungsreduktion bei 1500 m.ü. Meeres2170  mm | 14	%        |
+| Leistungsreduktion bei 1500 m.ü. Meeres2170  mm | 14	%
 +---------------------------------------------+-------------------------------------+
 
 Steuerzeiten
 
 +----------------------------------------+--------------------+
-| Einlassventil öffnet                   | 14 Grad  vor O.T.  |
+| Einlassventil öffnet                   | 14 Grad  vor O.T.
 +----------------------------------------+--------------------+
-| Einlassventil schliesst                | 36 Grad  nach U.T. |
+| Einlassventil schliesst                | 36 Grad  nach U.T.
 +----------------------------------------+--------------------+
-| Auslassventil öffnet                   | 45 Grad  vor U.T   |
+| Auslassventil öffnet                   | 45 Grad  vor U.T
 +----------------------------------------+--------------------+
-| Auslassventil schliesst                | 17 Grad  nach O.T. |
+| Auslassventil schliesst                | 17 Grad  nach O.T.
 +----------------------------------------+--------------------+
-| Ventilspiel kalt                       | 20 Grad bei 3 °C   |
+| Ventilspiel kalt                       | 20 Grad bei 3 °C
 +----------------------------------------+--------------------+
-| Saugventil                             | 0.25               |
+| Saugventil                             | 0.25
 +----------------------------------------+--------------------+
-| Auslassventil                          | 0.25               |
+| Auslassventil                          | 0.25
 +----------------------------------------+--------------------+
 
 [Zurück nach oben](#top)
 
 #### Motorschmierung
 +------------------------------+---------------------------------+
-| Ausführung                   | Druckumlauf, durch Zahnradpumpe |
+| Ausführung                   | Druckumlauf, durch Zahnradpumpe
 +------------------------------+---------------------------------+
-| Zahnradpumpe                 | einfach, mit Überdruckventil    |
+| Zahnradpumpe                 | einfach, mit Überdruckventil
 +------------------------------+---------------------------------+
-| Ölfilter                     | Volldurchflussfilter  SF        |
+| Ölfilter                     | Volldurchflussfilter  SF
 +------------------------------+---------------------------------+
-| Ölart                        | BLASER BES (teilsynthetisch)    |
+| Ölart                        | BLASER BES (teilsynthetisch)
 +------------------------------+---------------------------------+
-| Füllmenge Ölwanne u. Filter: | 26  Liter      |
+| Füllmenge Ölwanne u. Filter: | 26  Liter
 +------------------------------+---------------------------------+
-| Füllmenge Vorratsbehälter:   | 44  Liter       |
+| Füllmenge Vorratsbehälter:   | 44  Liter
 +------------------------------+---------------------------------+
-| 0.3  g/kWh:          | 0.3  g/kWh              |
+| 0.3  g/kWh:          | 0.3  g/kWh
 +------------------------------+---------------------------------+
-| min. Öldruck:                | 1  bar                     |
+| min. Öldruck:                | 1  bar
 +------------------------------+---------------------------------+
-| Öltemperatur in Betrieb:     | 95-100	°C         |
+| Öltemperatur in Betrieb:     | 95-100	°C
 +------------------------------+---------------------------------+
-| Ölwechselintervall           | siehe spezifischen Wartungsplan |
+| Ölwechselintervall           | siehe spezifischen Wartungsplan
 +------------------------------+---------------------------------+
 
 [Zurück nach oben](#top)
@@ -605,36 +608,36 @@ Steuerzeiten
 
 ##### Plattenwärmetauscher
 +---------------------------+-----------------------------------+
-| Funktion                  | Übertragung der Motorabwärme an den Heizkreislauf über folgenden Platten-Wärmetauscher. |
+| Funktion                  | Übertragung der Motorabwärme an den Heizkreislauf über folgenden Platten-Wärmetauscher.
 +---------------------------+-----------------------------------+
-| B15:                   | WT_B15                         |
+| B15:                   | WT_B15
 +---------------------------+-----------------------------------+
-| 68.0  kW:            | 68.0  kW                     |
+| 68.0  kW:            | 68.0  kW
 +---------------------------+-----------------------------------+
-| Temp. primär ein / aus:   | 85 / 75	°C            |
+| Temp. primär ein / aus:   | 85 / 75	°C
 +---------------------------+-----------------------------------+
-| Temp. sekundär ein / aus: | 70 / 85	°C          |
+| Temp. sekundär ein / aus: | 70 / 85	°C
 +---------------------------+-----------------------------------+
-| Wassermenge prim./sek.:   | 17.8 / 10.9	m3/h              |
+| Wassermenge prim./sek.:   | 17.8 / 10.9	m3/h
 +---------------------------+-----------------------------------+
-| Druckverlust prim./sek.:  | 13.6 / 3.5 kPa             |
+| Druckverlust prim./sek.:  | 13.6 / 3.5 kPa
 +---------------------------+-----------------------------------+
 
 ##### Abgaswärmetauscher
 +---------------------------+-----------------------------------+
-| Funktion                  | Übertragung der Motorabwärme an den Heizkreislauf über folgenden Platten-Wärmetauscher. |
+| Funktion                  | Übertragung der Motorabwärme an den Heizkreislauf über folgenden Platten-Wärmetauscher.
 +---------------------------+-----------------------------------+
-| B15:                   | WT_B15                         |
+| B15:                   | WT_B15
 +---------------------------+-----------------------------------+
-| 68.0  kW:            | 68.0  kW                     |
+| 68.0  kW:            | 68.0  kW
 +---------------------------+-----------------------------------+
-| Temp. primär ein / aus:   | 85 / 75	°C            |
+| Temp. primär ein / aus:   | 85 / 75	°C
 +---------------------------+-----------------------------------+
-| Temp. sekundär ein / aus: | 70 / 85	°C          |
+| Temp. sekundär ein / aus: | 70 / 85	°C
 +---------------------------+-----------------------------------+
-| Wassermenge prim./sek.:   | 17.8 / 10.9	m3/h              |
+| Wassermenge prim./sek.:   | 17.8 / 10.9	m3/h
 +---------------------------+-----------------------------------+
-| Druckverlust prim./sek.:  | 13.6 / 3.5 kPa             |
+| Druckverlust prim./sek.:  | 13.6 / 3.5 kPa
 +---------------------------+-----------------------------------+
 
 [Zurück nach oben](#top)
@@ -644,11 +647,11 @@ Steuerzeiten
 Wartungsarme, elektronische Zündanlage._Beschreibung
 
 +-----------------+--------------------------------------+
-|Wartungsarme, elektronische Zündanlage.       | Wartungsarme, elektronische Zündanlage._Typ                       |
+|Wartungsarme, elektronische Zündanlage.       | Wartungsarme, elektronische Zündanlage._Typ
 +-----------------+--------------------------------------+
-|Zündkerzen Typ   | Zündkerzen_Typ                       |
+|Zündkerzen Typ   | Zündkerzen_Typ
 +-----------------+--------------------------------------+
-|Anzahl Zündkerzen| Zündkerzen_Anzahl                    |
+|Anzahl Zündkerzen| Zündkerzen_Anzahl
 +-----------------+--------------------------------------+
 |Elektrodenabstand| 0,4 - 0,1 mm                         |
 +-----------------+--------------------------------------+
@@ -692,37 +695,37 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 
 #### Technische Daten
 +-------------------------+--------------------------+
-| Generator synchron      | UCI 274 F            |
+| Generator synchron      | UCI 274 F
 +-------------------------+--------------------------+
-| BHKW Energie-Service AG:               | Generator_BHKW Energie-Service AG       |
+| BHKW Energie-Service AG:               | Generator_BHKW Energie-Service AG
 +-------------------------+--------------------------+
-| Typ:                    | UCI 274 F            |
+| Typ:                    | UCI 274 F
 +-------------------------+--------------------------+
-| max. Scheinleistung:    | 160  kVA       |
+| max. Scheinleistung:    | 160  kVA
 +-------------------------+--------------------------+
-| 120  kW:           | 120  kW             |
+| 120  kW:           | 120  kW
 +-------------------------+--------------------------+
-| 3 x 400 V:               | 3 x 400 V                 |
+| 3 x 400 V:               | 3 x 400 V
 +-------------------------+--------------------------+
-| 50:               | 50                 |
+| 50:               | 50
 +-------------------------+--------------------------+
-| Nennstrom bei cos 1:    | 175    |
+| Nennstrom bei cos 1:    | 175
 +-------------------------+--------------------------+
-| Wirkungsgrad bei cos 1: | 94.7	% |
+| Wirkungsgrad bei cos 1: | 94.7	%
 +-------------------------+--------------------------+
-| 1500	U/min:               | 1500             |
+| 1500	U/min:               | 1500
 +-------------------------+--------------------------+
-| 2250:         | 2250           |
+| 2250:         | 2250
 +-------------------------+--------------------------+
-| Gewicht:                | 563  kg        |
+| Gewicht:                | 563  kg
 +-------------------------+--------------------------+
-| VDE:              | VDE                |
+| VDE:              | VDE
 +-------------------------+--------------------------+
-| IP23:              | IP23                |
+| IP23:              | IP23
 +-------------------------+--------------------------+
-| H:       | H         |
+| H:       | H
 +-------------------------+--------------------------+
-| B15:                 | B15                   |
+| B15:                 | B15
 +-------------------------+--------------------------+
 
 ### Primärkreislauf
@@ -1150,14 +1153,14 @@ Vom Betriebspersonal können bezüglich dem Ölsystem folgende Wartungsarbeiten 
 •	Überprüfung des Ölniveaus im Ölsystem. Die Überprüfung sollte erst 10 min. nach dem Ab-schalten des Motors durchgeführt werden.
 •	Nachfüllen von Schmieröl bis maximal 30 mm unter die Oberkante des Ölreservoirs, falls das Aggregat durch den Ölniveauschalter abgeschaltet wurde.
 
- 	Es dürfen nur Motorenöle verwendet werden, welche durch die Firma BES zugelassen sind (siehe 8.4 Schmieröl).
+ 	Es dürfen nur Motorenöle verwendet werden, welche durch die Firma BES zugelassen sind (siehe Schmieröl).
 Die Verwendung von anderen Motorölen kann einen Verlust der Garantiean-sprüche zur Folge haben.
 
- 	Die von der Firma BES festgelegten Wartungsintervalle dürfen nicht überschritten werden. Eine Überschreitung der Wartungsintervalle kann eine Verminderung der Schmierfähigkeiten zur Folge haben und die Standzeit vom Motor beeinträchtigen oder diesen beschädigen.
+Die von der Firma BES festgelegten Wartungsintervalle dürfen nicht überschritten werden. Eine Überschreitung der Wartungsintervalle kann eine Verminderung der Schmierfähigkeiten zur Folge haben und die Standzeit vom Motor beeinträchtigen oder diesen beschädigen.
 
- 	Es ist nicht erlaubt bei sichtbaren Ölleckagen die BHKW-Anlage weiter zu be-treiben.
+Es ist nicht erlaubt bei sichtbaren Ölleckagen die BHKW-Anlage weiter zu be-treiben.
 
- 	Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
+Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
 
  
 ### Wartungsarme, elektronische Zündanlage.
@@ -1189,31 +1192,45 @@ Legende :
 
  
 #### Funktionsbeschrieb der Wartungsarme, elektronische Zündanlage.
+
 Die Austrittsignale (Zündimpulse auf die einzelnen Zündspulen) werden wie folgt generiert:
-•	Signal vom Hallgeber ab Nockenwelle für RESET (Impuls alle 720_)
-•	Signal vom Pick-Up beim Schwungradkranz (Impuls alle 180_)
-•	Einstellung der Vorzündung durch DIP-Schalter.
-Die Zündkerze zündet zwischen 90 - 180 Grad nach Signalende des Pick-Up ab Kurbelwelle. Der Winkel um den die Zündung verschoben ist, wird gegeben durch 90 Grad + N x 0.703 Grad
+
+•	Signal vom Hallgeber ab Nockenwelle für RESET (Impuls alle 720°)
+•	Signal vom Pick-Up beim Schwungradkranz (Impuls alle 180°)
+•	Einstellung der Vorzündung durch DIP-Schalter
+
+Die Zündkerze zündet zwischen 90° - 180° nach Signalende des Pick-Up ab Kurbelwelle. Der Winkel um den die Zündung verschoben ist, wird gegeben durch 90° + N x 0.703°
 Dabei ergibt sich N (Vorzündung) aus der Position der DIP-Schalter Nr. 1-7 (Summe aller Werte, welche gemäss nachfolgender Tabelle in ON Position stehen).
 
-DIP	1	2	3	4	5	6	7	8
-ON	1	2	4	8	16	32	64	
-OFF	0	0	0	0	0	0	0	
++-----+---+---+---+---+----+----+----+---+
+| DIP | 1 | 2 | 3 | 4 | 5  | 6  | 7  | 8 |
++=====+===+===+===+===+====+====+====+===+
+| ON  | 1 | 2 | 4 | 8 | 16 | 32 | 64 |   |
++-----+---+---+---+---+----+----+----+---+
+| OFF | 0 | 0 | 0 | 0 | 0  | 0  | 0  |   |
++-----+---+---+---+---+----+----+----+---+
 
-RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. Das Ende des RESET-Signals synchronisiert die Zün-dung so, dass nach Ende des nächstfolgenden Pick-Up Signals ab Kurbelwelle die Zündkerze im Zylinder 1 (C1) mit der definierten Verzögerung (90 - 180 Grad) zündet (bei DIP Nr. 8 = ON). Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360_ neu definiert werden.
+
+RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. 
+Das Ende des RESET-Signals synchronisiert die Zündung so, dass nach Ende des nächstfolgenden Pick-Up Signals ab Kurbelwelle die Zündkerze im Zylinder 1 (C1) mit der definierten Verzögerung (90° - 180°) zündet (bei DIP Nr. 8 = ON). 
+Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360° neu definiert werden.
  
  
 #### Einstellung der Wartungsarme, elektronische Zündanlage.
 Für eine korrekte Funktion der Wartungsarme, elektronische Zündanlage. müssen folgende Grundeinstellungen vorgenommen werden: 
 Zündkerze
-Die Wahl der richtigen Zündkerze ist stark vom verwendeten Brenngas abhängig. Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze. Der Einsatz von Platin- oder Iridiumzündkerzen ist hier in den meisten Fällen unumgänglich. Folgende Zündkerzen können eingesetzt werden:
+Die Wahl der richtigen Zündkerze ist stark vom verwendeten Brenngas abhängig. 
+Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze. 
+Der Einsatz von Platin- oder Iridiumzündkerzen ist hier in den meisten Fällen unumgänglich. Folgende Zündkerzen können eingesetzt werden:
+
 Betrieb mit Erdgas:	BRISK AR12YS
 Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
 Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
+
 Zündbox
 Den Zündzeitpunkt (Vorzündung) einstellen.
 Betrieb mit Erdgas:	24_ vor O.T.
-Betrieb mit Biogas:	26_ bis 32_ vor O.T. (abhängig von den Abgasemissionen)
+Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
 Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 *Funktionsbeschrieb der Wartungsarme, elektronische Zündanlage.*).
 
 #### Wartung der Wartungsarme, elektronische Zündanlage.
@@ -1251,7 +1268,7 @@ Der Brenn- respektive Heizwert von Biogasen variiert stark, abhängig vom vorhan
 +---------------------+-----+-----+--------------------+----+-----+
 | max. rel. Feuchte   | 80  | %   | max. F-Gehalt      | 25 | ppm |
 +---------------------+-----+-----+--------------------+----+-----+
-| Kondensat           | 0   |     | max.  Cl+F-Gehalt | 50 | ppm |
+| Kondensat           | 0   |     | max. Cl+F-Gehalt   | 50 | ppm |
 +---------------------+-----+-----+--------------------+----+-----+
 | max. S-Gehalt (H2S) | 300 | ppm | max. NH3-Gehalt    | 20 | ppm |
 +---------------------+-----+-----+--------------------+----+-----+
@@ -1588,37 +1605,36 @@ Die Tasten HORN RESET und ON/OFF werden für die Steuerung der BIBLOC Micro nich
 Beim Einschalten des Steuersystems IS-GAS und einer Initialisierung wird zuerst das Menü Messung angezeigt. 
 Auf der ersten Seite ist die momentane elektrische Leistung grafisch dargestellt.
 Darüber wird der aktuelle Betriebsmodus angezeigt.
+
 Das Textfeld neben der Grafik informiert über den aktuellen Betriebszustand, Betriebsart und einige relevante Messwerte.
-Durch drücken der Taste   wird die zweite Seite im Menü Messung ange-zeigt. Hier sind die Messwerte in Klartext sowie einem horizontalen Balkendia-gramm dargestellt
-Die entsprechenden Alarm- und Voral-armwerte sind im Balkendiagramm mit vertikalen Strichen eingezeichnet.
-Durch weiteres drücken der Taste   gelangt man zur nächsten Seite im Me-nü. Wiederum werden analoge Mess-werte in Klartext und Balkendiagramm angezeigt. 
+Durch drücken der Taste wird die zweite Seite im Menü Messung ange-zeigt. Hier sind die Messwerte in Klartext sowie einem horizontalen Balkendiagramm dargestellt
+Die entsprechenden Alarm- und Voralarmwerte sind im Balkendiagramm mit vertikalen Strichen eingezeichnet.
+Durch weiteres drücken der Taste   gelangt man zur nächsten Seite im Menü. Wiederum werden analoge Messwerte in Klartext und Balkendiagramm angezeigt. 
 
-Mit der Taste   wird weiter zu den nachfolgenden Seiten geblättert.
-Im Unterschied zu den vorhergegange-nen Seiten werden hier die Messwerte tabellarisch aufgeführt. Digitale Mess-grössen werden entweder mit 0- (Ein-gang inaktiv) oder mit 1- (Eingang aktiv) angegeben.
- 
- 
+Mit der Taste wird weiter zu den nachfolgenden Seiten geblättert.
+Im Unterschied zu den vorhergegangenen Seiten werden hier die Messwerte tabellarisch aufgeführt. 
+Digitale Messgrössen werden entweder mit 0-(Eingang inaktiv) oder mit 1-(Eingang aktiv) angegeben.
 
- 
- 
-Nach der Zustandsanzeige der digitalen Eingänge wird die BHKW-Statistik ange-zeigt.
-Hier wird total produzierte Wirk- und Blindleistung, die Zeit bis zur nächsten Wartung, die totalen Betriebsstunden sowie die Anzahl erfolgten Starts aufge-listet.
+Nach der Zustandsanzeige der digitalen Eingänge wird die BHKW-Statistik angezeigt.
+Hier wird total produzierte Wirk- und Blindleistung, die Zeit bis zur nächsten Wartung, die totalen Betriebsstunden sowie die Anzahl erfolgten Starts aufgelistet.
 Als letzte Seite wird die Alarmliste ange-zeigt. 
 
 Hier wird angegeben, wie viele und welche Störungen anstehen.
-Wird die Taste   nochmals gedrückt gelangt man wieder zur 1. Seite mit der grafischen Leistungsdarstellung.
+Wird die Taste nochmals gedrückt gelangt man wieder zur 1. Seite mit der grafischen Leistungsdarstellung.
  
- 	Wird anstelle der Taste   (AB) die Taste   (AUF) gedrückt, werden die Seiten im Menü Messung in umgekehrter Reihenfolge abgerufen. Um die Alarmliste oder die Statistik schneller abzurufen empfiehlt sich daher die Taste AUF zu benutzen
+Wird anstelle der Taste   (AB) die Taste   (AUF) gedrückt, werden die Seiten im Menü Messung in umgekehrter Reihenfolge abgerufen. 
+Um die Alarmliste oder die Statistik schneller abzurufen empfiehlt sich daher die Taste AUF zu benutzen
 
 #### Menü Parameter
 Im Menü Parameter können sämtliche Betriebsparameter aufgerufen und eingestellt werden. Die Parameter sind in Parametergruppen unterteilt.
 
- 	Die Änderung von Parameter, welche mit _ bezeichnet sind, können die Si-cherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. Der Zugriff auf diese Parameter ist codiert.
+Die Änderung von Parameter, welche mit _ bezeichnet sind, können die Sicherheit der Anlage gefährden und dürfen nur durch geschulte Servicetechniker verändert werden. 
+Der Zugriff auf diese Parameter ist codiert.
 
 Durch drücken der Taste   wird zwischen den verschiedenen Menüs gewechselt. Vom Menü Messung wech-selt das Steuersystem ins Menü Para-meter.
-Mit den PFEIL-Tasten können die Para-metergruppen ausgewählt werden. Durch drücken der Taste ENTER wird die entsprechende Gruppe geöffnet.
+Mit den PFEIL-Tasten können die Parametergruppen ausgewählt werden. Durch drücken der Taste ENTER wird die entsprechende Gruppe geöffnet.
 Der gewünschte Parameter kann nun mit der PFEIL-Taste ausgewählt und mit ENTER bestätigt werden.
-Sofern der Parameter nicht mit einem _ bezeichnet ist, kann der Parameterwert mit den PFEIL-Tasten verändert werden.
- 
+Sofern der Parameter nicht mit einem *bezeichnet* ist, kann der Parameterwert mit den PFEIL-Tasten verändert werden.
  
 #### Menü History
 Sämtliche Änderungen in der Betriebsart, Ein- oder Abschaltungen sowie Fehler- und Alarmmeldungen werden in einem History-Register gespeichert. Während dem Betrieb wird stündlich eine Kontrolle aller Parameter durchgeführt.
@@ -1634,48 +1650,74 @@ Das History-Register ist für den Betreiber und Servicetechniker ein geeignetes 
 Mit den PFEIL-Tasten können die einzelnen Eintragungen angewählt werden. 
 
 Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
-C.	Nummer der Eintragung
-Grund	Beschreibung des Ereignis-ses
-Zeit 	Uhrzeit des Ereignisses
-Datum 	Datum des Ereignisses
-TWp	Wassertemperatur primär
-TWs	Wassertemperatur sekundär
-TAbg	~120	°C nach Ab-gas-WT
-LS	Lambdaspannung
-Tkop	~120	°C vor Abgas-WT
-Netz
-Sm	diverse digitale Zustände
-Lst	elektrische Leistung
-Cos	Cos-Phi
-Char
-Dr
-FrG	50 Generator
-Ug1	3 x 400 V Phase 1 Genera-tor
-Ug2	3 x 400 V Phase 2 Genera-tor
-Ug3	3 x 400 V Phase 3 Genera-tor
-Un1	3 x 400 V Phase 1 Netz
-Un2	3 x 400 V Phase 2 Netz
-Un3	3 x 400 V Phase 3 Netz
-Ig1	Strom Phase 1 Generator
-Ig2	Strom Phase 2 Generator
-Ig3	Strom Phase 3 Generator
-Eins	Speisung Steuerung (12VDC)
-Pol	
-LO1	
-LWa	
-Durch drücken der Taste ENTER wer-den die einzelnen Spalten angezeigt.
 
- 
++---------+-----------------------------------------+
+| Column0 | Nummer der Eintragung                   |
++=========+=========================================+
+| Grund   | Beschreibung des Ereignis-ses           |
++---------+-----------------------------------------+
+| Zeit    | Uhrzeit des Ereignisses                 |
++---------+-----------------------------------------+
+| Datum   | Datum des Ereignisses                   |
++---------+-----------------------------------------+
+| TWp     | Wassertemperatur primär                 |
++---------+-----------------------------------------+
+| TWs     | Wassertemperatur sekundär               |
++---------+-----------------------------------------+
+| TAbg    | ~120	°C nach Ab-gas-WT          |
++---------+-----------------------------------------+
+| LS      | Lambdaspannung                          |
++---------+-----------------------------------------+
+| Tkop    | ~120	°C vor Abgas-WT            |
++---------+-----------------------------------------+
+| Netz    | Netzmessung (3 x 400 Ven, 50)      |
++---------+-----------------------------------------+
+| Sm      | diverse digitale Zustände               |
++---------+-----------------------------------------+
+| Lst     | elektrische Leistung                    |
++---------+-----------------------------------------+
+| Cos     | Cos-Phi                                 |
++---------+-----------------------------------------+
+| Char    | Cos-Phi Regelung (L-R-C) Charakteristik |
++---------+-----------------------------------------+
+| Dr      |                                         |
++---------+-----------------------------------------+
+| FrG     | 50 Generator                      |
++---------+-----------------------------------------+
+| Ug1     | 3 x 400 V Phase 1 Genera-tor             |
++---------+-----------------------------------------+
+| Ug2     | 3 x 400 V Phase 2 Genera-tor             |
++---------+-----------------------------------------+
+| Ug3     | 3 x 400 V Phase 3 Genera-tor             |
++---------+-----------------------------------------+
+| Un1     | 3 x 400 V Phase 1 Netz                   |
++---------+-----------------------------------------+
+| Un2     | 3 x 400 V Phase 2 Netz                   |
++---------+-----------------------------------------+
+| Un3     | 3 x 400 V Phase 3 Netz                   |
++---------+-----------------------------------------+
+| Ig1     | Strom Phase 1 Generator                 |
++---------+-----------------------------------------+
+| Ig2     | Strom Phase 2 Generator                 |
++---------+-----------------------------------------+
+| Ig3     | Strom Phase 3 Generator                 |
++---------+-----------------------------------------+
+| Eins    | Speisung Steuerung (12VDC)              |
++---------+-----------------------------------------+
+| Pol     |                                         |
++---------+-----------------------------------------+
+| LO1     |                                         |
++---------+-----------------------------------------+
+| LWa     |                                         |
++---------+-----------------------------------------+
+
+Durch drücken der Taste ENTER wer-den die einzelnen Spalten angezeigt.
  
 ### Ändern von Parametern
 
 #### Service-Code eingeben
 
 Alle Parameter, welche mit einem _ bezeichnet sind, können nur geändert werden, wenn der Servicecode gegeben wird. Diese Parameter dürfen grundsätzlich durch den Servicetechniker geändert werden.  
- 
-
-
- 
 Durch drücken der Taste   wechselt das Steuersystem ins Menü Parameter.
 Wählen Sie mit der PFEIL-Taste die Pa-rametergruppe Code an und drücken Sie die Taste ENTER um zur Code-Eingabe zu gelangen.
 Mit den PFEIL-Tasten kann nun die Code-Zahl eingestellt und mit ENTER bestätigt werden. Der Code muss allen-falls bei der Servicefirma angefragt wer-den.
@@ -1684,10 +1726,7 @@ Mit den PFEIL-Tasten kann nun die Code-Zahl eingestellt und mit ENTER bestätigt
 	
 #### Einstellen der Servicestunden
 Nach jedem Service muss die Betriebsstundenzahl für die nächste Wartung neu eingegeben werden. Damit wird dem Betriebspersonal über das Display angezeigt, wann die nächste periodi-sche Wartung fällig ist. 
- 
 
- 
- 
 Durch drücken der Taste   wechselt das Steuersystem ins Menü Parameter.
 Wählen Sie mit der PFEIL-Tasten die Parametergruppe Grundparameter an und drücken Sie die Taste ENTER um die entsprechende Gruppe zu geöff-net.
 
@@ -1700,10 +1739,7 @@ Beispiel:	Das Serviceintervall beträgt 800 h und das BHKW hat zur Zeit 6400 Bet
  
 #### Einstellen der maximalen Servicestundenüberschreitung
 Um zu verhindern, dass die BHKW-Anlage den vorgegebenen Wartungsintervall nicht zu lange überschreitet, kann über den Parameter ServUeberschri die maximal zulässige Service-stundenüberschreitung eingestellt werden. Wird die Wartung bis zu diesem Zeitpunkt nicht durchgeführt, schaltet das BHKW ab. 
- 
 
- 
- 
 Durch drücken der Taste   wechselt das Steuersystem ins Menü Parameter.
 Wählen Sie mit der PFEIL-Tasten die Parametergruppe Grundparameter an und drücken Sie die Taste ENTER um die entsprechende Gruppe zu geöff-net.
 
@@ -1714,16 +1750,19 @@ Sofern der Parameter mit einem _ be-zeichnet ist, muss vorgängig der Ser-viceco
 Beispiel:	Die maximale Servicestundenüberschreitung beträgt 100 h. Der nächste periodische Service ist bei 7200 Betriebsstunden fällig. Ist die Wartung bis 7300 Betriebsstunden nicht durchgeführt worden, schaltet das BHKW ab.
  
 ### Die Betriebsmodi
-#### 11.6.1 Einschalten des Steuersystem IS-GAS
+#### Einschalten des Steuersystem IS-GAS
 
 Das Steuersystem wird mittels Schlüsselschalter (siehe Kapitel 5.1 Position 2) eingeschaltet. Damit erfolgt die 3 x 400 Vsversorgung 12 VDC des Steuersystems.
 Das Display leuchtet auf und nach einer kurzen Initialisierung, wird das Menü Messung ange-zeigt (grafische Darstellung der elektrischen Leistung). Dabei schaltet das Steuersystem in den Betriebsmodus, in dem das BHKW vor der Abschaltung war.
+
 #### Betriebsmodus *AUT*
 Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung *AUT* (automa-tisch) angezeigt. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld *VORBEREITET* in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+
 START-Prozedur
 Im Automatik-Betrieb wird die Anlage über eine externe Freigabe ein- bzw. ausgeschaltet. Dies erfolgt über einen potentialfreien Kontakt, welcher an Klemmen im Schaltschrank angeschlos-sen wird. Bei geschlossenem Kontakt startet die Anlage und schaltet sich wieder ab, sobald der Kontakt geöffnet wird. Die externe Freigabe kann auf Grund eines externen Wärme-, Strom- (Spitzenstromsteuerung) oder Gasmanagements erfolgen.
 Wird das BHKW von der externen Steuerung freigegeben, wird der Haupt- und Sternschütz des Generators gezogen, wodurch dieser als Elektromotor betrieben wird und der Motor mit 1500 1/min. dreht. Danach wird die Zündung eingeschalten und einige Sekunden später die Gasventile geöffnet, wodurch nun der Motor den Generator antreibt. Zeitverzögert erfolgt die Stern-Dreieckumschaltung.
 Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird *BELASTUNG* angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BIBLOC BV684 SBTLKseine Leistung auf die programmierte Nominalleistung.
+
 STOP-Prozedur
 Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint *ENTLASTET*) und öffnet den Generatorschütz.
 Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die Ausgänge für Zündung und Gasventile zurückgesetzt werden. Die Primär- und Sekundärpumpe bleiben wäh-rend der Nachkühlzeit in Betrieb, um den Motor weiter abzukühlen. Das BHKW ist in dieser Zeit bereits für den nächsten Start bereit. Am Display erscheint *VORBEREITET*.
@@ -1733,10 +1772,13 @@ Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die A
 
  	Schaltet das BHKW in Folge einer Störung ab, startet das Aggregat nach Quit-tierung mit der Taste FAULT RESET automatisch.
 #### Betriebsmodus *MAN*
-Im Betriebsmenü ist die Bezeichnung *MAN* (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld *VORBEREITET* in der obersten Zeile. Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+Im Betriebsmenü ist die Bezeichnung *MAN* (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld *VORBEREITET* in der obersten Zeile. 
+Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
+
 START-Prozedur
 Im Unterschied zum Mode *AUT* wird im Mode *MAN* das Aggregat nicht durch eine externe Freigabe gestartet, sondern durch drücken der Taste START.
 Der weitere Verlauf der Startroutine entspricht jenem im Mode *AUT*.
+
 STOP-Prozedur
 Das Abschalten des BHKW erfolgt durch drücken der Taste STOP.
 Der weitere Verlauf der Stopproutine entspricht jenem im Mode *AUT*. 
@@ -2404,6 +2446,9 @@ a_{11}& =b_{11}&
 a_{21}& =b_{21}&
   a_{22}& =b_{22}+°C{22}
 \end{align}
+
+  [1]: index.BIBLOC_BV684_SBTLK_[120].md
+
 
 
 
