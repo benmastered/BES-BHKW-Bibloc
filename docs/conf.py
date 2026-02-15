@@ -78,13 +78,17 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # a list of builtin themes.
 #
 #html_theme = "sphinx_rtd_theme"
-html_theme = "blue"
+#html_theme = "blue"
+#html_theme = "classic"
+html_theme = "haiku"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 html_theme_options = {
     #'logo_only': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
+    "rightsidebar": "true",
+    "relbarbgcolor": "black"
     'vcs_pageview_mode': '',
     #'style_nav_header_background': 'white',
     'flyout_display': 'attached',
