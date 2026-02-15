@@ -22,9 +22,9 @@ build:
         - echo "Override default build command for htmlzip format"
         - mkdir -p $READTHEDOCS_OUTPUT/html/
         - sphinx-build -n -b text docs $READTHEDOCS_OUTPUT/html/
-      pdf:
-        - echo "Copy images and pdflatex"
-        - mkdir -p $READTHEDOCS_OUTPUT/pdf/
+#      pdf:
+#        - echo "Copy images and pdflatex"
+#        - mkdir -p $READTHEDOCS_OUTPUT/pdf/
 #        - cp -r  _static/images/ $READTHEDOCS_OUTPUT/images/
 #         - sphinx-build -b latexpdf text docs ./ $READTHEDOCS_OUTPUT/pdf
 sphinx:
