@@ -423,7 +423,6 @@ Bei einem BHKW mit Synchrongenerator durchläuft die Maschine den Abkühlzyklus 
 
 #### Inselbetrieb
 
-
 ### Gasarten
 
 Die Anforderungen an die jeweiligen Brenngase können dem Merkblatt **Eigenschaften von Brenngasen** entnommen werden.
@@ -440,7 +439,6 @@ Für mit Erd- und Flüssiggas betriebene BHKWs wird zur Reduktion der Schadstoff
 Bei Verwendung von Biogas können infolge der Gasverunreinigungen Katalysatoren nur bedingt verwendet werden. Die Schadstoffemissionen werden mittels Magermotor (Verbrennung mit Luftüberschuss) auf die gemäss LRV vorgeschriebenen Grenzwerte reduziert.
 
 Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator möglich, wodurch im Magerbetrieb die CO (Kohlenmonoxyd) zusätzlich reduziert werden.
-
 
 <table>
 <thead>
@@ -465,7 +463,9 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 </tbody>
 </table>
 
-## Beschreibung des BHKW_Typ
+
+## Beschreibung des BHKWs BHKW_Typ
+
 <table>
 <thead>
 	<tr>
@@ -538,13 +538,13 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ### Abmessungen der BHKW-Anlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 ## Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="400">
 </div>
 
 Legende :
@@ -1147,7 +1147,7 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 #### Komponenten und Schema des Primärkreislaufes
 
 <div align="center">
-  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende :	
@@ -1200,8 +1200,12 @@ Zum Auffüllen des Primärkreislaufes wird nach folgenden Punkten vorgegangen:
 •	die Anlage in Betrieb setzen und auf Betriebstemperatur erwärmen lassen
 •	Senkt sich das Niveau im Ausgleichsgefäss die Anlage ausschalten
 •	den Deckel des Ausgleichsgefässes entfernen
-
+_________________________________________________________________________
+<div align="left">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
 ACHTUNG! Deckel nie bei heissem Motor öffnen!
+_________________________________________________________________________
 
 •	Das Ausgleichsgefäss bis zur Niveaumarkierung MAX mit Kühlmittelflüssigkeit nachfüllen
 •	den Deckel des Ausgleichsgefäss schliessen
@@ -1245,7 +1249,7 @@ Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwä
 #### Komponenten und Schema des Sekundärkreislaufes
 
 <div align="center">
-  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende :
@@ -1310,7 +1314,13 @@ Zum Auffüllen des Sekundärkreislaufes wird nach folgenden Punkten vorgegangen:
 Der Sekundärkreislauf muss gemäss den SWKI-Richtlinien und allgemeinen eingefüllt werden, damit die max. erlaubte Wasserhärte von 13°f (= 130 g Kalk/m3 Wasser) nicht überschritten wird.
 
 Im BHKW-Rücklauf muss ein Schmutzfänger installiert werden.
+ _________________________________________________________________________
+<div align="left">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
 Bei Missachtung dieser Vorschriften können die Wärmetauscher durch Ablagerungen verstopft werden.
+_________________________________________________________________________
 
 Der Generator und Rohrleitungen des Sekundärkreislaufs innerhalb der Schalldämmhaube dürfen nicht mit einer Wärmeisolation versehen werden. Diese Komponenten helfen die Strahlungswärme unter der Schalldämmhaube abzuführen.
 	
@@ -1331,7 +1341,7 @@ Siehe *Störungen im Primärkreislauf*.
 #### Komponenten und Schema der Gasregelstrecke und Luftzufuhr
 
 <div align="center">
-  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende :
@@ -1440,7 +1450,7 @@ Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 #### Komponenten der Leistungsregulierung
 
 <div align="center">
-  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende:
@@ -1492,7 +1502,7 @@ Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach 
 #### Komponenten und Schema des Abgassystems
 
 <div align="center">
-  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende :
@@ -1656,7 +1666,7 @@ Das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir ausgestattet
 #### Komponenten und Schema des Schmierölsystems
 
 <div align="center">
-  <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende :
@@ -1732,7 +1742,7 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 #### Komponenten der Zündanlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="500">
 </div>
 
 Legende :	
@@ -1849,6 +1859,13 @@ Die Kontrolle und Wartung der Zündanlage ist ein Bestandteil der technischen An
  	Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
 
  	Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisier-tem Fachpersonal ausgeführt werden. Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen. Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
+ _________________________________________________________________________
+<div align="left">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
+ Das Berühren der Bauteile des Zündsystems während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+_________________________________________________________________________
  
 ## Betriebsstoffe
 ### Brenngase
@@ -2259,14 +2276,14 @@ Nullleiter des Generators wird nicht herausgeführt
 ### Blockschema der elektrischen Einbindung
  
 <div align="center">
-  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="500">
 </div>
 ## Steuerung der BHKW-Anlage
 
 ### Bedienfeld des Schaltschrank
 
 <div align="center">
-  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="400">
 </div>
 
 Legende :	
@@ -2466,7 +2483,7 @@ Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 	</tr>
 	<tr>
 		<td>Grund</td>
-		<td>Beschreibung des Ereignis-ses</td>
+		<td>Beschreibung des Ereignisses</td>
 	</tr>
 	<tr>
 		<td>Zeit</td>
@@ -2486,7 +2503,7 @@ Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 	</tr>
 	<tr>
 		<td>TAbg</td>
-		<td>Abgastemperatur nach Ab-gas-WT</td>
+		<td>Abgastemperatur nach Abgas-WT</td>
 	</tr>
 	<tr>
 		<td>LS</td>
@@ -2681,7 +2698,7 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="300">
+  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="500">
 </div>
 
 Legende :
