@@ -84,27 +84,27 @@ html_theme = "sphinx_rtd_theme"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 html_logo = "docs/_static/images/logo_header.png"
-html_show_sourcelink = True
+#html_show_sourcelink = True
 html_favicon = "docs/_static/images/favicon.ico"
 
 html_theme_options = {
-    'logo_only': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
-    'sidebarbgcolor':'grey',
-    'rightsidebar': 'true',
-    'relbarbgcolor': 'black',
-    'vcs_pageview_mode': 'blob',
-    'style_nav_header_background': 'white',
-    'flyout_display': 'attached',
-    'version_selector': False,
-    'language_selector': False,
+    'logo_only': True
+    #'prev_next_buttons_location': 'bottom',
+    #'style_external_links': True,
+    #'sidebarbgcolor':'grey',
+    #'rightsidebar': 'true',
+    #'relbarbgcolor': 'black',
+    #'vcs_pageview_mode': 'blob',
+    #'style_nav_header_background': 'white',
+    #'flyout_display': 'attached',
+    #'version_selector': False,
+    #'language_selector': False,
     # Toc options
-    'collapse_navigation': False,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': False,
-    'titles_only': False
+    #'collapse_navigation': False,
+    #'sticky_navigation': True,
+    #'navigation_depth': 4,
+    #'includehidden': False,
+    #'titles_only': False
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
