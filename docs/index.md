@@ -2152,22 +2152,32 @@ Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit be
 
 #### Schutz vor nichtionisierender Strahlung
 
-+---------------------------------+----------------------------------------------------------------------+
-| Max. Strom                      | mit cos * 0.81: 55 A (bei 30 kW)                                     |
-+---------------------------------+----------------------------------------------------------------------+
-| magnetische Flussdichte BG      |  o * A/2r = 1.257 10-6 * 55/2 = 11 T                             | |---------------------------------+----------------------------------------------------------------------+
-|                                 | (Grenzwert nach NISV 814.710: 100 T)                                |
-+---------------------------------+----------------------------------------------------------------------+
 	
 #### Generatorschutz
 
-+------------------------------------+-------------------------+----------------+
-| Schutzart                          | Einstellung             | Schutzgerät    |
-+====================================+=========================+================+
-| Überstromthermische Auslösung      | Nennstrom der Anlage IN | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
-| Kurzschluss- magnetische Auslösung | 5 x IN, unverzögert     | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
+
+<table>
+<thead>
+	<tr>
+		<th>Schutzart</th>
+		<th>Einstellung</th>
+		<th>Schutzgerät</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Überstromthermische Auslösung</td>
+		<td>Nennstrom der Anlage IN</td>
+		<td>Schutzschalter</td>
+	</tr>
+	<tr>
+		<td>Kurzschluss- magnetische Auslösung</td>
+		<td>5 x IN, unverzögert</td>
+		<td>Schutzschalter</td>
+	</tr>
+</tbody>
+</table>
+
 
 Der Überstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, das Modul (Generator) und teilweise auch die Zuleitung vor Überstrombelastungen.
  
@@ -2177,24 +2187,56 @@ Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzust
 
 Von der Netzüberwachung werden folgende Parameter überwacht:
 
-+------------------------------------+-------------------------+----------------+
-| Schutzart                          | Einstellung             | Schutzgerät    |
-+====================================+=========================+================+
-| Überstromthermische Auslösung      | Nennstrom der Anlage IN | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
-| Kurzschluss- magnetische Auslösung | 5 x IN, unverzögert     | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
+
+<table>
+<thead>
+	<tr>
+		<th>Schutzart</th>
+		<th>Einstellung</th>
+		<th>Schutzgerät</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Überstromthermische Auslösung</td>
+		<td>Nennstrom der Anlage IN</td>
+		<td>Schutzschalter</td>
+	</tr>
+	<tr>
+		<td>Kurzschluss- magnetische Auslösung</td>
+		<td>5 x IN, unverzögert</td>
+		<td>Schutzschalter</td>
+	</tr>
+</tbody>
+</table>
+
 
 Wird eine Netzstörung festgestellt, öffnet die Netzüberwachung über einen ersten Kontakt den Generatorschütz und signalisiert die Netzstörung über einen zweiten Kontakt dem Steuersystem IS-GAS. Damit wird sichergestellt, dass das BHKW unabhängig vom Steuersystem vom Netz abgekoppelt wird.
 Zusätzlich werden vom Steuersystem IS-GAS folgende Parameter überwacht:
 
-+--------------------+----------------------------+---------------------+
-| Schutzart          | Einstellung                | Schutzgerät         |
-+====================+============================+=====================+
-| Rückleistungschutz | 1500 W; verzögert 5 - 10s | Steuersystem IS-GAS |
-+--------------------+----------------------------+---------------------+
-| Drehzahlschutz     | 105 - 115% Nennumdrehungen | Steuersystem IS-GAS |
-+--------------------+----------------------------+---------------------+
+
+<table>
+<thead>
+	<tr>
+		<th>Schutzart</th>
+		<th>Einstellung</th>
+		<th>Schutzgerät</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Rückleistungschutz</td>
+		<td>1500 W; verzögert 5 - 10s</td>
+		<td>Steuersystem IS-GAS</td>
+	</tr>
+	<tr>
+		<td>Drehzahlschutz</td>
+		<td>105 - 115% Nennumdrehungen</td>
+		<td>Steuersystem IS-GAS</td>
+	</tr>
+</tbody>
+</table>
+
 
 Der Rückleistungsschutz schützt das BHKW vor einer Beschädigung im Falle eines Leistungsverlustes des Motors. Dabei käme es zu einem motorischen Generatorbetrieb, der vor allem den Motor beschädigen könnte. Die Kontrolle der Rückleistung wird durch vergleichen des voreingestellten Grenzwertes mit der Nennwirkleistung durchgeführt.
 

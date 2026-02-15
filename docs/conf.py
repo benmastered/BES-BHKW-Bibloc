@@ -88,7 +88,7 @@ html_logo = "docs/_static/images/logo_header.png"
 html_favicon = "docs/_static/images/favicon.ico"
 
 html_theme_options = {
-    'logo_only': True
+    'logo_only': True,
     #'prev_next_buttons_location': 'bottom',
     #'style_external_links': True,
     #'sidebarbgcolor':'grey',
@@ -101,7 +101,7 @@ html_theme_options = {
     #'language_selector': False,
     # Toc options
     #'collapse_navigation': False,
-    #'sticky_navigation': True,
+    'sticky_navigation': True
     #'navigation_depth': 4,
     #'includehidden': False,
     #'titles_only': False
