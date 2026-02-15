@@ -22,6 +22,10 @@ build:
         - echo "Override default build command for htmlzip format"
         - mkdir -p $READTHEDOCS_OUTPUT/html/
         - sphinx-build -n -b text docs $READTHEDOCS_OUTPUT/html/
+      images:
+        - echo "Copy images"
+        - mkdir -p $READTHEDOCS_OUTPUT/images/
+        - cp -r images/ $READTHEDOCS_OUTPUT/images/
 sphinx:
   builder: html
   configuration: docs/conf.py
