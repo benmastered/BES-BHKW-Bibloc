@@ -100,7 +100,7 @@ html_theme = "sphinx_rtd_theme"
 
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
-html_logo = "images/logo_header.png"
+html_logo = "_static/images/logo_header.png"
 # html_show_sourcelink = True
 #html_favicon = "_static/images/favicon.ico"
 
@@ -162,7 +162,7 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_context = {}
 # html_css_files = ['custom.css']
-latex_logo = "images/logo_header.png"
+latex_logo = "_static/images/logo_header.png"
 # latex_use_latex_multicolumn = "true"
 # latex_table_style = ['booktabs','colorrows']
 # latex_documents = [
