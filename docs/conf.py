@@ -20,7 +20,10 @@
 project = "BES BHKW BIBLOC BV"
 copyright = "2026, Handbuch"
 author = "Team BES"
-
+slug = re.sub(r'\W+', '-', project.lower())
+version = theme_version
+release = theme_version_full
+language = 'de'
 
 # -- General configuration ---------------------------------------------------
 # -- General configuration
@@ -31,6 +34,8 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
+     'sphinx.ext.mathjax',
+     'sphinx.ext.viewcode',
     'sphinx_rtd_theme',
     "myst_parser",
 ]
@@ -81,16 +86,19 @@ html_theme = "sphinx_rtd_theme"
 #html_theme = "blue"
 #html_theme = "classic"
 #html_theme = "haiku"
+
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 html_logo = "_static/images/logo_header.png"
-#html_show_sourcelink = True
+html_show_sourcelink = True
 #html_favicon = "_static/images/favicon.ico"
 
 # html_sidebars = {
    # '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
    # 'using/windows': ['windows-sidebar.html', 'searchbox.html'],
 # }
+
+htmlhelp_basename = slug
 
 html_theme_options = {
     'logo_only': True,
@@ -115,6 +123,8 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
+html_context = {}
+html_css_files = ['custom.css']
 
 # Source - https://stackoverflow.com/a/57840173
 # Posted by Jose Cherian, modified by community. See post 'Timeline' for change history
@@ -123,8 +133,17 @@ html_static_path = ["_static"]
 latex_logo = "_static/images/logo_header.png"
 latex_use_latex_multicolumn = "true"
 latex_table_style = ['booktabs','colorrows']
+latex_documents = [
+  ('index', '{0}.tex'.format(slug), project, author, 'manual'),
+]
+man_pages = [
+    ('index', slug, project, [author], 1)
+]
+
+texinfo_documents = [
+  ('index', slug, project, author, slug, project, 'Miscellaneous'),
+]
 
 rinoh_documents = [dict(doc='index',        # top-level file (index.rst)
                         target='manual')]   # output file (manual.pdf)
                         
-html_css_files = ['custom.css']
