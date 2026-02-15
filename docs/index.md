@@ -835,15 +835,15 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 		<td>Aufstellungshöhe</td>
 	</tr>
 	<tr>
-		<td>Leistungsreduktion bei 500 m.ü. Meereshöhe</td>
+		<td>bei 500 m.ü. Meereshöhe</td>
 		<td>Leistungsreduktion_500_m_üM</td>
 	</tr>
 	<tr>
-		<td>Leistungsreduktion bei 1000 m.ü. Meereshöhe</td>
+		<td>bei 1000 m.ü. Meereshöhe</td>
 		<td>Leistungsreduktion_1000_m_üM</td>
 	</tr>
 	<tr>
-		<td>Leistungsreduktion bei 1500 m.ü. Meereshöhe</td>
+		<td>bei 1500 m.ü. Meereshöhe</td>
 		<td>Leistungsreduktion_1500_m_üM</td>
 	</tr>
 </tbody>
