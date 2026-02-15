@@ -34,7 +34,7 @@ extensions = [
     'sphinx_rtd_theme',
     "myst_parser",
 ]
-myst_heading_anchors = 3
+myst_heading_anchors = 7
 
 myst_enable_extensions = [
     "amsmath",
@@ -80,6 +80,22 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_theme = "sphinx_rtd_theme"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
+html_theme_options = {
+    'logo_only': False,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    'vcs_pageview_mode': '',
+    'style_nav_header_background': 'white',
+    'flyout_display': 'hidden',
+    'version_selector': True,
+    'language_selector': True,
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 3,
+    'includehidden': True,
+    'titles_only': False
+}
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -89,6 +105,7 @@ html_static_path = ["_static"]
 # Posted by Jose Cherian, modified by community. See post 'Timeline' for change history
 # Retrieved 2026-02-13, License - CC BY-SA 4.0
 
+collapse_navigation= True
 html_css_files = [
     'custom.css',
 ]
