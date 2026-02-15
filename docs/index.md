@@ -536,9 +536,14 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 <div align="center">
   <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
-{image} _static/images/BHKW-Abmessungen-T30.JPG
-		:width: 600px
-		:align: center
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{/home/docs/_static/images/BHKW-Abmessungen-T30.JPG}
+\caption{System architecture.}
+\label{fig:arch}
+\end{figure}
+
 ## Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
