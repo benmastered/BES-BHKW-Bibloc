@@ -538,13 +538,13 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 ### Abmessungen der BHKW-Anlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 ## Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="400">
+  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1147,7 +1147,7 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 #### Komponenten und Schema des Primärkreislaufes
 
 <div align="center">
-  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :	
@@ -1249,7 +1249,7 @@ Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwä
 #### Komponenten und Schema des Sekundärkreislaufes
 
 <div align="center">
-  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1341,7 +1341,7 @@ Siehe *Störungen im Primärkreislauf*.
 #### Komponenten und Schema der Gasregelstrecke und Luftzufuhr
 
 <div align="center">
-  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1450,7 +1450,7 @@ Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 #### Komponenten der Leistungsregulierung
 
 <div align="center">
-  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende:
@@ -1502,7 +1502,7 @@ Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach 
 #### Komponenten und Schema des Abgassystems
 
 <div align="center">
-  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1666,7 +1666,7 @@ Das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir ausgestattet
 #### Komponenten und Schema des Schmierölsystems
 
 <div align="center">
-  <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1742,7 +1742,7 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 #### Komponenten der Zündanlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :	
@@ -1837,34 +1837,44 @@ Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360° neu defin
  
  
 #### Einstellung der Zündanlage
-Für eine korrekte Funktion der Zündanlage müssen folgende Grundeinstellungen vorgenommen werden: 
-Zündkerze
+
+Für eine korrekte Funktion der Zündanlage müssen folgende Grundeinstellungen vorgenommen werden:
+ 
+##### Zündkerze
+
 Die Wahl der richtigen Zündkerze ist stark vom verwendeten Brenngas abhängig. 
-Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze. 
+Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze.
+ 
 Der Einsatz von Platin- oder Iridiumzündkerzen ist hier in den meisten Fällen unumgänglich. Folgende Zündkerzen können eingesetzt werden:
+* Betrieb mit Erdgas:	BRISK AR12YS
+* Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
 
-Betrieb mit Erdgas:	BRISK AR12YS
-Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
-Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
+-> Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
 
-Zündbox
-Den Zündzeitpunkt (Vorzündung) einstellen.
-Betrieb mit Erdgas:	24_ vor O.T.
-Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
-Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 *Funktionsbeschrieb der Zündanlage*).
+##### Zündbox:
+
+den Zündzeitpunkt (Vorzündung) einstellen.
+* Betrieb mit Erdgas:	24° vor O.T.
+* Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
+* Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. 
+* Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe *Funktionsbeschrieb der Zündanlage*).
 
 #### Wartung der Zündanlage
 Die Kontrolle und Wartung der Zündanlage ist ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
 
- 	Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
 
- 	Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisier-tem Fachpersonal ausgeführt werden. Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen. Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
+Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisiertem Fachpersonal ausgeführt werden.
+
+Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen.
+ 
+Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
  _________________________________________________________________________
 <div align="left">
   <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
 </div>
 
- Das Berühren der Bauteile des Zündsystems während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+Das Berühren der Bauteile des Zündsystems während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
 _________________________________________________________________________
  
 ## Betriebsstoffe
@@ -2276,21 +2286,35 @@ Nullleiter des Generators wird nicht herausgeführt
 ### Blockschema der elektrischen Einbindung
  
 <div align="center">
-  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="500">
+  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="600">
 </div>
+
 ## Steuerung der BHKW-Anlage
 
 ### Bedienfeld des Schaltschrank
 
 <div align="center">
-  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="400">
+  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :	
-1	Steuersystem IS-GAS mit Display, Tastatur und Signal LED
-2	Schlüsselschalter für Zugriff in die Steuerung
-3	Not-Aus Schalter
 
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Steuersystem IS-GAS mit Display, Tastatur und Signal LED</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Schlüsselschalter für Zugriff in die Steuerung</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Not-Aus Schalter</td>
+	</tr>
+</tbody>
+</table>
 #### Steuersystem IS-GAS
 Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BHKW_Typ. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
 #### Schlüsselschalter Steuerung Ein/Aus
@@ -2698,11 +2722,10 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="500">
+  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="600">
 </div>
 
 Legende :
-
 
 <table>
 <tbody>
