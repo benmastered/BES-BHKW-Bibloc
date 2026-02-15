@@ -86,16 +86,18 @@ html_theme = "sphinx_rtd_theme"
 html_logo = "_static/images/logo_header.png"
 #html_show_sourcelink = True
 #html_favicon = "_static/images/favicon.ico"
-html_sidebars = {
-   '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
-   'using/windows': ['windows-sidebar.html', 'searchbox.html'],
-}
+
+# html_sidebars = {
+   # '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+   # 'using/windows': ['windows-sidebar.html', 'searchbox.html'],
+# }
+
 html_theme_options = {
     'logo_only': True,
     #'prev_next_buttons_location': 'bottom',
     #'style_external_links': True,
     #'sidebarbgcolor':'grey',
-    #'rightsidebar': 'true',
+    'rightsidebar': 'true',
     #'relbarbgcolor': 'black',
     #'vcs_pageview_mode': 'blob',
     #'style_nav_header_background': 'white',
