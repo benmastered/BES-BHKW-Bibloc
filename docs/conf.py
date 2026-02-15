@@ -91,8 +91,9 @@ html_theme_options = {
     'logo_only': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
-    "rightsidebar": "true",
-    "relbarbgcolor": "green",
+    'sidebarbgcolor':'grey,'
+    'rightsidebar': 'true',
+    'relbarbgcolor': 'black',
     'vcs_pageview_mode': 'blob',
     'style_nav_header_background': 'blue',
     'flyout_display': 'attached',
