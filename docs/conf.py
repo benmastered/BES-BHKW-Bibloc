@@ -18,21 +18,21 @@ import re
 # and not the installed version of the theme.
 
 sys.path.insert(0, os.path.abspath('..'))
-sys.path.append(os.path.abspath('./demo/'))
+# sys.path.append(os.path.abspath('./demo/'))
 
-from sphinx_rtd_theme import __version__ as theme_version
-from sphinx_rtd_theme import __version_full__ as theme_version_full
-from sphinx.locale import _
+# from sphinx_rtd_theme import __version__ as theme_version
+# from sphinx_rtd_theme import __version_full__ as theme_version_full
+# from sphinx.locale import _
 
 # -- Project information -----------------------------------------------------
 
 project = "BES BHKW BIBLOC BV"
 copyright = "2026, Handbuch"
 author = "Team BES"
-slug = re.sub(r'\W+', '-', project.lower())
-version = theme_version
-release = theme_version_full
-language = 'de'
+# slug = re.sub(r'\W+', '-', project.lower())
+# version = theme_version
+# release = theme_version_full
+# language = 'de'
 
 # -- General configuration ---------------------------------------------------
 # -- General configuration
@@ -48,6 +48,7 @@ extensions = [
     'sphinx_rtd_theme',
     "myst_parser",
 ]
+
 myst_heading_anchors = 7
 
 myst_enable_extensions = [
@@ -100,7 +101,7 @@ html_theme = "sphinx_rtd_theme"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 html_logo = "_static/images/logo_header.png"
-html_show_sourcelink = True
+# html_show_sourcelink = True
 #html_favicon = "_static/images/favicon.ico"
 
 # html_sidebars = {
@@ -117,10 +118,10 @@ html_show_sourcelink = True
     # 'donate.html',
 # ]
 # }
+html_static_path = ["_static"]
+# htmlhelp_basename = slug
 
-htmlhelp_basename = slug
-
-# html_theme_options = {
+ html_theme_options = {
     # 'logo_only': True,
     # 'prev_next_buttons_location': 'bottom',
     # #'style_external_links': True,
@@ -135,31 +136,29 @@ htmlhelp_basename = slug
     # # Toc options
     # 'collapse_navigation': True,
     # 'sticky_navigation': True,
-    # 'navigation_depth': 4,
+     'navigation_depth': 7,
     # 'includehidden': False,
     # 'titles_only': True,
-# }
+ }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ["_static"]
-html_context = {}
-html_css_files = ['custom.css']
-
+# html_context = {}
+# html_css_files = ['custom.css']
 latex_logo = "_static/images/logo_header.png"
-latex_use_latex_multicolumn = "true"
-latex_table_style = ['booktabs','colorrows']
-latex_documents = [
-  ('index', '{0}.tex'.format(slug), project, author, 'manual'),
-]
-man_pages = [
-    ('index', slug, project, [author], 1)
-]
+# latex_use_latex_multicolumn = "true"
+# latex_table_style = ['booktabs','colorrows']
+# latex_documents = [
+  # ('index', '{0}.tex'.format(slug), project, author, 'manual'),
+# ]
+# man_pages = [
+    # ('index', slug, project, [author], 1)
+# ]
 
-texinfo_documents = [
-  ('index', slug, project, author, slug, project, 'Miscellaneous'),
-]
+# texinfo_documents = [
+  # ('index', slug, project, author, slug, project, 'Miscellaneous'),
+# ]
 
-rinoh_documents = [dict(doc='index',        # top-level file (index.rst)
-                        target='manual')]   # output file (manual.pdf)
+# rinoh_documents = [dict(doc='index',        # top-level file (index.rst)
+                        # target='manual')]   # output file (manual.pdf)
                         
