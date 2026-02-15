@@ -123,7 +123,7 @@ html_static_path = ["_static"]
 
 # html_theme_options = {
     # # 'logo_only': True,
-    # # 'prev_next_buttons_location': 'bottom',
+    # # 'prev_next_buttons_location': 'both',
     # # #'style_external_links': True,
     # # 'sidebarbgcolor':'grey',
     # # 'rightsidebar': 'true',
@@ -143,7 +143,7 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     'logo_only': False,
-    'prev_next_buttons_location': 'bottom',
+    'prev_next_buttons_location': 'both',
     'style_external_links': False,
     'vcs_pageview_mode': '',
     'style_nav_header_background': 'white',
