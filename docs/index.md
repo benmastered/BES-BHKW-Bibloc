@@ -4809,9 +4809,7 @@ Erläuterung:
 		<td>3.4</td>
 		<td>Spannung 500V DC Eingang Hauptschalter messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4819,9 +4817,7 @@ Erläuterung:
 		<td>3.4.1</td>
 		<td>Spannung 500V DC Eingang Hauptschalter → N-PE messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4829,9 +4825,7 @@ Erläuterung:
 		<td>3.4.2</td>
 		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>1</sub> messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4839,9 +4833,7 @@ Erläuterung:
 		<td>3.4.3</td>
 		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>2</sub> messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4849,9 +4841,7 @@ Erläuterung:
 		<td>3.4.4</td>
 		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>3</sub> messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4859,9 +4849,7 @@ Erläuterung:
 		<td>3.5</td>
 		<td>Spannung 500V DC L<sub>1</sub> → PE messen</td>
 		<td>-11X1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4869,9 +4857,7 @@ Erläuterung:
 		<td>3.6</td>
 		<td>Spannung 500V DC L<sub>1</sub> → PE messen</td>
 		<td>-11X1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4879,9 +4865,7 @@ Erläuterung:
 		<td>3.7</td>
 		<td>Spannung 500V DC L<sub>3</sub> → PE messen</td>
 		<td>-11X1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
