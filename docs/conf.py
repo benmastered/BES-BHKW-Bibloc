@@ -122,4 +122,7 @@ latex_logo = "_static/images/logo_header.png"
 latex_use_latex_multicolumn = "true"
 latex_table_style = ['booktabs','colorrows']
 
+rinoh_documents = [dict(doc='index',        # top-level file (index.rst)
+                        target='manual')]   # output file (manual.pdf)
+                        
 html_css_files = ['custom.css']
