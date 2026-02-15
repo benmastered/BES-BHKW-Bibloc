@@ -118,7 +118,7 @@ html_static_path = ["_static"]
 # Posted by Jose Cherian, modified by community. See post 'Timeline' for change history
 # Retrieved 2026-02-13, License - CC BY-SA 4.0
 
-latex_logo = "docs/_static/images/logo_header.png"
+latex_logo = "_static/images/logo_header.png"
 latex_use_latex_multicolumn = "true"
 latex_table_style = ['booktabs','colorrows']
 
