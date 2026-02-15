@@ -74,6 +74,7 @@ intersphinx_mapping = {
     "python": ("https://docs.python.org/3/", None),
     "sphinx": ("https://www.sphinx-doc.org/en/master/", None),
 }
+
 intersphinx_disabled_domains = ["std"]
 
 templates_path = ["_templates"]
@@ -119,25 +120,25 @@ html_show_sourcelink = True
 
 htmlhelp_basename = slug
 
-html_theme_options = {
-    'logo_only': True,
-    'prev_next_buttons_location': 'bottom',
-    #'style_external_links': True,
-    'sidebarbgcolor':'grey',
-    'rightsidebar': 'true',
-    #'relbarbgcolor': 'black',
-    #'vcs_pageview_mode': 'blob',
-    #'style_nav_header_background': 'white',
-    'flyout_display': 'attached',
-    'version_selector': False,
-    'language_selector': False,
-    # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': False,
-    'titles_only': True,
-}
+# html_theme_options = {
+    # 'logo_only': True,
+    # 'prev_next_buttons_location': 'bottom',
+    # #'style_external_links': True,
+    # 'sidebarbgcolor':'grey',
+    # 'rightsidebar': 'true',
+    # #'relbarbgcolor': 'black',
+    # #'vcs_pageview_mode': 'blob',
+    # #'style_nav_header_background': 'white',
+    # 'flyout_display': 'attached',
+    # 'version_selector': False,
+    # 'language_selector': False,
+    # # Toc options
+    # 'collapse_navigation': True,
+    # 'sticky_navigation': True,
+    # 'navigation_depth': 4,
+    # 'includehidden': False,
+    # 'titles_only': True,
+# }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
