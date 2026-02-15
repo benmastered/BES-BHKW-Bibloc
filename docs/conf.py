@@ -92,9 +92,9 @@ html_theme_options = {
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
     "rightsidebar": "true",
-    "relbarbgcolor": "black"
-    #'vcs_pageview_mode': 'blob',
-    #'style_nav_header_background': 'white',
+    "relbarbgcolor": "green",
+    'vcs_pageview_mode': 'blob',
+    'style_nav_header_background': 'blue',
     'flyout_display': 'attached',
     'version_selector': False,
     'language_selector': False,
