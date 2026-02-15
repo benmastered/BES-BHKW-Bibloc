@@ -118,9 +118,8 @@ html_logo = "_static/images/logo_header.png"
     # 'donate.html',
 # ]
 # }
-html_static_path = ["_static"]
+html_static_path = ["_static","images"]
 # htmlhelp_basename = slug
-
 # html_theme_options = {
     # # 'logo_only': True,
     # # 'prev_next_buttons_location': 'both',
