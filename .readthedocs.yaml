@@ -24,8 +24,8 @@ build:
         - sphinx-build -n -b text docs $READTHEDOCS_OUTPUT/html/
       pdf:
         - echo "Copy images and pdflatex"
-        - mkdir -p $READTHEDOCS_OUTPUT/images/
-        - cp -r _static/images/ $READTHEDOCS_OUTPUT/images/
+        - mkdir -p $READTHEDOCS_OUTPUT/pdf/
+#        - cp -r  _static/images/ $READTHEDOCS_OUTPUT/images/
         - sphinx-build -b latexpdf ./ $READTHEDOCS_OUTPUT/pdf
 sphinx:
   builder: html
