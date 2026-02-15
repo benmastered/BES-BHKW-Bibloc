@@ -1,3 +1,35 @@
 .wy-nav-content {
     max-width: 100% !important;
 }
+/* Optional: allow to scroll table
+.wy-table-responsive table {
+    width: 100%;
+    border-collapse: collapse;
+}
+*/
+
+/* Optional: improve table header styling */
+.wy-table-responsive table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+/* Optional: zebra striping */
+.wy-table-responsive table tr:nth-child(even) {
+    background-color: #fafafa;
+}
+/* Optional: not allow to scroll table */
+Css.wy-table-responsive {
+    overflow: visible !important;
+}
+.wy-table-responsive table {
+    display: table;
+}
+Csstable.docutils {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+table.docutils th, table.docutils td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
