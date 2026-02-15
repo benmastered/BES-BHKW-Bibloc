@@ -539,8 +539,8 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 <div align="center">
   <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
-```{image} _static/images/BHKW-Abmessungen-T30.JPG.png
-:alt: Select Parameters
+```
+{image} _static/images/BHKW-Abmessungen-T30.JPG
 :width: 600px
 :align: center
 ```
