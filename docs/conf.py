@@ -83,9 +83,9 @@ html_theme = "sphinx_rtd_theme"
 #html_theme = "haiku"
 #html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
-html_logo = "docs/_static/images/LOGO-BES.jpg"
+html_logo = "docs/_static/images/logo_header.png"
 html_show_sourcelink = True
-html_favicon = "demo/static/favicon.ico"
+html_favicon = "docs/_static/images/favicon.ico"
 
 html_theme_options = {
     'logo_only': True,
