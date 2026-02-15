@@ -5,7 +5,7 @@
 version: 2
 
 # Build PDF & ePub
-formats: [pdf,htmlzip,ePub]
+formats: [pdf,ePub]
  
 # Set the version of Python and other tools you might need
 build:
