@@ -88,7 +88,7 @@ html_show_sourcelink = True
 html_favicon = "demo/static/favicon.ico"
 
 html_theme_options = {
-    #'logo_only': True,
+    'logo_only': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
     "rightsidebar": "true",
