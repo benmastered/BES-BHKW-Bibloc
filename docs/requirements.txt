@@ -68,3 +68,4 @@ myst-parser
 linkify-it-py
 sphinx_rtd_theme
 #sphinx-theme-haiku
+rinohtype
