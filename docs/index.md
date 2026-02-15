@@ -5,16 +5,95 @@
 ## Übersicht über die Typenfamilie Bibloc BV
 --------------------------------------------
 	
-| Ausstattung / BHKW-Typ              | 449 SBK | 449 SBTK | 674 SBK | 674 SBTLK | 684 SBTK | 684 SBTLK |
-|-------------------------------------|---------|----------|---------|-----------|----------|-----------|
-| Synchrongenerator                   |    X    |     X    |    X    |     X     |     X    |     X     |
-| Gasmischer für Biogas / Klärgas     |    X    |     X    |    X    |     X     |     X    |     X     |
-| Saugmotor                           |    X    |          |    X    |           |          |           |
-| Turbomotor                          |         |     X    |         |     X     |     X    |     X     |
-| Ladeluftkühlung                     |         |          |         |     X     |          |     X     |
-| Dreiwegkatalysator (Lambda = 1)     |    X    |     X    |    X    |     X     |     X    |     X     |
-| Notkühlung (2-, 3-, 4-fach)         |    2    |     2    |    3    |     3     |     4    |     4     |
-| Option Notstrom                     |    NS   |     NS   |    NS   |     NS    |     NS   |     NS    |
+
+<table>
+<thead>
+	<tr>
+		<th>Ausstattung / BHKW-Typ</th>
+		<th>449 SBK</th>
+		<th>449 SBTK</th>
+		<th>674 SBK</th>
+		<th>674 SBTLK</th>
+		<th>684 SBTK</th>
+		<th>684 SBTLK</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Synchrongenerator</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Gasmischer für Biogas / Klärgas</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Saugmotor</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Turbomotor</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Ladeluftkühlung</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Dreiwegkatalysator (Lambda = 1)</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Notkühlung (2-, 3-, 4-fach)</td>
+		<td>2</td>
+		<td>2</td>
+		<td>3</td>
+		<td>3</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>Option Notstrom</td>
+		<td>NS</td>
+		<td>NS</td>
+		<td>NS</td>
+		<td>NS</td>
+		<td>NS</td>
+		<td>NS</td>
+	</tr>
+</tbody>
+</table>
+
 
 ### Betriebshandbücher
 ----------------------
@@ -360,37 +439,70 @@ Bei Verwendung von Biogas können infolge der Gasverunreinigungen Katalysatoren 
 
 Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator möglich, wodurch im Magerbetrieb die CO (Kohlenmonoxyd) zusätzlich reduziert werden.
 
-+-------------------------------+---------------------------------------+
-| Typ der Abgasbehandlung       |                                       |
-+===============================+=======================================+
-| Abgaswerte bezogen auf 5 % O2 | Abgasreinigungssystem_Beschreibung_DB |
-+-------------------------------+---------------------------------------+
-| Kohlenmonoxid CO:             | Kohlenmonoxid_CO                      |
-+-------------------------------+---------------------------------------+
-| Stickoxide NOx:               | Stickoxide_NOx                        |
-+-------------------------------+---------------------------------------+
 
-
-
+<table>
+<thead>
+	<tr>
+		<th>Typ der Abgasbehandlung</th>
+		<th></th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Abgaswerte bezogen auf 5 % O2</td>
+		<td>Abgasreinigungssystem_Beschreibung_DB</td>
+	</tr>
+	<tr>
+		<td>Kohlenmonoxid CO:</td>
+		<td>Kohlenmonoxid_CO</td>
+	</tr>
+	<tr>
+		<td>Stickoxide NOx:</td>
+		<td>Stickoxide_NOx</td>
+	</tr>
+</tbody>
+</table>
 
 ## Beschreibung des BHKW_Typ
-+-----------------------+----------------------+
-| Fabrikat              | Wert                  
-+=======================+======================+
-| Typ:                  | BHKW_Typ              
-+-----------------------+----------------------+
-| Betriebsart:          | Betriebsart_d         
-+-----------------------+----------------------+
-| Betriebsstoff:        | Betriebsstoff_d      
-+-----------------------+----------------------+
-| Heizwert Hu:          | Heizwert_Hu          
-+-----------------------+----------------------+
-| Elektrische Leistung: | Elektrische_Leistung 
-+-----------------------+----------------------+
-| Thermische Leistung:  | Thermische_Leistung  
-+-----------------------+----------------------+
-| Verbrauch :           | Verbrauch_Leistung   
-+-----------------------+----------------------+
+<table>
+<thead>
+	<tr>
+		<th>Fabrikat</th>
+		<th>Wert</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Typ:</td>
+		<td>BHKW_Typ</td>
+	</tr>
+	<tr>
+		<td>Betriebsart:</td>
+		<td>Betriebsart_d</td>
+	</tr>
+	<tr>
+		<td>Betriebsstoff:</td>
+		<td>Betriebsstoff_d</td>
+	</tr>
+	<tr>
+		<td>Heizwert Hu:</td>
+		<td>Heizwert_Hu</td>
+	</tr>
+	<tr>
+		<td>Elektrische Leistung:</td>
+		<td>Elektrische_Leistung</td>
+	</tr>
+	<tr>
+		<td>Thermische Leistung:</td>
+		<td>Thermische_Leistung</td>
+	</tr>
+	<tr>
+		<td>Verbrauch :</td>
+		<td>Verbrauch_Leistung</td>
+	</tr>
+</tbody>
+</table>
+
 ### Funktion und Aufbau
 
 Das Blockheizkraftwerk BHKW_Typ arbeitet nach dem Prinzip der Wärmekraftkopplung, wobei Strom und Wärme gleichzeitig produziert und genutzt werden. 
@@ -435,21 +547,128 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 
 Legende :
 
-| Pos. |Komponente                           | Pos.|Komponente                           |
-|------|-------------------------------------|-----|-------------------------------------|
-| 1.   |Gasmotor                             |12.  |Luftfilter                           |
-| 2.   |Generator                            |13.  |Schwingungsdämpfer                   |
-| 3.   |Kupplung                             |14.  |Abgasschalldämpfer                   |
-| 4.   |Chassisrahmen                        |15.  |Umwälzpumpe Primärkreislauf          |
-| 5.   |Schalldämmhaube                      |16.  |Expansionsgefäss Primärkreislauf     |
-| 6.   |Abgaswärmetauscher                   |17.  |Ölwanne Motor                        |
-| 7.   |Katalysator integriert               |12.  |Ölreservoir                          |
-| 8.   |Plattenwärmetauscher                 |13.  |Ölfilter / Ölkühler                  |
-| 9.   |Gasregelstrecke                      |14.  |Umwälzpumpe Sekundärkreislauf        |
-| 10.  |Gasmischer                           |15.  |3-Wegventil Sekundärkreislauf        |
-| 11.  |Drosselklappe                        |16.  |Zündung (nicht gezeichnet)           |
- 
-
+<table>
+<thead>
+	<tr>
+		<th>Pos.</th>
+		<th>Komponente</th>
+		<th>Pos.</th>
+		<th>Komponente</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td><ol>
+<li></li>
+</ol></td>
+		<td>Gasmotor</td>
+		<td><ol start="12">
+<li></li>
+</ol></td>
+		<td>Luftfilter</td>
+	</tr>
+	<tr>
+		<td><ol start="2">
+<li></li>
+</ol></td>
+		<td>Generator</td>
+		<td><ol start="13">
+<li></li>
+</ol></td>
+		<td>Schwingungsdämpfer</td>
+	</tr>
+	<tr>
+		<td><ol start="3">
+<li></li>
+</ol></td>
+		<td>Kupplung</td>
+		<td><ol start="14">
+<li></li>
+</ol></td>
+		<td>Abgasschalldämpfer</td>
+	</tr>
+	<tr>
+		<td><ol start="4">
+<li></li>
+</ol></td>
+		<td>Chassisrahmen</td>
+		<td><ol start="15">
+<li></li>
+</ol></td>
+		<td>Umwälzpumpe Primärkreislauf</td>
+	</tr>
+	<tr>
+		<td><ol start="5">
+<li></li>
+</ol></td>
+		<td>Schalldämmhaube</td>
+		<td><ol start="16">
+<li></li>
+</ol></td>
+		<td>Expansionsgefäss Primärkreislauf</td>
+	</tr>
+	<tr>
+		<td><ol start="6">
+<li></li>
+</ol></td>
+		<td>Abgaswärmetauscher</td>
+		<td><ol start="17">
+<li></li>
+</ol></td>
+		<td>Ölwanne Motor</td>
+	</tr>
+	<tr>
+		<td><ol start="7">
+<li></li>
+</ol></td>
+		<td>Katalysator integriert</td>
+		<td><ol start="12">
+<li></li>
+</ol></td>
+		<td>Ölreservoir</td>
+	</tr>
+	<tr>
+		<td><ol start="8">
+<li></li>
+</ol></td>
+		<td>Plattenwärmetauscher</td>
+		<td><ol start="13">
+<li></li>
+</ol></td>
+		<td>Ölfilter / Ölkühler</td>
+	</tr>
+	<tr>
+		<td><ol start="9">
+<li></li>
+</ol></td>
+		<td>Gasregelstrecke</td>
+		<td><ol start="14">
+<li></li>
+</ol></td>
+		<td>Umwälzpumpe Sekundärkreislauf</td>
+	</tr>
+	<tr>
+		<td><ol start="10">
+<li></li>
+</ol></td>
+		<td>Gasmischer</td>
+		<td><ol start="15">
+<li></li>
+</ol></td>
+		<td>3-Wegventil Sekundärkreislauf</td>
+	</tr>
+	<tr>
+		<td><ol start="11">
+<li></li>
+</ol></td>
+		<td>Drosselklappe</td>
+		<td><ol start="16">
+<li></li>
+</ol></td>
+		<td>Zündung (nicht gezeichnet)</td>
+	</tr>
+</tbody>
+</table>
 
 ### Gasmotor
 
@@ -471,193 +690,360 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 
 
 #### Technische Daten Motor
-+---------------------------------------------+-------------------------------------+
-| Fabrikat                                    | Motor_Fabrikat
-+---------------------------------------------+-------------------------------------+
-| Typ:                                        | Motor_Typ
-+---------------------------------------------+-------------------------------------+
-| Motorart                                    | Gasmotor
-+---------------------------------------------+-------------------------------------+
-| Arbeitsumlauf                               | Viertakter
-+---------------------------------------------+-------------------------------------+
-| Drehzahl:                                   | Drehzahl
-+---------------------------------------------+-------------------------------------+
-| max. zulässige Umdrehungen                  | 1750 min-1
-+---------------------------------------------+-------------------------------------+
-| Umdrehungssinn                              | rechtsdrehend 
-+---------------------------------------------+-------------------------------------+
-| Hubraum:                                    | Hubraum
-+---------------------------------------------+-------------------------------------+
-| Kolbenhub:                                  | Kolbenhub
-+---------------------------------------------+-------------------------------------+
-| Mittlere Kolbengeschwindigkeit:             | Mittlere_Kolbengeschwindigkeit
-+---------------------------------------------+-------------------------------------+
-| Zylinderbohrung:                            | Zylinderbohrung
-+---------------------------------------------+-------------------------------------+
-| Zylinderzahl:                               | Zylinderzahl
-+---------------------------------------------+-------------------------------------+
-| Zylinderanordnung                           | stehend, einreihige
-+---------------------------------------------+-------------------------------------+
-| Zylinderfüllung                             | atmosphärisch/Ladedruck (T-Modell)
-+---------------------------------------------+-------------------------------------+
-| Steuerung                                   | OHV
-+---------------------------------------------+-------------------------------------+
-| Zündfolge                                   | 
-+---------------------------------------------+-------------------------------------+
-| Vorzündung                                  | 20-24 Grad(Erdgas); 26-32_ (Biogas)
-+---------------------------------------------+-------------------------------------+
-| Verdichtung:                                | Verdichtung
-+---------------------------------------------+-------------------------------------+
-| Gewicht (trocken):                          | Gewicht__trocken_
-+---------------------------------------------+-------------------------------------+
-| Grundbrennstoff                             | Gas
-+---------------------------------------------+-------------------------------------+
-| zugef. Brennstoffleistung :                 | Verbrauch_Leistung
-+---------------------------------------------+-------------------------------------+
-| absoluter Brennstoffverbrauch               |
-+---------------------------------------------+-------------------------------------+
-| Wellenleistung:                             | Wellenleistung
-+---------------------------------------------+-------------------------------------+
-| Drehmoment                                  | 220 Nm bei 1500 min-1 (+- 5%)
-+---------------------------------------------+-------------------------------------+
-| Wirkungsgrad Motor:                         | Wirkungsgrad_Motor
-+---------------------------------------------+-------------------------------------+
-| Kühlungsart                                 | Wasserkühlung mit Überdruck
-+---------------------------------------------+-------------------------------------+
-| Kühlwasserwärme:                            | Kühlwasserwärme
-+---------------------------------------------+-------------------------------------+
-| Abgaswärme nutzbar (120°C):                 | Abgaswärme_nutzbar
-+---------------------------------------------+-------------------------------------+
-| Abgasmassenstrom:                           | Abgasmassenstrom
-+---------------------------------------------+-------------------------------------+
-| Ladeluftkühlung                             | Ladeluftkühlung (L-Modell)
-+---------------------------------------------+-------------------------------------+
-| Verbrennungsluftmenge:                      | Verbrennungsluftmenge
-+---------------------------------------------+-------------------------------------+
-| max. Luft Ansaugtemperatur:                 | max_Luft_Ansaugtemperatur
-+---------------------------------------------+-------------------------------------+
-| relative Luftfeuchtigkeit                   | relative_Luftfeuchtigkeit
-+---------------------------------------------+-------------------------------------+
-| Aufstellungshöhe:                           | Aufstellungshöhe
-+---------------------------------------------+-------------------------------------+
-| Leistungsreduktion bei 500 m.ü. Meereshöhe  | Leistungsreduktion_500_m_üM
-+---------------------------------------------+-------------------------------------+
-| Leistungsreduktion bei 1000 m.ü. Meereshöhe | Leistungsreduktion_1000_m_üM
-+---------------------------------------------+-------------------------------------+
-| Leistungsreduktion bei 1500 m.ü. Meereshöhe | Leistungsreduktion_1500_m_üM
-+---------------------------------------------+-------------------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>Fabrikat</td>
+		<td>Motor_Fabrikat</td>
+	</tr>
+	<tr>
+		<td>Typ:</td>
+		<td>Motor_Typ</td>
+	</tr>
+	<tr>
+		<td>Motorart</td>
+		<td>Gasmotor</td>
+	</tr>
+	<tr>
+		<td>Arbeitsumlauf</td>
+		<td>Viertakter</td>
+	</tr>
+	<tr>
+		<td>Drehzahl:</td>
+		<td>Drehzahl</td>
+	</tr>
+	<tr>
+		<td>max. zulässige Umdrehungen</td>
+		<td>1750 min-1</td>
+	</tr>
+	<tr>
+		<td>Umdrehungssinn</td>
+		<td>rechtsdrehend</td>
+	</tr>
+	<tr>
+		<td>Hubraum:</td>
+		<td>Hubraum</td>
+	</tr>
+	<tr>
+		<td>Kolbenhub:</td>
+		<td>Kolbenhub</td>
+	</tr>
+	<tr>
+		<td>Mittlere Kolbengeschwindigkeit:</td>
+		<td>Mittlere_Kolbengeschwindigkeit</td>
+	</tr>
+	<tr>
+		<td>Zylinderbohrung:</td>
+		<td>Zylinderbohrung</td>
+	</tr>
+	<tr>
+		<td>Zylinderzahl:</td>
+		<td>Zylinderzahl</td>
+	</tr>
+	<tr>
+		<td>Zylinderanordnung</td>
+		<td>stehend, einreihige</td>
+	</tr>
+	<tr>
+		<td>Zylinderfüllung</td>
+		<td>atmosphärisch/Ladedruck (T-Modell)</td>
+	</tr>
+	<tr>
+		<td>Steuerung</td>
+		<td>OHV</td>
+	</tr>
+	<tr>
+		<td>Zündfolge</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Vorzündung</td>
+		<td>20-24 Grad(Erdgas); 26-32_ (Biogas)</td>
+	</tr>
+	<tr>
+		<td>Verdichtung:</td>
+		<td>Verdichtung</td>
+	</tr>
+	<tr>
+		<td>Gewicht (trocken):</td>
+		<td>Gewicht__trocken_</td>
+	</tr>
+	<tr>
+		<td>Grundbrennstoff</td>
+		<td>Gas</td>
+	</tr>
+	<tr>
+		<td>zugef. Brennstoffleistung :</td>
+		<td>Verbrauch_Leistung</td>
+	</tr>
+	<tr>
+		<td>absoluter Brennstoffverbrauch</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Wellenleistung:</td>
+		<td>Wellenleistung</td>
+	</tr>
+	<tr>
+		<td>Drehmoment</td>
+		<td>220 Nm bei 1500 min-1 (+- 5%)</td>
+	</tr>
+	<tr>
+		<td>Wirkungsgrad Motor:</td>
+		<td>Wirkungsgrad_Motor</td>
+	</tr>
+	<tr>
+		<td>Kühlungsart</td>
+		<td>Wasserkühlung mit Überdruck</td>
+	</tr>
+	<tr>
+		<td>Kühlwasserwärme:</td>
+		<td>Kühlwasserwärme</td>
+	</tr>
+	<tr>
+		<td>Abgaswärme nutzbar (120°C):</td>
+		<td>Abgaswärme_nutzbar</td>
+	</tr>
+	<tr>
+		<td>Abgasmassenstrom:</td>
+		<td>Abgasmassenstrom</td>
+	</tr>
+	<tr>
+		<td>Ladeluftkühlung</td>
+		<td>Ladeluftkühlung (L-Modell)</td>
+	</tr>
+	<tr>
+		<td>Verbrennungsluftmenge:</td>
+		<td>Verbrennungsluftmenge</td>
+	</tr>
+	<tr>
+		<td>max. Luft Ansaugtemperatur:</td>
+		<td>max_Luft_Ansaugtemperatur</td>
+	</tr>
+	<tr>
+		<td>relative Luftfeuchtigkeit</td>
+		<td>relative_Luftfeuchtigkeit</td>
+	</tr>
+	<tr>
+		<td>Aufstellungshöhe:</td>
+		<td>Aufstellungshöhe</td>
+	</tr>
+	<tr>
+		<td>Leistungsreduktion bei 500 m.ü. Meereshöhe</td>
+		<td>Leistungsreduktion_500_m_üM</td>
+	</tr>
+	<tr>
+		<td>Leistungsreduktion bei 1000 m.ü. Meereshöhe</td>
+		<td>Leistungsreduktion_1000_m_üM</td>
+	</tr>
+	<tr>
+		<td>Leistungsreduktion bei 1500 m.ü. Meereshöhe</td>
+		<td>Leistungsreduktion_1500_m_üM</td>
+	</tr>
+</tbody>
+</table>
+
 
 Steuerzeiten
 
-+----------------------------------------+--------------------+
-| Einlassventil öffnet                   | 14 Grad  vor O.T.
-+----------------------------------------+--------------------+
-| Einlassventil schliesst                | 36 Grad  nach U.T.
-+----------------------------------------+--------------------+
-| Auslassventil öffnet                   | 45 Grad  vor U.T
-+----------------------------------------+--------------------+
-| Auslassventil schliesst                | 17 Grad  nach O.T.
-+----------------------------------------+--------------------+
-| Ventilspiel kalt                       | 20 Grad bei 3 °C
-+----------------------------------------+--------------------+
-| Saugventil                             | 0.25
-+----------------------------------------+--------------------+
-| Auslassventil                          | 0.25
-+----------------------------------------+--------------------+
-
-
+<table>
+<tbody>
+	<tr>
+		<td>Einlassventil geöffnet</td>
+		<td>14 Grad  vor O.T.</td>
+	</tr>
+	<tr>
+		<td>Einlassventil schliesst</td>
+		<td>36 Grad  nach U.T.</td>
+	</tr>
+	<tr>
+		<td>Auslassventil öffnet</td>
+		<td>45 Grad  vor U.T</td>
+	</tr>
+	<tr>
+		<td>Auslassventil schliesst</td>
+		<td>17 Grad  nach O.T.</td>
+	</tr>
+	<tr>
+		<td>Ventilspiel kalt</td>
+		<td>20 Grad bei 3 °C</td>
+	</tr>
+	<tr>
+		<td>Saugventil</td>
+		<td>0.25</td>
+	</tr>
+	<tr>
+		<td>Auslassventil</td>
+		<td>0.25</td>
+	</tr>
+</tbody>
+</table>
 
 #### Motorschmierung
-+------------------------------+---------------------------------+
-| Ausführung                   | Druckumlauf, durch Zahnradpumpe
-+------------------------------+---------------------------------+
-| Zahnradpumpe                 | einfach, mit Überdruckventil
-+------------------------------+---------------------------------+
-| Ölfilter                     | Volldurchflussfilter  SF
-+------------------------------+---------------------------------+
-| Ölart                        | BLASER BES (teilsynthetisch)
-+------------------------------+---------------------------------+
-| Füllmenge Ölwanne u. Filter: | Füllmenge_Ölwanne_u_Filter
-+------------------------------+---------------------------------+
-| Füllmenge Vorratsbehälter:   | Füllmenge_Vorratsbehälter
-+------------------------------+---------------------------------+
-| Schmierölverbrauch:          | Schmierölverbrauch
-+------------------------------+---------------------------------+
-| min. Öldruck:                | min_Öldruck
-+------------------------------+---------------------------------+
-| Öltemperatur in Betrieb:     | Öltemperatur_in_Betrieb
-+------------------------------+---------------------------------+
-| Ölwechselintervall           | siehe spezifischen Wartungsplan
-+------------------------------+---------------------------------+
 
+<table>
+<tbody>
+	<tr>
+		<td>Ausführung</td>
+		<td>Druckumlauf, durch Zahnradpumpe</td>
+	</tr>
+	<tr>
+		<td>Zahnradpumpe</td>
+		<td>einfach, mit Überdruckventil</td>
+	</tr>
+	<tr>
+		<td>Ölfilter</td>
+		<td>Volldurchflussfilter  SF</td>
+	</tr>
+	<tr>
+		<td>Ölart</td>
+		<td>BLASER BES (teilsynthetisch)</td>
+	</tr>
+	<tr>
+		<td>Füllmenge Ölwanne u. Filter:</td>
+		<td>Füllmenge_Ölwanne_u_Filter</td>
+	</tr>
+	<tr>
+		<td>Füllmenge Vorratsbehälter:</td>
+		<td>Füllmenge_Vorratsbehälter</td>
+	</tr>
+	<tr>
+		<td>Schmierölverbrauch:</td>
+		<td>Schmierölverbrauch</td>
+	</tr>
+	<tr>
+		<td>min. Öldruck:</td>
+		<td>min_Öldruck</td>
+	</tr>
+	<tr>
+		<td>Öltemperatur in Betrieb:</td>
+		<td>Öltemperatur_in_Betrieb</td>
+	</tr>
+	<tr>
+		<td>Ölwechselintervall</td>
+		<td>siehe spezifischen Wartungsplan</td>
+	</tr>
+</tbody>
+</table>
 
 
 #### Motorkühlung
 
 ##### Plattenwärmetauscher
-+---------------------------+-----------------------------------+
-| Funktion                  | Kühlwasser_Wasser_WT_Beschreibung
-+---------------------------+-----------------------------------+
-| Bauart:                   | WT_Bauart
-+---------------------------+-----------------------------------+
-| Wärmeleistung:            | Wärmeleistung
-+---------------------------+-----------------------------------+
-| Temp. primär ein / aus:   | WT_Temp_primär_ein_aus
-+---------------------------+-----------------------------------+
-| Temp. sekundär ein / aus: | WT_Temp_sekundär_ein_aus
-+---------------------------+-----------------------------------+
-| Wassermenge prim./sek.:   | Wassermenge_prim_sek
-+---------------------------+-----------------------------------+
-| Druckverlust prim./sek.:  | Druckverlust_prim_sek
-+---------------------------+-----------------------------------+
 
+<table>
+<tbody>
+	<tr>
+		<td>Funktion</td>
+		<td>Kühlwasser_Wasser_WT_Beschreibung</td>
+	</tr>
+	<tr>
+		<td>Bauart:</td>
+		<td>WT_Bauart</td>
+	</tr>
+	<tr>
+		<td>Wärmeleistung:</td>
+		<td>Wärmeleistung</td>
+	</tr>
+	<tr>
+		<td>Temp. primär ein / aus:</td>
+		<td>WT_Temp_primär_ein_aus</td>
+	</tr>
+	<tr>
+		<td>Temp. sekundär ein / aus:</td>
+		<td>WT_Temp_sekundär_ein_aus</td>
+	</tr>
+	<tr>
+		<td>Wassermenge prim./sek.:</td>
+		<td>Wassermenge_prim_sek</td>
+	</tr>
+	<tr>
+		<td>Druckverlust prim./sek.:</td>
+		<td>Druckverlust_prim_sek</td>
+	</tr>
+</tbody>
+</table>
 ##### Abgaswärmetauscher
-+---------------------------+-----------------------------------+
-| Funktion                  | Kühlwasser_Wasser_WT_Beschreibung
-+---------------------------+-----------------------------------+
-| Bauart:                   | WT_Bauart
-+---------------------------+-----------------------------------+
-| Wärmeleistung:            | Wärmeleistung
-+---------------------------+-----------------------------------+
-| Temp. primär ein / aus:   | WT_Temp_primär_ein_aus
-+---------------------------+-----------------------------------+
-| Temp. sekundär ein / aus: | WT_Temp_sekundär_ein_aus
-+---------------------------+-----------------------------------+
-| Wassermenge prim./sek.:   | Wassermenge_prim_sek
-+---------------------------+-----------------------------------+
-| Druckverlust prim./sek.:  | Druckverlust_prim_sek
-+---------------------------+-----------------------------------+
 
-
+<table>
+<tbody>
+	<tr>
+		<td>Funktion</td>
+		<td>Kühlwasser_Wasser_WT_Beschreibung</td>
+	</tr>
+	<tr>
+		<td>Bauart:</td>
+		<td>WT_Bauart</td>
+	</tr>
+	<tr>
+		<td>Wärmeleistung:</td>
+		<td>Wärmeleistung</td>
+	</tr>
+	<tr>
+		<td>Temp. primär ein / aus:</td>
+		<td>WT_Temp_primär_ein_aus</td>
+	</tr>
+	<tr>
+		<td>Temp. sekundär ein / aus:</td>
+		<td>WT_Temp_sekundär_ein_aus</td>
+	</tr>
+	<tr>
+		<td>Wassermenge prim./sek.:</td>
+		<td>Wassermenge_prim_sek</td>
+	</tr>
+	<tr>
+		<td>Druckverlust prim./sek.:</td>
+		<td>Druckverlust_prim_sek</td>
+	</tr>
+</tbody>
+</table>
 
 #### Zündsystem
 
 Zündanlage_Beschreibung
 
-+-----------------+--------------------------------------+
-|Zündanlage       | Zündanlage_Typ
-+-----------------+--------------------------------------+
-|Zündkerzen Typ   | Zündkerzen_Typ
-+-----------------+--------------------------------------+
-|Anzahl Zündkerzen| Zündkerzen_Anzahl
-+-----------------+--------------------------------------+
-|Elektrodenabstand| 0,4 - 0,1 mm                         |
-+-----------------+--------------------------------------+
-
-
+<table>
+<tbody>
+	<tr>
+		<td>Zündanlage</td>
+		<td>Zündanlage_Typ</td>
+	</tr>
+	<tr>
+		<td>Zündkerzen Typ</td>
+		<td>Zündkerzen_Typ</td>
+	</tr>
+	<tr>
+		<td>Anzahl Zündkerzen</td>
+		<td>Zündkerzen_Anzahl</td>
+	</tr>
+	<tr>
+		<td>Elektrodenabstand</td>
+		<td>0,4 - 0,1 mm</td>
+	</tr>
+</tbody>
+</table>
 
 #### Brennstoffsystem
 
-+-----------------+--------------------------------------+
-| Vermischungsart | Niederdruck, am Rohrleitungseintritt |
-+-----------------+--------------------------------------+
-| Mischungsart    | stöchiometrisches Gemisch            |
-+-----------------+--------------------------------------+
-| Bio- Klärgas    | (Lambda = 1)                         |
-+-----------------+--------------------------------------+
 
+<table>
+<tbody>
+	<tr>
+		<td>Vermischungsart</td>
+		<td>Niederdruck, am Rohrleitungseintritt</td>
+	</tr>
+	<tr>
+		<td>Mischungsart</td>
+		<td>stöchiometrisches Gemisch</td>
+	</tr>
+	<tr>
+		<td>Bio- Klärgas</td>
+		<td>(Lambda = 1)</td>
+	</tr>
+</tbody>
+</table>
 
- 
 ### Synchrongenerator
 
 * Der verwendete Generator ist ein einfach gelagerter, luftgekühlter Synchrongenerator.
@@ -682,39 +1068,75 @@ Die Drehzahl ist durch die Polzahl gegeben und ihre Abweichung von den Synchronu
 Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte Strom ins Netz abgegeben.
 
 #### Technische Daten
-+-------------------------+--------------------------+
-| Generator synchron      | Generator_Typ
-+-------------------------+--------------------------+
-| Fabrikat:               | Generator_Fabrikat
-+-------------------------+--------------------------+
-| Typ:                    | Generator_Typ
-+-------------------------+--------------------------+
-| max. Scheinleistung:    | max_Scheinleistung
-+-------------------------+--------------------------+
-| Nennleistung:           | Nennleistung
-+-------------------------+--------------------------+
-| Spannung:               | Spannung
-+-------------------------+--------------------------+
-| Frequenz:               | Frequenz
-+-------------------------+--------------------------+
-| Nennstrom bei cos 1:    | Nennstrom_bei_cos_j_1
-+-------------------------+--------------------------+
-| Wirkungsgrad bei cos 1: | Wirkungsgrad_bei_cos_j_1
-+-------------------------+--------------------------+
-| Drehzahl:               | Nenndrehzahl
-+-------------------------+--------------------------+
-| Durchbrennzahl:         | Durchbrennzahl
-+-------------------------+--------------------------+
-| Gewicht:                | Generator_Gewicht
-+-------------------------+--------------------------+
-| Zulassung:              | Zulassung
-+-------------------------+--------------------------+
-| Schutzart:              | Schutzart
-+-------------------------+--------------------------+
-| Isolationsklasse:       | Isolationsklasse
-+-------------------------+--------------------------+
-| Bauart:                 | Bauart
-+-------------------------+--------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>Generator synchron</tdh>
+		<td>Generator_Typ</td>
+	</tr>
+	<tr>
+		<td>Fabrikat:</td>
+		<td>Generator_Fabrikat</td>
+	</tr>
+	<tr>
+		<td>Typ:</td>
+		<td>Generator_Typ</td>
+	</tr>
+	<tr>
+		<td>max. Scheinleistung:</td>
+		<td>max_Scheinleistung</td>
+	</tr>
+	<tr>
+		<td>Nennleistung:</td>
+		<td>Nennleistung</td>
+	</tr>
+	<tr>
+		<td>Spannung:</td>
+		<td>Spannung</td>
+	</tr>
+	<tr>
+		<td>Frequenz:</td>
+		<td>Frequenz</td>
+	</tr>
+	<tr>
+		<td>Nennstrom bei cos 1:</td>
+		<td>Nennstrom_bei_cos_j_1</td>
+	</tr>
+	<tr>
+		<td>Wirkungsgrad bei cos 1:</td>
+		<td>Wirkungsgrad_bei_cos_j_1</td>
+	</tr>
+	<tr>
+		<td>Drehzahl:</td>
+		<td>Nenndrehzahl</td>
+	</tr>
+	<tr>
+		<td>Durchbrennzahl:</td>
+		<td>Durchbrennzahl</td>
+	</tr>
+	<tr>
+		<td>Gewicht:</td>
+		<td>Generator_Gewicht</td>
+	</tr>
+	<tr>
+		<td>Zulassung:</td>
+		<td>Zulassung</td>
+	</tr>
+	<tr>
+		<td>Schutzart:</td>
+		<td>Schutzart</td>
+	</tr>
+	<tr>
+		<td>Isolationsklasse:</td>
+		<td>Isolationsklasse</td>
+	</tr>
+	<tr>
+		<td>Bauart:</td>
+		<td>Bauart</td>
+	</tr>
+</tbody>
+</table>
 
 ### Primärkreislauf
 
@@ -727,11 +1149,36 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 </div>
 
 Legende :	
-	1	Gasmotor				5	Sicherheits-Überdruckventil
-	2	Plattenwärmetauscher	6	Temperaturfühler
-	3	Umwälzpumpe				7	Ölkühler
-	4	Ausgleichsgefäss (Expansion)
-	
+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Gasmotor</td>
+		<td>5</td>
+		<td>Sicherheits-Überdruckventil</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Plattenwärmetauscher</td>
+		<td>6</td>
+		<td>Temperaturfühler</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Umwälzpumpe</td>
+		<td>7</td>
+		<td>Ölkühler</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Ausgleichsgefäss (Expansion)</td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
+
 #### Beschreibung des Primärkreislaufes
 
 Im Primärkreislauf zirkuliert die Kühlflüssigkeit (siehe 7.3.4) mittels separater Umwälzpumpe und durchströmt mit konstanter Wassermenge den Motor sowie Plattenwärmetauscher. Dort wird die thermische Energie aus dem Motor an den Sekundärkreislauf übertragen.
@@ -801,17 +1248,41 @@ Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwä
 
 Legende :
 
-+---+---------------------------+----+---------------------------+
-| 1 | Generator luftgekühlt     | 6  | Strangregulierventil      |
-+---+---------------------------+----+---------------------------+
-| 2 | Plattenwärmetauscher      | 7  | Sicherheitsventil 3 bar   |
-+---+---------------------------+----+---------------------------+
-| 3 | Abgaswärmetauscher        | 8  | Temperaturfühler Rücklauf |
-+---+---------------------------+----+---------------------------+
-| 4 | Umwälzpumpe sekundär      | 9  | Rücklauf BHKW             |
-+---+---------------------------+----+---------------------------+
-| 5 | Dreiwegventil Hochhaltung | 10 | Vorlauf BHKW              |
-+---+---------------------------+----+---------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Generator luftgekühlt</td>
+		<td>6</td>
+		<td>Strangregulierventil</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Plattenwärmetauscher</td>
+		<td>7</td>
+		<td>Sicherheitsventil 3 bar</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Abgaswärmetauscher</td>
+		<td>8</td>
+		<td>Temperaturfühler Rücklauf</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Umwälzpumpe sekundär</td>
+		<td>9</td>
+		<td>Rücklauf BHKW</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Dreiwegventil Hochhaltung</td>
+		<td>10</td>
+		<td>Vorlauf BHKW</td>
+	</tr>
+</tbody>
+</table>
 
 #### Beschreibung des Sekundärkreislaufes
 
@@ -862,18 +1333,42 @@ Siehe *Störungen im Primärkreislauf*.
 </div>
 
 Legende :
-+---+-------------------------------------+---+---------------------------------+
-| 1 | Luftfilter                          | 6 | Gasfilter                       |
-+---+-------------------------------------+---+---------------------------------+
-| 2 | Venturimischer                      | 7 | flexibler Ganzmetallgasschlauch |
-+---+-------------------------------------+---+---------------------------------+
-| 3 | Drosselklappe                       | 8 | Gasmultiblock mit Druckwächter  |
-+---+-------------------------------------+---+---------------------------------+
-| 4 | Schrittmotor Lambdaregelung         | 9 | Lambdasonde                     |
-|   | und integriertem Gasnulldruckregler |   |                                 |
-+---+-------------------------------------+---+---------------------------------+
-| 5 | Gaskugelhahn                        |   |                                 |
-+---+-------------------------------------+---+---------------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Luftfilter</td>
+		<td>6</td>
+		<td>Gasfilter</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Venturimischer</td>
+		<td>7</td>
+		<td>flexibler Ganzmetallgasschlauch</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Drosselklappe</td>
+		<td>8</td>
+		<td>Gasmultiblock mit Druckwächter</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Schrittmotor Lambdaregelung<br>und integriertem Gasnulldruckregler</td>
+		<td>9</td>
+		<td>Lambdasonde</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Gaskugelhahn</td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
+
 
 #### Gasregelstrecke
 Ein Gaskugelhahn zur manuellen Absperrung der Gaszufuhr bildet den Anfang der Gasregelstrecke. Um zu verhindern, dass Festpartikel in den Motor gelangen, wird ein Gasfilter vor die Gasstrasse montiert. 
@@ -947,13 +1442,30 @@ Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 </div>
 
 Legende:
-+---+---------------+---+---------------------+
-| 1 | Drosselklappe | 4 | Steuersystem IS-GAS |
-+---+---------------+---+---------------------+
-| 2 | Stellmotor    | 5 | Steuerschrank       |
-+---+---------------+---+---------------------+
-| 3 | Kabelzug      |   |                     |
-+---+---------------+---+---------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Drosselklappe</td>
+		<td>4</td>
+		<td>Steuersystem IS-GAS</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Stellmotor</td>
+		<td>5</td>
+		<td>Steuerschrank</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Kabelzug</td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
+
 
 #### Funktionsbeschreibung der Leistungsregulierung
 
@@ -983,15 +1495,34 @@ Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach 
 
 Legende :
 
-+---+--------------------+---+-----------------------------+
-| 1 | Abgaswärmetauscher | 5 | Thermoelement vor Abgas-WT  |
-+---+--------------------+---+-----------------------------+
-| 2 | Schalldämpfer      | 6 | Thermoelement nach Abgas-WT |
-+---+--------------------+---+-----------------------------+
-| 3 | Katalysator        | 7 | Kompensator                 |
-+---+--------------------+---+-----------------------------+
-| 4 | Lambdasonde        | 8 | Kompensator                 |
-+---+--------------------+---+-----------------------------+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Abgasw&#228;rmetauscher</td>
+		<td>5</td>
+		<td>Thermoelement vor Abgas-WT</th>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Schalldämpfer</td>
+		<td>6</td>
+		<td>Thermoelement nach Abgas-WT</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Katalysator</td>
+		<td>7</td>
+		<td>Kompensator</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Lambdasonde</td>
+		<td>8</td>
+		<td>Kompensator</td>
+	</tr>
+</tbody>
+</table>
 
 #### Beschreibung der Abgassystems
 
@@ -1009,20 +1540,40 @@ Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Ab
  
 #### Eigenschaften der Abgase
 
-+--------------------------------------------------+-----------+---------------+---------+
-|                                                  | Erdgas    | Klär-, Biogas | Column3 |
-+==================================================+===========+===============+=========+
-| Abgastemperatur am Austrittsflansch              | 110 - 130 | 130 - 160     | °C      |
-+--------------------------------------------------+-----------+---------------+---------+
-| Abgaswärmeleistung                               | 21        | 16            | kW      |
-+--------------------------------------------------+-----------+---------------+---------+
-| Abgasmassenstrom                                 | 129       | 149           | kg/h    |
-+--------------------------------------------------+-----------+---------------+---------+
-| Abgasvolumenstrom bei 120 °C                     | 151       | 178           | m3/h    |
-+--------------------------------------------------+-----------+---------------+---------+
-| Abgasgeschwindigkeit am Austrittsflansch (120°C) | 21        | 25            | m/s     |
-+--------------------------------------------------+-----------+---------------+---------+
-
+<table>
+<tbody>
+	<tr>
+		<td></td>
+		<td>Klär-, Biogas</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Abgastemperatur am Austrittsflansch</td>
+		<td>Abgastemperatur</td>
+		<td>°C</td>
+	</tr>
+	<tr>
+		<td>Abgaswärmeleistung</td>
+		<td>Abgaswärme_nutzbar</td>
+		<td>kW</td>
+	</tr>
+	<tr>
+		<td>Abgasmassenstrom</td>
+		<td>Abgasmassenstrom</td>
+		<td>kg/h</td>
+	</tr>
+	<tr>
+		<td>Abgasvolumenstrom bei 120 °C</td>
+		<td>178</td>
+		<td>m3/h</td>
+	</tr>
+	<tr>
+		<td>Abgasgeschwindigkeit am Austrittsflansch (120°C)</td>
+		<td>25</td>
+		<td>m/s</td>
+	</tr>
+</tbody>
+</table>
 
 Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
@@ -1108,15 +1659,29 @@ Das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir ausgestattet
 
 Legende :
 
-+---+--------------------------+---+---------------+
-| 1 | zusätzliches Ölreservoir | 4 | Öldrucksensor |
-+---+--------------------------+---+---------------+
-| 2 | Ölwanne Motor            | 5 | Ölablasshahn  |
-+---+--------------------------+---+---------------+
-| 3 | Niveauschalter Reservoir |   |               |
-+---+--------------------------+---+---------------+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>zusätzliches Ölreservoir</td>
+		<td>4</td>
+		<td>Öldrucksensor</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Ölwanne Motor</td>
+		<td>5</td>
+		<td>Ölablasshahn</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Niveauschalter Reservoir</td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
 
-	
 #### Funktionsbeschrieb des Ölsystems
 Um die Schmierölkapazität der BHKW_Typ und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
 
@@ -1150,15 +1715,17 @@ Es ist nicht erlaubt bei sichtbaren Ölleckagen die BHKW-Anlage weiter zu be-tre
 
 Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
 
- 
 ### Zündanlage
 Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches im Gasmotor-Verbrennungsraum mittels eines Funkensprungs bei den Zündkerzen.
 
-
-+--------------------+----------------+
-| Typ der Zündanlage | Zündanlage_Typ |
-+--------------------+----------------+
-
+<table>
+<tbody>
+	<tr>
+		<td>Typ der Zündanlage</td>
+		<td>Zündanlage_Typ</td>
+	</tr>
+</tbody>
+</table>
 
 #### Komponenten der Zündanlage
 
@@ -1168,15 +1735,36 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 
 Legende :	
 
-+---+--------------------------+---+------------+
-| 1 | Einspeisung von Batterie | 5 | Zündspulen |
-+---+--------------------------+---+------------+
-| 2 | elektronische Zündbox    | 6 | Zündkerzen |
-+---+--------------------------+---+------------+
-| 3 | Hallgeber                | 7 | Zündkabel  |
-+---+--------------------------+---+------------+
-| 4 | Pick-Up induktiv         |   |            |
-+---+--------------------------+---+------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Einspeisung von Batterie</td>
+		<td>5</td>
+		<td>Zündspulen</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>elektronische Zündbox</td>
+		<td>6</td>
+		<td>Zündkerzen</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Hallgeber</td>
+		<td>7</td>
+		<td>Zündkabel</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Pick-Up induktiv</td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
+
 
  
 #### Funktionsbeschrieb der Zündanlage
@@ -1190,13 +1778,45 @@ Die Austrittsignale (Zündimpulse auf die einzelnen Zündspulen) werden wie folg
 Die Zündkerze zündet zwischen 90° - 180° nach Signalende des Pick-Up ab Kurbelwelle. Der Winkel um den die Zündung verschoben ist, wird gegeben durch 90° + N x 0.703°
 Dabei ergibt sich N (Vorzündung) aus der Position der DIP-Schalter Nr. 1-7 (Summe aller Werte, welche gemäss nachfolgender Tabelle in ON Position stehen).
 
-+-----+---+---+---+---+----+----+----+---+
-| DIP | 1 | 2 | 3 | 4 | 5  | 6  | 7  | 8 |
-+=====+===+===+===+===+====+====+====+===+
-| ON  | 1 | 2 | 4 | 8 | 16 | 32 | 64 |   |
-+-----+---+---+---+---+----+----+----+---+
-| OFF | 0 | 0 | 0 | 0 | 0  | 0  | 0  |   |
-+-----+---+---+---+---+----+----+----+---+
+
+<table>
+<tbody>
+	<tr>
+		<th>DIP</th>
+		<th>1</th>
+		<th>2</th>
+		<th>3</th>
+		<th>4</th>
+		<th>5</th>
+		<th>6</th>
+		<th>7</th>
+		<th>8</th>
+	</tr>
+	<tr>
+		<td>ON</td>
+		<td>1</td>
+		<td>2</td>
+		<td>4</td>
+		<td>8</td>
+		<td>16</td>
+		<td>32</td>
+		<td>64</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>OFF</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
+
 
 
 RESET-Signal und DIP-Schalter Nr. 8 definieren die Zündkerze, welche nach Ablauf des Pick-Up Signals ab Kurbelwelle gezündet wird. 
@@ -1240,26 +1860,84 @@ Biogase entstehen während dem Faulprozess von organischen Stoffen. Die damit ge
 Der Brenn- respektive Heizwert von Biogasen variiert stark, abhängig vom vorhandenen Faulgut und Faulprozess. Auch weisen Biogase oft Verunreinigungen auf, die für den Motor sehr schäd-lich sind. Deshalb müssen für Faulgase, wie sie auch genannt werden, Mindestanforderungen definiert werden.
 
 ##### Physikalische Eigenschaften
-+---------------------+-------+--------+----------------------+----------+-------+
-| min. Heizwert Hu    | 6     | kWh/m3 | Dichte               | 1.1-1.37 | kg/m3 |
-+---------------------+-------+--------+----------------------+----------+-------+
-| zul. Schwankung Hu  | +/- 5 | %      | min. Gasdruck        | 25       | mbar  |
-+---------------------+-------+--------+----------------------+----------+-------+
-| min. Methangeh. CH4 | > 60  | Vol.-% | zul. Druckschwankung | +/- 3    | mbar  |
-+---------------------+-------+--------+----------------------+----------+-------+
-| min. Methanzahl MZ  | 80    | -      |                      |          |       |
-+---------------------+-------+--------+----------------------+----------+-------+
+
+<table>
+<tbody>
+	<tr>
+		<th>min. Heizwert Hu</td>
+		<td>6</td>
+		<td>kWh/m3</td>
+		<td>Dichte</td>
+		<td>1.1-1.37</td>
+		<td>kg/m3</td>
+	</tr>
+	<tr>
+		<td>zul. Schwankung Hu</td>
+		<td>+/- 5</td>
+		<td>%</td>
+		<td>min. Gasdruck</td>
+		<td>25</td>
+		<td>mbar</td>
+	</tr>
+	<tr>
+		<td>min. Methangeh. CH4</td>
+		<td>60</td>
+		<td>Vol.-%</td>
+		<td>zul. Druckschwankung</td>
+		<td>+/- 3</td>
+		<td>mbar</td>
+	</tr>
+	<tr>
+		<td>min. Methanzahl MZ</td>
+		<td>80</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
+
 
 ##### maximal zulässige Bedingungen und Verunreinigungen
-+---------------------+-----+-----+--------------------+----+-----+
-| max. Temperatur     | 40  | °C  | max. Cl-Gehalt     | 50 | ppm |
-+---------------------+-----+-----+--------------------+----+-----+
-| max. rel. Feuchte   | 80  | %   | max. F-Gehalt      | 25 | ppm |
-+---------------------+-----+-----+--------------------+----+-----+
-| Kondensat           | 0   |     | max. Cl+F-Gehalt   | 50 | ppm |
-+---------------------+-----+-----+--------------------+----+-----+
-| max. S-Gehalt (H2S) | 300 | ppm | max. NH3-Gehalt    | 20 | ppm |
-+---------------------+-----+-----+--------------------+----+-----+
+
+<table>
+<tbody>
+	<tr>
+		<td>max. Temperatur</td>
+		<td>40</td>
+		<td>°C</td>
+		<td>max. Cl-Gehalt</td>
+		<td>50</td>
+		<td>ppm</td>
+	</tr>
+	<tr>
+		<td>max. rel. Feuchte</td>
+		<td>80</td>
+		<td>%</td>
+		<td>max. F-Gehalt</td>
+		<td>25</td>
+		<td>ppm</td>
+	</tr>
+	<tr>
+		<td>Kondensat</td>
+		<td>0</td>
+		<td></td>
+		<td>max. Cl+F-Gehalt</td>
+		<td>50</td>
+		<td>ppm</td>
+	</tr>
+	<tr>
+		<td>max. S-Gehalt (H2S)</td>
+		<td>300</td>
+		<td>ppm</td>
+		<td>max. NH3-Gehalt</td>
+		<td>20</td>
+		<td>ppm</td>
+	</tr>
+</tbody>
+</table>
+
 
 ##### Bemerkungen
 Während den letzten Jahren werden Siloxane (eine Verbindung von Silizium und Sauerstoff) weit verbreitet in Waschmitteln und modernen Kosmetika eingesetzt. Über diese Produkte ge-langen die Siloxane ins Abwasser, in den Klärschlamm und schlussendlich ins Klärgas.
@@ -1271,15 +1949,43 @@ Um bei Bedarf diesem Problem entgegenzutreten, empfehlen wir das Klärgas vor Ei
 Das in der Schweiz angebotene Erdgas erreicht uns über Versorgungsleitungen aus Holland, der Nordsee, Deutschland, Frankreich, Italien und den GUS. Je nach Herkunft hat das Gas ver-schiedene Zusammensetzungen, was sich vor allem auf den Heizwert auswirkt. Den effektiven Brennwert Ho respektive Heizwert Hu muss bei der lokalen Gasversorgung nachgefragt werden. In unserer Dokumentation wird mit einem Gas-Heizwert Hu = 9.3 kWh/m3 (Ho = 10.3 kWh/m3) gerechnet, was dem Holland-Gas entspricht.
 
 ##### Physikalische Eigenschaften
-+--------------------+-------+--------+----------------+------+-------+
-| Brennwert Ho       | 10.3  | kWh/m3 | Methanzahl MZ  | 86   | -     |
-+--------------------+-------+--------+----------------+------+-------+
-| Heizwert Hu        | 9.3   | kWh/m3 | Dichte         | 0.83 | kg/m3 |
-+--------------------+-------+--------+----------------+------+-------+
-| Methangehalt CH4   | 83.57 | Vol.-% | Zündtemperatur | 640  | °C    |
-+--------------------+-------+--------+----------------+------+-------+
-| min. Methanzahl MZ | 80    | -      |                |      |       |
-+--------------------+-------+--------+----------------+------+-------+
+
+<table>
+<tbody>
+	<tr>
+		<td>Brennwert Ho</td>
+		<td>10.3</td>
+		<td>kWh/m3</td>
+		<td>Metdanzahl MZ</td>
+		<td>86</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>Heizwert Hu</td>
+		<td>9.3</td>
+		<td>kWh/m3</td>
+		<td>Dichte</td>
+		<td>0.83</td>
+		<td>kg/m3</td>
+	</tr>
+	<tr>
+		<td>Methangehalt CH4</td>
+		<td>83.57</td>
+		<td>Vol.-%</td>
+		<td>Zündtemperatur</td>
+		<td>640</td>
+		<td>°C</td>
+	</tr>
+	<tr>
+		<td>min. Methanzahl MZ</td>
+		<td>80</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
 
 ##### Bemerkungen
 Manche Gaswerke mischen zur Spitzenabdeckung ein Propan/Luft-Gemisch dem Erdgasnetz bei. Dadurch verringert sich die Methanzahl (vergleichbar mit der Oktanzahl bei Benzinmotoren), was sich negativ auf die motorische Verbrennung auswirkt und zu Motorenschäden führen kann. Diesbezüglich sind Informationen beim örtlichen Gaswerk einzuholen.
@@ -1290,13 +1996,36 @@ Propan und Butan sind leichte Kohlenwasserstoffe, die bei der Verarbeitung von E
 Im Vergleich zum Erdgas, lässt sich Propan in relativ leichten, dünnwandigen Behältern transportieren und aufbewahren (erdverlegte oder oberirdische Tanks). Daher kommt Propan in den Gebieten zum Einsatz, welche nicht durch das Erdgasnetz erschlossen sind.
 
 ##### Physikalische Eigenschaften
-+-------------------+--------+--------+----------------+------+-------+
-| Brennwert Ho      | 28.30  | kWh/m3 | Methanzahl MZ  | 35   | -     |
-+-------------------+--------+--------+----------------+------+-------+
-| Heizwert Hu       | 25.88  | kWh/m3 | Dichte n      | 2.01 | kg/m3 |
-+-------------------+--------+--------+----------------+------+-------+
-| Propangehalt C3H8 | 100.00 | Vol.-% | Zündtemperatur | 510  | °C    |
-+-------------------+--------+--------+----------------+------+-------+
+
+<table>
+<tbody>
+	<tr>
+		<td>Brennwert Ho</td>
+		<td>28.30</td>
+		<td>kWh/m3</td>
+		<td>Methanzahl MZ</td>
+		<td>35</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>Heizwert Hu</td>
+		<td>25.88</td>
+		<td>kWh/m3</td>
+		<td>Dichte n</td>
+		<td>2.01</td>
+		<td>kg/m3</td>
+	</tr>
+	<tr>
+		<td>Propangehalt C3H8</td>
+		<td>100.00</td>
+		<td>Vol.-%</td>
+		<td>Zündtemperatur</td>
+		<td>510</td>
+		<td>°C</td>
+	</tr>
+</tbody>
+</table>
+
 
 ### Motorkühlflüssigkeit
 
@@ -1305,17 +2034,32 @@ Ziel und Zweck dieser Mindestanforderungen ist es, Steinbildung (Kalkablagerunge
 Aufgrund der relativ kleinen Wassermenge beschränken sich die Probleme bezüglich Kühlmittelflüssigkeit mehrheitlich auf Schlammablagerungen und Korrosion. Letztere entsteht durch unterschiedliche Spannungspotentials aufgrund von unterschiedlichen Materialien im Primärkreislauf. Diese sogenannte Spannungskorrosion kann verhindert werden, wenn der Flüssigkeit die elektrolytischen Eigenschaften entzogen werden. Dies erfolgt durch die Mischung von destilliertem Wasser und Frostschutz.
 
 ##### Physikalische Eigenschaften
-+-----------------+---------------+
-| Basis           | Ethylenglykol |
-+-----------------+---------------+
-| Hersteller      | BLASER AG     |
-+-----------------+---------------+
-| Typ             | HAVOLINE XLC  |
-+-----------------+---------------+
-| Farbe           | lila          |
-+-----------------+---------------+
-| Mischverhältnis | 40            |
-+-----------------+---------------+
+
+<table>
+<tbody>
+	<tr>
+		<th>Basis</td>
+		<td>Ethylenglykol</td>
+	</tr>
+	<tr>
+		<td>Hersteller</td>
+		<td>BLASER AG</td>
+	</tr>
+	<tr>
+		<td>Typ</td>
+		<td>HAVOLINE XLC</td>
+	</tr>
+	<tr>
+		<td>Farbe</td>
+		<td>lila</td>
+	</tr>
+	<tr>
+		<td>Mischverhältnis</td>
+		<td>40</td>
+	</tr>
+</tbody>
+</table>
+
 
 ##### Bemerkungen
 Der Frostschutzzusatz muss den allgemeinen Anforderungen gemäss ASTM D3306/D4656/D4985 entsprechen.
@@ -1330,34 +2074,64 @@ Die nachfolgenden Mindestanforderungen lehnen sich an die Richtlinie 97-1 des SW
 Blockheizkraftwerke sind mit diversen Platten- und Rohrbündelwärmetauschern ausgestattet. Diese sind empfindlich auf die oben beschriebenen Verunreinigungen. Insbesondere Kalk- und Schlammablagerungen beeinträchtigen die Wärmeübertragung massiv und sind daher hauptverantwortlich für thermische Probleme.
 
 ##### Physikalische Eigenschaften
-+--------------------------+-----------------------------------------------+
-| allgemeine Anforderungen | farblos, klar und frei von ungelösten Stoffen |
-+--------------------------+-----------------------------------------------+
-| Gesamthärte GH           | 0.8-1.0                                       |
-+--------------------------+-----------------------------------------------+
-| Leitfähigkeit LH         | <500                                          |
-+--------------------------+-----------------------------------------------+
-| pH-Wert                  | 8.3-9.5                                       |
-+--------------------------+-----------------------------------------------+
-| Chloride CL-             | <20                                           |
-+--------------------------+-----------------------------------------------+
-| Sulfate SO42-            | <50                                           |
-+--------------------------+-----------------------------------------------+
-| Sauerstoff               | <0.02                                         |
-+--------------------------+-----------------------------------------------+
 
- 
+<table>
+<tbody>
+	<tr>
+		<td>allgemeine Anforderungen</td>
+		<td>farblos, klar und frei von ungelö;sten Stoffen</td>
+	</tr>
+	<tr>
+		<td>Gesamthärte GH</td>
+		<td>0.8-1.0</td>
+	</tr>
+	<tr>
+		<td>Leitfähigkeit LH</td>
+		<td><500</td>
+	</tr>
+	<tr>
+		<td>pH-Wert</td>
+		<td>8.3-9.5</td>
+	</tr>
+	<tr>
+		<td>Chloride CL-</td>
+		<td><20</td>
+	</tr>
+	<tr>
+		<td>Sulfate SO42-</td>
+		<td><50</td>
+	</tr>
+	<tr>
+		<td>Sauerstoff</td>
+		<td><0.02</td>
+	</tr>
+</tbody>
+</table>
+
 ### Schmieröl
 
 Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motorstandzeiten. Folgende Motorenöle können für das BHKW_Typ eingesetzt werden:
 
-+------------+-----------------------------+----------------------------+
-| Hersteller | Erd- Flüssiggas             | Bio- Klärgas               |
-+------------+-----------------------------+----------------------------+
-| Blaser AG  | BES-spezial                 | BES -spezial               |
-+------------+-----------------------------+----------------------------+
-| MOBIL      | Pegasus 1 (vollsynthetisch) | Pegasus 1 (vollsynthetisch |
-+------------+-----------------------------+----------------------------+
+<table>
+<tbody>
+	<tr>
+		<td>Hersteller</td>
+		<td>Erd- Flüssiggas</td>
+		<td>Bio- / Klärgas</td>
+	</tr>
+	<tr>
+		<td>Blaser AG</td>
+		<td>BES-spezial</td>
+		<td>BES -spezial</td>
+	</tr>
+	<tr>
+		<td>MOBIL</td>
+		<td>Pegasus 1 (vollsynthetisch)</td>
+		<td>Pegasus 1 (vollsynthetisch</td>
+	</tr>
+</tbody>
+</table>
+
 
 ## Einspeisung der elektrischen Energie
 
@@ -1639,65 +2413,127 @@ Mit den PFEIL-Tasten können die einzelnen Eintragungen angewählt werden.
 
 Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 
-+---------+-----------------------------------------+
-| Column0 | Nummer der Eintragung                   |
-+=========+=========================================+
-| Grund   | Beschreibung des Ereignis-ses           |
-+---------+-----------------------------------------+
-| Zeit    | Uhrzeit des Ereignisses                 |
-+---------+-----------------------------------------+
-| Datum   | Datum des Ereignisses                   |
-+---------+-----------------------------------------+
-| TWp     | Wassertemperatur primär                 |
-+---------+-----------------------------------------+
-| TWs     | Wassertemperatur sekundär               |
-+---------+-----------------------------------------+
-| TAbg    | Abgastemperatur nach Ab-gas-WT          |
-+---------+-----------------------------------------+
-| LS      | Lambdaspannung                          |
-+---------+-----------------------------------------+
-| Tkop    | Abgastemperatur vor Abgas-WT            |
-+---------+-----------------------------------------+
-| Netz    | Netzmessung (Spannungen, Frequenz)      |
-+---------+-----------------------------------------+
-| Sm      | diverse digitale Zustände               |
-+---------+-----------------------------------------+
-| Lst     | elektrische Leistung                    |
-+---------+-----------------------------------------+
-| Cos     | Cos-Phi                                 |
-+---------+-----------------------------------------+
-| Char    | Cos-Phi Regelung (L-R-C) Charakteristik |
-+---------+-----------------------------------------+
-| Dr      |                                         |
-+---------+-----------------------------------------+
-| FrG     | Frequenz Generator                      |
-+---------+-----------------------------------------+
-| Ug1     | Spannung Phase 1 Genera-tor             |
-+---------+-----------------------------------------+
-| Ug2     | Spannung Phase 2 Genera-tor             |
-+---------+-----------------------------------------+
-| Ug3     | Spannung Phase 3 Genera-tor             |
-+---------+-----------------------------------------+
-| Un1     | Spannung Phase 1 Netz                   |
-+---------+-----------------------------------------+
-| Un2     | Spannung Phase 2 Netz                   |
-+---------+-----------------------------------------+
-| Un3     | Spannung Phase 3 Netz                   |
-+---------+-----------------------------------------+
-| Ig1     | Strom Phase 1 Generator                 |
-+---------+-----------------------------------------+
-| Ig2     | Strom Phase 2 Generator                 |
-+---------+-----------------------------------------+
-| Ig3     | Strom Phase 3 Generator                 |
-+---------+-----------------------------------------+
-| Eins    | Speisung Steuerung (12VDC)              |
-+---------+-----------------------------------------+
-| Pol     |                                         |
-+---------+-----------------------------------------+
-| LO1     |                                         |
-+---------+-----------------------------------------+
-| LWa     |                                         |
-+---------+-----------------------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>Bezeichung</td>
+		<td>Beschreibung der Eintragung</td>
+	</tr>
+	<tr>
+		<td>Grund</td>
+		<td>Beschreibung des Ereignis-ses</td>
+	</tr>
+	<tr>
+		<td>Zeit</td>
+		<td>Uhrzeit des Ereignisses</td>
+	</tr>
+	<tr>
+		<td>Datum</td>
+		<td>Datum des Ereignisses</td>
+	</tr>
+	<tr>
+		<td>TWp</td>
+		<td>Wassertemperatur primär</td>
+	</tr>
+	<tr>
+		<td>TWs</td>
+		<td>Wassertemperatur sekundär</td>
+	</tr>
+	<tr>
+		<td>TAbg</td>
+		<td>Abgastemperatur nach Ab-gas-WT</td>
+	</tr>
+	<tr>
+		<td>LS</td>
+		<td>Lambdaspannung</td>
+	</tr>
+	<tr>
+		<td>Tkop</td>
+		<td>Abgastemperatur vor Abgas-WT</td>
+	</tr>
+	<tr>
+		<td>Netz</td>
+		<td>Netzmessung (Spannungen, Frequenz)</td>
+	</tr>
+	<tr>
+		<td>Sm</td>
+		<td>diverse digitale Zustände</td>
+	</tr>
+	<tr>
+		<td>Lst</td>
+		<td>elektrische Leistung</td>
+	</tr>
+	<tr>
+		<td>Cos</td>
+		<td>Cos-Phi</td>
+	</tr>
+	<tr>
+		<td>Char</td>
+		<td>Cos-Phi Regelung (L-R-C) Charakteristik</td>
+	</tr>
+	<tr>
+		<td>Dr</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>FrG</td>
+		<td>Frequenz Generator</td>
+	</tr>
+	<tr>
+		<td>Ug1</td>
+		<td>Spannung Phase 1 Genera-tor</td>
+	</tr>
+	<tr>
+		<td>Ug2</td>
+		<td>Spannung Phase 2 Genera-tor</td>
+	</tr>
+	<tr>
+		<td>Ug3</td>
+		<td>Spannung Phase 3 Genera-tor</td>
+	</tr>
+	<tr>
+		<td>Un1</td>
+		<td>Spannung Phase 1 Netz</td>
+	</tr>
+	<tr>
+		<td>Un2</td>
+		<td>Spannung Phase 2 Netz</td>
+	</tr>
+	<tr>
+		<td>Un3</td>
+		<td>Spannung Phase 3 Netz</td>
+	</tr>
+	<tr>
+		<td>Ig1</td>
+		<td>Strom Phase 1 Generator</td>
+	</tr>
+	<tr>
+		<td>Ig2</td>
+		<td>Strom Phase 2 Generator</td>
+	</tr>
+	<tr>
+		<td>Ig3</td>
+		<td>Strom Phase 3 Generator</td>
+	</tr>
+	<tr>
+		<td>Eins</td>
+		<td>Speisung Steuerung (12VDC)</td>
+	</tr>
+	<tr>
+		<td>Pol</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LO1</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LWa</td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
 
 Durch drücken der Taste ENTER wer-den die einzelnen Spalten angezeigt.
  
@@ -1755,10 +2591,10 @@ STOP-Prozedur
 Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint *ENTLASTET*) und öffnet den Generatorschütz.
 Nach einer Auslaufzeit von einer Minute wird der Motor abgeschaltet, indem die Ausgänge für Zündung und Gasventile zurückgesetzt werden. Die Primär- und Sekundärpumpe bleiben wäh-rend der Nachkühlzeit in Betrieb, um den Motor weiter abzukühlen. Das BHKW ist in dieser Zeit bereits für den nächsten Start bereit. Am Display erscheint *VORBEREITET*.
  
-
  	Im Mode *AUT* bleibt die Taste STOP aktiv. Durch drücken der Taste STOP schaltet die Steuerung in den Mode *MAN* um und beginnt mit der Stoproutine. Für einen weiteren Automatik-Betrieb muss zurück in den Mode *AUT* gewech-selt werden.
 
  	Schaltet das BHKW in Folge einer Störung ab, startet das Aggregat nach Quit-tierung mit der Taste FAULT RESET automatisch.
+ 
 #### Betriebsmodus *MAN*
 Im Betriebsmenü ist die Bezeichnung *MAN* (manuel) hinterleuchtet. Sofern keine Störung aktiv ist, erscheint im rechten Textfeld *VORBEREITET* in der obersten Zeile. 
 Damit wird signalisiert, dass die Bedingungen für einen Betrieb erfüllt sind.
@@ -1775,7 +2611,6 @@ Der weitere Verlauf der Stopproutine entspricht jenem im Mode *AUT*.
 #### Betriebsmodus *AUS*
 Im Betriebsmenü wird die Bezeichnung *AUS* hinterleuchtet und im rechten Textfeld erscheint *SPS Aus* in der obersten Zeile.
 Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
- 
 
 ## Schutzfunktionen und Sensoren
 Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BHKW_Typ diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
@@ -1807,45 +2642,93 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 
 Legende :
 
-+---+-----------------------------+----+----------------------------+
-| 1 | Drehzahlgeber Steuerung     | 6  | Lambdasonde                |
-+---+-----------------------------+----+----------------------------+
-| 2 | Temperaturfühler Motorkreis | 7  | Öldruckschalter            |
-+---+-----------------------------+----+----------------------------+
-| 3 | Temperaturfühler Rücklauf   | 8  | Ölniveauschalter Reservoir |
-+---+-----------------------------+----+----------------------------+
-| 4 | Thermoelement Abgas vor WT  | 9  | Wasserniveauschalter       |
-+---+-----------------------------+----+----------------------------+
-| 5 | Thermoelement Abgas nach WT | 10 | Gasdruckwächter            |
-+---+-----------------------------+----+----------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Drehzahlgeber Steuerung</td>
+		<td>6</td>
+		<td>Lambdasonde</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Temperaturfühler Motorkreis</td>
+		<td>7</td>
+		<td>Öldruckschalter</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Temperaturfühler Rücklauf</td>
+		<td>8</td>
+		<td>Ölniveauschalter Reservoir</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Thermoelement Abgas vor WT</td>
+		<td>9</td>
+		<td>Wasserniveauschalter</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Thermoelement Abgas nach WT</td>
+		<td>10</td>
+		<td>Gasdruckwächter</td>
+	</tr>
+</tbody>
+</table>
+
 
 #### Übersicht der analogen Sensoren
 
 ##### Analog-Sensor Nr. 1
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Motordrehzahl</td>
+	</tr>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Induktionsfühler</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>Bosch / IS 03</td>
+	</tr>
+	<tr>
+		<td>Messbereich</td>
+		<td>0 - 3500 min-1</td>
+	</tr>
+</tbody>
+</table>
 
-+------------------+------------------+
-| gemessene Grösse | Motordrehzahl    |
-+==================+==================+
-| Art des Fühlers  | Induktionsfühler |
-+------------------+------------------+
-| Hersteller / Typ | Bosch / IS 03    |
-+------------------+------------------+
-| Messbereich      | 0 - 3500 min-1   |
-+------------------+------------------+
 
 *Beschreibung:*
 Der Induktionsfühler (Pick-Up) ist auf dem Schwungradgehäuse montiert, wo er die Zähne des Anlasserkranzes zählt. Diese Angaben werden durch das Steuersystem ausgewertet und für die Steuerung verschiedener Funktionen verwendet. Sicherheitsrelevant  davon ist  die Begrenzung der maximal zulässigen Drehzahl, die standardmässig auf 3300 min-1 eingestellt ist.
 
 ##### Analog-Sensor Nr. 2
-+------------------+------------------+
-| gemessene Grösse | Motortemperatur  |
-+------------------+------------------+
-| Art des Fühlers  | PT 100           |
-+------------------+------------------+
-| Hersteller / Typ | JUMO / 902004/20 |
-+------------------+------------------+
-| Messbereich      | -50 bis +150 °C  |
-+------------------+------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Gr&#246;sse</td>
+		<td>Motortemperatur</td>
+	</tr>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>PT 100</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>JUMO / 902004/20</td>
+	</tr>
+	<tr>
+		<td>Messbereich</td>
+		<td>-50 bis +150 °C</td>
+	</tr>
+</tbody>
+</table>
 
 *Beschreibung:*
 Der Temperaturfühler ist in die Kühlwasser-Austrittsleitung beim Motor eingeschraubt und misst die aktuelle Motortemperatur.
@@ -1854,15 +2737,26 @@ Das Steuersystem meldet einen Voralarm beim Überschreitung der Warngrenze von 9
 
 ##### Analog-Sensor Nr. 3
 
-+------------------+----------------------------+
-| gemessene Grösse | Rücklauf Sekundärkreislauf |
-+------------------+----------------------------+
-| Art des Fühlers  | PT 100                     |
-+------------------+----------------------------+
-| Hersteller / Typ | JUMO / 902004/20           |
-+------------------+----------------------------+
-| Messbereich      | -50 bis +150 °C            |
-+------------------+----------------------------+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Rücklauf Sekundärkreislauf</td>
+	</tr>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>PT 100</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>JUMO / 902004/20</td>
+	</tr>
+	<tr>
+		<td>Messbereich</td>
+		<td>-50 bis +150 °C</td>
+	</tr>
+</tbody>
+</table>
 
 *Beschreibung:*
 Der Temperaturfühler ist am Eintritt (Rücklauf) des Sekundärkreislaufes eingeschraubt und misst die aktuelle Rücklauftemperatur nach dem 3-Wegventil der Hochhaltung.
@@ -1871,15 +2765,26 @@ Diese Temperatur ist die Führungsgrösse zur Regulierung einer konstanten Rück
 
 ##### Analog-Sensor Nr. 4
 
-+------------------+----------------------------------------+
-| gemessene Grösse | Abgastemperatur vor Abgaswärmetauscher |
-+------------------+----------------------------------------+
-| Art des Fühlers  | Thermoelement Typ K                    |
-+------------------+----------------------------------------+
-| Hersteller / Typ | JUMO / 901221/34-1043                  |
-+------------------+----------------------------------------+
-| Messbereich      | 0 bis +1000 °C                         |
-+------------------+----------------------------------------+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Abgastemperatur vor Abgaswärmetauscher</td>
+	</tr>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Thermoelement Typ K</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>JUMO / 901221/34-1043</td>
+	</tr>
+	<tr>
+		<td>Messbereich</td>
+		<td>0 bis +1000 °C</td>
+	</tr>
+</tbody>
+</table>
 
 *Beschreibung:*
 Dieses Thermoelement ist unmittelbar nach dem Katalysator in die interne Abgasleitung montiert
@@ -1888,15 +2793,27 @@ Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgaste
 
 ##### Analog-Sensor Nr. 5
 
-+------------------+-----------------------------------------+
-| gemessene Grösse | Abgastemperatur nach Abgaswärmetauscher |
-+------------------+-----------------------------------------+
-| Art des Fühlers  | Thermoelement Typ *K*                   |
-+------------------+-----------------------------------------+
-| Hersteller / Typ | JUMO / 901221/34-1043                   |
-+------------------+-----------------------------------------+
-| Messbereich      | 0 bis +1000 °C                          |
-+------------------+-----------------------------------------+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Abgastemperatur nach Abgaswärmetauscher</td>
+	</tr>
+<tbody>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Thermoelement Typ <em>K</em></td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>JUMO / 901221/34-1043</td>
+	</tr>
+	<tr>
+		<td>Messbereich</td>
+		<td>0 bis +1000 °C</td>
+	</tr>
+</tbody>
+</table>
 
 *Beschreibung:*
 Dieser Temperaturfühler ist nach dem Abgaswärmetauscher in der Abgasleitung ausserhalb des BHKW-Moduls montiert. 
@@ -1905,15 +2822,28 @@ Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgaste
 Diese Schutzeinrichtung ist vor allem bei Verwendung von Kunststoff-Abgasleitungen wichtig.
 
 ##### Analog-Sensor Nr. 6
-+------------------+------------------------------------------+
-| gemessene Grösse | Sauerstoffgehalt im Abgas                |
-+------------------+------------------------------------------+
-| Art des Fühlers  | Lambdasonde                              |
-+------------------+------------------------------------------+
-| Hersteller / Typ | BOSCH / LSH 24 (Erdgas), LSH 11 (Biogas) |
-+------------------+------------------------------------------+
-| Messbereich      | 0 bis 900 mV                             |
-+------------------+------------------------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Sauerstoffgehalt im Abgas</td>
+	</tr>
+<tbody>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Lambdasonde</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>BOSCH / LSH 24 (Erdgas), LSH 11 (Biogas)</td>
+	</tr>
+	<tr>
+		<td>Messbereich</td>
+		<td>0 bis 900 mV</td>
+	</tr>
+</tbody>
+</table>
 
 *Beschreibung:*
 Die Lambdasonde ist unmittelbar vor dem Katalysator im Abgaswärmetauscher montiert. 
@@ -1923,14 +2853,23 @@ Der Sauerstoffgehalt im Abgas ist die Führungsgrösse für die Lambdaregelung, 
 #### Übersicht der digitalen Sensoren
 
 ##### Digital-Sensor Nr. 7
-
-+------------------+------------------+
-| gemessene Grösse | Öldruck          |
-+------------------+------------------+
-| Art des Fühlers  | Druckschalter    |
-+------------------+------------------+
-| Hersteller / Typ | Motorbestandteil |
-+------------------+------------------+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Öldruck</td>
+	</tr>
+<tbody>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Druckschalter</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>Motorbestandteil</td>
+	</tr>
+</tbody>
+</table>
 
 *Beschreibung:*
 Der Öldruckschalter ist am Motor in den Schmierölkreislauf eingebaut und überwacht den Öldruck. 
@@ -1939,13 +2878,26 @@ Damit wird das Aggregat vor ungenügender Schmierung geschützt.
 
 ##### Digital Sensor Nr. 8
 
-+------------------+-----------------------------+
-| gemessene Grösse | Öllevelschalter Ölreservoir |
-+------------------+-----------------------------+
-| Art des Fühlers  | Niveauschalter              |
-+------------------+-----------------------------+
-| Hersteller / Typ | Gantner NO140               |
-+------------------+-----------------------------+
+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Öllevelschalter Ölreservoir</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Niveauschalter</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>Gantner NO140</td>
+	</tr>
+</tbody>
+</table>
+
 
 *Beschreibung:*
 Der Ölniveauschalter ist im Ölreservoir montiert und überwacht Ölstand. 
@@ -1953,26 +2905,49 @@ Bei zu tiefem Ölstand öffnet der Kontakt und schaltet das BHKW-Modul ab.
 
 ##### Digital Sensor Nr. 9
 
-+------------------+---------------------+
-| gemessene Grösse | Wasserdruckschalter |
-+------------------+---------------------+
-| Art des Fühlers  | Niveauschalter      |
-+------------------+---------------------+
-| Hersteller / Typ | Hubacontrol         |
-+------------------+---------------------+
-	
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Wasserdruckschalter</td>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Niveauschalter</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>Hubacontrol</td>
+	</tr>
+</tbody>
+</table>
+
 *Beschreibung:*
 Der Wasserdruckschalter ist im Motorkreis (Primärkreislauf) montiert und überwacht den Wasserdruck im Primärkreislauf. Bei zu tiefem Wasserdruck öffnet der Kontakt und schaltet das BHKW-Modul ab.
 
 ##### Digital Sensor Nr. 10
 
-+------------------+-------------------------+
-| gemessene Grösse | Gasdruck                |
-+==================+=========================+
-| Art des Fühlers  | Druckschalter           |
-+------------------+-------------------------+
-| Hersteller / Typ | Kromschröder, DG40VC16W |
-+------------------+-------------------------+
+<table>
+<tbody>
+	<tr>
+		<td>gemessene Grösse</td>
+		<td>Gasdruck</td>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Art des Fühlers</td>
+		<td>Druckschalter</td>
+	</tr>
+	<tr>
+		<td>Hersteller / Typ</td>
+		<td>Kromschröder, DG40VC16W</td>
+	</tr>
+</tbody>
+</table>
+
 *Beschreibung:*
 Der Gasdruckschalter ist am Gasmultiblock vor dem Aggregat in der Gasleitung montiert und überwacht den Gasdruck. 
 Sinkt der Gasdruck unter den voreingestellten Wert, schaltet der Kontakt im Druckschalter, wodurch das Steuersystem das Aggregat sofort abschaltet. 
@@ -1993,249 +2968,1471 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 
 ### Störungen, ihre Ursachen und Behebung
 
-| Meldung              | Beschreibung                    | mögliche Ursachen                       | Störungsbehebung                              |
-|----------------------|---------------------------------|-----------------------------------------|-----------------------------------------------|
-| Sto P Oel            | Sensorstörung Öldruckgeber      | Fühler defekt                           | Öldruckfühler wechseln                        |
-|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Sto L Oel            | Sensorstörung Ölstand           | Fühler defekt                           | Ölniveauschalter des Ölniveaureglers wechseln |
-|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Sto L Wasser         | Sensorstörung Ölstand           | Fühler defekt                           | Wasserstandfühler wechseln                    |
-|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Sto T Wasser         | Sensorstörung                   | Fühler defekt                           | Motorkühlwassertemperatur wechseln            |
-|                      | Motorkühlwassertemperatur       | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Sto Sek T            | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
-|                      | Rücklauftemperatur              | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Sto Abgasfühler      | Sensorstörung                   | Fühler defekt                           | Temperaturfühler wechseln                     |
-|                      | Abgastemperatur                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Fhl P Oel            | Fehler                          | Ölpumpe ist defekt                      | Service anrufen                               |
-|                      | Öldruck zu niedrig              | Verschleiss am Motor                    | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| Fhl L Oel            | Fehler                          | Ölniveau zu tief                        | Öl nachfühlen                                 |
-|                      | Ölstand zu niedrig              |                                         | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| Fhl L Wasser         | Fehler                          | Wasserniveau im                         | Wasser-Ethylenglykol ins Ausgleichgefäss      |
-|                      | Ölstand zu niedrig              | Primärkreislauf zu tief                 | nachfüllen, Öl nachfühlen                     |
-|                      |                                 | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| T Wasser Alarm       | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
-|                      | Motorwassertemperatur           | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
-|                      | (Voralarm)                      |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 | Luft in Motorkreislauf                  | Motorkreislauf entlüften                      |
-|                      |                                 | Dreiwegventil der Rücklaufregulierung   | Rücklaufhochhaltung kontrollieren, evtl. neu  |
-|                      |                                 | öffnet zu langsam                       | einregulieren, wenn nötig Service anrufen     |
-|                      |                                 | Wasser-Wasser-Wärmetauscher verschmutzt | Wärmetauscher reinigen oder austauschen       |
-|                      |                                 |                                         |                                               |
-| Sek T  Alarm         | Alarm                           | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
-|                      | Heizwassertemperatur            |                                         | überprüfen und wenn nötig senken              |
-|                      | (Voralarm)                      |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 |                                         |                                               |
-|                      |                                 | Pumpe Heizkreis defekt                  | Pumpe ersetzen                                |
-|                      |                                 |                                         |                                               |
-| T Abgas Alarm        | Alarm                           | Gemisch ist zu fett oder zu mager       | Verbrennungsgemisch neu einstellen (Lambda)   |
-|                      | Abgastemperatur ist zu hoch     |                                         |                                               |
-|                      | (Voralarm)                      | zu hoher Abgasgegendruck                | Abgasgegendruck am Austrittsstutzen messen und|
-|                      |                                 |                                         | Abgasleitung auf Verschmutzung kontrollieren  |
-|                      |                                 |                                         |                                               |
-|                      |                                 | falscher Zündzeitpunkt                  | Zündzeitpunkt kontrollieren und einstellen    |
-|                      |                                 |                                         |                                               |
-|                      |                                 | Zündaussetzer                           | Zündung kontrollieren, evtl. defekte Teile    |
-|                      |                                 |                                         | (Zündkerzen, Zündkabel) ersetzen              |
-| T Wasser Fehler      | Fehler                          | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
-|                      | Motorwassertemperatur           | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
-|                      |                                 |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 | Luft in Primärkreislauf                 | Primärkreislauf entlüften                     |
-|                      |                                 | Dreiwegventil der Rücklaufregulierung   | Rücklaufhochhaltung kontrollieren, evtl. neu  |
-|                      |                                 | öffnet nicht oder zu langsam            | einregulieren, wenn nötig Service anrufen     |
-|                      |                                 | Wasser-Wasser-Wärmetauscher verschmutzt | Wärmetauscher reinigen oder austauschen       |
-|                      |                                 | Primärkreislauf undicht                 | Undichtheit im Primärkreislauf suchen und     |
-|                      |                                 |                                         | abdichten und Wasser auffüllen                |
-|                      |                                 | Pumpe Motorkreis defekt                 | Pumpe ersetzen                                |
-|                      |                                 | Thermostatventil Motorkreislauf defekt  | Thermostat ersetzen                           |
-|                      |                                 |                                         | (Zündkerzen, Zündkabel) ersetzen              |
-|                      |                                 |                                         |                                               |
-| Sek T Fehler         | Fehler                          | zu hohe Rücklauftemperatur im Heizkreis | Ausschaltpunkt der externen Steuerung         |
-|                      | Heizwassertemperatur            | Primärkreislauf zu tief                 | überprüfen und wenn nötig senken              |
-|                      |                                 |                                         | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 | zu kleiner Wärmeverbrauch               | Wärmeabnahme vergrössern (evtl. Notkühlung)   |
-|                      |                                 |                                         |                                               |
-| T Abgas Fehler       | Fehler                          | Abgastemperatur nach Katalysator        | Verbrennungsgemisch neu einstellen (Lambda)   |
-|                      | Abgastemperatur                 | ist zu hoch                             |                                               |
-|                      |                                 | zu hoher Abgasgegendruck                | Abgasgegendruck am Austrittsstutzen messen und|
-|                      |                                 |                                         | Abgasleitung auf Verschmutzung kontrollieren  |
-|                      |                                 | falscher Zündzeitpunkt                  | Zündzeitpunkt kontrollieren und einstellen    |
-|                      |                                 |                                         |                                               |
-|                      |                                 | Zündaussetzer                           | Zündung kontrollieren, evtl. defekte Teile    |
-|                      |                                 |                                         | (Zündkerzen, Zündkabel) ersetzen              |
-|                      |                                 |                                         |                                               |
-| Eigenverbrauch       | Fehler                          | defekter Umsetzer 4-20 mA               | Austausch des Umsetzers                       |
-|                      | Leistungsumsetzer               | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Sto Reg Lamsonde     | Fehler                          | defekte Lambdasonde                     | Lambdasonde wechseln                          |
-|                      | Lambdasonde                     | Kabelbruch                              | Verkabelung kontrollieren und evtl. reparieren|
-|                      |                                 |                                         |                                               |
-| Spann LaS            | Alarm                           | das Gemisch ist zu mager oder zu fett   | Gasnulldruckregler einstellen                 |
-|                      | Lambdasonde                     |                                         | Schrittmotor der Lambdaregelung kontrollieren |
-|                      |                                 |                                         | Funktion der Lambdaregelung überprüfen        |
-|                      |                                 | Sondenheizung funktioniert nicht        | Einspeisung kontrollieren,                    |
-|                      |                                 |                                         | Lambdasonde ersetzen                          |
-|                      |                                 |                                         |                                               |
-| StoThermoelement2    | Fühlerstörung                   | Thermoelementspannung nach Start        | die Polarität kontrollieren oder Thermoelement|
-|                      | Stop Fehler                     | ist Abgastemperatur kleiner -50 °C      | ersetzen                                      |
-|                      |                                 | Anlage wurde infolge einer Störung      | Möglicher Fehler aus History erkennbar        |
-|                      |                                 | abgeschaltet, eine der Schutzeinrichtung|                                               |
-|                      |                                 | hat angesprochen                        |                                               |
-|                      |                                 |                                         |                                               |
-| Fehler Drehz H       | Fehler                          | Hauptschalter hat ausgelöst             | Einstellung des Schutzschalters kontrollieren |
-|                      | Drehzahl zu hoch                | Netzkoppelschalter hat geöffnet         | Ansteuerung des Netzkoppelschalters           |
-|                      |                                 |                                         | kontrollieren                                 |
-|                      |                                 | Drehzahl nach Start zu hoch             | Einstellung Drehzahlregler kontrollieren      |
-|                      |                                 |                                         |                                               |
-|                      |                                 |                                         |                                               |
-| Fehler Drehz T       | Fehler                          | Gemisch ist zu fett oder zu mager       | Verbrennungsgemisch neu einstellen:           |
-|                      | Drehzahl zu niedrig             | Netzkoppelschalter hat geöffnet         | - Lambdaregelung,                             |
-|                      |                                 |                                         | - Haupteinstellschraube,                      |
-|                      |                                 | Drehzahl nach Start zu hoch             | - Nulldruckregler                             |
-|                      |                                 | mangelnde Zündung                       | Zündung kontrollieren                         |
-|                      |                                 | Pick-up defekt                          | Pick-up kontrollieren (Distanz) oder ersetzen |
-|                      |                                 |                                         |                                               |
-| Sto T Komp           | Kompensation Spannungsmessung   | Interne SPS Störung                     | Steuersystem mit Schlüsselschalter aus- und   |
-|                      | des Thermoelements              |                                         | einschalten                                   |
-|                      |                                 |                                         |                                               |
-| Sto BattSpann        | zu niedrige Steuerspannung      | Interne SPS Störung                     | DC Einspeisung und Sicherungen kontrollieren  |
-|                      |                                 |                                         | Steuersystem mit Schlüsselschalter aus- und   |
-|                      |                                 |                                         | einschalten                                   |
-|                      |                                 |                                         |                                               |
-| Not Aus              | Stop Not-Aus                    | Kontakt auf Klemmenleiste               | wenn kein externer Not-Aus Stop verwendet     |
-|                      |                                 | X4 1,2 ist offen                        | wird, Klemme X4 1,2 verbinden                 |
-|                      | Drehzahl zu niedrig             | Not-Aus Schalter ist gedrückt           | Not-Aus Schalter entriegeln                   |
-|                      |                                 | externer Not-Aus Schalter ist gedrückt  | externer Not-Aus Schalter entriegeln          |
-|                      |                                 |                                         |                                               |
-| LA Ueberstrom        | Generatorschutzschalter         | Generatorschutzschalter hat angesprochen| Einstellung kontrollieren                     |
-|                      | hat geöffnet                    | X4 1,2 ist offen                        | Aggregat auf Kurzschluss überprüfen           |
-|                      |                                 |                                         | Überstromschutz entriegeln                    |
-|                      |                                 |                                         |                                               |
-| LA NPU               | Abschaltung                     | Ein oder mehrere Netzparametergrenzwerte| Netzstörungen sind aufgetreten                |
-|                      | durch Netzüberwachung           | wurden über- oder unterschritten        |                                               |
-|                      |                                 |                                         |                                               |
-| LA U1ueber           | Generatorüberspannung in Ph. 1  | Die Generatorspannung hat den oberen    | Spannungsregler im Generator einstellen       |
-|                      |                                 | Grenzwert überschritten                 | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA U1unter           | Generatorunterspannung in Ph. 1 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
-|                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA U2ueber           | Generatorüberspannung in Ph. 2  | Die Generatorspannung hat den oberen    | Spannungsregler im Generator einstellen       |
-|                      |                                 | Grenzwert überschritten                 | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA U2unter           | Generatorunterspannung in Ph. 2 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
-|                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA U3ueber           | Generatorüberspannung in Ph. 3  | Die Generatorspannung hat den oberen    | Spannungsregler im Generator einstellen       |
-|                      |                                 | Grenzwert überschritten                 | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA U3unter           | Generatorunterspannung in Ph. 3 | Die Generatorspannung hat den unteren   | Spannungsregler im Generator einstellen       |
-|                      |                                 | Grenzwert unterschritten                | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA Ueberstrom1       | Überstrom Generator in Phase 1  | Die Generatorstrom in Phase 1 hat       | Phasenbelastung kontrollieren                 |
-|                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
-|                      |                                 |                                         | Spannungswandler kontrollieren                |
-|                      |                                 |                                         | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA Ueberstrom2       | Überstrom Generator in Phase 2  | Die Generatorstrom in Phase 2 hat       | Phasenbelastung kontrollieren                 |
-|                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
-|                      |                                 |                                         | Spannungswandler kontrollieren                |
-|                      |                                 |                                         | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA Ueberstrom3       | Überstrom Generator in Phase 3  | Die Generatorstrom in Phase 3 hat       | Phasenbelastung kontrollieren                 |
-|                      | hat geöffnet                    | den oberen Grenzwert überschritten      | Anschlüsse überprüfen. Achtung Spannung!      |
-|                      |                                 |                                         | Spannungswandler kontrollieren                |
-|                      |                                 |                                         | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA IgenAsym          | Stromasymmetrie zwischen den    | zu grosse Stromunterschiede zwischen    | Phasenbelastung kontrollieren                 |
-|                      | Phasen                          | den Phasen                              | Anschlüsse überprüfen. Achtung Spannung!      |
-|                      |                                 |                                         | Alle Schaltkontakte überprüfen                |
-|                      |                                 |                                         | (z.B. Widerstandsmessung über Generatorschütz)|
-|                      |                                 |                                         | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA Ueberfr           | Generatorüberfrequenz           | Die Generatorfrequenz hat den oberen    | Drehzahl in Inselbetrieb einstellen           |
-|                      | Phasen                          | Grenzwert überschritten                 |                                               |
-|                      |                                 | Aggregat im Inselbetrieb überlastet     | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| LA Untfreq           | Generatorunterfrequenz          | Die Generatorfrequenz hat den unteren   | Drehzahl einstellen                           |
-|                      | Phasen                          | Grenzwert unterschritten                |                                               |
-|                      |                                 | Aggregat im Inselbetrieb überlastet     | Service anrufen                               |
-|                      |                                 |                                         |                                               |
-| N U1ueber            | Netzüberspannung in Phase 1     | zu hohe Spannung in Phase 1             | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N U2ueber            | Netzüberspannung in Phase 2     | zu hohe Spannung in Phase 2             | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N U3ueber            | Netzüberspannung in Phase 3     | zu hohe Spannung in Phase 3             | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N U1unter            | Netzunterspannung in Phase 1    | zu niedrige Spannung in Phase 1         | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N U2unter            | Netzunterspannung in Phase 2    | zu niedrige Spannung in Phase 2         | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N U3unter            | Netzunterspannung in Phase 3    | zu niedrige Spannung in Phase 3         | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N Asymet             | Netzspannungsasymmetrie         | Die Netzspannung hat zwischen den       | Netzstörung                                   |
-|                      |                                 | Phasen zu grosse Unterschiede           |                                               |
-|                      |                                 |                                         |                                               |
-| N Ueberfreq          | Netzüberfrequenz                | Die Netzfrequenz ist über dem Grenzwert | Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| N Unterfreq          | Netzüberfrequenz                | Die Netzfrequenz ist unter dem Grenzwert| Netzstörung                                   |
-|                      |                                 |                                         |                                               |
-| Gen Ueberlast        | Generator überlastet            | Generator überlastet                    | Verbrennungsgemisch einstellen                |
-|                      |                                 |                                         | Seil von Gaszug kontrollieren                 |
-|                      |                                 |                                         |                                               |
-| Rückleistung         | Die abgegebene Leistung         | Generator arbeitet als Elektromotor     | Gaszufuhr kontrollieren                       |
-|                      | ist negativ                     |                                         | Gasnulldruckregler einstellen                 |
-|                      |                                 |                                         | Verbrennungsgemisch einstellen                |
-|                      |                                 |                                         |                                               |
-| Fehler kein Start    | Die Startdrehzahl wurde         | Der Anlagestart wurde unterbrochen,     | Gasdruck kontrollieren                        |
-|                      | nicht erreicht                  | da die Startdrehzahl zu tief war        | Verbrennungsgemisch einstellen                |
-|                      |                                 |                                         |                                               |
-| BinEing unstab       | Digitaleingänge sind nicht      | Digitaleingänge sind nicht stabil       | Alle Klemmen der digitalen Eingänge nachziehen|
-|                      | stabil                          |                                         |                                               |
-|                      |                                 |                                         |                                               |
-| Fehler Param         | Fehler in der SPS-              | falsch eingestellte Parameter in der SPS| Parameter in der SPS kontrollieren, einstellen|
-|                      | Parametertabelle                |                                         |                                               |
-|                      |                                 |                                         |                                               |
-| IOT Stoer            | IG - IOT nicht verbunden        | Keine oder unzureichende Verbindung     | Datenkabel IG - IOT kontrollieren             |
-|                      |                                 | IG- und IOT-Modul                       |                                               |
-|                      |                                 |                                         |                                               |
-| Nachr.IOT-Fehler     | falsche Nachr.für IOT           | Keine oder unzureichende Verbindung     | Datenkabel IG - IOT kontrollieren             |
-|                      | identifiziert                   | IG- und IOT-Modul                       |                                               |
-|                      |                                 |                                         |                                               |
-| Fhl LeistReg         | Fehler                          | Die maximal zulässige Leistungsab-      | Gaszufuhr kontrollieren                       |
-|                      | Leistungsregulierung            | weichung wurde überschritten            | Gasnulldruckregler einstellen                 |
-|                      |                                 |                                         | Verbrennungsgemisch einstellen                |
-|                      |                                 |                                         | Seil von Gaszug kontrollieren                 |
-|                      |                                 |                                         |                                               |
-| FehlerGenSchütz      | Fehler                          | Die nach Programm verlangte  und        | Ansteuerung und Spule von Generatorschütz     |
-|                      | Die verlangte und aktuelle      | effektive Generatorschützposition       | kontrollieren                                 |
-|                      | Generatorschützposition ist     | ist verschieden                         | Hilfskontakt von Generatorschutz              |
-|                      | verschieden                     |                                         | sowie Signal auf die IG kontrollieren         |
-|                      | Die verlangte und aktuelle      | falscher Schütz oder Relais             | Modul der Schützsteuerung kontrollieren       |
-|                      | Schützposition ist verschieden  |                                         |                                               |
-|                      |                                 |                                         |                                               |
-| FehlerNetzschütz     | Fehler                          | Die nach Programm verlangte  und        | Ansteuerung und Spule von Netzkoppelschalter  |
-|                      | Die verlangte und aktuelle      | effektive Netzkoppelschalterposition    | kontrollieren                                 |
-|                      | Netzkoppelschalterposition ist  | ist verschieden                         | Hilfskontakt von Netzkoppelschalter           |
-|                      | verschieden                     |                                         | sowie Signal auf die IG kontrollieren         |
-|                      | Die verlangte und aktuelle      | falscher Schütz oder Relais             | Modul der Schützsteuerung kontrollieren       |
-|                      | Schützposition ist verschieden  |                                         |                                               |
-|                      |                                 |                                         |                                               |
-| Fehler Erregung      | Generator wurde nicht erregt    | keine oder unzureichende Erregung       | Spannungsregler des Generators reparieren     |
-|                      |                                 |                                         |                                               |
-| Fehler Erregung      | Die periodische Wartung         |Service anfordern. Ist keine Störung!    | Service anrufen                               |
-|                      | ist fällig                      |                                         |                                               |
+
+<table>
+<thead>
+	<tr>
+		<th>Meldung</th>
+		<th>Beschreibung</th>
+		<th>mögliche Ursachen</th>
+		<th>Störungsbehebung</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Sto P Oel</td>
+		<td>Sensorstörung Öldruckgeber</td>
+		<td>Fühler defekt</td>
+		<td>Öldruckfühler wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto L Oel</td>
+		<td>Sensorstörung Ölstand</td>
+		<td>Fühler defekt</td>
+		<td>Ölniveauschalter des Ölniveaureglers wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto L Wasser</td>
+		<td>Sensorstörung Ölstand</td>
+		<td>Fühler defekt</td>
+		<td>Wasserstandfühler wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto T Wasser</td>
+		<td>Sensorstörung</td>
+		<td>Fühler defekt</td>
+		<td>Motorkühlwassertemperatur wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Motorkühlwassertemperatur</td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto Sek T</td>
+		<td>Sensorstörung</td>
+		<td>Fühler defekt</td>
+		<td>Temperaturfühler wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Rücklauftemperatur</td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto Abgasfühler</td>
+		<td>Sensorstörung</td>
+		<td>Fühler defekt</td>
+		<td>Temperaturfühler wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Abgastemperatur</td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fhl P Oel</td>
+		<td>Fehler</td>
+		<td>Ölpumpe ist defekt</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Öldruck zu niedrig</td>
+		<td>Verschleiss am Motor</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fhl L Oel</td>
+		<td>Fehler</td>
+		<td>Ölniveau zu tief</td>
+		<td>Öl nachfühlen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Ölstand zu niedrig</td>
+		<td></td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fhl L Wasser</td>
+		<td>Fehler</td>
+		<td>Wasserniveau im</td>
+		<td>Wasser-Ethylenglykol ins Ausgleichgefäss</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Ölstand zu niedrig</td>
+		<td>Primärkreislauf zu tief</td>
+		<td>nachfüllen, Öl nachfühlen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>T Wasser Alarm</td>
+		<td>Alarm</td>
+		<td>zu hohe Rücklauftemperatur im Heizkreis</td>
+		<td>Ausschaltpunkt der externen Steuerung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Motorwassertemperatur</td>
+		<td>Primärkreislauf zu tief</td>
+		<td>überprüfen und wenn nötig senken</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>(Voralarm)</td>
+		<td></td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>zu kleiner Wärmeverbrauch</td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Luft in Motorkreislauf</td>
+		<td>Motorkreislauf entlüften</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Dreiwegventil der Rücklaufregulierung</td>
+		<td>Rücklaufhochhaltung kontrollieren, evtl. neu</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>öffnet zu langsam</td>
+		<td>einregulieren, wenn nötig Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Wasser-Wasser-Wärmetauscher verschmutzt</td>
+		<td>Wärmetauscher reinigen oder austauschen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sek T  Alarm</td>
+		<td>Alarm</td>
+		<td>zu hohe Rücklauftemperatur im Heizkreis</td>
+		<td>Ausschaltpunkt der externen Steuerung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Heizwassertemperatur</td>
+		<td></td>
+		<td>überprüfen und wenn nötig senken</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>(Voralarm)</td>
+		<td></td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Pumpe Heizkreis defekt</td>
+		<td>Pumpe ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>T Abgas Alarm</td>
+		<td>Alarm</td>
+		<td>Gemisch ist zu fett oder zu mager</td>
+		<td>Verbrennungsgemisch neu einstellen (Lambda)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Abgastemperatur ist zu hoch</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>(Voralarm)</td>
+		<td>zu hoher Abgasgegendruck</td>
+		<td>Abgasgegendruck am Austrittsstutzen messen und</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Abgasleitung auf Verschmutzung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>falscher Zündzeitpunkt</td>
+		<td>Zündzeitpunkt kontrollieren und einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Zündaussetzer</td>
+		<td>Zündung kontrollieren, evtl. defekte Teile</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>(Zündkerzen, Zündkabel) ersetzen</td>
+	</tr>
+	<tr>
+		<td>T Wasser Fehler</td>
+		<td>Fehler</td>
+		<td>zu hohe Rücklauftemperatur im Heizkreis</td>
+		<td>Ausschaltpunkt der externen Steuerung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Motorwassertemperatur</td>
+		<td>Primärkreislauf zu tief</td>
+		<td>überprüfen und wenn nötig senken</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>zu kleiner Wärmeverbrauch</td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Luft in Primärkreislauf</td>
+		<td>Primärkreislauf entlüften</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Dreiwegventil der Rücklaufregulierung</td>
+		<td>Rücklaufhochhaltung kontrollieren, evtl. neu</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>öffnet nicht oder zu langsam</td>
+		<td>einregulieren, wenn nötig Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Wasser-Wasser-Wärmetauscher verschmutzt</td>
+		<td>Wärmetauscher reinigen oder austauschen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Primärkreislauf undicht</td>
+		<td>Undichtheit im Primärkreislauf suchen und</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>abdichten und Wasser auffüllen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Pumpe Motorkreis defekt</td>
+		<td>Pumpe ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Thermostatventil Motorkreislauf defekt</td>
+		<td>Thermostat ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>(Zündkerzen, Zündkabel) ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sek T Fehler</td>
+		<td>Fehler</td>
+		<td>zu hohe Rücklauftemperatur im Heizkreis</td>
+		<td>Ausschaltpunkt der externen Steuerung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Heizwassertemperatur</td>
+		<td>Primärkreislauf zu tief</td>
+		<td>überprüfen und wenn nötig senken</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>zu kleiner Wärmeverbrauch</td>
+		<td>Wärmeabnahme vergrössern (evtl. Notkühlung)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>T Abgas Fehler</td>
+		<td>Fehler</td>
+		<td>Abgastemperatur nach Katalysator</td>
+		<td>Verbrennungsgemisch neu einstellen (Lambda)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Abgastemperatur</td>
+		<td>ist zu hoch</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>zu hoher Abgasgegendruck</td>
+		<td>Abgasgegendruck am Austrittsstutzen messen und</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Abgasleitung auf Verschmutzung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>falscher Zündzeitpunkt</td>
+		<td>Zündzeitpunkt kontrollieren und einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Zündaussetzer</td>
+		<td>Zündung kontrollieren, evtl. defekte Teile</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>(Zündkerzen, Zündkabel) ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Eigenverbrauch</td>
+		<td>Fehler</td>
+		<td>defekter Umsetzer 4-20 mA</td>
+		<td>Austausch des Umsetzers</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Leistungsumsetzer</td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto Reg Lamsonde</td>
+		<td>Fehler</td>
+		<td>defekte Lambdasonde</td>
+		<td>Lambdasonde wechseln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Lambdasonde</td>
+		<td>Kabelbruch</td>
+		<td>Verkabelung kontrollieren und evtl. reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Spann LaS</td>
+		<td>Alarm</td>
+		<td>das Gemisch ist zu mager oder zu fett</td>
+		<td>Gasnulldruckregler einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Lambdasonde</td>
+		<td></td>
+		<td>Schrittmotor der Lambdaregelung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Funktion der Lambdaregelung überprüfen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Sondenheizung funktioniert nicht</td>
+		<td>Einspeisung kontrollieren,</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Lambdasonde ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>StoThermoelement2</td>
+		<td>Fühlerstörung</td>
+		<td>Thermoelementspannung nach Start</td>
+		<td>die Polarität kontrollieren oder Thermoelement</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Stop Fehler</td>
+		<td>ist Abgastemperatur kleiner -50 °C</td>
+		<td>ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Anlage wurde infolge einer Störung</td>
+		<td>Möglicher Fehler aus History erkennbar</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>abgeschaltet, eine der Schutzeinrichtung</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>hat angesprochen</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fehler Drehz H</td>
+		<td>Fehler</td>
+		<td>Hauptschalter hat ausgelöst</td>
+		<td>Einstellung des Schutzschalters kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Drehzahl zu hoch</td>
+		<td>Netzkoppelschalter hat geöffnet</td>
+		<td>Ansteuerung des Netzkoppelschalters</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Drehzahl nach Start zu hoch</td>
+		<td>Einstellung Drehzahlregler kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fehler Drehz T</td>
+		<td>Fehler</td>
+		<td>Gemisch ist zu fett oder zu mager</td>
+		<td>Verbrennungsgemisch neu einstellen:</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Drehzahl zu niedrig</td>
+		<td>Netzkoppelschalter hat geöffnet</td>
+		<td><ul>
+<li>Lambdaregelung,</li>
+</ul></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td><ul>
+<li>Haupteinstellschraube,</li>
+</ul></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Drehzahl nach Start zu hoch</td>
+		<td><ul>
+<li>Nulldruckregler</li>
+</ul></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>mangelnde Zündung</td>
+		<td>Zündung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Pick-up defekt</td>
+		<td>Pick-up kontrollieren (Distanz) oder ersetzen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto T Komp</td>
+		<td>Kompensation Spannungsmessung</td>
+		<td>Interne SPS Störung</td>
+		<td>Steuersystem mit Schlüsselschalter aus- und</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>des Thermoelements</td>
+		<td></td>
+		<td>einschalten</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Sto BattSpann</td>
+		<td>zu niedrige Steuerspannung</td>
+		<td>Interne SPS Störung</td>
+		<td>DC Einspeisung und Sicherungen kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Steuersystem mit Schlüsselschalter aus- und</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>einschalten</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Not Aus</td>
+		<td>Stop Not-Aus</td>
+		<td>Kontakt auf Klemmenleiste</td>
+		<td>wenn kein externer Not-Aus Stop verwendet</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>X4 1,2 ist offen</td>
+		<td>wird, Klemme X4 1,2 verbinden</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Drehzahl zu niedrig</td>
+		<td>Not-Aus Schalter ist gedrückt</td>
+		<td>Not-Aus Schalter entriegeln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>externer Not-Aus Schalter ist gedrückt</td>
+		<td>externer Not-Aus Schalter entriegeln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA Ueberstrom</td>
+		<td>Generatorschutzschalter</td>
+		<td>Generatorschutzschalter hat angesprochen</td>
+		<td>Einstellung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hat geöffnet</td>
+		<td>X4 1,2 ist offen</td>
+		<td>Aggregat auf Kurzschluss überprüfen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Überstromschutz entriegeln</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA NPU</td>
+		<td>Abschaltung</td>
+		<td>Ein oder mehrere Netzparametergrenzwerte</td>
+		<td>Netzstörungen sind aufgetreten</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>durch Netzüberwachung</td>
+		<td>wurden über- oder unterschritten</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA U1ueber</td>
+		<td>Generatorüberspannung in Ph. 1</td>
+		<td>Die Generatorspannung hat den oberen</td>
+		<td>Spannungsregler im Generator einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Grenzwert überschritten</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA U1unter</td>
+		<td>Generatorunterspannung in Ph. 1</td>
+		<td>Die Generatorspannung hat den unteren</td>
+		<td>Spannungsregler im Generator einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Grenzwert unterschritten</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA U2ueber</td>
+		<td>Generatorüberspannung in Ph. 2</td>
+		<td>Die Generatorspannung hat den oberen</td>
+		<td>Spannungsregler im Generator einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Grenzwert überschritten</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA U2unter</td>
+		<td>Generatorunterspannung in Ph. 2</td>
+		<td>Die Generatorspannung hat den unteren</td>
+		<td>Spannungsregler im Generator einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Grenzwert unterschritten</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA U3ueber</td>
+		<td>Generatorüberspannung in Ph. 3</td>
+		<td>Die Generatorspannung hat den oberen</td>
+		<td>Spannungsregler im Generator einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Grenzwert überschritten</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA U3unter</td>
+		<td>Generatorunterspannung in Ph. 3</td>
+		<td>Die Generatorspannung hat den unteren</td>
+		<td>Spannungsregler im Generator einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Grenzwert unterschritten</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA Ueberstrom1</td>
+		<td>Überstrom Generator in Phase 1</td>
+		<td>Die Generatorstrom in Phase 1 hat</td>
+		<td>Phasenbelastung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hat geöffnet</td>
+		<td>den oberen Grenzwert überschritten</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Spannungswandler kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA Ueberstrom2</td>
+		<td>Überstrom Generator in Phase 2</td>
+		<td>Die Generatorstrom in Phase 2 hat</td>
+		<td>Phasenbelastung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hat geöffnet</td>
+		<td>den oberen Grenzwert überschritten</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Spannungswandler kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA Ueberstrom3</td>
+		<td>Überstrom Generator in Phase 3</td>
+		<td>Die Generatorstrom in Phase 3 hat</td>
+		<td>Phasenbelastung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hat geöffnet</td>
+		<td>den oberen Grenzwert überschritten</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Spannungswandler kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA IgenAsym</td>
+		<td>Stromasymmetrie zwischen den</td>
+		<td>zu grosse Stromunterschiede zwischen</td>
+		<td>Phasenbelastung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Phasen</td>
+		<td>den Phasen</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Alle Schaltkontakte überprüfen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>(z.B. Widerstandsmessung über Generatorschütz)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA Ueberfr</td>
+		<td>Generatorüberfrequenz</td>
+		<td>Die Generatorfrequenz hat den oberen</td>
+		<td>Drehzahl in Inselbetrieb einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Phasen</td>
+		<td>Grenzwert überschritten</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Aggregat im Inselbetrieb überlastet</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>LA Untfreq</td>
+		<td>Generatorunterfrequenz</td>
+		<td>Die Generatorfrequenz hat den unteren</td>
+		<td>Drehzahl einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Phasen</td>
+		<td>Grenzwert unterschritten</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Aggregat im Inselbetrieb überlastet</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N U1ueber</td>
+		<td>Netzüberspannung in Phase 1</td>
+		<td>zu hohe Spannung in Phase 1</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N U2ueber</td>
+		<td>Netzüberspannung in Phase 2</td>
+		<td>zu hohe Spannung in Phase 2</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N U3ueber</td>
+		<td>Netzüberspannung in Phase 3</td>
+		<td>zu hohe Spannung in Phase 3</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N U1unter</td>
+		<td>Netzunterspannung in Phase 1</td>
+		<td>zu niedrige Spannung in Phase 1</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N U2unter</td>
+		<td>Netzunterspannung in Phase 2</td>
+		<td>zu niedrige Spannung in Phase 2</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N U3unter</td>
+		<td>Netzunterspannung in Phase 3</td>
+		<td>zu niedrige Spannung in Phase 3</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N Asymet</td>
+		<td>Netzspannungsasymmetrie</td>
+		<td>Die Netzspannung hat zwischen den</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>Phasen zu grosse Unterschiede</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N Ueberfreq</td>
+		<td>Netzüberfrequenz</td>
+		<td>Die Netzfrequenz ist über dem Grenzwert</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>N Unterfreq</td>
+		<td>Netzüberfrequenz</td>
+		<td>Die Netzfrequenz ist unter dem Grenzwert</td>
+		<td>Netzstörung</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Gen Ueberlast</td>
+		<td>Generator überlastet</td>
+		<td>Generator überlastet</td>
+		<td>Verbrennungsgemisch einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Seil von Gaszug kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Rückleistung</td>
+		<td>Die abgegebene Leistung</td>
+		<td>Generator arbeitet als Elektromotor</td>
+		<td>Gaszufuhr kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>ist negativ</td>
+		<td></td>
+		<td>Gasnulldruckregler einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Verbrennungsgemisch einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fehler kein Start</td>
+		<td>Die Startdrehzahl wurde</td>
+		<td>Der Anlagestart wurde unterbrochen,</td>
+		<td>Gasdruck kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>nicht erreicht</td>
+		<td>da die Startdrehzahl zu tief war</td>
+		<td>Verbrennungsgemisch einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>BinEing unstab</td>
+		<td>Digitaleingänge sind nicht</td>
+		<td>Digitaleingänge sind nicht stabil</td>
+		<td>Alle Klemmen der digitalen Eingänge nachziehen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>stabil</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fehler Param</td>
+		<td>Fehler in der SPS-</td>
+		<td>falsch eingestellte Parameter in der SPS</td>
+		<td>Parameter in der SPS kontrollieren, einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Parametertabelle</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>IOT Stoer</td>
+		<td>IG - IOT nicht verbunden</td>
+		<td>Keine oder unzureichende Verbindung</td>
+		<td>Datenkabel IG - IOT kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>IG- und IOT-Modul</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Nachr.IOT-Fehler</td>
+		<td>falsche Nachr.für IOT</td>
+		<td>Keine oder unzureichende Verbindung</td>
+		<td>Datenkabel IG - IOT kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>identifiziert</td>
+		<td>IG- und IOT-Modul</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fhl LeistReg</td>
+		<td>Fehler</td>
+		<td>Die maximal zulässige Leistungsab-</td>
+		<td>Gaszufuhr kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Leistungsregulierung</td>
+		<td>weichung wurde überschritten</td>
+		<td>Gasnulldruckregler einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Verbrennungsgemisch einstellen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Seil von Gaszug kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>FehlerGenSchütz</td>
+		<td>Fehler</td>
+		<td>Die nach Programm verlangte  und</td>
+		<td>Ansteuerung und Spule von Generatorschütz</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Die verlangte und aktuelle</td>
+		<td>effektive Generatorschützposition</td>
+		<td>kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Generatorschützposition ist</td>
+		<td>ist verschieden</td>
+		<td>Hilfskontakt von Generatorschutz</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>verschieden</td>
+		<td></td>
+		<td>sowie Signal auf die IG kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Die verlangte und aktuelle</td>
+		<td>falscher Schütz oder Relais</td>
+		<td>Modul der Schützsteuerung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Schützposition ist verschieden</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>FehlerNetzschütz</td>
+		<td>Fehler</td>
+		<td>Die nach Programm verlangte  und</td>
+		<td>Ansteuerung und Spule von Netzkoppelschalter</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Die verlangte und aktuelle</td>
+		<td>effektive Netzkoppelschalterposition</td>
+		<td>kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Netzkoppelschalterposition ist</td>
+		<td>ist verschieden</td>
+		<td>Hilfskontakt von Netzkoppelschalter</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>verschieden</td>
+		<td></td>
+		<td>sowie Signal auf die IG kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Die verlangte und aktuelle</td>
+		<td>falscher Schütz oder Relais</td>
+		<td>Modul der Schützsteuerung kontrollieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>Schützposition ist verschieden</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fehler Erregung</td>
+		<td>Generator wurde nicht erregt</td>
+		<td>keine oder unzureichende Erregung</td>
+		<td>Spannungsregler des Generators reparieren</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Fehler Erregung</td>
+		<td>Die periodische Wartung</td>
+		<td>Service anfordern. Ist keine Störung!</td>
+		<td>Service anrufen</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>ist fällig</td>
+		<td></td>
+		<td></td>
+	</tr>
+</tbody>
+</table>
 
 Erläuterung:
 
@@ -2258,102 +4455,760 @@ Erläuterung:
 
 ### Vor-Inbetriebnahme {#vor-inbetriebnahme}
 
-| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert                | IST- Wert  | OK ☑ / NOK ☒ |
-|-------------|--------------------------------------------------------------------|----------|---------------------------|------------|---------------|
-|     1       |  Vordruck der Expansion Heizkreis (HK) prüfen                      |          | Expansionsgefäss_Vordruck |            |☐              |
-|     2       |  Vordruck der Expansion Motorkreis (MK) prüfen                     |          | Expansionsgefäss_Vordruck |            |☐              |
-|     3       |  Wasserdruck Minimum mit Luft MK einstellen                        | -120S2   | 0.5 - 0.6 bar             |            |☐              |
-|     4       |  Sicherheitsthermostat MK einstellen                               | -120S7   | 100 - 110 °C   			  |            |☐              |
-|     5       |  Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren          |          | -24 °C                    |            |☐              |
-|     5.1     |  Ethylenglykol bereitstellen                                       |          | 20 l (40%)                |            |☐              |
-|     5.2     |  Wasser bereitstellen                                              |          | 30 l (60%)                |            |☐              |
-|     6       |  Anlage mit Ethylenglykol-Wasser Gemisch befüllen                  |          | 50 l                      |            |☐              |
-|     7       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                      |            |☐              |
-|     8       |  Motorkreis (MK) entlüften                                         |          |                           |            |☐              |
-|     9       |  Anlage mit Motorenöl befüllen                                     |          | 75 l                      |            |☐              |
-|     10      |  elektrische Erstprüfung durchführen                               |[4.2](#4.2)|                          |            |☐              |
-|     11      |  Netzüberwachung einstellen                                        |          |                           |            |☐              |
-|     12      |  Batterieladegeräte kontrollieren, Poti einstellen, Jumper setzen  |          |                           |            |☐              |
-|     13      |  Erstprüfung Software                                              |[4.3](#4.3)|                          |            |☐              |
-|     14      |  Siphon füllen                                                     |          |                           |            |☐              |
-|     15      |  Siphon füllen                                                     |          |                           |            |☐              |
-|     16      |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                           |            |☐              |
-|     17      |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                           |            |☐              |
+
+<table>
+<thead>
+	<tr>
+		<th>Prüfpunkt</th>
+		<th>Beschreibung</th>
+		<th>Referenz</th>
+		<th>SOLL- Wert</th>
+		<th>IST- Wert</th>
+		<th>OK ☑ / NOK ☒</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Vordruck der Expansion Heizkreis (HK) prüfen</td>
+		<td></td>
+		<td>Expansionsgefäss_Vordruck</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Vordruck der Expansion Motorkreis (MK) prüfen</td>
+		<td></td>
+		<td>Expansionsgefäss_Vordruck</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Wasserdruck Minimum mit Luft MK einstellen</td>
+		<td>-120S2</td>
+		<td>0.5 - 0.6 bar</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Sicherheitsthermostat MK einstellen</td>
+		<td>-120S7</td>
+		<td>100 - 110 °C</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Ethylenglykol-Wasser Gemisch: Gefrierpunkt kontrollieren</td>
+		<td></td>
+		<td>-24 °C</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5.1</td>
+		<td>Ethylenglykol bereitstellen</td>
+		<td></td>
+		<td>20 l (40%)</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5.2</td>
+		<td>Wasser bereitstellen</td>
+		<td></td>
+		<td>30 l (60%)</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Anlage mit Ethylenglykol-Wasser Gemisch befüllen</td>
+		<td></td>
+		<td>50 l</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Anlage mit Motorenöl befüllen</td>
+		<td></td>
+		<td>75 l</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Motorkreis (MK) entlüften</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Anlage mit Motorenöl befüllen</td>
+		<td></td>
+		<td>75 l</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>elektrische Erstprüfung durchführen</td>
+		<td><a href="#4.2">4.2</a></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>Netzüberwachung einstellen</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>Batterieladegeräte kontrollieren, Poti einstellen, Jumper setzen</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>Erstprüfung Software</td>
+		<td><a href="#4.3">4.3</a></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>Siphon füllen</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>Siphon füllen</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>Stellantrieb Notkühlventil (auf &lt;&gt; zu)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>Stellantrieb Heizkreisventil (auf &lt;&gt; zu)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+</tbody>
+</table>
 
 ### elektrische Erstprüfung {#elektrische-erstprüfung}
-| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
-|-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
-|     1       |  Sichtkontrolle 								                   |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     1.1     |  alle Beschriftungen vorhanden (Piktogramme, bspw. Generator)      |          |                     |            |☐              |
-|     1.2     |  Aderfarben korrekt                                                |          |                     |            |☐              |
-|     1.3     |  Leitungen korrekt verlegt und angeschlossen (v.a. Generator)      |          |                     |            |☐              |
-|     1.4     |  Erde durchgehend angeschlossen                                    |          |                     |            |☐              |
-|     1.5     |  Trennung TN-S oder TN-C                                           |          |                     |            |☐              |
-|     1.6     |  richtige Sicherungsautomaten                                      |          |                     |            |☐              |
-|     1.7     |  richtige Einstellungen Motorschutzschalter                        |          |                     |            |☐              |
-|     1.8     |  IP-Schutzart passend zum Raum                                     |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     2       |  Durchgängigkeit Schutzleiter                                      |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     2.1     |  alle Metallteile mit R~low~ abtasten (Haupterdung -> Peripherie ) |          | < 1 Ω               |            |☐              |
-|     2.2     |  Sichtprüfung Erdverbindungen zu Haupterder (Anschluss i.O. ?)     |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     3       |  Isolationsmessung                                                 |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     3.1     |  Spannungsfreiheit prüfen                                          |  -30F1   |                     |            |☐              |
-|     3.2     |  Überspannungsableiter öffnen, demontieren                         |  -10F3   |                     |            |☐              |
-|     3.3     |  Neutralleitertrenner  öffnen                                      |  -11F8   |                     |            |☐              |
-|     3.4     |  Spannung 500V DC Eingang Hauptschalter messen                     |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.1   |  Spannung 500V DC Eingang Hauptschalter -> N-PE messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.2   |  Spannung 500V DC Eingang Hauptschalter -> L~1~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.3   |  Spannung 500V DC Eingang Hauptschalter -> L~2~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.4.4   |  Spannung 500V DC Eingang Hauptschalter -> L~3~ messen             |  -10Q1   |  >=1 MΩ             |            |☐              |
-|     3.5     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-|     3.6     |  Spannung 500V DC L~1~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-|     3.7     |  Spannung 500V DC L~3~ -> PE messen                                |  -11X1   |  >=1 MΩ             |            |☐              |
-|     3.8     |  Neutralleitertrenner  schliessen                                  |  -11F8   |                     |            |☐              |
-|     3.9     |  Überspannungsableiter schliessen, montieren                       |  -10F3   |                     |            |☐              |
-|     3.10    |  Spannung wieder einschalten                                       |  -30F1   |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     4       |  Spannung / Drehfeld                                               |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     4.1     |  Spannungsmessung Eingangsklemme L-PE                              |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L-N                               |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~2~                       |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L~1~ - L~3~                       |  -10X1   |                     |            |☐              |
-|     4.1     |  Spannungsmessung Eingangsklemme L~2~ - L~3~                       |  -10X1   |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     5       |  FI-Schalter prüfen                                                |  -20F3   |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     5.1     |  Personenschutz überprüfen                                         |  -20F3   |  30 mA              |            |☐              |
-|     5.2     |  Sachschutz überprüfen                                             |  -20F3   |  300 mA             |            |☐              |
-|     5.3     |  Auslösestrom messen                                               |  -20F3   |  über I~Fehler~     |            |☐              |
-|     5.4     |  Auslösezeit  messen                                               |  -20F3   |  unter 0.03 s       |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     6       |  Funktionsprüfung                                                  |          |                     |            |☐              |
-|             |                 								                   |          |                     |            |               |
-|     6.1     |  Not-Aus                                                           |  -35S2   |                     |            |☐              |
-|     6.2     |  Drehrichung Heizkreispumpe                                        |          |                     |            |☐              |
-|     6.3     |  Drehrichung Motorkreispumpe                                       |          |                     |            |☐              |
-|     6.4     |  Drehrichung Abluftventilator                                      |          |                     |            |☐              |
-|     6.5     |  Stellantrieb Notkühlventil (auf <> zu)                            |          |                     |            |☐              |
-|     6.5     |  Stellantrieb Heizkreisventil (auf <> zu)                          |          |                     |            |☐              |
-|     6.5     |  Stellantrieb Beleuchtung                                          |          |                     |            |☐              |
+
+<table>
+<thead>
+	<tr>
+		<th>Prüfpunkt</th>
+		<th>Beschreibung</th>
+		<th>Referenz</th>
+		<th>SOLL- Wert</th>
+		<th>IST- Wert</th>
+		<th>OK ☑ / NOK ☒</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Sichtkontrolle</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>alle Beschriftungen vorhanden (Piktogramme, bspw. Generator)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Aderfarben korrekt</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Leitungen korrekt verlegt und angeschlossen (v.a. Generator)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Erde durchgehend angeschlossen</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.5</td>
+		<td>Trennung TN-S oder TN-C</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.6</td>
+		<td>richtige Sicherungsautomaten</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.7</td>
+		<td>richtige Einstellungen Motorschutzschalter</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>1.8</td>
+		<td>IP-Schutzart passend zum Raum</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Durchgängigkeit Schutzleiter</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2.1</td>
+		<td>alle Metallteile mit R<sub>low</sub> abtasten (Haupterdung → Peripherie )</td>
+		<td></td>
+		<td>&lt; 1 Ω</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>2.2</td>
+		<td>Sichtprüfung Erdverbindungen zu Haupterder (Anschluss i.O. ?)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Isolationsmessung</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>3.1</td>
+		<td>Spannungsfreiheit prüfen</td>
+		<td>-30F1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.2</td>
+		<td>Überspannungsableiter öffnen, demontieren</td>
+		<td>-10F3</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.3</td>
+		<td>Neutralleitertrenner  öffnen</td>
+		<td>-11F8</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.4</td>
+		<td>Spannung 500V DC Eingang Hauptschalter messen</td>
+		<td>-10Q1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.4.1</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → N-PE messen</td>
+		<td>-10Q1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.4.2</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>1</sub> messen</td>
+		<td>-10Q1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.4.3</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>2</sub> messen</td>
+		<td>-10Q1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.4.4</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>3</sub> messen</td>
+		<td>-10Q1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.5</td>
+		<td>Spannung 500V DC L<sub>1</sub> → PE messen</td>
+		<td>-11X1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.6</td>
+		<td>Spannung 500V DC L<sub>1</sub> → PE messen</td>
+		<td>-11X1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.7</td>
+		<td>Spannung 500V DC L<sub>3</sub> → PE messen</td>
+		<td>-11X1</td>
+		<td><blockquote>
+=1 MΩ
+</blockquote></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.8</td>
+		<td>Neutralleitertrenner  schliessen</td>
+		<td>-11F8</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.9</td>
+		<td>Überspannungsableiter schliessen, montieren</td>
+		<td>-10F3</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3.10</td>
+		<td>Spannung wieder einschalten</td>
+		<td>-30F1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Spannung / Drehfeld</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>4.1</td>
+		<td>Spannungsmessung Eingangsklemme L-PE</td>
+		<td>-10X1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>4.1</td>
+		<td>Spannungsmessung Eingangsklemme L-N</td>
+		<td>-10X1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>4.1</td>
+		<td>Spannungsmessung Eingangsklemme L<sub>1</sub> - L<sub>2</sub></td>
+		<td>-10X1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>4.1</td>
+		<td>Spannungsmessung Eingangsklemme L<sub>1</sub> - L<sub>3</sub></td>
+		<td>-10X1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>4.1</td>
+		<td>Spannungsmessung Eingangsklemme L<sub>2</sub> - L<sub>3</sub></td>
+		<td>-10X1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>FI-Schalter prüfen</td>
+		<td>-20F3</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>5.1</td>
+		<td>Personenschutz überprüfen</td>
+		<td>-20F3</td>
+		<td>30 mA</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5.2</td>
+		<td>Sachschutz überprüfen</td>
+		<td>-20F3</td>
+		<td>300 mA</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5.3</td>
+		<td>Auslösestrom messen</td>
+		<td>-20F3</td>
+		<td>über I<sub>Fehler</sub></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5.4</td>
+		<td>Auslösezeit  messen</td>
+		<td>-20F3</td>
+		<td>unter 0.03 s</td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Funktionsprüfung</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>6.1</td>
+		<td>Not-Aus</td>
+		<td>-35S2</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6.2</td>
+		<td>Drehrichung Heizkreispumpe</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6.3</td>
+		<td>Drehrichung Motorkreispumpe</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6.4</td>
+		<td>Drehrichung Abluftventilator</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6.5</td>
+		<td>Stellantrieb Notkühlventil (auf &lt;&gt; zu)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6.5</td>
+		<td>Stellantrieb Heizkreisventil (auf &lt;&gt; zu)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6.5</td>
+		<td>Stellantrieb Beleuchtung</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+</tbody>
+</table>
 
 ### softwaretechnische Erstprüfung {#softwaretechnische_Erstprüfung}
-| Prüfpunkt   | Beschreibung                                                       | Referenz | SOLL- Wert          | IST- Wert  | OK ☑ / NOK ☒ |
-|-------------|--------------------------------------------------------------------|----------|---------------------|------------|----------------|
-|     1       |  IS-Gas Jumper richtig gesetzt ?                                   |  -60D1   |                     |            |☐              |
-|     2       |  IGS-PTM (SK) Jumper richtig gesetzt ?                             |  -62D1   |                     |            |☐              |
-|     3       |  IGS-PTM (MF) Jumper richtig gesetzt ?                             | -140D1   |                     |            |☐              |
-|     4       |  alle Werte vorhanden (keine roten Werte mit ###)                  |          |                     |            |☐              |
-|     5       |  alle Werte plausibel                                              |          |                     |            |☐              |
-|     6       |  Spannungsregler                                                   |          |                     |            |☐              |
-|     7       |  Werte auf Motorsteuerung (Trijekt) kontrollieren                  |          |                     |            |☐              |
-|     8       |  Zündtest auf Motorsteuerung (Trijekt) ausführen, i.O.?            |          |                     |            |☐              |
-|     9       |  Drosselklappen-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?    |          |                     |            |☐              |
-|     10      |  Lambdaventil-Werte auf DC-Desk <> ComAp kontrollieren, i.O.?      |          |                     |            |☐              |
+
+<table>
+<thead>
+	<tr>
+		<th>Pr&#252;fpunkt</th>
+		<th>Beschreibung</th>
+		<th>Referenz</th>
+		<th>SOLL- Wert</th>
+		<th>IST- Wert</th>
+		<th>OK ☑ / NOK ☒</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>IS-Gas Jumper richtig gesetzt ?</td>
+		<td>-60D1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>IGS-PTM (SK) Jumper richtig gesetzt ?</td>
+		<td>-62D1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>IGS-PTM (MF) Jumper richtig gesetzt ?</td>
+		<td>-140D1</td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>alle Werte vorhanden (keine roten Werte mit ###)</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>alle Werte plausibel</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Spannungsregler</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Werte auf Motorsteuerung (Trijekt) kontrollieren</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Zündtest auf Motorsteuerung (Trijekt) ausführen, i.O.?</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Drosselklappen-Werte auf DC-Desk &lt;&gt; ComAp kontrollieren, i.O.?</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>Lambdaventil-Werte auf DC-Desk &lt;&gt; ComAp kontrollieren, i.O.?</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>☐</td>
+	</tr>
+</tbody>
+</table>
+
 
 # Anleitungen
 ==================
