@@ -2,7 +2,6 @@
 # BES BHKW BHKW_Typ
 ==================	
 
-
 ## Übersicht über die Typenfamilie Bibloc BV
 --------------------------------------------
 	
@@ -103,7 +102,6 @@ Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfall
 
 3	Abfälle durch die Entsorgung der Anlage am Ende der Standzeit der BHKW-Anlage
 
-[Zurück nach oben](#top)
 
 ##### Abfälle durch den Transport und Installation der BHKW-Anlage
 
@@ -130,7 +128,6 @@ Je nach Lieferumfang der BHKW-Anlage werden Zubehör-Teile des BHKW als Einzelte
 
 Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservierungsmitteln behandelt und müssen vor der Inbetriebnahme nicht entsprechend gereinigt werden.
 
-[Zurück nach oben](#top)
  
 ##### Abfälle durch den Betrieb der BHKW-Anlage
 
@@ -185,12 +182,12 @@ Es ist verboten, dass gefährliche Betriebsstoffe und Betriebsmittel wie Altöl,
 
 Zudem dürfen gefährliche Abfälle nicht an Personen oder Firmen übergegeben werden, welche nicht fähig oder bemächtigt sind die erwähnten Stoffe zu entsorgen.
 _________________________________________________________________________
-[Zurück nach oben](#top)
+
 
 ##### Abfälle durch die Entsorgung der Anlage am Ende der Standzeit
 Die Stilllegung, der Ausbau und die Entsorgung der BHKW-Anlage hat in bestmöglichem Ein-klang zur Natur und der Umwelt zu erfolgen. Bitte wenden Sie sich an die Firma BIBLOC, BES oder eine andere Institution, welche ein fachgerechtes Entsorgen und Recyceln anbietet.
  
-[Zurück nach oben](#top)
+
 
 ## Grundsätze für die sichere Bedienung der BHKW-Anlage
 
@@ -209,7 +206,7 @@ _________________________________________________________________________
 
 Die Hinweise in diesem Kapitel sind in eine allfällige lokale, übergeordnete Betriebsordnung zu integrieren.
 _________________________________________________________________________
-[Zurück nach oben](#top)
+
 
 ### Hinweise auf mögliche Risiken
 
@@ -248,7 +245,6 @@ Die BHKW-Anlage darf nur von Personen bedient werden, die die oben genannten Kri
 
 Unbefugten Personen ist der Zutritt verboten
 _________________________________________________________________________
-[Zurück nach oben](#top)
 
 #### Verwendung des Not-Aus-Tasters
 
@@ -266,8 +262,6 @@ _________________________________________________________________________
 
 Die BHKW-Anlage darf erst wieder in Betrieb gesetzt werden wenn sicherge-stellt ist, dass die Störung ordentlich beseitigt wurde und keine weitere Gefähr-dung von Mensch und Maschine besteht.
 _________________________________________________________________________
-
-[Zurück nach oben](#top)
 
 	
 ## Transport und Aufstellung
@@ -292,7 +286,6 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20
 
 •	der Untergrund glatt und eben ist
 
-[Zurück nach oben](#top)
 
 ### Krantransport
 
@@ -304,7 +297,6 @@ Der Haken, bei welchen die Traggurten eingeschlauft werden muss mindestens 1.5 m
 
 Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölzer mit Kerben, damit die Gurten nicht verrutschen) verwendet werden.
 
-[Zurück nach oben](#top)
 
 ### Aufstellung
 
@@ -328,7 +320,6 @@ Eine Verankerung der Anlage wird aufgrund der Schwingungsübertragung nicht empf
 
 Die Freihalteräume (siehe 6.2) um die BHKW-Anlage sind für eine korrekte In-stallation und zur periodischen Wartung einzuhalten.
 
-[Zurück nach oben](#top)
  
 ## BIBLOC Betrieb
 
@@ -348,17 +339,14 @@ Nach Erreichen der Nenndrehzahl wird zeitverzögert der Stern-Dreieckschütz ang
 
 Bei einem BHKW mit Synchrongenerator durchläuft die Maschine den Abkühlzyklus und der Generatorschütz löst gleichzeitig mit dem Anhalten des Motors. 
 
-[Zurück nach oben](#top)
 
 #### Inselbetrieb
 
-[Zurück nach oben](#top)
 
 ### Gasarten
 
 Die Anforderungen an die jeweiligen Brenngase können dem Merkblatt **Eigenschaften von Brenngasen** entnommen werden.
 
-[Zurück nach oben](#top)
 
 ### Abgasbehandlung
 
@@ -375,15 +363,15 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 +-------------------------------+---------------------------------------+
 | Typ der Abgasbehandlung       |                                       |
 +===============================+=======================================+
-| Abgaswerte bezogen auf 5 % O2 | Abgasreinigungssystem_Beschreibung_DB
+| Abgaswerte bezogen auf 5 % O2 | Abgasreinigungssystem_Beschreibung_DB |
 +-------------------------------+---------------------------------------+
-| Kohlenmonoxid CO:             | Kohlenmonoxid_CO
+| Kohlenmonoxid CO:             | Kohlenmonoxid_CO                      |
 +-------------------------------+---------------------------------------+
-| Stickoxide NOx:               | Stickoxide_NOx
+| Stickoxide NOx:               | Stickoxide_NOx                        |
 +-------------------------------+---------------------------------------+
 
 
-[Zurück nach oben](#top)
+
 
 ## Beschreibung des BHKW_Typ
 +-----------------------+----------------------+
@@ -431,7 +419,7 @@ Sämtliche Anschlüsse für Heizung, Gas und Abgas werden nach oben aus der Kaps
 
 Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prüfstand getestet.
 
-[Zurück nach oben](#top)
+
 
 ### Abmessungen der BHKW-Anlage
 
@@ -461,7 +449,7 @@ Legende :
 | 10.  |Gasmischer                           |15.  |3-Wegventil Sekundärkreislauf        |
 | 11.  |Drosselklappe                        |16.  |Zündung (nicht gezeichnet)           |
  
-[Zurück nach oben](#top)
+
 
 ### Gasmotor
 
@@ -480,7 +468,7 @@ Der Ölkreislauf ist durch ein Überdruckventil gesichert. Der Ölfilter befinde
 
 Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider geführt
 
-[Zurück nach oben](#top)
+
 
 #### Technische Daten Motor
 +---------------------------------------------+-------------------------------------+
@@ -577,7 +565,7 @@ Steuerzeiten
 | Auslassventil                          | 0.25
 +----------------------------------------+--------------------+
 
-[Zurück nach oben](#top)
+
 
 #### Motorschmierung
 +------------------------------+---------------------------------+
@@ -602,7 +590,7 @@ Steuerzeiten
 | Ölwechselintervall           | siehe spezifischen Wartungsplan
 +------------------------------+---------------------------------+
 
-[Zurück nach oben](#top)
+
 
 #### Motorkühlung
 
@@ -640,7 +628,7 @@ Steuerzeiten
 | Druckverlust prim./sek.:  | Druckverlust_prim_sek
 +---------------------------+-----------------------------------+
 
-[Zurück nach oben](#top)
+
 
 #### Zündsystem
 
@@ -656,7 +644,7 @@ Zündanlage_Beschreibung
 |Elektrodenabstand| 0,4 - 0,1 mm                         |
 +-----------------+--------------------------------------+
 
-[Zurück nach oben](#top)
+
 
 #### Brennstoffsystem
 
@@ -668,7 +656,7 @@ Zündanlage_Beschreibung
 | Bio- Klärgas    | (Lambda = 1)                         |
 +-----------------+--------------------------------------+
 
-[Zurück nach oben](#top)
+
  
 ### Synchrongenerator
 
@@ -2262,7 +2250,7 @@ Erläuterung:
 ## für Anlagenbenutzer
 	
 ### Sichtkontrollen
-[Zurück nach oben](#top)
+
 		
 ## für Servicetechniker
         [...]
@@ -2399,12 +2387,12 @@ Anforderungen an die Anleitung (DIN EN ISO 20607)
 
 ## Systemübersicht
 
-[Zurück nach oben](#top)
+
 
 
 ## Leistungsregler
 
-[Zurück nach oben](#top)
+
 Einführungen
 ============	
 [Einschalten der Maschine](#einschalten-der-maschine)
@@ -2429,11 +2417,11 @@ Erklärungen
 ==================	
 [Systemübersicht](#systemübersicht)
 
-[Zurück nach oben](#top)
+
 
 [Leistungsregler](#leistungsregler)
 
-[Zurück nach oben](#top)
+
 
 \begin{gather*}
 a_1=b_1+°C1\\
