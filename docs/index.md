@@ -469,7 +469,7 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 <tbody>
 	<tr>
 		<td>Fabrikat</td>
-		<td>Fabrikat</td>
+		<td>BHKW_Fabrikat</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
@@ -477,27 +477,27 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 	</tr>
 	<tr>
 		<td>Betriebsart:</td>
-		<td>Betriebsart_d</td>
+		<td>BHKW_Betriebsart_d</td>
 	</tr>
 	<tr>
 		<td>Betriebsstoff:</td>
-		<td>Betriebsstoff_d</td>
+		<td>BHKW_Betriebsstoff_d</td>
 	</tr>
 	<tr>
 		<td>Heizwert Hu:</td>
-		<td>Heizwert_Hu</td>
+		<td>BHKW_Heizwert_Hu</td>
 	</tr>
 	<tr>
 		<td>Elektrische Leistung:</td>
-		<td>Elektrische_Leistung</td>
+		<td>BHKW_Elektrische_Leistung</td>
 	</tr>
 	<tr>
 		<td>Thermische Leistung:</td>
-		<td>Thermische_Leistung</td>
+		<td>BHKW_Thermische_Leistung</td>
 	</tr>
 	<tr>
 		<td>Verbrauch :</td>
-		<td>Verbrauch_Leistung</td>
+		<td>BHKW_Verbrauch_Leistung</td>
 	</tr>
 </tbody>
 </table>
@@ -701,7 +701,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Motorart</td>
-		<td>Gasmotor</td>
+		<td>Motor_Art</td>
 	</tr>
 	<tr>
 		<td>Arbeitsumlauf</td>
@@ -709,7 +709,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Drehzahl:</td>
-		<td>Drehzahl</td>
+		<td>Motor_Drehzahl</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -721,23 +721,23 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Hubraum:</td>
-		<td>Hubraum</td>
+		<td>Motor_Hubraum</td>
 	</tr>
 	<tr>
 		<td>Kolbenhub:</td>
-		<td>Kolbenhub</td>
+		<td>Motor_Kolbenhub</td>
 	</tr>
 	<tr>
 		<td>Mittlere Kolbengeschwindigkeit:</td>
-		<td>Mittlere_Kolbengeschwindigkeit</td>
+		<td>Motor_Mittlere_Kolbengeschwindigkeit</td>
 	</tr>
 	<tr>
 		<td>Zylinderbohrung:</td>
-		<td>Zylinderbohrung</td>
+		<td>Motor_Zylinderbohrung</td>
 	</tr>
 	<tr>
 		<td>Zylinderzahl:</td>
-		<td>Zylinderzahl</td>
+		<td>Motor_Zylinderzahl</td>
 	</tr>
 	<tr>
 		<td>Zylinderanordnung</td>
@@ -753,7 +753,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Zündfolge</td>
-		<td></td>
+		<td>Zündung_Zündfolge</td>
 	</tr>
 	<tr>
 		<td>Vorzündung</td>
@@ -761,11 +761,11 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Verdichtung:</td>
-		<td>Verdichtung</td>
+		<td>Motor_Verdichtung</td>
 	</tr>
 	<tr>
 		<td>Gewicht (trocken):</td>
-		<td>Gewicht__trocken_</td>
+		<td>Motor_Gewicht__trocken_</td>
 	</tr>
 	<tr>
 		<td>Grundbrennstoff</td>
@@ -773,7 +773,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>zugef. Brennstoffleistung :</td>
-		<td>Verbrauch_Leistung</td>
+		<td>BHKW_Verbrauch_Leistung</td>
 	</tr>
 	<tr>
 		<td>absoluter Brennstoffverbrauch</td>
@@ -781,11 +781,11 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wellenleistung:</td>
-		<td>Wellenleistung</td>
+		<td>Motor_Wellenleistung</td>
 	</tr>
 	<tr>
 		<td>Drehmoment</td>
-		<td>220 Nm bei 1500 min-1 (+- 5%)</td>
+		<td>Motor_Drehmoment</td>
 	</tr>
 	<tr>
 		<td>Wirkungsgrad Motor:</td>
@@ -797,47 +797,47 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Kühlwasserwärme:</td>
-		<td>Kühlwasserwärme</td>
+		<td>Motor_Kühlwasserwärme</td>
 	</tr>
 	<tr>
 		<td>Abgaswärme nutzbar (120°C):</td>
-		<td>Abgaswärme_nutzbar</td>
+		<td>Motor_Abgaswärme_nutzbar</td>
 	</tr>
 	<tr>
 		<td>Abgasmassenstrom:</td>
-		<td>Abgasmassenstrom</td>
+		<td>Motor_Abgasmassenstrom</td>
 	</tr>
 	<tr>
 		<td>Ladeluftkühlung</td>
-		<td>Ladeluftkühlung (L-Modell)</td>
+		<td>Motor_Ladeluftkühlung</td>
 	</tr>
 	<tr>
 		<td>Verbrennungsluftmenge:</td>
-		<td>Verbrennungsluftmenge</td>
+		<td>Motor_Verbrennungsluftmenge</td>
 	</tr>
 	<tr>
 		<td>max. Luft Ansaugtemperatur:</td>
-		<td>max_Luft_Ansaugtemperatur</td>
+		<td>Motor_max_Luft_Ansaugtemperatur</td>
 	</tr>
 	<tr>
 		<td>relative Luftfeuchtigkeit</td>
-		<td>relative_Luftfeuchtigkeit</td>
+		<td>Motor_relative_Luftfeuchtigkeit</td>
 	</tr>
 	<tr>
 		<td>Aufstellungshöhe:</td>
-		<td>Aufstellungshöhe</td>
+		<td>Motor_Aufstellungshöhe</td>
 	</tr>
 	<tr>
 		<td>bei 500 m.ü. Meereshöhe</td>
-		<td>Leistungsreduktion_500_m_üM</td>
+		<td>Motor_Leistungsreduktion_500_m_üM</td>
 	</tr>
 	<tr>
 		<td>bei 1000 m.ü. Meereshöhe</td>
-		<td>Leistungsreduktion_1000_m_üM</td>
+		<td>Motor_Leistungsreduktion_1000_m_üM</td>
 	</tr>
 	<tr>
 		<td>bei 1500 m.ü. Meereshöhe</td>
-		<td>Leistungsreduktion_1500_m_üM</td>
+		<td>Motor_Leistungsreduktion_1500_m_üM</td>
 	</tr>
 </tbody>
 </table>
