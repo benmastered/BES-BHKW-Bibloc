@@ -49,26 +49,6 @@ RUT200 Konfiguration
 ### 3.4.2 DynDNS auf einem Dienst-Provider erstellen (DuckDns, SPDNS)
 - einloggen, und unter install mit openwrt:
 
-	edit the config at /etc/config/ddns
-	config service "duckdns"
-			option enabled          "1"
-			option domain           "bes1.duckdns.org"
-			option username         "bes1"
-			option password         "d73fa34a-eb90-49af-9f8c-ad3dbde0988b"
-			option ip_source        "network"
-			option ip_network       "wan"
-			option force_interval   "72"
-			option force_unit       "hours"
-			option check_interval   "10"
-			option check_unit       "minutes"
-			#option ip_source       "interface"
-			#option ip_interface    "eth0.1"
-			#option ip_source       "web"
-			#option ip_url          "http://ipv4.wtfismyip.com/text"
-			option update_url       "http://www.duckdns.org/update?domains=[USERNAME]&token=[PASSWORD]&ip=[IP]"
-			#option use_https       "1"
-			#option cacert          "/etc/ssl/certs/cacert.pem"
-
 ### 3.4.3  DynDNS konfigurieren
 - Menu Services\Dynamic DNS öffnen
 - Neue Instanz erstellen "Add new instance"
