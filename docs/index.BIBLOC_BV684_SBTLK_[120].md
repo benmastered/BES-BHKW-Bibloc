@@ -1,6 +1,8 @@
 ﻿
 # BES BHKW BIBLOC BV684 SBTLK
-==================	
+
+## Inhalt
+
 
 ## Übersicht über die Typenfamilie Bibloc BV
 --------------------------------------------
@@ -56,7 +58,7 @@
 		<td>X</td>
 	</tr>
 	<tr>
-		<td>7  kW</td>
+		<td>Ladeluftkühlung</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -133,7 +135,7 @@ _________________________________________________________________________
 
 Lesen Sie vor Inbetriebnahme der BHKW-Anlage diese Anleitung aufmerksam durch. Die BHKW-Anlage ist ein elektrisches Aggregat mit drehenden Komponenten, welches mit explosiven Brenngasen und Schmierstoffen arbeitet.
  
-Es ist generell mit hohen Oberflächentemperaturen, gefährlichen elektrischen 3 x 400 Ven und giftigen Abgasen zu rechnen.
+Es ist generell mit hohen Oberflächentemperaturen, gefährlichen elektrischen Spannungen und giftigen Abgasen zu rechnen.
 
 Durch die Einhaltung der in dieser Anleitung aufgeführten Grundsätze für die Bedienung und Wartung dieser BHKW-Anlage vermeiden Sie Personen- und Sachschäden.
 _________________________________________________________________________
@@ -161,7 +163,7 @@ _________________________________________________________________________
 
 ##### nach der Inbetriebnahme
 
-•	Er ist verpflichtet, regelmässig Nachprüfungen, inkl. 2 Zoll durchzuführen,
+•	Er ist verpflichtet, regelmässig Nachprüfungen, inkl. Gasanschluss durchzuführen,
 
 •	Er ist für die Einhaltung der Bedienungssicherheit und aller weiteren Vorschriften und Normen, welche Auswirkungen auf den Betrieb des BHKWs haben, verantwortlich.
 
@@ -414,13 +416,12 @@ Aus diesem Grund kann die BIBLOC BV684 SBTLK BHKW-Anlage nur im Netzparallelbetr
 
 Beim Netzparallelbetrieb der BIBLOC BV684 SBTLK mit Synchrongenerator wird für den Start der Generatorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
 
-Nach Erreichen der Nenn1500	U/min wird zeitverzögert der Stern-Dreieckschütz angesteuert und gleichzeitig die Gaszufuhr und Zündung freigegeben. Der vom Verbrennungsmotor angetriebene Generator liefert nun ebenfalls die elektrische Energie ans Netz.
+Nach Erreichen der Nenndrehzahl wird zeitverzögert der Stern-Dreieckschütz angesteuert und gleichzeitig die Gaszufuhr und Zündung freigegeben. Der vom Verbrennungsmotor angetriebene Generator liefert nun ebenfalls die elektrische Energie ans Netz.
 
 Bei einem BHKW mit Synchrongenerator durchläuft die Maschine den Abkühlzyklus und der Generatorschütz löst gleichzeitig mit dem Anhalten des Motors. 
 
 
 #### Inselbetrieb
-
 
 ### Gasarten
 
@@ -429,7 +430,7 @@ Die Anforderungen an die jeweiligen Brenngase können dem Merkblatt **Eigenschaf
 
 ### Abgasbehandlung
 
-In der Schweiz unterliegen stationäre Verbrennungsmotoren ab einer Feuerungs68.0  kW >100 kW der Luftreinhalteverordnung (LRV). 
+In der Schweiz unterliegen stationäre Verbrennungsmotoren ab einer Feuerungswärmeleistung >100 kW der Luftreinhalteverordnung (LRV). 
 
 Einige Kantone wie ZH, BL, BS, TG und SG haben zusätzlich zur LRV einen Massnahmeplan erlassen, bei welchem die Emissionsgrenzwerte unabhängig von der Inputleistung eingehalten werden müssen.
 
@@ -438,7 +439,6 @@ Für mit Erd- und Flüssiggas betriebene BHKWs wird zur Reduktion der Schadstoff
 Bei Verwendung von Biogas können infolge der Gasverunreinigungen Katalysatoren nur bedingt verwendet werden. Die Schadstoffemissionen werden mittels Magermotor (Verbrennung mit Luftüberschuss) auf die gemäss LRV vorgeschriebenen Grenzwerte reduziert.
 
 Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator möglich, wodurch im Magerbetrieb die CO (Kohlenmonoxyd) zusätzlich reduziert werden.
-
 
 <table>
 <thead>
@@ -463,15 +463,14 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 </tbody>
 </table>
 
-## Beschreibung des BIBLOC BV684 SBTLK
+## Beschreibung des BHKWs BIBLOC BV684 SBTLK
+
 <table>
-<thead>
-	<tr>
-		<th>BHKW Energie-Service AG</th>
-		<th>Wert</th>
-	</tr>
-</thead>
 <tbody>
+	<tr>
+		<td>Fabrikat</td>
+		<td>BHKW Energie-Service AG</td>
+	</tr>
 	<tr>
 		<td>Typ:</td>
 		<td>BIBLOC BV684 SBTLK</td>
@@ -486,19 +485,19 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 	</tr>
 	<tr>
 		<td>Heizwert Hu:</td>
-		<td>6.0  kWh/Nm3</td>
+		<td>BHKW_Heizwert_Hu</td>
 	</tr>
 	<tr>
 		<td>Elektrische Leistung:</td>
-		<td>120  kW</td>
+		<td>BHKW_Elektrische_Leistung</td>
 	</tr>
 	<tr>
 		<td>Thermische Leistung:</td>
-		<td>182  kW</td>
+		<td>BHKW_Thermische_Leistung</td>
 	</tr>
 	<tr>
 		<td>Verbrauch :</td>
-		<td>342  kW</td>
+		<td>BHKW_Verbrauch_Leistung</td>
 	</tr>
 </tbody>
 </table>
@@ -521,7 +520,7 @@ Die Schalldämmhaube ist in einen kalten und warmen Bereich aufgeteilt. In den k
 
 Der Schaltschrank mit der Bedieneinheit, sowie allen notwendigen Steuer-, Regel- und Überwachungsseinrichtungen für den Netzparallel- respektive Notstrombetrieb, ist serienmässig neben der BHKW-Kapsel aufgestellt.
 
-Die Abwärme von Motor und Schmieröl wird mittels eines geschlossenen Primärkreislaufes (Wasser-Wasser-Wärmetauscher zur Übergabe der Motorenabwärme an den Heizkreis.) mit eigener Umwälzpumpe und Expansionsgefäss über einen Plattenwärmetauscher an den Sekundärkreislauf (z.B. Heizungssystem) abgegeben. 
+Die Abwärme von Motor und Schmieröl wird mittels eines geschlossenen Primärkreislaufes (Motorkühlung) mit eigener Umwälzpumpe und Expansionsgefäss über einen Plattenwärmetauscher an den Sekundärkreislauf (z.B. Heizungssystem) abgegeben. 
 
 Eine Rücklaufhochhaltung mit 3-Weg-Ventil gewährleistet, dass auch bei tiefen Sekundärtemperaturen die minimale Motortemperatur nicht unterschritten wird. 
 
@@ -532,17 +531,16 @@ Sämtliche Anschlüsse für Heizung, Gas und Abgas werden nach oben aus der Kaps
 Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prüfstand getestet.
 
 
-
 ### Abmessungen der BHKW-Anlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Abmessungen-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 ## Hauptkomponenten der BHKW-Anlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Hauptkomponenten-T30.jpg" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -672,12 +670,12 @@ Legende :
 
 ### Gasmotor
 
-Der Gasmotor Motor_BHKW Energie-Service AG MAG 84.6 T213A dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
+Der Gasmotor MAMotec MAG 84.6 T213A dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
 
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### Konstruktion
-Der Otto-Gasmotor Motor_BHKW Energie-Service AG MAG 84.6 T213A ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor MAMotec MAG 84.6 T213A ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
@@ -694,8 +692,8 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 <table>
 <tbody>
 	<tr>
-		<td>BHKW Energie-Service AG</td>
-		<td>Motor_BHKW Energie-Service AG</td>
+		<td>Fabrikat</td>
+		<td>MAMotec</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
@@ -710,8 +708,8 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 		<td>Viertakter</td>
 	</tr>
 	<tr>
-		<td>1500	U/min:</td>
-		<td>1500	U/min</td>
+		<td>Drehzahl:</td>
+		<td>Motor_Drehzahl</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -722,23 +720,23 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 		<td>rechtsdrehend</td>
 	</tr>
 	<tr>
-		<td>8420  cm3:</td>
-		<td>8420  cm3</td>
+		<td>Hubraum:</td>
+		<td>Motor_Hubraum</td>
 	</tr>
 	<tr>
-		<td>145  mm:</td>
-		<td>145  mm</td>
+		<td>Kolbenhub:</td>
+		<td>Motor_Kolbenhub</td>
 	</tr>
 	<tr>
 		<td>Mittlere Kolbengeschwindigkeit:</td>
-		<td>7.2  m/s</td>
+		<td>Motor_Mittlere_Kolbengeschwindigkeit</td>
 	</tr>
 	<tr>
-		<td>111  mm:</td>
-		<td>111  mm</td>
+		<td>Zylinderbohrung:</td>
+		<td>Motor_Zylinderbohrung</td>
 	</tr>
 	<tr>
-		<td>6 in Reihe:</td>
+		<td>Zylinderzahl:</td>
 		<td>6 in Reihe</td>
 	</tr>
 	<tr>
@@ -755,19 +753,19 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Zündfolge</td>
-		<td></td>
+		<td>Zündung_Zündfolge</td>
 	</tr>
 	<tr>
 		<td>Vorzündung</td>
 		<td>20-24 Grad(Erdgas); 26-32_ (Biogas)</td>
 	</tr>
 	<tr>
-		<td>13:1:</td>
+		<td>Verdichtung:</td>
 		<td>13:1</td>
 	</tr>
 	<tr>
 		<td>Gewicht (trocken):</td>
-		<td>680  kg</td>
+		<td>Motor_Gewicht__trocken_</td>
 	</tr>
 	<tr>
 		<td>Grundbrennstoff</td>
@@ -775,70 +773,70 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>zugef. Brennstoffleistung :</td>
-		<td>342  kW</td>
+		<td>BHKW_Verbrauch_Leistung</td>
 	</tr>
 	<tr>
 		<td>absoluter Brennstoffverbrauch</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>128  kW:</td>
-		<td>128  kW</td>
+		<td>Wellenleistung:</td>
+		<td>Motor_Wellenleistung</td>
 	</tr>
 	<tr>
 		<td>Drehmoment</td>
-		<td>220 Nm bei 1500 min-1 (+- 5%)</td>
+		<td>Motor_Drehmoment</td>
 	</tr>
 	<tr>
 		<td>Wirkungsgrad Motor:</td>
-		<td>52.5</td>
+		<td>Wirkungsgrad_Motor</td>
 	</tr>
 	<tr>
 		<td>Kühlungsart</td>
 		<td>Wasserkühlung mit Überdruck</td>
 	</tr>
 	<tr>
-		<td>92  kW:</td>
-		<td>92  kW</td>
+		<td>Kühlwasserwärme:</td>
+		<td>Motor_Kühlwasserwärme</td>
 	</tr>
 	<tr>
 		<td>Abgaswärme nutzbar (120°C):</td>
-		<td>77  kW</td>
+		<td>Motor_Abgaswärme_nutzbar</td>
 	</tr>
 	<tr>
-		<td>460  kg/h:</td>
-		<td>460  kg/h</td>
+		<td>Abgasmassenstrom:</td>
+		<td>Motor_Abgasmassenstrom</td>
 	</tr>
 	<tr>
-		<td>7  kW</td>
-		<td>7  kW (L-Modell)</td>
+		<td>Ladeluftkühlung</td>
+		<td>Motor_Ladeluftkühlung</td>
 	</tr>
 	<tr>
-		<td>400  m3/h:</td>
-		<td>400  m3/h</td>
+		<td>Verbrennungsluftmenge:</td>
+		<td>Motor_Verbrennungsluftmenge</td>
 	</tr>
 	<tr>
 		<td>max. Luft Ansaugtemperatur:</td>
-		<td>25  °C</td>
+		<td>Motor_max_Luft_Ansaugtemperatur</td>
 	</tr>
 	<tr>
 		<td>relative Luftfeuchtigkeit</td>
 		<td>60	%</td>
 	</tr>
 	<tr>
-		<td>0  m ü. M:</td>
-		<td>0  m ü. M</td>
+		<td>Aufstellungs2170  mm:</td>
+		<td>Motor_Aufstellungs2170  mm</td>
 	</tr>
 	<tr>
-		<td>Leistungsreduktion bei 500 m.ü. Meeres2170  mm</td>
+		<td>bei 500 m.ü. Meeres2170  mm</td>
 		<td>3	%</td>
 	</tr>
 	<tr>
-		<td>Leistungsreduktion bei 1000 m.ü. Meeres2170  mm</td>
+		<td>bei 1000 m.ü. Meeres2170  mm</td>
 		<td>8	%</td>
 	</tr>
 	<tr>
-		<td>Leistungsreduktion bei 1500 m.ü. Meeres2170  mm</td>
+		<td>bei 1500 m.ü. Meeres2170  mm</td>
 		<td>14	%</td>
 	</tr>
 </tbody>
@@ -902,23 +900,23 @@ Steuerzeiten
 	</tr>
 	<tr>
 		<td>Füllmenge Ölwanne u. Filter:</td>
-		<td>26  Liter</td>
+		<td>Füllmenge_Ölwanne_u_Filter</td>
 	</tr>
 	<tr>
 		<td>Füllmenge Vorratsbehälter:</td>
-		<td>44  Liter</td>
+		<td>Füllmenge_Vorratsbehälter</td>
 	</tr>
 	<tr>
-		<td>0.3  g/kWh:</td>
-		<td>0.3  g/kWh</td>
+		<td>Schmierölverbrauch:</td>
+		<td>Schmierölverbrauch</td>
 	</tr>
 	<tr>
 		<td>min. Öldruck:</td>
-		<td>1  bar</td>
+		<td>min_Öldruck</td>
 	</tr>
 	<tr>
 		<td>Öltemperatur in Betrieb:</td>
-		<td>95-100	°C</td>
+		<td>Öltemperatur_in_Betrieb</td>
 	</tr>
 	<tr>
 		<td>Ölwechselintervall</td>
@@ -928,7 +926,7 @@ Steuerzeiten
 </table>
 
 
-#### Wasser-Wasser-Wärmetauscher zur Übergabe der Motorenabwärme an den Heizkreis.
+#### Motorkühlung
 
 ##### Plattenwärmetauscher
 
@@ -936,31 +934,31 @@ Steuerzeiten
 <tbody>
 	<tr>
 		<td>Funktion</td>
-		<td>Übertragung der Motorabwärme an den Heizkreislauf über folgenden Platten-Wärmetauscher.</td>
+		<td>Kühlwasser_Wasser_WT_Beschreibung</td>
 	</tr>
 	<tr>
-		<td>B15:</td>
-		<td>WT_B15</td>
+		<td>Bauart:</td>
+		<td>WT_Bauart</td>
 	</tr>
 	<tr>
-		<td>68.0  kW:</td>
-		<td>68.0  kW</td>
+		<td>Wärmeleistung:</td>
+		<td>Wärmeleistung</td>
 	</tr>
 	<tr>
 		<td>Temp. primär ein / aus:</td>
-		<td>85 / 75	°C</td>
+		<td>WT_Temp_primär_ein_aus</td>
 	</tr>
 	<tr>
 		<td>Temp. sekundär ein / aus:</td>
-		<td>70 / 85	°C</td>
+		<td>WT_Temp_sekundär_ein_aus</td>
 	</tr>
 	<tr>
 		<td>Wassermenge prim./sek.:</td>
-		<td>17.8 / 10.9	m3/h</td>
+		<td>Wassermenge_prim_sek</td>
 	</tr>
 	<tr>
 		<td>Druckverlust prim./sek.:</td>
-		<td>13.6 / 3.5 kPa</td>
+		<td>Druckverlust_prim_sek</td>
 	</tr>
 </tbody>
 </table>
@@ -970,44 +968,44 @@ Steuerzeiten
 <tbody>
 	<tr>
 		<td>Funktion</td>
-		<td>Übertragung der Motorabwärme an den Heizkreislauf über folgenden Platten-Wärmetauscher.</td>
+		<td>Kühlwasser_Wasser_WT_Beschreibung</td>
 	</tr>
 	<tr>
-		<td>B15:</td>
-		<td>WT_B15</td>
+		<td>Bauart:</td>
+		<td>WT_Bauart</td>
 	</tr>
 	<tr>
-		<td>68.0  kW:</td>
-		<td>68.0  kW</td>
+		<td>Wärmeleistung:</td>
+		<td>Wärmeleistung</td>
 	</tr>
 	<tr>
 		<td>Temp. primär ein / aus:</td>
-		<td>85 / 75	°C</td>
+		<td>WT_Temp_primär_ein_aus</td>
 	</tr>
 	<tr>
 		<td>Temp. sekundär ein / aus:</td>
-		<td>70 / 85	°C</td>
+		<td>WT_Temp_sekundär_ein_aus</td>
 	</tr>
 	<tr>
 		<td>Wassermenge prim./sek.:</td>
-		<td>17.8 / 10.9	m3/h</td>
+		<td>Wassermenge_prim_sek</td>
 	</tr>
 	<tr>
 		<td>Druckverlust prim./sek.:</td>
-		<td>13.6 / 3.5 kPa</td>
+		<td>Druckverlust_prim_sek</td>
 	</tr>
 </tbody>
 </table>
 
 #### Zündsystem
 
-Wartungsarme, elektronische Wartungsarme, elektronische Zündanlage.._Beschreibung
+Wartungsarme, kontaktlose, mikroprozessorgesteuerte Zündanlage, bestehend aus Steuergerät, Impulsaufnehmer, Einzelzündspulen/Zylinder, Zündkabel und Zündkerzen, die nach dem Prinzip der Kondensatorentladung arbeitet.
 
 <table>
 <tbody>
 	<tr>
-		<td>Wartungsarme, elektronische Wartungsarme, elektronische Zündanlage..</td>
-		<td>Wartungsarme, elektronische Wartungsarme, elektronische Zündanlage.._Typ</td>
+		<td>Zündanlage</td>
+		<td>Trijekt / Gas T704</td>
 	</tr>
 	<tr>
 		<td>Zündkerzen Typ</td>
@@ -1050,7 +1048,7 @@ Wartungsarme, elektronische Wartungsarme, elektronische Zündanlage.._Beschreibu
 
 #### Konstruktion Synchrongenerator
 
-Der Synchrongenerator wird im Nieder3 x 400 Vsbereich betrieben und für 690V in Sternschaltung ausgelegt.  Der Generator entspricht der IP23 IP21. 
+Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Sternschaltung ausgelegt.  Der Generator entspricht der IP23 IP21. 
 
 Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
 
@@ -1059,11 +1057,11 @@ Das Statorpaket besteht aus lammeliertem Dynamoblech und wird in das Statorgehä
 Der Rotor wird an der Hinterseite mit einem Wälzlager gelagert, dessen Nachschmierung im Rahmen der vorgeschriebenen technischen Wartung durchgeführt werden muss. An der Vorderseite wird die Kupplungsscheibe direkt auf das Schwungrad des Motors geschraubt und benötigt daher kein weiters Wälzlager.
 
 #### Funktionsweise Synchrongenerator
-Beim Startvorgang entspricht der Synchrongenerator einem Synchronelektromotor. Dabei entsteht nach der Zuführung der dreiphasigen Wechsel3 x 400 V an die Ständerwicklung ein drehendes Magnetfeld. 
+Beim Startvorgang entspricht der Synchrongenerator einem Synchronelektromotor. Dabei entsteht nach der Zuführung der dreiphasigen Wechselspannung an die Ständerwicklung ein drehendes Magnetfeld. 
 
-Dieses Feld induziert der Rotorwicklung eine 3 x 400 V, welche ihrerseits ein Magnetfeld aufbaut. 
+Dieses Feld induziert der Rotorwicklung eine Spannung, welche ihrerseits ein Magnetfeld aufbaut. 
 
-Die 1500	U/min ist durch die Polzahl gegeben und ihre Abweichung von den Synchronumdrehungen wird durch den Schlupf (1.8%) bestimmt. 
+Die Drehzahl ist durch die Polzahl gegeben und ihre Abweichung von den Synchronumdrehungen wird durch den Schlupf (1.8%) bestimmt. 
 
 Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte Strom ins Netz abgegeben.
 
@@ -1076,8 +1074,8 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 		<td>UCI 274 F</td>
 	</tr>
 	<tr>
-		<td>BHKW Energie-Service AG:</td>
-		<td>Generator_BHKW Energie-Service AG</td>
+		<td>Fabrikat:</td>
+		<td>STAMFORD</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
@@ -1085,55 +1083,55 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 	</tr>
 	<tr>
 		<td>max. Scheinleistung:</td>
-		<td>160  kVA</td>
+		<td>max_Scheinleistung</td>
 	</tr>
 	<tr>
-		<td>120  kW:</td>
-		<td>120  kW</td>
+		<td>Nennleistung:</td>
+		<td>Nennleistung</td>
 	</tr>
 	<tr>
-		<td>3 x 400 V:</td>
-		<td>3 x 400 V</td>
+		<td>Spannung:</td>
+		<td>Spannung</td>
 	</tr>
 	<tr>
-		<td>50:</td>
-		<td>50</td>
+		<td>Frequenz:</td>
+		<td>Frequenz</td>
 	</tr>
 	<tr>
 		<td>Nennstrom bei cos 1:</td>
-		<td>175</td>
+		<td>Nennstrom_bei_cos_j_1</td>
 	</tr>
 	<tr>
 		<td>Wirkungsgrad bei cos 1:</td>
-		<td>94.7	%</td>
+		<td>Wirkungsgrad_bei_cos_j_1</td>
 	</tr>
 	<tr>
-		<td>1500	U/min:</td>
-		<td>1500</td>
+		<td>Drehzahl:</td>
+		<td>Nenndrehzahl</td>
 	</tr>
 	<tr>
-		<td>2250:</td>
-		<td>2250</td>
+		<td>Durchbrennzahl:</td>
+		<td>Durchbrennzahl</td>
 	</tr>
 	<tr>
 		<td>Gewicht:</td>
-		<td>563  kg</td>
+		<td>Generator_Gewicht</td>
 	</tr>
 	<tr>
-		<td>VDE:</td>
-		<td>VDE</td>
+		<td>Zulassung:</td>
+		<td>Zulassung</td>
 	</tr>
 	<tr>
 		<td>IP23:</td>
 		<td>IP23</td>
 	</tr>
 	<tr>
-		<td>H:</td>
-		<td>H</td>
+		<td>Isolationsklasse:</td>
+		<td>Isolationsklasse</td>
 	</tr>
 	<tr>
-		<td>B15:</td>
-		<td>B15</td>
+		<td>Bauart:</td>
+		<td>Bauart</td>
 	</tr>
 </tbody>
 </table>
@@ -1145,7 +1143,7 @@ Zur Kühlung des Gasmotors ist ein separater, geschlossener Primärkreislauf ins
 #### Komponenten und Schema des Primärkreislaufes
 
 <div align="center">
-  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Primärkreislauf-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :	
@@ -1198,8 +1196,12 @@ Zum Auffüllen des Primärkreislaufes wird nach folgenden Punkten vorgegangen:
 •	die Anlage in Betrieb setzen und auf Betriebstemperatur erwärmen lassen
 •	Senkt sich das Niveau im Ausgleichsgefäss die Anlage ausschalten
 •	den Deckel des Ausgleichsgefässes entfernen
-
+_________________________________________________________________________
+<div align="left">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
 ACHTUNG! Deckel nie bei heissem Motor öffnen!
+_________________________________________________________________________
 
 •	Das Ausgleichsgefäss bis zur Niveaumarkierung MAX mit Kühlmittelflüssigkeit nachfüllen
 •	den Deckel des Ausgleichsgefäss schliessen
@@ -1238,12 +1240,12 @@ Störungen im Primärkreislauf äussern sich meistens in Form von zu hohen Kühl
  
 ### Sekundärkreislauf
 
-Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwärmetauscher) und Abgaswärmetauscher auf und führt damit die komplette 68.0  kW der BHKW-Anlage in ein entsprechendes Wärmesystem ab.
+Der Sekundärkreislauf nimmt die Abwärme aus Generator, Motor (über Plattenwärmetauscher) und Abgaswärmetauscher auf und führt damit die komplette Wärmeleistung der BHKW-Anlage in ein entsprechendes Wärmesystem ab.
 
 #### Komponenten und Schema des Sekundärkreislaufes
 
 <div align="center">
-  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Sekundärkreislauf-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1286,7 +1288,7 @@ Legende :
 
 #### Beschreibung des Sekundärkreislaufes
 
-Eine Umwälzpumpe im Sekundärkreislauf fördert das Heizwasser über den wassergekühlten Mantel des Gasmotors zur Sekundärseite des Plattenwärmetauschers im BHKW, wo die Motorabwärme des Primärkreislaufes übernommen wird. Weiter gelangt das Heizwasser in den Abgaswärmetauscher, wo die Abwärme aus der Abgasrückkühlung abgeführt wird. Über den BHKW-Vorlauf gelangt die komplette 68.0  kW zu dem oder den Wärmeverbraucher.
+Eine Umwälzpumpe im Sekundärkreislauf fördert das Heizwasser über den wassergekühlten Mantel des Gasmotors zur Sekundärseite des Plattenwärmetauschers im BHKW, wo die Motorabwärme des Primärkreislaufes übernommen wird. Weiter gelangt das Heizwasser in den Abgaswärmetauscher, wo die Abwärme aus der Abgasrückkühlung abgeführt wird. Über den BHKW-Vorlauf gelangt die komplette Wärmeleistung zu dem oder den Wärmeverbraucher.
  
 Bei Rücklauftemperaturen zum BHKW kälter als 60 °C besteht die Gefahr, dass im Abgaswärmetauscher die Abgase auskondensieren, was vor allem bei Verwendung von Bio- oder Klärgas zu Korrosionsschäden führen kann. Um dies zu verhindern empfiehlt es sich, in den BHKW-Rücklauf eine Hochhaltung zu installieren, welche die Eintrittstemperatur konstant auf minimal 60 °C und maximal 70 °C anhebt. 
 
@@ -1308,7 +1310,13 @@ Zum Auffüllen des Sekundärkreislaufes wird nach folgenden Punkten vorgegangen:
 Der Sekundärkreislauf muss gemäss den SWKI-Richtlinien und allgemeinen eingefüllt werden, damit die max. erlaubte Wasserhärte von 13°f (= 130 g Kalk/m3 Wasser) nicht überschritten wird.
 
 Im BHKW-Rücklauf muss ein Schmutzfänger installiert werden.
+ _________________________________________________________________________
+<div align="left">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
 Bei Missachtung dieser Vorschriften können die Wärmetauscher durch Ablagerungen verstopft werden.
+_________________________________________________________________________
 
 Der Generator und Rohrleitungen des Sekundärkreislaufs innerhalb der Schalldämmhaube dürfen nicht mit einer Wärmeisolation versehen werden. Diese Komponenten helfen die Strahlungswärme unter der Schalldämmhaube abzuführen.
 	
@@ -1329,7 +1337,7 @@ Siehe *Störungen im Primärkreislauf*.
 #### Komponenten und Schema der Gasregelstrecke und Luftzufuhr
 
 <div align="center">
-  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Verbrennungsgemisch-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1395,7 +1403,7 @@ Die Einregulierung der Gasregelstrecke erfolgt grundsätzlich in Kombination mit
 
 Die Funktionskontrolle der Lambdaregelung und die Einstellung deren Sollwerte kann nur durch geschulte Servicetechniker und mit einem Abgasanalysegerät durchgeführt werden
 
-Die Einstellung von Nulldruckregler, Haupteinstellschraube, Lambda-Regelung und 1500	U/minregler beeinflussen sich gegenseitig. Änderungen bei einer Komponente können sich auch auf die Arbeit der anderen Komponenten auswirken.
+Die Einstellung von Nulldruckregler, Haupteinstellschraube, Lambda-Regelung und Drehzahlregler beeinflussen sich gegenseitig. Änderungen bei einer Komponente können sich auch auf die Arbeit der anderen Komponenten auswirken.
 
 So sind bei einer Neueinstellung einer Komponente meistens auch die anderen Regelkomponenten nachzujustieren.
 
@@ -1438,7 +1446,7 @@ Sie regelt die Leistung gemäss dem vorliegenden Sollwert.
 #### Komponenten der Leistungsregulierung
 
 <div align="center">
-  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Leistungsregelung-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende:
@@ -1472,7 +1480,7 @@ Legende:
 Die Hauptkomponenten der Leistungsregulierung bilden der vom Steuersystem IS-GAS ange-steuerte Stellmotor sowie die Drosselklappe. Diese beiden Komponenten sind über einen Seilzug verbunden.
 
 Das Steuersystem IS-GAS öffnet oder schliesst den Stellmotor, indem es über zwei digitale Ausgänge den Auf- oder Zu-Eingang (12 VDC) des Stellmotors ansteuert. Wird kein Eingang angesteuert, bleibt der Stellmotor in der jeweiligen Position stehen (3-Punktregulierung).
-Die 1500	U/min bei einem Synchrongenerator ist stets konstant und ist durch die Polzahl vorgege-ben. Eine 1500	U/minregulierung wie bei einem Synchrongenerator ist daher nicht notwendig. Eine Änderung der Drosselklappenstellung hat eine Änderung der Leistung zur Folge. 
+Die Drehzahl bei einem Synchrongenerator ist stets konstant und ist durch die Polzahl vorgege-ben. Eine Drehzahlregulierung wie bei einem Synchrongenerator ist daher nicht notwendig. Eine Änderung der Drosselklappenstellung hat eine Änderung der Leistung zur Folge. 
 Während den Startvorbereitungen öffnet der Stellmotor (Aktuator) die Drosselklappe auf die vorgegebene Startposition und regelt anschliessend auf den vorgegebenen Sollwert.
 Die Stillsetzung der Anlage erfolgt in umgekehrter Reihenfolge der vorher beschriebenen Proze-dur.
  
@@ -1490,7 +1498,7 @@ Durch die Verbrennung des Gas- Luftgemisches im Gasmotor entstehen Abgase. Nach 
 #### Komponenten und Schema des Abgassystems
 
 <div align="center">
-  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Abgassystem-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1548,18 +1556,18 @@ Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Ab
 		<td></td>
 	</tr>
 	<tr>
-		<td>~120	°C am Austrittsflansch</td>
-		<td>~120	°C</td>
+		<td>Abgastemperatur am Austrittsflansch</td>
+		<td>Abgastemperatur</td>
 		<td>°C</td>
 	</tr>
 	<tr>
 		<td>Abgaswärmeleistung</td>
-		<td>77  kW</td>
+		<td>Abgaswärme_nutzbar</td>
 		<td>kW</td>
 	</tr>
 	<tr>
-		<td>460  kg/h</td>
-		<td>460  kg/h</td>
+		<td>Abgasmassenstrom</td>
+		<td>Abgasmassenstrom</td>
 		<td>kg/h</td>
 	</tr>
 	<tr>
@@ -1575,10 +1583,10 @@ Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Ab
 </tbody>
 </table>
 
-Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die ~120	°Cen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. 2170  mmre ~120	°Cen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
+Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. 2170  mmre Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
 #### Material der Abgasleitung
-Die ~120	°C beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die ~120	°C an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
+Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
 
 Damit können für die Abgasleitung folgende Materialien verwendet werden:
 
@@ -1590,7 +1598,7 @@ Bei zu grossen Querschnitten der Abgasleitung können Resonanzen und entsprechen
 
 #### Konstruktion der Abgasleitung
 
-•	Die Abgasableitung der BHKW-Anlage muss die vorgeschriebenen Normen erfüllen und eine entsprechende VKF-VDE aufweisen.
+•	Die Abgasableitung der BHKW-Anlage muss die vorgeschriebenen Normen erfüllen und eine entsprechende VKF-Zulassung aufweisen.
 
 •	In der Abgasleitung einer BHKW-Anlage herrscht stets Überdruck. Aus diesem Grund muss die Abgasleitung gasdicht bis min. 10 mbar (1000 Pa) sein.
 
@@ -1602,7 +1610,7 @@ Bei zu grossen Querschnitten der Abgasleitung können Resonanzen und entsprechen
 
 •	Im Aufstellungslokal müssen zugängliche Abgasleitungen aus Stahl einen Berührungsschutz aufweisen (Oberflächentemperatur < 60 °C), wodurch doppelwandige, isolierte Abgasleitun-gen zur Anwendung kommen.
 
- Eine nachträgliche Wärmeisolierung von einwandigen Abgasleitungen ist unter Umständen nicht erlaubt (siehe VKF-VDE der verwendeten Abgasleitung)
+ Eine nachträgliche Wärmeisolierung von einwandigen Abgasleitungen ist unter Umständen nicht erlaubt (siehe VKF-Zulassung der verwendeten Abgasleitung)
  
 ### Rauchgasbehandlung
 Zur Reduktion der Abgasemissionen werden je nach Betriebsstoff zwei unterschiedliche Reinigungssysteme verwendet:
@@ -1619,7 +1627,7 @@ In beiden Systemen wird eine Lambdaregelung eingesetzt, welche die Gaszufuhr zum
 
 Die Lambdaregelung ist im Steuersystem IS-GAS integriert. Sie dosiert die Gasmenge in den Venturimischer derart, dass während des Betriebs im Venturi immer ein konstantes Gas-, Luftgemischverhältnis entsteht.
 
-Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den Abgasen. Dieser Sauerstoffgehalt wird mit einer Lambdasonde gemessen, welche ein entsprechendes 3 x 400 Vssignal (U=700mV bei Lambda=1 mit Dreiwegkatalysator oder U= 30mV bei Lambda=1.5 mit Magermotor) an die Lambdaregelung übermittelt. Aufgrund dieses Signals erteilt das Steuersystem dem Schrittmotor des Dosierventils den Befehl zum Öffnen oder Schliessen.
+Die Führungsgrösse für die Lambdaregelung bildet der Restsauerstoff O2 in den Abgasen. Dieser Sauerstoffgehalt wird mit einer Lambdasonde gemessen, welche ein entsprechendes Spannungssignal (U=700mV bei Lambda=1 mit Dreiwegkatalysator oder U= 30mV bei Lambda=1.5 mit Magermotor) an die Lambdaregelung übermittelt. Aufgrund dieses Signals erteilt das Steuersystem dem Schrittmotor des Dosierventils den Befehl zum Öffnen oder Schliessen.
 
 Die Lambdaregelung besteht aus einem Regelalgorithmus, welcher im Steuersystem IS-GAS integriert ist. Beim START-Befehl des BHKW wird dieser Regelalgorithmus aktiviert. Dabei schliesst das Dosierventil komplett, wodurch sich die Regelung eine Referenzposition sucht. Danach öffnet das Dosierventil auf die vorgegebene Startposition und wartet den Start der Anlage ab. Nach dem Anlagestart bleibt das Ventil in dieser Position, bis die vorgegebene Aufwärmzeit für die Lambdasonde abgelaufen ist. Nach Ablauf dieser Zeit beginnt es das Gasgemisch in Abhängigkeit der Lambdasondenspannung zu regulieren.
 Nach dem STOP-Befehl des BHKW wird der Regelalgorithmus gleichzeitig mit den anderen Systemen der Anlage ausgeschaltet respektive deaktiviert. Das Regelventil bleibt in der vor dem Ausschalten gehaltenen Lage.
@@ -1630,7 +1638,7 @@ Für den Betrieb mit Dreiwegkatalysator reguliert die Lambdaregelung die Gasmeng
 
 Dies ist die Voraussetzung für die chemische, katalytische Reaktion der Schadstoffe im Katalysator, bei welcher die giftigen Stickoxide NOx zu ungiftigem Stickstoff reduziert werden. Gleichzeitig oxidiert das giftige Kohlenmonoxid CO mit dem freiwerdenden Sauerstoff zu Kohlendioxid CO2. Dieser Vorgang wiederholt sich ständig.
 
-Als Schutz für den Katalysator wird die ~120	°C nach dem Katalysator permanent mit einem Thermoelement gemessen. Übersteigt die ~120	°C den vorgegebenen Sollwert, wird das BHKW über das Steuersystem abgeschaltet. Ein Anstieg der ~120	°C nach dem Katalysator erfolgt vor allem dann, wenn das Verbrennungsgemisch durch einen Defekt in der Lambdaregelung nicht stöchiometrisch verbrennt oder infolge einer defekten Zündkerze unverbranntes Gas in den Katalysator gelangt, wo eine Nachverbrennung erfolgt.
+Als Schutz für den Katalysator wird die Abgastemperatur nach dem Katalysator permanent mit einem Thermoelement gemessen. Übersteigt die Abgastemperatur den vorgegebenen Sollwert, wird das BHKW über das Steuersystem abgeschaltet. Ein Anstieg der Abgastemperatur nach dem Katalysator erfolgt vor allem dann, wenn das Verbrennungsgemisch durch einen Defekt in der Lambdaregelung nicht stöchiometrisch verbrennt oder infolge einer defekten Zündkerze unverbranntes Gas in den Katalysator gelangt, wo eine Nachverbrennung erfolgt.
  
 #### Funktion des Oxidationskatalysator
 
@@ -1648,13 +1656,13 @@ Arbeiten bezüglich Rauchgasbehandlung können daher ausschliesslich durch gesch
 
 Jede Änderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
  
-### Um die Standzeit des Schmieröls zu erhöhen, wird der Vorratsbehälter neben die Ölwanne platziert und mit dieser über eine Ausgleichsleitung verbunden. Vom Stirnradgetriebe wird kontinuierlich Öl in den Vorratsbe-hälter zurückgeführt, wo es sich aufgrund der langen Aufenthaltszeit stabilisieren kann. Die eingefüllte Öl-menge ist ausreichend für min. 1500 Betriebsstunden.
+### Schmierölsystem
 Das Ölsystem der BIBLOC BV684 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
 
-#### Komponenten und Schema des Um die Standzeit des Schmieröls zu erhöhen, wird der Vorratsbehälter neben die Ölwanne platziert und mit dieser über eine Ausgleichsleitung verbunden. Vom Stirnradgetriebe wird kontinuierlich Öl in den Vorratsbe-hälter zurückgeführt, wo es sich aufgrund der langen Aufenthaltszeit stabilisieren kann. Die eingefüllte Öl-menge ist ausreichend für min. 1500 Betriebsstunden.s
+#### Komponenten und Schema des Schmierölsystems
 
 <div align="center">
-  <img src="_static/images/BHKW-Um die Standzeit des Schmieröls zu erhöhen, wird der Vorratsbehälter neben die Ölwanne platziert und mit dieser über eine Ausgleichsleitung verbunden. Vom Stirnradgetriebe wird kontinuierlich Öl in den Vorratsbe-hälter zurückgeführt, wo es sich aufgrund der langen Aufenthaltszeit stabilisieren kann. Die eingefüllte Öl-menge ist ausreichend für min. 1500 Betriebsstunden.-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Schmierölsystem-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :
@@ -1715,22 +1723,22 @@ Es ist nicht erlaubt bei sichtbaren Ölleckagen die BHKW-Anlage weiter zu be-tre
 
 Der Ölwechsel ist ein Bestandteil der technischen Anlagewartung und wird nach festgelegten Intervallen durchgeführt. Mit dem Ölwechsel ist gleichzeitig auch der Ölfilter zu ersetzen.
 
-### Wartungsarme, elektronische Zündanlage.
-Die Wartungsarme, elektronische Zündanlage. sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches im Gasmotor-Verbrennungsraum mittels eines Funkensprungs bei den Zündkerzen.
+### Zündanlage
+Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches im Gasmotor-Verbrennungsraum mittels eines Funkensprungs bei den Zündkerzen.
 
 <table>
 <tbody>
 	<tr>
-		<td>Typ der Wartungsarme, elektronische Zündanlage.</td>
-		<td>Wartungsarme, elektronische Zündanlage._Typ</td>
+		<td>Typ der Zündanlage</td>
+		<td>Trijekt / Gas T704</td>
 	</tr>
 </tbody>
 </table>
 
-#### Komponenten der Wartungsarme, elektronische Zündanlage.
+#### Komponenten der Zündanlage
 
 <div align="center">
-  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="300">
+  <img src="_static/images/BHKW-Zündsystem-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :	
@@ -1767,7 +1775,7 @@ Legende :
 
 
  
-#### Funktionsbeschrieb der Wartungsarme, elektronische Zündanlage.
+#### Funktionsbeschrieb der Zündanlage
 
 Die Austrittsignale (Zündimpulse auf die einzelnen Zündspulen) werden wie folgt generiert:
 
@@ -1824,29 +1832,46 @@ Das Ende des RESET-Signals synchronisiert die Zündung so, dass nach Ende des n�
 Mit Hilfe des DIP-Schalter Nr. 8 kann die Zündung der Kerzen um 360° neu definiert werden.
  
  
-#### Einstellung der Wartungsarme, elektronische Zündanlage.
-Für eine korrekte Funktion der Wartungsarme, elektronische Zündanlage. müssen folgende Grundeinstellungen vorgenommen werden: 
-Zündkerze
+#### Einstellung der Zündanlage
+
+Für eine korrekte Funktion der Zündanlage müssen folgende Grundeinstellungen vorgenommen werden:
+ 
+##### Zündkerze
+
 Die Wahl der richtigen Zündkerze ist stark vom verwendeten Brenngas abhängig. 
-Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze. 
+Während der Betrieb mit Erdgas in den meisten Fällen unproblematisch ist, stellt der Betrieb mit Bio- oder Klärgas höhere Ansprüche an die Zündkerze.
+ 
 Der Einsatz von Platin- oder Iridiumzündkerzen ist hier in den meisten Fällen unumgänglich. Folgende Zündkerzen können eingesetzt werden:
+* Betrieb mit Erdgas:	BRISK AR12YS
+* Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
 
-Betrieb mit Erdgas:	BRISK AR12YS
-Betrieb mit Biogas:	NGK PMR8A, NGK CPR8E, DENSO IU22, DENSO IU24
-Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
+-> Der Elektroden-Abstand der Zündkerzen ist generell auf 0.4 mm einzustellen.
 
-Zündbox
-Den Zündzeitpunkt (Vorzündung) einstellen.
-Betrieb mit Erdgas:	24_ vor O.T.
-Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
-Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe 7.10.2 *Funktionsbeschrieb der Wartungsarme, elektronische Zündanlage.*).
+##### Zündbox:
 
-#### Wartung der Wartungsarme, elektronische Zündanlage.
-Die Kontrolle und Wartung der Wartungsarme, elektronische Zündanlage. ist ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
+den Zündzeitpunkt (Vorzündung) einstellen.
+* Betrieb mit Erdgas:	24° vor O.T.
+* Betrieb mit Biogas:	26° bis 32° vor O.T. (abhängig von den Abgasemissionen)
+* Die Vorzündung kann mit den DIP-Schaltern (ON/OFF Position) eingestellt werden. 
+* Liegen die DIP-Schalter in der OFF Position vergrössert sich die Vorzündung, liegen sie in der ON Position verkleinert sich die Vorzündung (Siehe *Funktionsbeschrieb der Zündanlage*).
 
- 	Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+#### Wartung der Zündanlage
+Die Kontrolle und Wartung der Zündanlage ist ein Bestandteil der technischen Anlagewartung gemäss Wartungsplan und wird ausschliesslich durch geschulte Servicemitarbeiter der Firma BES durchgeführt.
 
- 	Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisier-tem Fachpersonal ausgeführt werden. Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen. Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
+Das Zündsystem arbeitet auf der Sekundärseite (Zündspule und Zündkerze) mit Hochspannung. Das Berühren dieser Komponenten während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+
+Diese Arbeiten (mit Ausnahme des Kerzenwechsels) dürfen nur von autorisiertem Fachpersonal ausgeführt werden.
+
+Nichtautorisierten Personen ist es unter-sagt, Einstellungen an der Zündelektronik oder den Sensoren vorzunehmen.
+ 
+Ein unsachgemässer Eingriff kann grössere Schäden beim Motor und Katalysator verursachen.
+ _________________________________________________________________________
+<div align="left">
+  <img src="_static/images/Achtung.jpg" alt="Left Aligned Image" width="100">
+</div>
+
+Das Berühren der Bauteile des Zündsystems während des Betriebs kann lebensgefährliche Stromschläge zur Folge haben.
+_________________________________________________________________________
  
 ## Betriebsstoffe
 ### Brenngase
@@ -2031,7 +2056,7 @@ Im Vergleich zum Erdgas, lässt sich Propan in relativ leichten, dünnwandigen B
 
 Ziel und Zweck dieser Mindestanforderungen ist es, Steinbildung (Kalkablagerungen), Schlammablagerungen, wasserseitige Korrosionsschäden und Frostschäden im Motorkühlkreislauf zu verhindern.
 
-Aufgrund der relativ kleinen Wassermenge beschränken sich die Probleme bezüglich Kühlmittelflüssigkeit mehrheitlich auf Schlammablagerungen und Korrosion. Letztere entsteht durch unterschiedliche 3 x 400 Vspotentials aufgrund von unterschiedlichen Materialien im Primärkreislauf. Diese sogenannte 3 x 400 Vskorrosion kann verhindert werden, wenn der Flüssigkeit die elektrolytischen Eigenschaften entzogen werden. Dies erfolgt durch die Mischung von destilliertem Wasser und Frostschutz.
+Aufgrund der relativ kleinen Wassermenge beschränken sich die Probleme bezüglich Kühlmittelflüssigkeit mehrheitlich auf Schlammablagerungen und Korrosion. Letztere entsteht durch unterschiedliche Spannungspotentials aufgrund von unterschiedlichen Materialien im Primärkreislauf. Diese sogenannte Spannungskorrosion kann verhindert werden, wenn der Flüssigkeit die elektrolytischen Eigenschaften entzogen werden. Dies erfolgt durch die Mischung von destilliertem Wasser und Frostschutz.
 
 ##### Physikalische Eigenschaften
 
@@ -2144,28 +2169,38 @@ Der Schaltschrank ist neben dem an das BIBLOC BV684 SBTLK aufgestellt. Sämtlich
 Der Anschluss ans Netz erfolgt über ein Leistungskabel ab den Klemmen im BHKW-Schaltschrank in die zugewiesene Unter- oder Hauptverteilung. Die Anschlussleitungen auf das BHKW müssen entsprechend dem Leiterquerschnitt abgesichert werden.
 
 ### Leistungsteil
-Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit berechnet. Die vorgesehene Beständigkeit gegenüber technisch bedingten Kurzschlüssen ist in den technischen Bedingungen des Schaltschrankes angeführt. Bei der Berechnung der Kurzschlussverhältnisse in der Anschlussstelle ist es manchmal nötig, mit dem 483	A des Generators zu rechnen. Beim verwendeten Generator ist der 483	A kleiner als das zehnfache des Nennstromes.
+Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit berechnet. Die vorgesehene Beständigkeit gegenüber technisch bedingten Kurzschlüssen ist in den technischen Bedingungen des Schaltschrankes angeführt. Bei der Berechnung der Kurzschlussverhältnisse in der Anschlussstelle ist es manchmal nötig, mit dem Kurzschlussstrom des Generators zu rechnen. Beim verwendeten Generator ist der Kurzschlussstrom kleiner als das zehnfache des Nennstromes.
 
 ### Schutzeinrichtungen
 
 #### Schutz vor nichtionisierender Strahlung
 
-+---------------------------------+----------------------------------------------------------------------+
-| Max. Strom                      | mit cos * 0.81: 55 A (bei 30 kW)                                     |
-+---------------------------------+----------------------------------------------------------------------+
-| magnetische Flussdichte BG      |  o * A/2r = 1.257 10-6 * 55/2 = 11 T                             | |---------------------------------+----------------------------------------------------------------------+
-|                                 | (Grenzwert nach NISV 814.710: 100 T)                                |
-+---------------------------------+----------------------------------------------------------------------+
 	
 #### Generatorschutz
 
-+------------------------------------+-------------------------+----------------+
-| IP23                          | Einstellung             | Schutzgerät    |
-+====================================+=========================+================+
-| Überstromthermische Auslösung      | Nennstrom der Anlage IN | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
-| Kurzschluss- magnetische Auslösung | 5 x IN, unverzögert     | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
+
+<table>
+<thead>
+	<tr>
+		<th>IP23</th>
+		<th>Einstellung</th>
+		<th>Schutzgerät</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Überstromthermische Auslösung</td>
+		<td>Nennstrom der Anlage IN</td>
+		<td>Schutzschalter</td>
+	</tr>
+	<tr>
+		<td>Kurzschluss- magnetische Auslösung</td>
+		<td>5 x IN, unverzögert</td>
+		<td>Schutzschalter</td>
+	</tr>
+</tbody>
+</table>
+
 
 Der Überstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, das Modul (Generator) und teilweise auch die Zuleitung vor Überstrombelastungen.
  
@@ -2175,28 +2210,60 @@ Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzust
 
 Von der Netzüberwachung werden folgende Parameter überwacht:
 
-+------------------------------------+-------------------------+----------------+
-| IP23                          | Einstellung             | Schutzgerät    |
-+====================================+=========================+================+
-| Überstromthermische Auslösung      | Nennstrom der Anlage IN | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
-| Kurzschluss- magnetische Auslösung | 5 x IN, unverzögert     | Schutzschalter |
-+------------------------------------+-------------------------+----------------+
+
+<table>
+<thead>
+	<tr>
+		<th>IP23</th>
+		<th>Einstellung</th>
+		<th>Schutzgerät</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Überstromthermische Auslösung</td>
+		<td>Nennstrom der Anlage IN</td>
+		<td>Schutzschalter</td>
+	</tr>
+	<tr>
+		<td>Kurzschluss- magnetische Auslösung</td>
+		<td>5 x IN, unverzögert</td>
+		<td>Schutzschalter</td>
+	</tr>
+</tbody>
+</table>
+
 
 Wird eine Netzstörung festgestellt, öffnet die Netzüberwachung über einen ersten Kontakt den Generatorschütz und signalisiert die Netzstörung über einen zweiten Kontakt dem Steuersystem IS-GAS. Damit wird sichergestellt, dass das BHKW unabhängig vom Steuersystem vom Netz abgekoppelt wird.
 Zusätzlich werden vom Steuersystem IS-GAS folgende Parameter überwacht:
 
-+--------------------+----------------------------+---------------------+
-| IP23          | Einstellung                | Schutzgerät         |
-+====================+============================+=====================+
-| Rückleistungschutz | 1500 W; verzögert 5 - 10s | Steuersystem IS-GAS |
-+--------------------+----------------------------+---------------------+
-| 1500	U/minschutz     | 105 - 115% Nennumdrehungen | Steuersystem IS-GAS |
-+--------------------+----------------------------+---------------------+
+
+<table>
+<thead>
+	<tr>
+		<th>IP23</th>
+		<th>Einstellung</th>
+		<th>Schutzgerät</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Rückleistungschutz</td>
+		<td>1500 W; verzögert 5 - 10s</td>
+		<td>Steuersystem IS-GAS</td>
+	</tr>
+	<tr>
+		<td>Drehzahlschutz</td>
+		<td>105 - 115% Nennumdrehungen</td>
+		<td>Steuersystem IS-GAS</td>
+	</tr>
+</tbody>
+</table>
+
 
 Der Rückleistungsschutz schützt das BHKW vor einer Beschädigung im Falle eines Leistungsverlustes des Motors. Dabei käme es zu einem motorischen Generatorbetrieb, der vor allem den Motor beschädigen könnte. Die Kontrolle der Rückleistung wird durch vergleichen des voreingestellten Grenzwertes mit der Nennwirkleistung durchgeführt.
 
-Der Überdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz im Falle einer Über- oder Unterdrehzahl des Generators. Die 1500	U/min wird durch das Signal des 1500	U/mingebers (Pick-up) und anhand der Anzahl Zähne auf dem Anlasserkranz durch das Steuersystem IS-GAS errechnet und ausgewertet.
+Der Überdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz im Falle einer Über- oder Unterdrehzahl des Generators. Die Drehzahl wird durch das Signal des Drehzahlgebers (Pick-up) und anhand der Anzahl Zähne auf dem Anlasserkranz durch das Steuersystem IS-GAS errechnet und ausgewertet.
 
 #### Rückwirkungen der BHKW-Anlage auf das Netz
 
@@ -2215,21 +2282,35 @@ Nullleiter des Generators wird nicht herausgeführt
 ### Blockschema der elektrischen Einbindung
  
 <div align="center">
-  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Blockschema-Einspeisung.JPG" alt="Center Aligned Image" width="600">
 </div>
+
 ## Steuerung der BHKW-Anlage
 
 ### Bedienfeld des Schaltschrank
 
 <div align="center">
-  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="200">
+  <img src="_static/images/BHKW-Bedienfeld-Schaltschrank-T30.JPG" alt="Center Aligned Image" width="600">
 </div>
 
 Legende :	
-1	Steuersystem IS-GAS mit Display, Tastatur und Signal LED
-2	Schlüsselschalter für Zugriff in die Steuerung
-3	Not-Aus Schalter
 
+<table>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Steuersystem IS-GAS mit Display, Tastatur und Signal LED</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Schlüsselschalter für Zugriff in die Steuerung</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Not-Aus Schalter</td>
+	</tr>
+</tbody>
+</table>
 #### Steuersystem IS-GAS
 Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BIBLOC BV684 SBTLK. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
 #### Schlüsselschalter Steuerung Ein/Aus
@@ -2250,7 +2331,7 @@ _________________________________________________________________________
 
 ### Allgemeine Beschreibung
 
-Das Steuersystem IS-GAS (BHKW Energie-Service AG ComAp) ist speziell für das BIBLOC BV684 SBTLK entwickelt worden und ist direkt im Schaltschrank integriert. 
+Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BIBLOC BV684 SBTLK entwickelt worden und ist direkt im Schaltschrank integriert. 
 
 Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Überwachung und den Schutz der BHKW-Anlage mit diversen Zustand-überwachungen gewährleistet. 
 
@@ -2314,7 +2395,7 @@ In diesem Prinzipschema sind von links nach rechts folgende Komponenten dargeste
 Die Leuchtdioden zeigen folgende Zustände an:
 
 •	grüne Diode über Generator: 
-	Der Generator dreht, ist erregt und die 3 x 400 V liegt innerhalb der Toleranz.
+	Der Generator dreht, ist erregt und die Spannung liegt innerhalb der Toleranz.
 	
 •	grüne Diode über Transformator:
 	Das Netz ist vorhanden und die Netzspannung liegt innerhalb der Toleranz.
@@ -2422,7 +2503,7 @@ Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 	</tr>
 	<tr>
 		<td>Grund</td>
-		<td>Beschreibung des Ereignis-ses</td>
+		<td>Beschreibung des Ereignisses</td>
 	</tr>
 	<tr>
 		<td>Zeit</td>
@@ -2442,7 +2523,7 @@ Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 	</tr>
 	<tr>
 		<td>TAbg</td>
-		<td>~120	°C nach Ab-gas-WT</td>
+		<td>Abgastemperatur nach Abgas-WT</td>
 	</tr>
 	<tr>
 		<td>LS</td>
@@ -2450,11 +2531,11 @@ Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 	</tr>
 	<tr>
 		<td>Tkop</td>
-		<td>~120	°C vor Abgas-WT</td>
+		<td>Abgastemperatur vor Abgas-WT</td>
 	</tr>
 	<tr>
 		<td>Netz</td>
-		<td>Netzmessung (3 x 400 Ven, 50)</td>
+		<td>Netzmessung (Spannungen, Frequenz)</td>
 	</tr>
 	<tr>
 		<td>Sm</td>
@@ -2478,31 +2559,31 @@ Jeder History-Eintrag enthält folgende, in Spalten angeordneten Informationen:
 	</tr>
 	<tr>
 		<td>FrG</td>
-		<td>50 Generator</td>
+		<td>Frequenz Generator</td>
 	</tr>
 	<tr>
 		<td>Ug1</td>
-		<td>3 x 400 V Phase 1 Genera-tor</td>
+		<td>Spannung Phase 1 Genera-tor</td>
 	</tr>
 	<tr>
 		<td>Ug2</td>
-		<td>3 x 400 V Phase 2 Genera-tor</td>
+		<td>Spannung Phase 2 Genera-tor</td>
 	</tr>
 	<tr>
 		<td>Ug3</td>
-		<td>3 x 400 V Phase 3 Genera-tor</td>
+		<td>Spannung Phase 3 Genera-tor</td>
 	</tr>
 	<tr>
 		<td>Un1</td>
-		<td>3 x 400 V Phase 1 Netz</td>
+		<td>Spannung Phase 1 Netz</td>
 	</tr>
 	<tr>
 		<td>Un2</td>
-		<td>3 x 400 V Phase 2 Netz</td>
+		<td>Spannung Phase 2 Netz</td>
 	</tr>
 	<tr>
 		<td>Un3</td>
-		<td>3 x 400 V Phase 3 Netz</td>
+		<td>Spannung Phase 3 Netz</td>
 	</tr>
 	<tr>
 		<td>Ig1</td>
@@ -2576,7 +2657,7 @@ Beispiel:	Die maximale Servicestundenüberschreitung beträgt 100 h. Der nächst
 ### Die Betriebsmodi
 #### Einschalten des Steuersystem IS-GAS
 
-Das Steuersystem wird mittels Schlüsselschalter (siehe Kapitel 5.1 Position 2) eingeschaltet. Damit erfolgt die 3 x 400 Vsversorgung 12 VDC des Steuersystems.
+Das Steuersystem wird mittels Schlüsselschalter (siehe Kapitel 5.1 Position 2) eingeschaltet. Damit erfolgt die Spannungsversorgung 12 VDC des Steuersystems.
 Das Display leuchtet auf und nach einer kurzen Initialisierung, wird das Menü Messung ange-zeigt (grafische Darstellung der elektrischen Leistung). Dabei schaltet das Steuersystem in den Betriebsmodus, in dem das BHKW vor der Abschaltung war.
 
 #### Betriebsmodus *AUT*
@@ -2637,17 +2718,16 @@ Die analogen Messwerte wie auch die digitalen Informationen können direkt auf d
 ### Sensoren und ihre Positionierung
 
 <div align="left">
-  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="300">
+  <img src="_static/images/BHKW-Sensoren-T30.jpg" alt="Left Aligned Image" width="600">
 </div>
 
 Legende :
-
 
 <table>
 <tbody>
 	<tr>
 		<td>1</td>
-		<td>1500	U/mingeber Steuerung</td>
+		<td>Drehzahlgeber Steuerung</td>
 		<td>6</td>
 		<td>Lambdasonde</td>
 	</tr>
@@ -2705,7 +2785,7 @@ Legende :
 
 
 *Beschreibung:*
-Der Induktionsfühler (Pick-Up) ist auf dem Schwungradgehäuse montiert, wo er die Zähne des Anlasserkranzes zählt. Diese Angaben werden durch das Steuersystem ausgewertet und für die Steuerung verschiedener Funktionen verwendet. Sicherheitsrelevant  davon ist  die Begrenzung der maximal zulässigen 1500	U/min, die standardmässig auf 3300 min-1 eingestellt ist.
+Der Induktionsfühler (Pick-Up) ist auf dem Schwungradgehäuse montiert, wo er die Zähne des Anlasserkranzes zählt. Diese Angaben werden durch das Steuersystem ausgewertet und für die Steuerung verschiedener Funktionen verwendet. Sicherheitsrelevant  davon ist  die Begrenzung der maximal zulässigen Drehzahl, die standardmässig auf 3300 min-1 eingestellt ist.
 
 ##### Analog-Sensor Nr. 2
 
@@ -2769,7 +2849,7 @@ Diese Temperatur ist die Führungsgrösse zur Regulierung einer konstanten Rück
 <tbody>
 	<tr>
 		<td>gemessene Grösse</td>
-		<td>~120	°C vor Abgaswärmetauscher</td>
+		<td>Abgastemperatur vor Abgaswärmetauscher</td>
 	</tr>
 	<tr>
 		<td>Art des Fühlers</td>
@@ -2789,7 +2869,7 @@ Diese Temperatur ist die Führungsgrösse zur Regulierung einer konstanten Rück
 *Beschreibung:*
 Dieses Thermoelement ist unmittelbar nach dem Katalysator in die interne Abgasleitung montiert
 Es schützt den Katalysator vor einer Überhitzung infolge eines falschen Verbrennungsgemisches.
-Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen ~120	°C von 700 °C ab.
+Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgastemperatur von 700 °C ab.
 
 ##### Analog-Sensor Nr. 5
 
@@ -2797,7 +2877,7 @@ Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen ~120	°
 <tbody>
 	<tr>
 		<td>gemessene Grösse</td>
-		<td>~120	°C nach Abgaswärmetauscher</td>
+		<td>Abgastemperatur nach Abgaswärmetauscher</td>
 	</tr>
 <tbody>
 	<tr>
@@ -2818,7 +2898,7 @@ Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen ~120	°
 *Beschreibung:*
 Dieser Temperaturfühler ist nach dem Abgaswärmetauscher in der Abgasleitung ausserhalb des BHKW-Moduls montiert. 
 Er schützt die nachfolgende Abgasleitung vor einer Überhitzung. 
-Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen ~120	°C von 160 °C ab. 
+Das Steuersystem schaltet das Aggregat bei Überschreitung der maximalen Abgastemperatur von 160 °C ab. 
 Diese Schutzeinrichtung ist vor allem bei Verwendung von Kunststoff-Abgasleitungen wichtig.
 
 ##### Analog-Sensor Nr. 6
@@ -3077,7 +3157,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	</tr>
 	<tr>
 		<td></td>
-		<td>~120	°C</td>
+		<td>Abgastemperatur</td>
 		<td>Kabelbruch</td>
 		<td>Verkabelung kontrollieren und evtl. reparieren</td>
 	</tr>
@@ -3245,7 +3325,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	</tr>
 	<tr>
 		<td></td>
-		<td>~120	°C ist zu hoch</td>
+		<td>Abgastemperatur ist zu hoch</td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -3408,12 +3488,12 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>T Abgas Fehler</td>
 		<td>Fehler</td>
-		<td>~120	°C nach Katalysator</td>
+		<td>Abgastemperatur nach Katalysator</td>
 		<td>Verbrennungsgemisch neu einstellen (Lambda)</td>
 	</tr>
 	<tr>
 		<td></td>
-		<td>~120	°C</td>
+		<td>Abgastemperatur</td>
 		<td>ist zu hoch</td>
 		<td></td>
 	</tr>
@@ -3540,7 +3620,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td></td>
 		<td>Stop Fehler</td>
-		<td>ist ~120	°C kleiner -50 °C</td>
+		<td>ist Abgastemperatur kleiner -50 °C</td>
 		<td>ersetzen</td>
 	</tr>
 	<tr>
@@ -3575,7 +3655,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	</tr>
 	<tr>
 		<td></td>
-		<td>1500	U/min zu hoch</td>
+		<td>Drehzahl zu hoch</td>
 		<td>Netzkoppelschalter hat geöffnet</td>
 		<td>Ansteuerung des Netzkoppelschalters</td>
 	</tr>
@@ -3588,8 +3668,8 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td></td>
 		<td></td>
-		<td>1500	U/min nach Start zu hoch</td>
-		<td>Einstellung 1500	U/minregler kontrollieren</td>
+		<td>Drehzahl nach Start zu hoch</td>
+		<td>Einstellung Drehzahlregler kontrollieren</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3611,7 +3691,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	</tr>
 	<tr>
 		<td></td>
-		<td>1500	U/min zu niedrig</td>
+		<td>Drehzahl zu niedrig</td>
 		<td>Netzkoppelschalter hat geöffnet</td>
 		<td><ul>
 <li>Lambdaregelung,</li>
@@ -3628,7 +3708,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td></td>
 		<td></td>
-		<td>1500	U/min nach Start zu hoch</td>
+		<td>Drehzahl nach Start zu hoch</td>
 		<td><ul>
 <li>Nulldruckregler</li>
 </ul></td>
@@ -3653,7 +3733,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	</tr>
 	<tr>
 		<td>Sto T Komp</td>
-		<td>Kompensation 3 x 400 Vsmessung</td>
+		<td>Kompensation Spannungsmessung</td>
 		<td>Interne SPS Störung</td>
 		<td>Steuersystem mit Schlüsselschalter aus- und</td>
 	</tr>
@@ -3707,7 +3787,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	</tr>
 	<tr>
 		<td></td>
-		<td>1500	U/min zu niedrig</td>
+		<td>Drehzahl zu niedrig</td>
 		<td>Not-Aus Schalter ist gedrückt</td>
 		<td>Not-Aus Schalter entriegeln</td>
 	</tr>
@@ -3769,7 +3849,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA U1ueber</td>
 		<td>Generatorüberspannung in Ph. 1</td>
 		<td>Die Generatorspannung hat den oberen</td>
-		<td>3 x 400 Vsregler im Generator einstellen</td>
+		<td>Spannungsregler im Generator einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3787,7 +3867,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA U1unter</td>
 		<td>Generatorunterspannung in Ph. 1</td>
 		<td>Die Generatorspannung hat den unteren</td>
-		<td>3 x 400 Vsregler im Generator einstellen</td>
+		<td>Spannungsregler im Generator einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3805,7 +3885,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA U2ueber</td>
 		<td>Generatorüberspannung in Ph. 2</td>
 		<td>Die Generatorspannung hat den oberen</td>
-		<td>3 x 400 Vsregler im Generator einstellen</td>
+		<td>Spannungsregler im Generator einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3823,7 +3903,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA U2unter</td>
 		<td>Generatorunterspannung in Ph. 2</td>
 		<td>Die Generatorspannung hat den unteren</td>
-		<td>3 x 400 Vsregler im Generator einstellen</td>
+		<td>Spannungsregler im Generator einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3841,7 +3921,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA U3ueber</td>
 		<td>Generatorüberspannung in Ph. 3</td>
 		<td>Die Generatorspannung hat den oberen</td>
-		<td>3 x 400 Vsregler im Generator einstellen</td>
+		<td>Spannungsregler im Generator einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3859,7 +3939,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA U3unter</td>
 		<td>Generatorunterspannung in Ph. 3</td>
 		<td>Die Generatorspannung hat den unteren</td>
-		<td>3 x 400 Vsregler im Generator einstellen</td>
+		<td>Spannungsregler im Generator einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3883,13 +3963,13 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td></td>
 		<td>hat geöffnet</td>
 		<td>den oberen Grenzwert überschritten</td>
-		<td>Anschlüsse überprüfen. Achtung 3 x 400 V!</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
 	</tr>
 	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3 x 400 Vswandler kontrollieren</td>
+		<td>Spannungswandler kontrollieren</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3913,13 +3993,13 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td></td>
 		<td>hat geöffnet</td>
 		<td>den oberen Grenzwert überschritten</td>
-		<td>Anschlüsse überprüfen. Achtung 3 x 400 V!</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
 	</tr>
 	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3 x 400 Vswandler kontrollieren</td>
+		<td>Spannungswandler kontrollieren</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3943,13 +4023,13 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td></td>
 		<td>hat geöffnet</td>
 		<td>den oberen Grenzwert überschritten</td>
-		<td>Anschlüsse überprüfen. Achtung 3 x 400 V!</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
 	</tr>
 	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>3 x 400 Vswandler kontrollieren</td>
+		<td>Spannungswandler kontrollieren</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -3973,7 +4053,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td></td>
 		<td>Phasen</td>
 		<td>den Phasen</td>
-		<td>Anschlüsse überprüfen. Achtung 3 x 400 V!</td>
+		<td>Anschlüsse überprüfen. Achtung Spannung!</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -4003,7 +4083,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA Ueberfr</td>
 		<td>Generatorüberfrequenz</td>
 		<td>Die Generatorfrequenz hat den oberen</td>
-		<td>1500	U/min in Inselbetrieb einstellen</td>
+		<td>Drehzahl in Inselbetrieb einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -4027,7 +4107,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>LA Untfreq</td>
 		<td>Generatorunterfrequenz</td>
 		<td>Die Generatorfrequenz hat den unteren</td>
-		<td>1500	U/min einstellen</td>
+		<td>Drehzahl einstellen</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -4050,7 +4130,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>N U1ueber</td>
 		<td>Netzüberspannung in Phase 1</td>
-		<td>zu hohe 3 x 400 V in Phase 1</td>
+		<td>zu hohe Spannung in Phase 1</td>
 		<td>Netzstörung</td>
 	</tr>
 	<tr>
@@ -4062,7 +4142,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>N U2ueber</td>
 		<td>Netzüberspannung in Phase 2</td>
-		<td>zu hohe 3 x 400 V in Phase 2</td>
+		<td>zu hohe Spannung in Phase 2</td>
 		<td>Netzstörung</td>
 	</tr>
 	<tr>
@@ -4074,7 +4154,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>N U3ueber</td>
 		<td>Netzüberspannung in Phase 3</td>
-		<td>zu hohe 3 x 400 V in Phase 3</td>
+		<td>zu hohe Spannung in Phase 3</td>
 		<td>Netzstörung</td>
 	</tr>
 	<tr>
@@ -4086,7 +4166,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>N U1unter</td>
 		<td>Netzunterspannung in Phase 1</td>
-		<td>zu niedrige 3 x 400 V in Phase 1</td>
+		<td>zu niedrige Spannung in Phase 1</td>
 		<td>Netzstörung</td>
 	</tr>
 	<tr>
@@ -4098,7 +4178,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>N U2unter</td>
 		<td>Netzunterspannung in Phase 2</td>
-		<td>zu niedrige 3 x 400 V in Phase 2</td>
+		<td>zu niedrige Spannung in Phase 2</td>
 		<td>Netzstörung</td>
 	</tr>
 	<tr>
@@ -4110,7 +4190,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 	<tr>
 		<td>N U3unter</td>
 		<td>Netzunterspannung in Phase 3</td>
-		<td>zu niedrige 3 x 400 V in Phase 3</td>
+		<td>zu niedrige Spannung in Phase 3</td>
 		<td>Netzstörung</td>
 	</tr>
 	<tr>
@@ -4411,7 +4491,7 @@ Die folgende Zusammenfassung erläutert Störungen und deren mögliche Ursachen,
 		<td>Fehler Erregung</td>
 		<td>Generator wurde nicht erregt</td>
 		<td>keine oder unzureichende Erregung</td>
-		<td>3 x 400 Vsregler des Generators reparieren</td>
+		<td>Spannungsregler des Generators reparieren</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -4472,7 +4552,7 @@ Erläuterung:
 		<td>1</td>
 		<td>Vordruck der Expansion Heizkreis (HK) prüfen</td>
 		<td></td>
-		<td>0.5</td>
+		<td>Expansionsgefäss_Vordruck</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4480,7 +4560,7 @@ Erläuterung:
 		<td>2</td>
 		<td>Vordruck der Expansion Motorkreis (MK) prüfen</td>
 		<td></td>
-		<td>0.5</td>
+		<td>Expansionsgefäss_Vordruck</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4783,7 +4863,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>3.1</td>
-		<td>3 x 400 Vsfreiheit prüfen</td>
+		<td>Spannungsfreiheit prüfen</td>
 		<td>-30F1</td>
 		<td></td>
 		<td></td>
@@ -4807,81 +4887,65 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>3.4</td>
-		<td>3 x 400 V 500V DC Eingang Hauptschalter messen</td>
+		<td>Spannung 500V DC Eingang Hauptschalter messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.4.1</td>
-		<td>3 x 400 V 500V DC Eingang Hauptschalter → N-PE messen</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → N-PE messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.4.2</td>
-		<td>3 x 400 V 500V DC Eingang Hauptschalter → L<sub>1</sub> messen</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>1</sub> messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.4.3</td>
-		<td>3 x 400 V 500V DC Eingang Hauptschalter → L<sub>2</sub> messen</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>2</sub> messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.4.4</td>
-		<td>3 x 400 V 500V DC Eingang Hauptschalter → L<sub>3</sub> messen</td>
+		<td>Spannung 500V DC Eingang Hauptschalter → L<sub>3</sub> messen</td>
 		<td>-10Q1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.5</td>
-		<td>3 x 400 V 500V DC L<sub>1</sub> → PE messen</td>
+		<td>Spannung 500V DC L<sub>1</sub> → PE messen</td>
 		<td>-11X1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.6</td>
-		<td>3 x 400 V 500V DC L<sub>1</sub> → PE messen</td>
+		<td>Spannung 500V DC L<sub>1</sub> → PE messen</td>
 		<td>-11X1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
 	<tr>
 		<td>3.7</td>
-		<td>3 x 400 V 500V DC L<sub>3</sub> → PE messen</td>
+		<td>Spannung 500V DC L<sub>3</sub> → PE messen</td>
 		<td>-11X1</td>
-		<td><blockquote>
-=1 MΩ
-</blockquote></td>
+		<td>>=1 MΩ</td>
 		<td></td>
 		<td>☐</td>
 	</tr>
@@ -4903,7 +4967,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>3.10</td>
-		<td>3 x 400 V wieder einschalten</td>
+		<td>Spannung wieder einschalten</td>
 		<td>-30F1</td>
 		<td></td>
 		<td></td>
@@ -4919,7 +4983,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>3 x 400 V / Drehfeld</td>
+		<td>Spannung / Drehfeld</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -4935,7 +4999,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>4.1</td>
-		<td>3 x 400 Vsmessung Eingangsklemme L-PE</td>
+		<td>Spannungsmessung Eingangsklemme L-PE</td>
 		<td>-10X1</td>
 		<td></td>
 		<td></td>
@@ -4943,7 +5007,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>4.1</td>
-		<td>3 x 400 Vsmessung Eingangsklemme L-N</td>
+		<td>Spannungsmessung Eingangsklemme L-N</td>
 		<td>-10X1</td>
 		<td></td>
 		<td></td>
@@ -4951,7 +5015,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>4.1</td>
-		<td>3 x 400 Vsmessung Eingangsklemme L<sub>1</sub> - L<sub>2</sub></td>
+		<td>Spannungsmessung Eingangsklemme L<sub>1</sub> - L<sub>2</sub></td>
 		<td>-10X1</td>
 		<td></td>
 		<td></td>
@@ -4959,7 +5023,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>4.1</td>
-		<td>3 x 400 Vsmessung Eingangsklemme L<sub>1</sub> - L<sub>3</sub></td>
+		<td>Spannungsmessung Eingangsklemme L<sub>1</sub> - L<sub>3</sub></td>
 		<td>-10X1</td>
 		<td></td>
 		<td></td>
@@ -4967,7 +5031,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>4.1</td>
-		<td>3 x 400 Vsmessung Eingangsklemme L<sub>2</sub> - L<sub>3</sub></td>
+		<td>Spannungsmessung Eingangsklemme L<sub>2</sub> - L<sub>3</sub></td>
 		<td>-10X1</td>
 		<td></td>
 		<td></td>
@@ -5168,7 +5232,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>6</td>
-		<td>3 x 400 Vsregler</td>
+		<td>Spannungsregler</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -5276,7 +5340,12 @@ Erklärungen
 
 [Leistungsregler](#leistungsregler)
 
-
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{_static/images/BHKW-Abmessungen-T30.JPG}
+\caption{BHKW-Abmessungen-T30}
+\label{fig:abmT30}
+\end{figure}
 
 \begin{gather*}
 a_1=b_1+°C1\\
@@ -5291,64 +5360,6 @@ a_{21}& =b_{21}&
 \end{align}
 
   [1]: index.BIBLOC_BV684_SBTLK_[120].md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
