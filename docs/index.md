@@ -902,23 +902,23 @@ Steuerzeiten
 	</tr>
 	<tr>
 		<td>Füllmenge Ölwanne u. Filter:</td>
-		<td>Schmiersystem_Füllmenge_Ölwanne_u_Filter</td>
+		<td>Schmierölsystem_Füllmenge_Ölwanne_u_Filter</td>
 	</tr>
 	<tr>
 		<td>Füllmenge Vorratsbehälter:</td>
-		<td>Schmiersystem_Füllmenge_Vorratsbehälter</td>
+		<td>Schmierölsystem_Füllmenge_Vorratsbehälter</td>
 	</tr>
 	<tr>
 		<td>Schmierölverbrauch:</td>
-		<td>Schmiersystem_Schmierölverbrauch</td>
+		<td>Schmierölsystem_Schmierölverbrauch</td>
 	</tr>
 	<tr>
 		<td>min. Öldruck:</td>
-		<td>Schmiersystem_min_Öldruck</td>
+		<td>Schmierölsystem_min_Öldruck</td>
 	</tr>
 	<tr>
 		<td>Öltemperatur in Betrieb:</td>
-		<td>Schmiersystem_Öltemperatur_in_Betrieb</td>
+		<td>Schmierölsystem_Öltemperatur_in_Betrieb</td>
 	</tr>
 	<tr>
 		<td>Ölwechselintervall</td>

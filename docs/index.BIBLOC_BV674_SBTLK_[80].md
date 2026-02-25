@@ -99,7 +99,7 @@
 
 ### Betriebshandbücher
 ----------------------
-* [BIBLOC BV449 SBK][1]
+* [BIBLOC BV449 SBTK][1]
 * [BIBLOC BV674 SBTLK][2]
 * [BIBLOC BV684 SBTLK][3]
 
@@ -353,13 +353,13 @@ _________________________________________________________________________
 
  - Das BHKW-Aggregat stellt zusammen mit dem Schaltschrank eine Moduleinheit dar.
  
- - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm 1010  mm.
+ - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm Breite.
  
 Das BIBLOC BV674 SBTLK wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
 
 Beim Transport ist dies zu berücksichtigen. Das Gewicht von *1100 kg* ermöglicht das einfache Handling mit einem Handhubwagen. 
 
-Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmen1010  mm erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
+Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmenbreite erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
 
 Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20 bis D50 mm und Wandstärke min. 2 mm) erfolgen. Dabei ist zu achten, dass
 
@@ -372,7 +372,7 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20
 
 ### Krantransport
 
-Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassis1010  mm vorhanden. 
+Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassisbreite vorhanden. 
 
 Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Öffnungen gezogen werden (Kantenschutz verwenden) oder an in die Öffnungen geschobene Stangen befestigt werden.
 
@@ -711,7 +711,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Drehzahl:</td>
-		<td>#NV</td>
+		<td>1500	U/min</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -826,19 +826,19 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 		<td>60%</td>
 	</tr>
 	<tr>
-		<td>Aufstellungs2100  mm:</td>
+		<td>Aufstellungshöhe:</td>
 		<td>100  m ü. M</td>
 	</tr>
 	<tr>
-		<td>bei 500 m.ü. Meeres2100  mm</td>
+		<td>bei 500 m.ü. Meereshöhe</td>
 		<td>3%</td>
 	</tr>
 	<tr>
-		<td>bei 1000 m.ü. Meeres2100  mm</td>
+		<td>bei 1000 m.ü. Meereshöhe</td>
 		<td>8%</td>
 	</tr>
 	<tr>
-		<td>bei 1500 m.ü. Meeres2100  mm</td>
+		<td>bei 1500 m.ü. Meereshöhe</td>
 		<td>14%</td>
 	</tr>
 </tbody>
@@ -902,23 +902,23 @@ Steuerzeiten
 	</tr>
 	<tr>
 		<td>Füllmenge Ölwanne u. Filter:</td>
-		<td>Schmiersystem_Füllmenge_Ölwanne_u_Filter</td>
+		<td>26  Liter</td>
 	</tr>
 	<tr>
 		<td>Füllmenge Vorratsbehälter:</td>
-		<td>Schmiersystem_Füllmenge_Vorratsbehälter</td>
+		<td>40  Liter</td>
 	</tr>
 	<tr>
 		<td>Schmierölverbrauch:</td>
-		<td>Schmiersystem_Schmierölverbrauch</td>
+		<td>0.3  g/kWh</td>
 	</tr>
 	<tr>
 		<td>min. Öldruck:</td>
-		<td>Schmiersystem_min_Öldruck</td>
+		<td>1  bar</td>
 	</tr>
 	<tr>
 		<td>Öltemperatur in Betrieb:</td>
-		<td>Schmiersystem_Öltemperatur_in_Betrieb</td>
+		<td>95-100	°C</td>
 	</tr>
 	<tr>
 		<td>Ölwechselintervall</td>
@@ -1117,7 +1117,7 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 	</tr>
 	<tr>
 		<td>Gewicht:</td>
-		<td>Generator_Gewicht</td>
+		<td>514  kg</td>
 	</tr>
 	<tr>
 		<td>Zulassung:</td>
@@ -1585,7 +1585,7 @@ Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Ab
 </tbody>
 </table>
 
-Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. 2100  mmre Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
+Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
 #### Material der Abgasleitung
 Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
@@ -5361,9 +5361,36 @@ a_{21}& =b_{21}&
   a_{22}& =b_{22}+°C{22}
 \end{align}
 
-  [1]: index.BIBLOC_BV449_SBK_[49].md
-  [2]: index.BIBLOC_BV674_SBTLK_[78].md
+  [1]: index.BIBLOC_BV449_SBTK_[49].md
+  [2]: index.BIBLOC_BV674_SBTLK_[80].md
   [3]: index.BIBLOC_BV684_SBTLK_[120].md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

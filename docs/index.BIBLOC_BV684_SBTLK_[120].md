@@ -99,7 +99,9 @@
 
 ### Betriebshandbücher
 ----------------------
-* [BIBLOC BV684 SBTLK][1]
+* [BIBLOC BV449 SBTK][1]
+* [BIBLOC BV674 SBTLK][2]
+* [BIBLOC BV684 SBTLK][3]
 
 ## Einführung
 ------------------	
@@ -351,13 +353,13 @@ _________________________________________________________________________
 
  - Das BHKW-Aggregat stellt zusammen mit dem Schaltschrank eine Moduleinheit dar.
  
- - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm 1110  mm.
+ - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm Breite.
  
 Das BIBLOC BV684 SBTLK wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
 
 Beim Transport ist dies zu berücksichtigen. Das Gewicht von *1100 kg* ermöglicht das einfache Handling mit einem Handhubwagen. 
 
-Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmen1110  mm erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
+Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmenbreite erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
 
 Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20 bis D50 mm und Wandstärke min. 2 mm) erfolgen. Dabei ist zu achten, dass
 
@@ -370,7 +372,7 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20
 
 ### Krantransport
 
-Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassis1110  mm vorhanden. 
+Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassisbreite vorhanden. 
 
 Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Öffnungen gezogen werden (Kantenschutz verwenden) oder an in die Öffnungen geschobene Stangen befestigt werden.
 
@@ -485,19 +487,19 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 	</tr>
 	<tr>
 		<td>Heizwert Hu:</td>
-		<td>BHKW_Heizwert_Hu</td>
+		<td>6.0  kWh/Nm3</td>
 	</tr>
 	<tr>
 		<td>Elektrische Leistung:</td>
-		<td>BHKW_Elektrische_Leistung</td>
+		<td>120  kW</td>
 	</tr>
 	<tr>
 		<td>Thermische Leistung:</td>
-		<td>BHKW_Thermische_Leistung</td>
+		<td>182  kW</td>
 	</tr>
 	<tr>
 		<td>Verbrauch :</td>
-		<td>BHKW_Verbrauch_Leistung</td>
+		<td>342  kW</td>
 	</tr>
 </tbody>
 </table>
@@ -709,7 +711,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Drehzahl:</td>
-		<td>Motor_Drehzahl</td>
+		<td>1500	U/min</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -721,19 +723,19 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Hubraum:</td>
-		<td>Motor_Hubraum</td>
+		<td>8420  cm3</td>
 	</tr>
 	<tr>
 		<td>Kolbenhub:</td>
-		<td>Motor_Kolbenhub</td>
+		<td>145  mm</td>
 	</tr>
 	<tr>
 		<td>Mittlere Kolbengeschwindigkeit:</td>
-		<td>Motor_Mittlere_Kolbengeschwindigkeit</td>
+		<td>7.2  m/s</td>
 	</tr>
 	<tr>
 		<td>Zylinderbohrung:</td>
-		<td>Motor_Zylinderbohrung</td>
+		<td>111  mm</td>
 	</tr>
 	<tr>
 		<td>Zylinderzahl:</td>
@@ -765,7 +767,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Gewicht (trocken):</td>
-		<td>Motor_Gewicht__trocken_</td>
+		<td>680  kg</td>
 	</tr>
 	<tr>
 		<td>Grundbrennstoff</td>
@@ -773,7 +775,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>zugef. Brennstoffleistung :</td>
-		<td>BHKW_Verbrauch_Leistung</td>
+		<td>342  kW</td>
 	</tr>
 	<tr>
 		<td>absoluter Brennstoffverbrauch</td>
@@ -781,7 +783,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wellenleistung:</td>
-		<td>Motor_Wellenleistung</td>
+		<td>128  kW</td>
 	</tr>
 	<tr>
 		<td>Drehmoment</td>
@@ -789,7 +791,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wirkungsgrad Motor:</td>
-		<td>Wirkungsgrad_Motor</td>
+		<td>52.5</td>
 	</tr>
 	<tr>
 		<td>Kühlungsart</td>
@@ -797,46 +799,46 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Kühlwasserwärme:</td>
-		<td>Motor_Kühlwasserwärme</td>
+		<td>92  kW</td>
 	</tr>
 	<tr>
 		<td>Abgaswärme nutzbar (120°C):</td>
-		<td>Motor_Abgaswärme_nutzbar</td>
+		<td>77  kW</td>
 	</tr>
 	<tr>
 		<td>Abgasmassenstrom:</td>
-		<td>Motor_Abgasmassenstrom</td>
+		<td>460  kg/h</td>
 	</tr>
 	<tr>
 		<td>Ladeluftkühlung</td>
-		<td>Motor_Ladeluftkühlung</td>
+		<td>7  kW</td>
 	</tr>
 	<tr>
 		<td>Verbrennungsluftmenge:</td>
-		<td>Motor_Verbrennungsluftmenge</td>
+		<td>400  m3/h</td>
 	</tr>
 	<tr>
 		<td>max. Luft Ansaugtemperatur:</td>
-		<td>Motor_max_Luft_Ansaugtemperatur</td>
+		<td>25  °C</td>
 	</tr>
 	<tr>
 		<td>relative Luftfeuchtigkeit</td>
 		<td>60	%</td>
 	</tr>
 	<tr>
-		<td>Aufstellungs2170  mm:</td>
-		<td>Motor_Aufstellungs2170  mm</td>
+		<td>Aufstellungshöhe:</td>
+		<td>0  m ü. M</td>
 	</tr>
 	<tr>
-		<td>bei 500 m.ü. Meeres2170  mm</td>
+		<td>bei 500 m.ü. Meereshöhe</td>
 		<td>3	%</td>
 	</tr>
 	<tr>
-		<td>bei 1000 m.ü. Meeres2170  mm</td>
+		<td>bei 1000 m.ü. Meereshöhe</td>
 		<td>8	%</td>
 	</tr>
 	<tr>
-		<td>bei 1500 m.ü. Meeres2170  mm</td>
+		<td>bei 1500 m.ü. Meereshöhe</td>
 		<td>14	%</td>
 	</tr>
 </tbody>
@@ -900,23 +902,23 @@ Steuerzeiten
 	</tr>
 	<tr>
 		<td>Füllmenge Ölwanne u. Filter:</td>
-		<td>Füllmenge_Ölwanne_u_Filter</td>
+		<td>26  Liter</td>
 	</tr>
 	<tr>
 		<td>Füllmenge Vorratsbehälter:</td>
-		<td>Füllmenge_Vorratsbehälter</td>
+		<td>44  Liter</td>
 	</tr>
 	<tr>
 		<td>Schmierölverbrauch:</td>
-		<td>Schmierölverbrauch</td>
+		<td>0.3  g/kWh</td>
 	</tr>
 	<tr>
 		<td>min. Öldruck:</td>
-		<td>min_Öldruck</td>
+		<td>1  bar</td>
 	</tr>
 	<tr>
 		<td>Öltemperatur in Betrieb:</td>
-		<td>Öltemperatur_in_Betrieb</td>
+		<td>95-100	°C</td>
 	</tr>
 	<tr>
 		<td>Ölwechselintervall</td>
@@ -1115,7 +1117,7 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 	</tr>
 	<tr>
 		<td>Gewicht:</td>
-		<td>Generator_Gewicht</td>
+		<td>563  kg</td>
 	</tr>
 	<tr>
 		<td>Zulassung:</td>
@@ -1583,7 +1585,7 @@ Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Ab
 </tbody>
 </table>
 
-Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. 2170  mmre Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
+Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
 #### Material der Abgasleitung
 Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
@@ -5359,7 +5361,64 @@ a_{21}& =b_{21}&
   a_{22}& =b_{22}+°C{22}
 \end{align}
 
-  [1]: index.BIBLOC_BV684_SBTLK_[120].md
+  [1]: index.BIBLOC_BV449_SBTK_[49].md
+  [2]: index.BIBLOC_BV674_SBTLK_[80].md
+  [3]: index.BIBLOC_BV684_SBTLK_[120].md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
