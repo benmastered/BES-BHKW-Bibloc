@@ -711,7 +711,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Drehzahl:</td>
-		<td>#NV</td>
+		<td>1500	U/min</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -723,23 +723,23 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Hubraum:</td>
-		<td>#NV</td>
+		<td>4,91	l</td>
 	</tr>
 	<tr>
 		<td>Kolbenhub:</td>
-		<td>#NV</td>
+		<td>134  mm</td>
 	</tr>
 	<tr>
 		<td>Mittlere Kolbengeschwindigkeit:</td>
-		<td>#NV</td>
+		<td>7.0  m/s</td>
 	</tr>
 	<tr>
 		<td>Zylinderbohrung:</td>
-		<td>#NV</td>
+		<td>108  mm</td>
 	</tr>
 	<tr>
 		<td>Zylinderzahl:</td>
-		<td>#NV</td>
+		<td>4	in Reihe</td>
 	</tr>
 	<tr>
 		<td>Zylinderanordnung</td>
@@ -763,11 +763,11 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Verdichtung:</td>
-		<td>#NV</td>
+		<td>13:1</td>
 	</tr>
 	<tr>
 		<td>Gewicht (trocken):</td>
-		<td>#NV</td>
+		<td>390  kg</td>
 	</tr>
 	<tr>
 		<td>Grundbrennstoff</td>
@@ -783,7 +783,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wellenleistung:</td>
-		<td>#NV</td>
+		<td>53  kW</td>
 	</tr>
 	<tr>
 		<td>Drehmoment</td>
@@ -791,7 +791,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wirkungsgrad Motor:</td>
-		<td>#NV</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>Kühlungsart</td>
@@ -799,15 +799,15 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Kühlwasserwärme:</td>
-		<td>#NV</td>
+		<td>48  kW</td>
 	</tr>
 	<tr>
 		<td>Abgaswärme nutzbar (120°C):</td>
-		<td>#NV</td>
+		<td>29  kW</td>
 	</tr>
 	<tr>
 		<td>Abgasmassenstrom:</td>
-		<td>#NV</td>
+		<td>207  kg/h</td>
 	</tr>
 	<tr>
 		<td>Ladeluftkühlung</td>
@@ -815,7 +815,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Verbrennungsluftmenge:</td>
-		<td>#NV</td>
+		<td>178  kg/h</td>
 	</tr>
 	<tr>
 		<td>max. Luft Ansaugtemperatur:</td>
@@ -1117,7 +1117,7 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 	</tr>
 	<tr>
 		<td>Gewicht:</td>
-		<td>Generator_Gewicht</td>
+		<td>355  kg</td>
 	</tr>
 	<tr>
 		<td>Zulassung:</td>
@@ -5364,6 +5364,52 @@ a_{21}& =b_{21}&
   [1]: index.BIBLOC_BV449_SBTK_[49].md
   [2]: index.BIBLOC_BV674_SBTLK_[80].md
   [3]: index.BIBLOC_BV684_SBTLK_[120].md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
