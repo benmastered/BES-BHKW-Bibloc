@@ -1,5 +1,5 @@
-
-# BES BHKW BHKW_Typ
+﻿
+# BES BHKW BIBLOC BV674 SBTLK
 
 ## Inhalt
 
@@ -106,11 +106,11 @@
 ## Einführung
 ------------------	
 
-Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betreffend Konstruktion, Gebrauch und Wartung des BHKW Typ BHKW_Typ . 
+Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betreffend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV674 SBTLK . 
 
 Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
 
-Das ganze Handbuch ist nach den Hauptbestandteilen der BHKW_Typ in Kapitel gegliedert. 
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV674 SBTLK in Kapitel gegliedert. 
 
 Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 
@@ -120,12 +120,12 @@ Das nachfolgende Betriebshandbuch bildet eine Zusammenfassung der Informationen 
 
 - Konstruktion, 
 - Gebrauch und 
-- Wartung des BHKW Typ BHKW_Typ. 
+- Wartung des BHKW Typ BIBLOC BV674 SBTLK. 
 
 
 Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
 
-Das ganze Handbuch ist nach den Hauptbestandteilen der BHKW_Typ in Kapitel gegliedert. 
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV674 SBTLK in Kapitel gegliedert. 
 
 Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 
@@ -188,7 +188,7 @@ Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfall
 
 ##### Abfälle durch den Transport und Installation der BHKW-Anlage
 
-Beim Transport und der Installation der BHKW_Typ entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
+Beim Transport und der Installation der BIBLOC BV674 SBTLK entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
 
 Es handelt sich vor allem um:
 
@@ -214,7 +214,7 @@ Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservi
  
 ##### Abfälle durch den Betrieb der BHKW-Anlage
 
-Beim Betrieb der BHKW_Typ ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
+Beim Betrieb der BIBLOC BV674 SBTLK ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
 
 Diese Personen haben Kenntnis bezüglich dem Umgang mit folgenden Stoffen:
 
@@ -353,13 +353,13 @@ _________________________________________________________________________
 
  - Das BHKW-Aggregat stellt zusammen mit dem Schaltschrank eine Moduleinheit dar.
  
- - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm Breite.
+ - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm 1010  mm.
  
-Das BHKW_Typ wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
+Das BIBLOC BV674 SBTLK wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
 
 Beim Transport ist dies zu berücksichtigen. Das Gewicht von *1100 kg* ermöglicht das einfache Handling mit einem Handhubwagen. 
 
-Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmenbreite erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
+Dabei muss das Anheben gleichzeitig über die ganze Rahmenlänge oder Rahmen1010  mm erfolgen, um eine eventuelle Chassisdeformation während der Verschiebung zu verhindern.
 
 Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20 bis D50 mm und Wandstärke min. 2 mm) erfolgen. Dabei ist zu achten, dass
 
@@ -372,7 +372,7 @@ Alternativ kann die Verschiebung der BHKW-Anlage auch auf Rollen (Stahlrohre D20
 
 ### Krantransport
 
-Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassisbreite vorhanden. 
+Für das Handling mit dem Kran sind im Chassisrahmen 2 quadratische Öffnungen über die ganze Chassis1010  mm vorhanden. 
 
 Die Traggurten mit je minimal 1 Tonne Tragkraft können direkt durch diese Öffnungen gezogen werden (Kantenschutz verwenden) oder an in die Öffnungen geschobene Stangen befestigt werden.
 
@@ -383,7 +383,7 @@ Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölz
 
 ### Aufstellung
 
-Die Installation BHKW_Typ muss in einem wettergeschützten, trockenen Raum erfolgen. 
+Die Installation BIBLOC BV674 SBTLK muss in einem wettergeschützten, trockenen Raum erfolgen. 
 
 Die Aufstellung erfolgt gemäss den:
 
@@ -391,7 +391,7 @@ Die Aufstellung erfolgt gemäss den:
 
 •	aktuellen, spezifischen Projektunterlagen
 
-Grundsätzlich ist zur Aufstellung der BHKW_Typ ein Betonsockel nicht zwingend notwendig, sofern die Auflage eben ist.
+Grundsätzlich ist zur Aufstellung der BIBLOC BV674 SBTLK ein Betonsockel nicht zwingend notwendig, sofern die Auflage eben ist.
 
 Bei unebener Auflage oder bei Gefahr von Wassereinbrüchen empfehlen wir einen 100 bis 150 mm hohen Betonsockel.
 
@@ -406,17 +406,17 @@ Die Freihalteräume (siehe 6.2) um die BHKW-Anlage sind für eine korrekte In-st
  
 ## BIBLOC Betrieb
 
-Die BIBLOC BHKW_TypBlockheizkraftwerke sind je nach Verwendungszweck und Betriebsstoff in verschiedenen Ausführungen lieferbar.
+Die BIBLOC BIBLOC BV674 SBTLKBlockheizkraftwerke sind je nach Verwendungszweck und Betriebsstoff in verschiedenen Ausführungen lieferbar.
 
 ### Betriebsarten
 
-Aktuell ist das BHKW Typ BHKW_Typ nur mit einem luftgekühlten Synchrongenerator lieferbar.
+Aktuell ist das BHKW Typ BIBLOC BV674 SBTLK nur mit einem luftgekühlten Synchrongenerator lieferbar.
 
-Aus diesem Grund kann die BHKW_Typ BHKW-Anlage nur im Netzparallelbetrieb betrieben werden.
+Aus diesem Grund kann die BIBLOC BV674 SBTLK BHKW-Anlage nur im Netzparallelbetrieb betrieben werden.
 
 #### Netzparallelbetrieb
 
-Beim Netzparallelbetrieb der BHKW_Typ mit Synchrongenerator wird für den Start der Generatorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
+Beim Netzparallelbetrieb der BIBLOC BV674 SBTLK mit Synchrongenerator wird für den Start der Generatorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
 
 Nach Erreichen der Nenndrehzahl wird zeitverzögert der Stern-Dreieckschütz angesteuert und gleichzeitig die Gaszufuhr und Zündung freigegeben. Der vom Verbrennungsmotor angetriebene Generator liefert nun ebenfalls die elektrische Energie ans Netz.
 
@@ -452,61 +452,61 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 <tbody>
 	<tr>
 		<td>Abgaswerte bezogen auf 5 % O2</td>
-		<td>Abgasreinigungssystem_Beschreibung_DB</td>
+		<td>Reduktion der Abgasemissionen mit 3-Weg-Katalysator und Lambda-Regelung (stoechiometrisch l = 1.0).</td>
 	</tr>
 	<tr>
 		<td>Kohlenmonoxid CO:</td>
-		<td>Kohlenmonoxid_CO</td>
+		<td>< 650</td>
 	</tr>
 	<tr>
 		<td>Stickoxide NOx:</td>
-		<td>Stickoxide_NOx</td>
+		<td>< 250</td>
 	</tr>
 </tbody>
 </table>
 
-## Beschreibung des BHKWs BHKW_Typ
+## Beschreibung des BHKWs BIBLOC BV674 SBTLK
 
 <table>
 <tbody>
 	<tr>
 		<td>Fabrikat</td>
-		<td>BHKW_Fabrikat</td>
+		<td>BHKW Energie-Service AG</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
-		<td>BHKW_Typ</td>
+		<td>BIBLOC BV674 SBTLK</td>
 	</tr>
 	<tr>
 		<td>Betriebsart:</td>
-		<td>BHKW_Betriebsart_d</td>
+		<td>Netzparallel</td>
 	</tr>
 	<tr>
 		<td>Betriebsstoff:</td>
-		<td>BHKW_Betriebsstoff_d</td>
+		<td>Biogas / Klärgas</td>
 	</tr>
 	<tr>
 		<td>Heizwert Hu:</td>
-		<td>BHKW_Heizwert_Hu</td>
+		<td>6.3  kWh/Nm3</td>
 	</tr>
 	<tr>
 		<td>Elektrische Leistung:</td>
-		<td>BHKW_Elektrische_Leistung</td>
+		<td>80  kW</td>
 	</tr>
 	<tr>
 		<td>Thermische Leistung:</td>
-		<td>BHKW_Thermische_Leistung</td>
+		<td>121  kW</td>
 	</tr>
 	<tr>
 		<td>Verbrauch :</td>
-		<td>BHKW_Verbrauch_Leistung</td>
+		<td>224  kW</td>
 	</tr>
 </tbody>
 </table>
 
 ### Funktion und Aufbau
 
-Das Blockheizkraftwerk BHKW_Typ arbeitet nach dem Prinzip der Wärmekraftkopplung, wobei Strom und Wärme gleichzeitig produziert und genutzt werden. 
+Das Blockheizkraftwerk BIBLOC BV674 SBTLK arbeitet nach dem Prinzip der Wärmekraftkopplung, wobei Strom und Wärme gleichzeitig produziert und genutzt werden. 
 
 Dazu treibt der Gasmotor Typ Mamotec MAG einen luftgekühlten Synchrongenerator an. 
 
@@ -585,7 +585,7 @@ Legende :
 		<td><ol start="14">
 <li></li>
 </ol></td>
-		<td>Abgasschalldämpfer</td>
+		<td>AbgasDN100</td>
 	</tr>
 	<tr>
 		<td><ol start="4">
@@ -672,12 +672,12 @@ Legende :
 
 ### Gasmotor
 
-Der Gasmotor Motor_Fabrikat Motor_Typ dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
+Der Gasmotor MAMotec MAG 74.6 T213A dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
 
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### Konstruktion
-Der Otto-Gasmotor Motor_Fabrikat Motor_Typ ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor MAMotec MAG 74.6 T213A ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
@@ -695,15 +695,15 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 <tbody>
 	<tr>
 		<td>Fabrikat</td>
-		<td>Motor_Fabrikat</td>
+		<td>MAMotec</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
-		<td>Motor_Typ</td>
+		<td>MAG 74.6 T213A</td>
 	</tr>
 	<tr>
 		<td>Motorart</td>
-		<td>Motor_Art</td>
+		<td>Gasmotor</td>
 	</tr>
 	<tr>
 		<td>Arbeitsumlauf</td>
@@ -711,7 +711,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Drehzahl:</td>
-		<td>Motor_Drehzahl</td>
+		<td>#NV</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -723,23 +723,23 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Hubraum:</td>
-		<td>Motor_Hubraum</td>
+		<td>7400  cm3</td>
 	</tr>
 	<tr>
 		<td>Kolbenhub:</td>
-		<td>Motor_Kolbenhub</td>
+		<td>134  mm</td>
 	</tr>
 	<tr>
 		<td>Mittlere Kolbengeschwindigkeit:</td>
-		<td>Motor_Mittlere_Kolbengeschwindigkeit</td>
+		<td>6.7  m/s</td>
 	</tr>
 	<tr>
 		<td>Zylinderbohrung:</td>
-		<td>Motor_Zylinderbohrung</td>
+		<td>108  mm</td>
 	</tr>
 	<tr>
 		<td>Zylinderzahl:</td>
-		<td>Motor_Zylinderzahl</td>
+		<td>6 in Reihe</td>
 	</tr>
 	<tr>
 		<td>Zylinderanordnung</td>
@@ -763,11 +763,11 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Verdichtung:</td>
-		<td>Motor_Verdichtung</td>
+		<td>13:1</td>
 	</tr>
 	<tr>
 		<td>Gewicht (trocken):</td>
-		<td>Motor_Gewicht__trocken_</td>
+		<td>0  kg</td>
 	</tr>
 	<tr>
 		<td>Grundbrennstoff</td>
@@ -775,7 +775,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>zugef. Brennstoffleistung :</td>
-		<td>BHKW_Verbrauch_Leistung</td>
+		<td>224  kW</td>
 	</tr>
 	<tr>
 		<td>absoluter Brennstoffverbrauch</td>
@@ -783,7 +783,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wellenleistung:</td>
-		<td>Motor_Wellenleistung</td>
+		<td>85  kW</td>
 	</tr>
 	<tr>
 		<td>Drehmoment</td>
@@ -791,7 +791,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wirkungsgrad Motor:</td>
-		<td>Motor_Wirkungsgrad_Motor</td>
+		<td>36.90%</td>
 	</tr>
 	<tr>
 		<td>Kühlungsart</td>
@@ -799,47 +799,47 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Kühlwasserwärme:</td>
-		<td>Motor_Kühlwasserwärme</td>
+		<td>78  kW</td>
 	</tr>
 	<tr>
 		<td>Abgaswärme nutzbar (120°C):</td>
-		<td>Motor_Abgaswärme_nutzbar</td>
+		<td>43  kW</td>
 	</tr>
 	<tr>
 		<td>Abgasmassenstrom:</td>
-		<td>Motor_Abgasmassenstrom</td>
+		<td>296  kg/h</td>
 	</tr>
 	<tr>
 		<td>Ladeluftkühlung</td>
-		<td>Motor_Ladeluftkühlung</td>
+		<td>5  kW</td>
 	</tr>
 	<tr>
 		<td>Verbrennungsluftmenge:</td>
-		<td>Motor_Verbrennungsluftmenge</td>
+		<td>279  m3/h</td>
 	</tr>
 	<tr>
 		<td>max. Luft Ansaugtemperatur:</td>
-		<td>Motor_max_Luft_Ansaugtemperatur</td>
+		<td>25  °C</td>
 	</tr>
 	<tr>
 		<td>relative Luftfeuchtigkeit</td>
-		<td>Motor_relative_Luftfeuchtigkeit</td>
+		<td>60%</td>
 	</tr>
 	<tr>
-		<td>Aufstellungshöhe:</td>
-		<td>Motor_Aufstellungshöhe</td>
+		<td>Aufstellungs2100  mm:</td>
+		<td>100  m ü. M</td>
 	</tr>
 	<tr>
-		<td>bei 500 m.ü. Meereshöhe</td>
-		<td>Motor_Leistungsreduktion_500_m_üM</td>
+		<td>bei 500 m.ü. Meeres2100  mm</td>
+		<td>3%</td>
 	</tr>
 	<tr>
-		<td>bei 1000 m.ü. Meereshöhe</td>
-		<td>Motor_Leistungsreduktion_1000_m_üM</td>
+		<td>bei 1000 m.ü. Meeres2100  mm</td>
+		<td>8%</td>
 	</tr>
 	<tr>
-		<td>bei 1500 m.ü. Meereshöhe</td>
-		<td>Motor_Leistungsreduktion_1500_m_üM</td>
+		<td>bei 1500 m.ü. Meeres2100  mm</td>
+		<td>14%</td>
 	</tr>
 </tbody>
 </table>
@@ -1001,13 +1001,13 @@ Steuerzeiten
 
 #### Zündsystem
 
-Zündanlage_Beschreibung
+Wartungsarme, kontaktlose, mikroprozessorgesteuerte Zündanlage, bestehend aus Steuergerät, Impulsaufnehmer, Einzelzündspulen/Zylinder, Zündkabel und Zündkerzen, die nach dem Prinzip der Kondensatorentladung arbeitet.
 
 <table>
 <tbody>
 	<tr>
 		<td>Zündanlage</td>
-		<td>Zündanlage_Typ</td>
+		<td>Trijekt / Gas T702</td>
 	</tr>
 	<tr>
 		<td>Zündkerzen Typ</td>
@@ -1050,7 +1050,7 @@ Zündanlage_Beschreibung
 
 #### Konstruktion Synchrongenerator
 
-Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Sternschaltung ausgelegt.  Der Generator entspricht der Schutzart IP21. 
+Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Sternschaltung ausgelegt.  Der Generator entspricht der IP23 IP21. 
 
 Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
 
@@ -1073,15 +1073,15 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 <tbody>
 	<tr>
 		<td>Generator synchron</tdh>
-		<td>Generator_Typ</td>
+		<td>UCI 274 E</td>
 	</tr>
 	<tr>
 		<td>Fabrikat:</td>
-		<td>Generator_Fabrikat</td>
+		<td>STAMFORD</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
-		<td>Generator_Typ</td>
+		<td>UCI 274 E</td>
 	</tr>
 	<tr>
 		<td>max. Scheinleistung:</td>
@@ -1124,8 +1124,8 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 		<td>Zulassung</td>
 	</tr>
 	<tr>
-		<td>Schutzart:</td>
-		<td>Schutzart</td>
+		<td>IP23:</td>
+		<td>IP23</td>
 	</tr>
 	<tr>
 		<td>Isolationsklasse:</td>
@@ -1383,7 +1383,7 @@ Legende :
 #### Gasregelstrecke
 Ein Gaskugelhahn zur manuellen Absperrung der Gaszufuhr bildet den Anfang der Gasregelstrecke. Um zu verhindern, dass Festpartikel in den Motor gelangen, wird ein Gasfilter vor die Gasstrasse montiert. 
 
-Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BHKW_Typ aufgebaut. 
+Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BIBLOC BV674 SBTLK aufgebaut. 
 
 Diese Gasmagnetventile werden vom Steuersystem für den BHKW-Betrieb geöffnet respektive wieder geschlossen. Der im zweiten Gasventil integrierte Nulldruckregler reduziert den Gasvor-druck in der Gasleitung auf ein atmosphärisches Druckniveau. 
  
@@ -1515,7 +1515,7 @@ Legende :
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Schalldämpfer</td>
+		<td>DN100</td>
 		<td>6</td>
 		<td>Thermoelement nach Abgas-WT</td>
 	</tr>
@@ -1542,7 +1542,7 @@ Hier wird die Wärmeenergie aus den Abgasen auf den Sekundärkreislauf übertrag
 
 Vor der Rückkühlung durchströmen die Abgase den im Abgaswärmetauscher integrierten Katalysator.
 
-Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den Schalldämpfer. 
+Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den DN100. 
 
 Danach werden die Abgase senkrecht nach oben aus der Schalldämmhaube geführt, wo über einen weiteren Kompensator der Anschluss an die bauseitige Abgasleitung erfolgt. 
 
@@ -1585,7 +1585,7 @@ Thermoelemente vor und nach dem Abgaswärmetauscher überwachen das komplette Ab
 </tbody>
 </table>
 
-Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. Höhere Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
+Der Abgaswärmetauscher ist so dimensioniert, dass er die Abgase bei einer Rücklauftemperatur von 70 °C von ca. 400 °C auf 120 °C abgekühlt werden. Während des Betriebs können die Abgastemperaturen ca. 110 - 160 °C betragen. Die Temperaturabweichungen gegen unten können durch eine  reduzierte Leistung oder durch niedrigere Rücklauftemperaturen verursacht werden. 2100  mmre Abgastemperaturen werden durch Ablagerungen im Abgaswärmetauscher hervorgerufen.
 
 #### Material der Abgasleitung
 Die Abgastemperatur beim Austritt aus dem BHKW wird mit einem Thermoelement überwacht. Steigt die Abgastemperatur an dieser Stelle über 160 °C wird das BHKW abgeschaltet. 
@@ -1659,7 +1659,7 @@ Arbeiten bezüglich Rauchgasbehandlung können daher ausschliesslich durch gesch
 Jede Änderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
  
 ### Schmierölsystem
-Das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
+Das Ölsystem der BIBLOC BV674 SBTLK ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
 
 #### Komponenten und Schema des Schmierölsystems
 
@@ -1693,7 +1693,7 @@ Legende :
 </table>
 
 #### Funktionsbeschrieb des Ölsystems
-Um die Schmierölkapazität der BHKW_Typ und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
+Um die Schmierölkapazität der BIBLOC BV674 SBTLK und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BIBLOC BV674 SBTLK ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
 
 Diese entstehen vor allem beim Start und Stopp des Aggregats, wo der Motor mit Ölfilter gefüllt respektive entleert wird. Ein Niveauschalter im Ölre-servoir überwacht das Ölniveau im Ölsystem und schaltet das Aggregat bei Unterschreitung des minimalen Niveaus über einen binären Kontakt ab.
  
@@ -1732,7 +1732,7 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 <tbody>
 	<tr>
 		<td>Typ der Zündanlage</td>
-		<td>Zündanlage_Typ</td>
+		<td>Trijekt / Gas T702</td>
 	</tr>
 </tbody>
 </table>
@@ -2137,7 +2137,7 @@ Blockheizkraftwerke sind mit diversen Platten- und Rohrbündelwärmetauschern au
 
 ### Schmieröl
 
-Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motorstandzeiten. Folgende Motorenöle können für das BHKW_Typ eingesetzt werden:
+Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motorstandzeiten. Folgende Motorenöle können für das BIBLOC BV674 SBTLK eingesetzt werden:
 
 <table>
 <tbody>
@@ -2165,7 +2165,7 @@ Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselinterva
 Sie erfolgt über den BHKW-Schaltschrank und einer Absicherung in der Hauptverteilung. Der Schaltschrank mit der integrierten Steuereinheit übernimmt alle Schalt-, Steuer- und Kontrollfunktionen, die für den störungsfreien Betrieb der BHKW-Anlage notwendig sind. 
 
 ### Schaltschrank
-Der Schaltschrank ist neben dem an das BHKW_Typ aufgestellt. Sämtliche elektrischen und elektronischen Baugruppen (Fühler, Pumpe, Generator etc.) sind auf den Schaltschrank verdrahtet. Die Zuleitung des Leistungs- und Steuerkabel erfolgt durch M-Verschraubungen an der Unter- oder Oberseite des Schaltschranks.
+Der Schaltschrank ist neben dem an das BIBLOC BV674 SBTLK aufgestellt. Sämtliche elektrischen und elektronischen Baugruppen (Fühler, Pumpe, Generator etc.) sind auf den Schaltschrank verdrahtet. Die Zuleitung des Leistungs- und Steuerkabel erfolgt durch M-Verschraubungen an der Unter- oder Oberseite des Schaltschranks.
 
 ### Anschluss der BHKW-Anlage ans Netz
 Der Anschluss ans Netz erfolgt über ein Leistungskabel ab den Klemmen im BHKW-Schaltschrank in die zugewiesene Unter- oder Hauptverteilung. Die Anschlussleitungen auf das BHKW müssen entsprechend dem Leiterquerschnitt abgesichert werden.
@@ -2184,7 +2184,7 @@ Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit be
 <table>
 <thead>
 	<tr>
-		<th>Schutzart</th>
+		<th>IP23</th>
 		<th>Einstellung</th>
 		<th>Schutzgerät</th>
 	</tr>
@@ -2208,7 +2208,7 @@ Der Überstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, da
  
 #### Schutz im Parallelbetrieb mit dem Netz
 
-Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BHKW_Typ mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Überwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
+Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BIBLOC BV674 SBTLK mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Überwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
 
 Von der Netzüberwachung werden folgende Parameter überwacht:
 
@@ -2216,7 +2216,7 @@ Von der Netzüberwachung werden folgende Parameter überwacht:
 <table>
 <thead>
 	<tr>
-		<th>Schutzart</th>
+		<th>IP23</th>
 		<th>Einstellung</th>
 		<th>Schutzgerät</th>
 	</tr>
@@ -2243,7 +2243,7 @@ Zusätzlich werden vom Steuersystem IS-GAS folgende Parameter überwacht:
 <table>
 <thead>
 	<tr>
-		<th>Schutzart</th>
+		<th>IP23</th>
 		<th>Einstellung</th>
 		<th>Schutzgerät</th>
 	</tr>
@@ -2270,10 +2270,10 @@ Der Überdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz
 #### Rückwirkungen der BHKW-Anlage auf das Netz
 
 Einfluss auf den Netzanschluss:
-Das BHKW_Typ wird über den Generator, welcher während des Starts als Elektromotor eingesetzt wird, in Betrieb gesetzt. Um hohe Anlaufströme zu vermeiden erfolgt die Zuschaltung über eine Stern-Dreieckschaltung.
+Das BIBLOC BV674 SBTLK wird über den Generator, welcher während des Starts als Elektromotor eingesetzt wird, in Betrieb gesetzt. Um hohe Anlaufströme zu vermeiden erfolgt die Zuschaltung über eine Stern-Dreieckschaltung.
  
 Oberschwingungen:
-Allfällige Oberschwingungen des Generators sind konstruktionsbedingt. Für das BHKW vom Typ BHKW_Typ werden moderne Generatoren verwendet, welche die geltenden EU-Normen und Vorschriften erfüllen.
+Allfällige Oberschwingungen des Generators sind konstruktionsbedingt. Für das BHKW vom Typ BIBLOC BV674 SBTLK werden moderne Generatoren verwendet, welche die geltenden EU-Normen und Vorschriften erfüllen.
 
 Übrige Störungen:
 Im BHKW-Schaltschrank sind weder Kreisläufe mit starken Nieder- oder Hochfrequenzsignalen, Zerhackern, Impulsquellen, noch andere Einrichtungen, welche Störungen im öffentlichen Netz verursachen könnten, integriert.
@@ -2314,11 +2314,11 @@ Legende :
 </tbody>
 </table>
 #### Steuersystem IS-GAS
-Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BHKW_Typ. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
+Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BIBLOC BV674 SBTLK. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
 #### Schlüsselschalter Steuerung Ein/Aus
-Dieser Schlüsselschalter ermöglicht die komplette Sperrung der BHKW_Typ indem die Ver-sorgung der Steuereinheit mit 12 VDC unterbrochen wird. Das Einschalten des Aggregats durch nichtautorisierten Personen kann damit unterbunden werden.
+Dieser Schlüsselschalter ermöglicht die komplette Sperrung der BIBLOC BV674 SBTLK indem die Ver-sorgung der Steuereinheit mit 12 VDC unterbrochen wird. Das Einschalten des Aggregats durch nichtautorisierten Personen kann damit unterbunden werden.
 #### Not-Aus Schalter
-Der Not-Aus Schalter dient zur Notabschaltung der BHKW_Typ. Durch Drücken des Not-Aus Tasters entkoppelt sich die Anlage sofort vom Netz und schaltet unverzögert ab. 
+Der Not-Aus Schalter dient zur Notabschaltung der BIBLOC BV674 SBTLK. Durch Drücken des Not-Aus Tasters entkoppelt sich die Anlage sofort vom Netz und schaltet unverzögert ab. 
 
  	Der Not-Aus Schalter darf nur im Notfall verwendet werden.
  _________________________________________________________________________
@@ -2333,7 +2333,7 @@ _________________________________________________________________________
 
 ### Allgemeine Beschreibung
 
-Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BHKW_Typ entwickelt worden und ist direkt im Schaltschrank integriert. 
+Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BIBLOC BV674 SBTLK entwickelt worden und ist direkt im Schaltschrank integriert. 
 
 Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Überwachung und den Schutz der BHKW-Anlage mit diversen Zustand-überwachungen gewährleistet. 
 
@@ -2347,14 +2347,14 @@ Das Steuersystem ist mit einer grafischen Anzeige ausgerüstet, was eine einfach
 
 Sämtliche Betriebsparameter und Anlagezustände können am grafischen Display angezeigt oder visualisiert werden. Über ein Modem kann das BHKW fernüberwacht und gesteuert werden.
 
-Das Steuerungssystem IS-GAS kennt zwei verschiedene Betriebarten des BHKW_Typ: 
+Das Steuerungssystem IS-GAS kennt zwei verschiedene Betriebarten des BIBLOC BV674 SBTLK: 
 
 Den Hand- respektive Automatik-Modus. 
 
 Bei beiden Betriebsmodi kann die Leistung manuell über die Bedieneinheit des Steuerungssystems eingestellt werden oder automatisch anhand des vorhandenen Stromverbrauchs reguliert werden (optional).
 
 ### Aufgaben des Steuersystems IS-GAS
-Für den Betrieb des BHKW_Typübernimmt das Steuersystem folgende Aufgaben:
+Für den Betrieb des BIBLOC BV674 SBTLKübernimmt das Steuersystem folgende Aufgaben:
 
 •	sammelt sämtliche gemessene Betriebsparameter und garantiert mit entsprechend vorgege-benen Grenzwerten den Schutz von Maschine und Personen
 
@@ -2668,7 +2668,7 @@ Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung *AUT* 
 START-Prozedur
 Im Automatik-Betrieb wird die Anlage über eine externe Freigabe ein- bzw. ausgeschaltet. Dies erfolgt über einen potentialfreien Kontakt, welcher an Klemmen im Schaltschrank angeschlos-sen wird. Bei geschlossenem Kontakt startet die Anlage und schaltet sich wieder ab, sobald der Kontakt geöffnet wird. Die externe Freigabe kann auf Grund eines externen Wärme-, Strom- (Spitzenstromsteuerung) oder Gasmanagements erfolgen.
 Wird das BHKW von der externen Steuerung freigegeben, wird der Haupt- und Sternschütz des Generators gezogen, wodurch dieser als Elektromotor betrieben wird und der Motor mit 1500 1/min. dreht. Danach wird die Zündung eingeschalten und einige Sekunden später die Gasventile geöffnet, wodurch nun der Motor den Generator antreibt. Zeitverzögert erfolgt die Stern-Dreieckumschaltung.
-Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird *BELASTUNG* angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BHKW_Typseine Leistung auf die programmierte Nominalleistung.
+Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird *BELASTUNG* angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BIBLOC BV674 SBTLKseine Leistung auf die programmierte Nominalleistung.
 
 STOP-Prozedur
 Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint *ENTLASTET*) und öffnet den Generatorschütz.
@@ -2696,9 +2696,9 @@ Im Betriebsmenü wird die Bezeichnung *AUS* hinterleuchtet und im rechten Textfe
 Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
 
 ## Schutzfunktionen und Sensoren
-Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BHKW_Typ diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
+Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BIBLOC BV674 SBTLK diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
 Dazu werden alle betriebsrelevanten Daten erfasst und vom Steuersystem IS-GAS ausgewertet. Dies ist eine Voraussetzung zur Erfüllung der geltenden Vorschriften und verhindert schlussendlich auch Schäden an Mensch und Maschine.
-Es bestehen zwei verschiedene Schutzarten der BHKW-Anlage:
+Es bestehen zwei verschiedene IP23en der BHKW-Anlage:
 
 •	elektrische Schutzeinrichtungen
 
@@ -3041,7 +3041,7 @@ Damit wird das Aggregat wie auch die Gaszuleitung vor einem Gasunterdruck gesch�
 ### interne Störungsursachen
 Unter internen Störungen versteht man Fehler des BHKW-Aggregates, welche auf mangelhafte oder defekte Bestandteile des BHKW zurückzuführen sind. Aber auch ungenügende Reglerein-stellungen können Fehler verursachen. Häufig entstehen diese durch betriebsbedingten Ver-schleiss von Bauteilen. Im Wartungsplan ist ein präventiver Austausch von diversen Bauteilen vorgesehen, was jedoch nicht ausschliesst, dass ein Bauteil seine vorgesehene Standzeit nicht erreicht.
 
-Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erfolgt nach Ein-gang eines Reparaturauftrages des Betreibers. Die Deckung der Reparaturkosten ist durch die im Kaufvertrag aufgeführten Garantiebestimmungen geregelt. Nach Ablauf der Garantie wird der Aufwand dem Betreiber verrechnet, sofern für die Wartung der BIBLOC BHKW_Typkein Vollwartungsvertrag abgeschlossen wurde.
+Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erfolgt nach Ein-gang eines Reparaturauftrages des Betreibers. Die Deckung der Reparaturkosten ist durch die im Kaufvertrag aufgeführten Garantiebestimmungen geregelt. Nach Ablauf der Garantie wird der Aufwand dem Betreiber verrechnet, sofern für die Wartung der BIBLOC BIBLOC BV674 SBTLKkein Vollwartungsvertrag abgeschlossen wurde.
 
 ### externe Störungsursachen
 Darunter versteht man Störungen, welche auf Grund von Problemen in der Einbindung des BHKW verursacht werden. Sie sind oft auf regeltechnische und thermisch-hydraulische Proble-me des Sekundärkreises (Heizkreis) oder auf Störungen in der elektrischen Einbindung zurück-zuführen.
@@ -4793,7 +4793,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>1.8</td>
-		<td>IP-Schutzart passend zum Raum</td>
+		<td>IP-IP23 passend zum Raum</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -5364,3 +5364,420 @@ a_{21}& =b_{21}&
   [1]: index.BIBLOC_BV449_SBK_[49].md
   [2]: index.BIBLOC_BV674_SBTLK_[78].md
   [3]: index.BIBLOC_BV684_SBTLK_[120].md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
