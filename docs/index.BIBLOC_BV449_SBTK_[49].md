@@ -99,7 +99,7 @@
 
 ### Betriebshandbücher
 ----------------------
-* [BIBLOC BV449 SBK][1]
+* [BIBLOC BV449 SBTK][1]
 * [BIBLOC BV674 SBTLK][2]
 * [BIBLOC BV684 SBTLK][3]
 
@@ -5361,8 +5361,8 @@ a_{21}& =b_{21}&
   a_{22}& =b_{22}+°C{22}
 \end{align}
 
-  [1]: index.BIBLOC_BV449_SBK_[49].md
-  [2]: index.BIBLOC_BV674_SBTLK_[78].md
+  [1]: index.BIBLOC_BV449_SBTK_[49].md
+  [2]: index.BIBLOC_BV674_SBTLK_[80].md
   [3]: index.BIBLOC_BV684_SBTLK_[120].md
 
 
