@@ -456,16 +456,18 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 	</tr>
 	<tr>
 		<td>Kohlenmonoxid CO:</td>
-		<td>< 650</td>
+		<td>Kohlenmonoxid_CO</td>
 	</tr>
 	<tr>
 		<td>Stickoxide NOx:</td>
-		<td>< 250</td>
+		<td>Stickoxide_NOx</td>
 	</tr>
 </tbody>
 </table>
 
 ## Beschreibung des BHKWs BIBLOC BV684 SBTLK
+
+Ein stabiler, langsam laufender Industrie-Gasmotor treibt über eine starre Kupplung einen Synchrongenerator an. Beide Komponenten sind auf einem robusten Stahlträgerchassis mit Schwingungsdämpfern montiert.Die Wärmeenergie von Motor, Schmieröl und Abgasvorkühlung wird mittels eines geschlossenen Motorkühlkreislaufes mit Umwälzpumpe und eigenem Expansionsgefäss über den Wasser-Wasser-Plattenwärmetauscher an das Heizungswassernetz abgegeben. Ein 3-Weg-Ventil gewährleistet, dass auch bei tiefen Heizungsrücklauftemperaturen die minimale Motortemperatur nicht unterschritten wird.Der Abgaswärmetauscher ist seriell zum Plattenwärmetauscher eingebunden und erlaubt dadurch Heizungs-vorlauftemperaturen bis 90 °CDie schall- und wärmedämmende Kapsel mit Servicetüren, erlaubt eine bestmögliche Laufruhe und eine gute Zugänglichkeit für den Service. Ein in der Kapsel integrierter Abluftventilator sorgt für die Abführung der Strahlungswärme des Motors und der Generatorabwärme.Der freistehende Schaltschrank, mit Steuer- und Regeleinheit sowie Überwachungs- und Sicherheitseinrich-tungen für den Netzparallel- und Notstrombetrieb, kann je nach den Platzverhältnissen in der nahen Umge-bung des BHKW platziert werden.Sämtliche Anschlüsse für Heizung, Gas und Abgas sind aus der Kapsel herausgeführt und werden mittels flexibler Anschlüsse mit den entsprechenden Systemen verbunden.Das betriebsbereite, anschlussfertige Kompaktgerät wird auf werkseitigem Prüfstand getestet.
 
 <table>
 <tbody>
@@ -585,7 +587,7 @@ Legende :
 		<td><ol start="14">
 <li></li>
 </ol></td>
-		<td>AbgasDN100</td>
+		<td>Abgasschalldämpfer</td>
 	</tr>
 	<tr>
 		<td><ol start="4">
@@ -1050,7 +1052,7 @@ Wartungsarme, kontaktlose, mikroprozessorgesteuerte Zündanlage, bestehend aus S
 
 #### Konstruktion Synchrongenerator
 
-Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Sternschaltung ausgelegt.  Der Generator entspricht der IP23 IP21. 
+Der Synchrongenerator wird im Niederspannungsbereich betrieben und für 690V in Sternschaltung ausgelegt.  Der Generator entspricht der Schutzart IP21. 
 
 Die Statorwicklung ist durch eine Isolation der Klasse F geschützt und damit gegen Feuchtigkeit, Öldämpfe und Verschmutzungen resistent.
 
@@ -1124,8 +1126,8 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 		<td>Zulassung</td>
 	</tr>
 	<tr>
-		<td>IP23:</td>
-		<td>IP23</td>
+		<td>Schutzart:</td>
+		<td>Schutzart</td>
 	</tr>
 	<tr>
 		<td>Isolationsklasse:</td>
@@ -1515,7 +1517,7 @@ Legende :
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>DN100</td>
+		<td>Schalldämpfer</td>
 		<td>6</td>
 		<td>Thermoelement nach Abgas-WT</td>
 	</tr>
@@ -1542,7 +1544,7 @@ Hier wird die Wärmeenergie aus den Abgasen auf den Sekundärkreislauf übertrag
 
 Vor der Rückkühlung durchströmen die Abgase den im Abgaswärmetauscher integrierten Katalysator.
 
-Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den DN100. 
+Über einen flexiblen Hochtemperaturschlauch, der die Übertragung der Vibrationen vom Motor auf die Abgasleitung verhindert, gelangen die Abgase in den Schalldämpfer. 
 
 Danach werden die Abgase senkrecht nach oben aus der Schalldämmhaube geführt, wo über einen weiteren Kompensator der Anschluss an die bauseitige Abgasleitung erfolgt. 
 
@@ -2184,7 +2186,7 @@ Der Leistungsteil ist vor allem in Hinsicht auf die Kurzschlussbeständigkeit be
 <table>
 <thead>
 	<tr>
-		<th>IP23</th>
+		<th>Schutzart</th>
 		<th>Einstellung</th>
 		<th>Schutzgerät</th>
 	</tr>
@@ -2216,7 +2218,7 @@ Von der Netzüberwachung werden folgende Parameter überwacht:
 <table>
 <thead>
 	<tr>
-		<th>IP23</th>
+		<th>Schutzart</th>
 		<th>Einstellung</th>
 		<th>Schutzgerät</th>
 	</tr>
@@ -2243,7 +2245,7 @@ Zusätzlich werden vom Steuersystem IS-GAS folgende Parameter überwacht:
 <table>
 <thead>
 	<tr>
-		<th>IP23</th>
+		<th>Schutzart</th>
 		<th>Einstellung</th>
 		<th>Schutzgerät</th>
 	</tr>
@@ -2698,7 +2700,7 @@ Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagier
 ## Schutzfunktionen und Sensoren
 Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BIBLOC BV684 SBTLK diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
 Dazu werden alle betriebsrelevanten Daten erfasst und vom Steuersystem IS-GAS ausgewertet. Dies ist eine Voraussetzung zur Erfüllung der geltenden Vorschriften und verhindert schlussendlich auch Schäden an Mensch und Maschine.
-Es bestehen zwei verschiedene IP23en der BHKW-Anlage:
+Es bestehen zwei verschiedene Schutzarten der BHKW-Anlage:
 
 •	elektrische Schutzeinrichtungen
 
@@ -4793,7 +4795,7 @@ Erläuterung:
 	</tr>
 	<tr>
 		<td>1.8</td>
-		<td>IP-IP23 passend zum Raum</td>
+		<td>IP-Schutzart passend zum Raum</td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -5364,6 +5366,7 @@ a_{21}& =b_{21}&
   [1]: index.BIBLOC_BV449_SBTK_[49].md
   [2]: index.BIBLOC_BV674_SBTLK_[80].md
   [3]: index.BIBLOC_BV684_SBTLK_[120].md
+
 
 
 

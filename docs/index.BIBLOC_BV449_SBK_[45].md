@@ -1,5 +1,5 @@
-
-# BES BHKW BHKW_Typ
+﻿
+# BES BHKW BIBLOC BV449 SBK
 
 ## Inhalt
 
@@ -106,11 +106,11 @@
 ## Einführung
 ------------------	
 
-Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betreffend Konstruktion, Gebrauch und Wartung des BHKW Typ BHKW_Typ . 
+Das nachfolgende *Betriebshandbuch* bildet eine Zusammenfassung der Informationen betreffend Konstruktion, Gebrauch und Wartung des BHKW Typ BIBLOC BV449 SBK . 
 
 Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
 
-Das ganze Handbuch ist nach den Hauptbestandteilen der BHKW_Typ in Kapitel gegliedert. 
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV449 SBK in Kapitel gegliedert. 
 
 Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 
@@ -120,12 +120,12 @@ Das nachfolgende Betriebshandbuch bildet eine Zusammenfassung der Informationen 
 
 - Konstruktion, 
 - Gebrauch und 
-- Wartung des BHKW Typ BHKW_Typ. 
+- Wartung des BHKW Typ BIBLOC BV449 SBK. 
 
 
 Aufgrund der Komplexität eines Blockheizkraftwerkes ist die folgende Anleitung als Basis zu verstehen, welche auf die spezifischen Anlagen angepasst werden können.
 
-Das ganze Handbuch ist nach den Hauptbestandteilen der BHKW_Typ in Kapitel gegliedert. 
+Das ganze Handbuch ist nach den Hauptbestandteilen der BIBLOC BV449 SBK in Kapitel gegliedert. 
 
 Jedes Kapitel beschreibt den entsprechenden Teil der Anlage im Bezug auf Funktion, Komponenten und Wartung in einem für den Benutzer erforderlichen Ausmass.
 
@@ -188,7 +188,7 @@ Abfälle, welche durch die Installation und den Betrieb einer BHKW-Anlage anfall
 
 ##### Abfälle durch den Transport und Installation der BHKW-Anlage
 
-Beim Transport und der Installation der BHKW_Typ entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
+Beim Transport und der Installation der BIBLOC BV449 SBK entsteht kein Abfall, welcher im Bezug auf die Umwelt und den oben genannten Normen problematisch oder sogar gefährlich ist.
 
 Es handelt sich vor allem um:
 
@@ -214,7 +214,7 @@ Die BHKW-Anlagen von BIBLOC werden standardmässig nicht mit chemischen Konservi
  
 ##### Abfälle durch den Betrieb der BHKW-Anlage
 
-Beim Betrieb der BHKW_Typ ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
+Beim Betrieb der BIBLOC BV449 SBK ist es erforderlich, dass alle Arbeiten, welche über die Ausführungen dieses Betriebshandbuchs hinausgehen, von Personen ausgeführt werden, welche von der Firma BES berechtigt sind entsprechende Wartungs- und Reparaturtätigkeiten auszuführen. 
 
 Diese Personen haben Kenntnis bezüglich dem Umgang mit folgenden Stoffen:
 
@@ -355,7 +355,7 @@ _________________________________________________________________________
  
  - Durch die kompakte Bauweise und dem Schaltschrank passt das Aggregat durch jede Tür von 800 mm Breite.
  
-Das BHKW_Typ wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
+Das BIBLOC BV449 SBK wird auf einem Holzrahmen transportiert und ist ab Werk nicht gegen Wet-tereinflüsse geschützt. 
 
 Beim Transport ist dies zu berücksichtigen. Das Gewicht von *1100 kg* ermöglicht das einfache Handling mit einem Handhubwagen. 
 
@@ -383,7 +383,7 @@ Bei der Verwendung von kürzeren Trag-gurten müssen zwei Querstreben (Kanthölz
 
 ### Aufstellung
 
-Die Installation BHKW_Typ muss in einem wettergeschützten, trockenen Raum erfolgen. 
+Die Installation BIBLOC BV449 SBK muss in einem wettergeschützten, trockenen Raum erfolgen. 
 
 Die Aufstellung erfolgt gemäss den:
 
@@ -391,7 +391,7 @@ Die Aufstellung erfolgt gemäss den:
 
 •	aktuellen, spezifischen Projektunterlagen
 
-Grundsätzlich ist zur Aufstellung der BHKW_Typ ein Betonsockel nicht zwingend notwendig, sofern die Auflage eben ist.
+Grundsätzlich ist zur Aufstellung der BIBLOC BV449 SBK ein Betonsockel nicht zwingend notwendig, sofern die Auflage eben ist.
 
 Bei unebener Auflage oder bei Gefahr von Wassereinbrüchen empfehlen wir einen 100 bis 150 mm hohen Betonsockel.
 
@@ -406,17 +406,17 @@ Die Freihalteräume (siehe 6.2) um die BHKW-Anlage sind für eine korrekte In-st
  
 ## BIBLOC Betrieb
 
-Die BIBLOC BHKW_TypBlockheizkraftwerke sind je nach Verwendungszweck und Betriebsstoff in verschiedenen Ausführungen lieferbar.
+Die BIBLOC BIBLOC BV449 SBKBlockheizkraftwerke sind je nach Verwendungszweck und Betriebsstoff in verschiedenen Ausführungen lieferbar.
 
 ### Betriebsarten
 
-Aktuell ist das BHKW Typ BHKW_Typ nur mit einem luftgekühlten Synchrongenerator lieferbar.
+Aktuell ist das BHKW Typ BIBLOC BV449 SBK nur mit einem luftgekühlten Synchrongenerator lieferbar.
 
-Aus diesem Grund kann die BHKW_Typ BHKW-Anlage nur im Netzparallelbetrieb betrieben werden.
+Aus diesem Grund kann die BIBLOC BV449 SBK BHKW-Anlage nur im Netzparallelbetrieb betrieben werden.
 
 #### Netzparallelbetrieb
 
-Beim Netzparallelbetrieb der BHKW_Typ mit Synchrongenerator wird für den Start der Generatorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
+Beim Netzparallelbetrieb der BIBLOC BV449 SBK mit Synchrongenerator wird für den Start der Generatorschütz geschlossen, sodass der Generator als Elektromotor (Stern-Schaltung) die Funkti-on des Anlassers übernimmt.
 
 Nach Erreichen der Nenndrehzahl wird zeitverzögert der Stern-Dreieckschütz angesteuert und gleichzeitig die Gaszufuhr und Zündung freigegeben. Der vom Verbrennungsmotor angetriebene Generator liefert nun ebenfalls die elektrische Energie ans Netz.
 
@@ -452,7 +452,7 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 <tbody>
 	<tr>
 		<td>Abgaswerte bezogen auf 5 % O2</td>
-		<td>Abgasreinigungssystem_Beschreibung_DB</td>
+		<td>Reduktion der Abgasemissionen mit 3-Weg-Katalysator und Lambda-Regelung (stoechiometrisch Lambda = 1.0).</td>
 	</tr>
 	<tr>
 		<td>Kohlenmonoxid CO:</td>
@@ -465,50 +465,50 @@ Unter Verwendung eines Siloxanfilters ist ein Betrieb mit Oxidationskatalysator 
 </tbody>
 </table>
 
-## Beschreibung des BHKWs BHKW_Typ
+## Beschreibung des BHKWs BIBLOC BV449 SBK
 
-BHKW_Beschreibung
+Ein stabiler, langsam laufender Industrie-Gasmotor treibt über eine starre Kupplung einen Synchrongenerator an. Beide Komponenten sind auf einem robusten Stahlträgerchassis mit Schwingungsdämpfern montiert.Die Wärmeenergie von Motor, Schmieröl und Abgasvorkühlung wird mittels eines geschlossenen Motorkühlkreislaufes mit Umwälzpumpe und eigenem Expansionsgefäss über den Wasser-Wasser-Plattenwärmetauscher an das Heizungswassernetz abgegeben. Ein 3-Weg-Ventil gewährleistet, dass auch bei tiefen Heizungsrücklauftemperaturen die minimale Motortemperatur nicht unterschritten wird.Der Abgaswärmetauscher ist seriell zum Plattenwärmetauscher eingebunden und erlaubt dadurch Heizungs-vorlauftemperaturen bis 90 °CDie schall- und wärmedämmende Kapsel mit Servicetüren, erlaubt eine bestmögliche Laufruhe und eine gute Zugänglichkeit für den Service. Ein in der Kapsel integrierter Abluftventilator sorgt für die Abführung der Strahlungswärme des Motors und der Generatorabwärme.Der freistehende Schaltschrank, mit Steuer- und Regeleinheit sowie Überwachungs- und Sicherheitseinrich-tungen für den Netzparallel- und Notstrombetrieb, kann je nach den Platzverhältnissen in der nahen Umge-bung des BHKW platziert werden.Sämtliche Anschlüsse für Heizung, Gas und Abgas sind aus der Kapsel herausgeführt und werden mittels flexibler Anschlüsse mit den entsprechenden Systemen verbunden.Das betriebsbereite, anschlussfertige Kompaktgerät wird auf werkseitigem Prüfstand getestet.
 
 <table>
 <tbody>
 	<tr>
 		<td>Fabrikat</td>
-		<td>BHKW_Fabrikat</td>
+		<td>BHKW Energie-Service AG</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
-		<td>BHKW_Typ</td>
+		<td>BIBLOC BV449 SBK</td>
 	</tr>
 	<tr>
 		<td>Betriebsart:</td>
-		<td>BHKW_Betriebsart_d</td>
+		<td>Netzparallel</td>
 	</tr>
 	<tr>
 		<td>Betriebsstoff:</td>
-		<td>BHKW_Betriebsstoff_d</td>
+		<td>Biogas / Klärgas</td>
 	</tr>
 	<tr>
 		<td>Heizwert Hu:</td>
-		<td>BHKW_Heizwert_Hu</td>
+		<td>6.0  kWh/Nm3</td>
 	</tr>
 	<tr>
 		<td>Elektrische Leistung:</td>
-		<td>BHKW_Elektrische_Leistung</td>
+		<td>45  kW</td>
 	</tr>
 	<tr>
 		<td>Thermische Leistung:</td>
-		<td>BHKW_Thermische_Leistung</td>
+		<td>80  kW</td>
 	</tr>
 	<tr>
 		<td>Verbrauch :</td>
-		<td>BHKW_Verbrauch_Leistung</td>
+		<td>137</td>
 	</tr>
 </tbody>
 </table>
 
 ### Funktion und Aufbau
 
-Das Blockheizkraftwerk BHKW_Typ arbeitet nach dem Prinzip der Wärmekraftkopplung, wobei Strom und Wärme gleichzeitig produziert und genutzt werden. 
+Das Blockheizkraftwerk BIBLOC BV449 SBK arbeitet nach dem Prinzip der Wärmekraftkopplung, wobei Strom und Wärme gleichzeitig produziert und genutzt werden. 
 
 Dazu treibt der Gasmotor Typ Mamotec MAG einen luftgekühlten Synchrongenerator an. 
 
@@ -674,12 +674,12 @@ Legende :
 
 ### Gasmotor
 
-Der Gasmotor Motor_Fabrikat Motor_Typ dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
+Der Gasmotor MAMotec MAG 49.4 S215A dient als Antrieb der BHKW-Anlage. Er wandelt den Brennstoff in mechanische Energie um, welche wiederum mittels Generator in hochwertige elektrische Energie transformiert wird.
 
 Die Abwärme von Motor und Abgas wird über Wärmetauscher zurück gewonnen und zu Heizzwecken an einen sekundären Wasserkreislauf abgegeben.
 
 #### Konstruktion
-Der Otto-Gasmotor Motor_Fabrikat Motor_Typ ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
+Der Otto-Gasmotor MAMotec MAG 49.4 S215A ist ein stehender, rechts drehender Verbrennungsmotor mit unten liegender Nockenwelle. Über die Leichtmetallkolben mit Kolbenbodenkühlung wird die Kraft an die geschmiedete, dreifach gelagerte Kurbelwelle abgegeben.
  
 Die Kühlung des Aggregates erfolgt durch einen geschlossenen Primärkreislauf mit Überdruck. Dabei wird das interne Kühlwasser durch eine elektrische Umwälzpumpe gefördert.
 
@@ -697,15 +697,15 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 <tbody>
 	<tr>
 		<td>Fabrikat</td>
-		<td>Motor_Fabrikat</td>
+		<td>MAMotec</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
-		<td>Motor_Typ</td>
+		<td>MAG 49.4 S215A</td>
 	</tr>
 	<tr>
 		<td>Motorart</td>
-		<td>Motor_Art</td>
+		<td>Gasmotor</td>
 	</tr>
 	<tr>
 		<td>Arbeitsumlauf</td>
@@ -713,7 +713,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Drehzahl:</td>
-		<td>Motor_Drehzahl</td>
+		<td>1500	U/min</td>
 	</tr>
 	<tr>
 		<td>max. zulässige Umdrehungen</td>
@@ -725,23 +725,23 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Hubraum:</td>
-		<td>Motor_Hubraum</td>
+		<td>4,91	l</td>
 	</tr>
 	<tr>
 		<td>Kolbenhub:</td>
-		<td>Motor_Kolbenhub</td>
+		<td>134  mm</td>
 	</tr>
 	<tr>
 		<td>Mittlere Kolbengeschwindigkeit:</td>
-		<td>Motor_Mittlere_Kolbengeschwindigkeit</td>
+		<td>6.7  m/s</td>
 	</tr>
 	<tr>
 		<td>Zylinderbohrung:</td>
-		<td>Motor_Zylinderbohrung</td>
+		<td>108  mm</td>
 	</tr>
 	<tr>
 		<td>Zylinderzahl:</td>
-		<td>Motor_Zylinderzahl</td>
+		<td>4	in Reihe</td>
 	</tr>
 	<tr>
 		<td>Zylinderanordnung</td>
@@ -765,11 +765,11 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Verdichtung:</td>
-		<td>Motor_Verdichtung</td>
+		<td>15:1</td>
 	</tr>
 	<tr>
 		<td>Gewicht (trocken):</td>
-		<td>Motor_Gewicht__trocken_</td>
+		<td>390  kg</td>
 	</tr>
 	<tr>
 		<td>Grundbrennstoff</td>
@@ -777,7 +777,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>zugef. Brennstoffleistung :</td>
-		<td>BHKW_Verbrauch_Leistung</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>absoluter Brennstoffverbrauch</td>
@@ -785,7 +785,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wellenleistung:</td>
-		<td>Motor_Wellenleistung</td>
+		<td>48  kW</td>
 	</tr>
 	<tr>
 		<td>Drehmoment</td>
@@ -793,7 +793,7 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Wirkungsgrad Motor:</td>
-		<td>Motor_Wirkungsgrad_Motor</td>
+		<td>37.1	%</td>
 	</tr>
 	<tr>
 		<td>Kühlungsart</td>
@@ -801,15 +801,15 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Kühlwasserwärme:</td>
-		<td>Motor_Kühlwasserwärme</td>
+		<td>37  kW</td>
 	</tr>
 	<tr>
 		<td>Abgaswärme nutzbar (120°C):</td>
-		<td>Motor_Abgaswärme_nutzbar</td>
+		<td>34  kW</td>
 	</tr>
 	<tr>
 		<td>Abgasmassenstrom:</td>
-		<td>Motor_Abgasmassenstrom</td>
+		<td>199  kg/h</td>
 	</tr>
 	<tr>
 		<td>Ladeluftkühlung</td>
@@ -817,31 +817,31 @@ Die Kurbelgehäuseentlüftung wird durch ein Rohrsystem zum Ölabscheider gefüh
 	</tr>
 	<tr>
 		<td>Verbrennungsluftmenge:</td>
-		<td>Motor_Verbrennungsluftmenge</td>
+		<td>164  m3/h</td>
 	</tr>
 	<tr>
 		<td>max. Luft Ansaugtemperatur:</td>
-		<td>Motor_max_Luft_Ansaugtemperatur</td>
+		<td>25  °C</td>
 	</tr>
 	<tr>
 		<td>relative Luftfeuchtigkeit</td>
-		<td>Motor_relative_Luftfeuchtigkeit</td>
+		<td>60%</td>
 	</tr>
 	<tr>
 		<td>Aufstellungshöhe:</td>
-		<td>Motor_Aufstellungshöhe</td>
+		<td>435  m ü. M</td>
 	</tr>
 	<tr>
 		<td>bei 500 m.ü. Meereshöhe</td>
-		<td>Motor_Leistungsreduktion_500_m_üM</td>
+		<td>3%</td>
 	</tr>
 	<tr>
 		<td>bei 1000 m.ü. Meereshöhe</td>
-		<td>Motor_Leistungsreduktion_1000_m_üM</td>
+		<td>8%</td>
 	</tr>
 	<tr>
 		<td>bei 1500 m.ü. Meereshöhe</td>
-		<td>Motor_Leistungsreduktion_1500_m_üM</td>
+		<td>14%</td>
 	</tr>
 </tbody>
 </table>
@@ -904,23 +904,23 @@ Steuerzeiten
 	</tr>
 	<tr>
 		<td>Füllmenge Ölwanne u. Filter:</td>
-		<td>Schmierölsystem_Füllmenge_Ölwanne_u_Filter</td>
+		<td>12  Liter</td>
 	</tr>
 	<tr>
 		<td>Füllmenge Vorratsbehälter:</td>
-		<td>Schmierölsystem_Füllmenge_Vorratsbehälter</td>
+		<td>28  Liter</td>
 	</tr>
 	<tr>
 		<td>Schmierölverbrauch:</td>
-		<td>Schmierölsystem_Schmierölverbrauch</td>
+		<td>0.4  g/kWh</td>
 	</tr>
 	<tr>
 		<td>min. Öldruck:</td>
-		<td>Schmierölsystem_min_Öldruck</td>
+		<td>1  bar</td>
 	</tr>
 	<tr>
 		<td>Öltemperatur in Betrieb:</td>
-		<td>Schmierölsystem_Öltemperatur_in_Betrieb</td>
+		<td>95-100	°C</td>
 	</tr>
 	<tr>
 		<td>Ölwechselintervall</td>
@@ -1003,13 +1003,13 @@ Steuerzeiten
 
 #### Zündsystem
 
-Zündanlage_Beschreibung
+Wartungsarme, kontaktlose, mikroprozessorgesteuerte Zündanlage, bestehend aus Steuergerät, Impulsaufnehmer, Einzelzündspulen/Zylinder, Zündkabel und Zündkerzen, die nach dem Prinzip der Kondensatorentladung arbeitet.
 
 <table>
 <tbody>
 	<tr>
 		<td>Zündanlage</td>
-		<td>Zündanlage_Typ</td>
+		<td>Trijekt / Gas T701</td>
 	</tr>
 	<tr>
 		<td>Zündkerzen Typ</td>
@@ -1075,15 +1075,15 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 <tbody>
 	<tr>
 		<td>Generator synchron</tdh>
-		<td>Generator_Typ</td>
+		<td>GTA 202 AIVJ</td>
 	</tr>
 	<tr>
 		<td>Fabrikat:</td>
-		<td>Generator_Fabrikat</td>
+		<td>WEG</td>
 	</tr>
 	<tr>
 		<td>Typ:</td>
-		<td>Generator_Typ</td>
+		<td>GTA 202 AIVJ</td>
 	</tr>
 	<tr>
 		<td>max. Scheinleistung:</td>
@@ -1119,7 +1119,7 @@ Im Betrieb wird die Statorwicklung in Dreieck umgeschaltet und der produzierte S
 	</tr>
 	<tr>
 		<td>Gewicht:</td>
-		<td>Generator_Gewicht</td>
+		<td>350  kg</td>
 	</tr>
 	<tr>
 		<td>Zulassung:</td>
@@ -1385,7 +1385,7 @@ Legende :
 #### Gasregelstrecke
 Ein Gaskugelhahn zur manuellen Absperrung der Gaszufuhr bildet den Anfang der Gasregelstrecke. Um zu verhindern, dass Festpartikel in den Motor gelangen, wird ein Gasfilter vor die Gasstrasse montiert. 
 
-Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BHKW_Typ aufgebaut. 
+Über einen Ganzmetallschlauch wird das BHKW schwingungsarm an die Gasleitung angeschlossen. Zwei in Serie geschaltete Magnetventile sind mit einem Gasdruckwächter in einem Gasmultiblock zusammengefasst und fest auf der BIBLOC BV449 SBK aufgebaut. 
 
 Diese Gasmagnetventile werden vom Steuersystem für den BHKW-Betrieb geöffnet respektive wieder geschlossen. Der im zweiten Gasventil integrierte Nulldruckregler reduziert den Gasvor-druck in der Gasleitung auf ein atmosphärisches Druckniveau. 
  
@@ -1661,7 +1661,7 @@ Arbeiten bezüglich Rauchgasbehandlung können daher ausschliesslich durch gesch
 Jede Änderung der Einstellung des Verbrennungsgemischs kann sich negativ auf die Wirtschaftlichkeit und Verfügbarkeit der Anlage auswirken. Zudem kann die Standzeit von wichtigen Anlagebestandteilen verkürzt werden.
  
 ### Schmierölsystem
-Das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
+Das Ölsystem der BIBLOC BV449 SBK ist mit einem zusätzlichen Ölreservoir ausgestattet, was lange Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften ermöglicht.
 
 #### Komponenten und Schema des Schmierölsystems
 
@@ -1695,7 +1695,7 @@ Legende :
 </table>
 
 #### Funktionsbeschrieb des Ölsystems
-Um die Schmierölkapazität der BHKW_Typ und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BHKW_Typ ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
+Um die Schmierölkapazität der BIBLOC BV449 SBK und damit die Ölwechselintervalle unter Einhaltung der minimalen Schmieröleigenschaften zu erhöhen, ist das Ölsystem der BIBLOC BV449 SBK ist mit einem zusätzlichen Ölreservoir (20 Liter) ausgestattet worden. Das Ölreservoir ist mit einer Ausgleichsleitung mit der Ölwanne (30 Liter) des Motors verbunden. Über die Ausgleichsleitung werden Niveauunterschiede ausgeglichen. 
 
 Diese entstehen vor allem beim Start und Stopp des Aggregats, wo der Motor mit Ölfilter gefüllt respektive entleert wird. Ein Niveauschalter im Ölre-servoir überwacht das Ölniveau im Ölsystem und schaltet das Aggregat bei Unterschreitung des minimalen Niveaus über einen binären Kontakt ab.
  
@@ -1734,7 +1734,7 @@ Die Zündanlage sorgt für die zeitlich geregelte Zündung des Gas-Luftgemisches
 <tbody>
 	<tr>
 		<td>Typ der Zündanlage</td>
-		<td>Zündanlage_Typ</td>
+		<td>Trijekt / Gas T701</td>
 	</tr>
 </tbody>
 </table>
@@ -2139,7 +2139,7 @@ Blockheizkraftwerke sind mit diversen Platten- und Rohrbündelwärmetauschern au
 
 ### Schmieröl
 
-Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motorstandzeiten. Folgende Motorenöle können für das BHKW_Typ eingesetzt werden:
+Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselintervalle uns Motorstandzeiten. Folgende Motorenöle können für das BIBLOC BV449 SBK eingesetzt werden:
 
 <table>
 <tbody>
@@ -2167,7 +2167,7 @@ Die Qualität des Motorschmieröls ist entscheidend für lange Ölwechselinterva
 Sie erfolgt über den BHKW-Schaltschrank und einer Absicherung in der Hauptverteilung. Der Schaltschrank mit der integrierten Steuereinheit übernimmt alle Schalt-, Steuer- und Kontrollfunktionen, die für den störungsfreien Betrieb der BHKW-Anlage notwendig sind. 
 
 ### Schaltschrank
-Der Schaltschrank ist neben dem an das BHKW_Typ aufgestellt. Sämtliche elektrischen und elektronischen Baugruppen (Fühler, Pumpe, Generator etc.) sind auf den Schaltschrank verdrahtet. Die Zuleitung des Leistungs- und Steuerkabel erfolgt durch M-Verschraubungen an der Unter- oder Oberseite des Schaltschranks.
+Der Schaltschrank ist neben dem an das BIBLOC BV449 SBK aufgestellt. Sämtliche elektrischen und elektronischen Baugruppen (Fühler, Pumpe, Generator etc.) sind auf den Schaltschrank verdrahtet. Die Zuleitung des Leistungs- und Steuerkabel erfolgt durch M-Verschraubungen an der Unter- oder Oberseite des Schaltschranks.
 
 ### Anschluss der BHKW-Anlage ans Netz
 Der Anschluss ans Netz erfolgt über ein Leistungskabel ab den Klemmen im BHKW-Schaltschrank in die zugewiesene Unter- oder Hauptverteilung. Die Anschlussleitungen auf das BHKW müssen entsprechend dem Leiterquerschnitt abgesichert werden.
@@ -2210,7 +2210,7 @@ Der Überstromschutz sowie der Kurzschlussschutz schützen den Schaltschrank, da
  
 #### Schutz im Parallelbetrieb mit dem Netz
 
-Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BHKW_Typ mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Überwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
+Um das sofortige Abschalten bei einem Netzausfall oder Netzstörungen sicherzustellen, ist das BIBLOC BV449 SBK mit einer Netzüberwachungsfunktion ausgestattet, welche im Steuersystem IS-GAS integriert ist. Diese Überwachung verhindert die Rückspeisung ins öffentliche Netz, falls dieses nicht vorhanden ist.
 
 Von der Netzüberwachung werden folgende Parameter überwacht:
 
@@ -2272,10 +2272,10 @@ Der Überdrehzahlschutz stoppt die Anlage und koppelt sie vom öffentlichen Netz
 #### Rückwirkungen der BHKW-Anlage auf das Netz
 
 Einfluss auf den Netzanschluss:
-Das BHKW_Typ wird über den Generator, welcher während des Starts als Elektromotor eingesetzt wird, in Betrieb gesetzt. Um hohe Anlaufströme zu vermeiden erfolgt die Zuschaltung über eine Stern-Dreieckschaltung.
+Das BIBLOC BV449 SBK wird über den Generator, welcher während des Starts als Elektromotor eingesetzt wird, in Betrieb gesetzt. Um hohe Anlaufströme zu vermeiden erfolgt die Zuschaltung über eine Stern-Dreieckschaltung.
  
 Oberschwingungen:
-Allfällige Oberschwingungen des Generators sind konstruktionsbedingt. Für das BHKW vom Typ BHKW_Typ werden moderne Generatoren verwendet, welche die geltenden EU-Normen und Vorschriften erfüllen.
+Allfällige Oberschwingungen des Generators sind konstruktionsbedingt. Für das BHKW vom Typ BIBLOC BV449 SBK werden moderne Generatoren verwendet, welche die geltenden EU-Normen und Vorschriften erfüllen.
 
 Übrige Störungen:
 Im BHKW-Schaltschrank sind weder Kreisläufe mit starken Nieder- oder Hochfrequenzsignalen, Zerhackern, Impulsquellen, noch andere Einrichtungen, welche Störungen im öffentlichen Netz verursachen könnten, integriert.
@@ -2316,11 +2316,11 @@ Legende :
 </tbody>
 </table>
 #### Steuersystem IS-GAS
-Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BHKW_Typ. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
+Das Steuersystem IS-GAS siehe Kapitel 11 sichert die komplette Steuerung, Überwachung und Bedienung der BIBLOC BV449 SBK. Sämtliche Betriebszustände, Fehlermeldungen und Parameter können über das integrierte Display abgerufen werden. Detaillierter Beschrieb siehe Pkt. 6.
 #### Schlüsselschalter Steuerung Ein/Aus
-Dieser Schlüsselschalter ermöglicht die komplette Sperrung der BHKW_Typ indem die Ver-sorgung der Steuereinheit mit 12 VDC unterbrochen wird. Das Einschalten des Aggregats durch nichtautorisierten Personen kann damit unterbunden werden.
+Dieser Schlüsselschalter ermöglicht die komplette Sperrung der BIBLOC BV449 SBK indem die Ver-sorgung der Steuereinheit mit 12 VDC unterbrochen wird. Das Einschalten des Aggregats durch nichtautorisierten Personen kann damit unterbunden werden.
 #### Not-Aus Schalter
-Der Not-Aus Schalter dient zur Notabschaltung der BHKW_Typ. Durch Drücken des Not-Aus Tasters entkoppelt sich die Anlage sofort vom Netz und schaltet unverzögert ab. 
+Der Not-Aus Schalter dient zur Notabschaltung der BIBLOC BV449 SBK. Durch Drücken des Not-Aus Tasters entkoppelt sich die Anlage sofort vom Netz und schaltet unverzögert ab. 
 
  	Der Not-Aus Schalter darf nur im Notfall verwendet werden.
  _________________________________________________________________________
@@ -2335,7 +2335,7 @@ _________________________________________________________________________
 
 ### Allgemeine Beschreibung
 
-Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BHKW_Typ entwickelt worden und ist direkt im Schaltschrank integriert. 
+Das Steuersystem IS-GAS (Fabrikat ComAp) ist speziell für das BIBLOC BV449 SBK entwickelt worden und ist direkt im Schaltschrank integriert. 
 
 Sie ist eine kompakte SPS-Steuerung, welche die Steuerung, Überwachung und den Schutz der BHKW-Anlage mit diversen Zustand-überwachungen gewährleistet. 
 
@@ -2349,14 +2349,14 @@ Das Steuersystem ist mit einer grafischen Anzeige ausgerüstet, was eine einfach
 
 Sämtliche Betriebsparameter und Anlagezustände können am grafischen Display angezeigt oder visualisiert werden. Über ein Modem kann das BHKW fernüberwacht und gesteuert werden.
 
-Das Steuerungssystem IS-GAS kennt zwei verschiedene Betriebarten des BHKW_Typ: 
+Das Steuerungssystem IS-GAS kennt zwei verschiedene Betriebarten des BIBLOC BV449 SBK: 
 
 Den Hand- respektive Automatik-Modus. 
 
 Bei beiden Betriebsmodi kann die Leistung manuell über die Bedieneinheit des Steuerungssystems eingestellt werden oder automatisch anhand des vorhandenen Stromverbrauchs reguliert werden (optional).
 
 ### Aufgaben des Steuersystems IS-GAS
-Für den Betrieb des BHKW_Typübernimmt das Steuersystem folgende Aufgaben:
+Für den Betrieb des BIBLOC BV449 SBKübernimmt das Steuersystem folgende Aufgaben:
 
 •	sammelt sämtliche gemessene Betriebsparameter und garantiert mit entsprechend vorgege-benen Grenzwerten den Schutz von Maschine und Personen
 
@@ -2670,7 +2670,7 @@ Dieser Modus wird im Betriebsmenü mit einer hinterleuchteten Bezeichnung *AUT* 
 START-Prozedur
 Im Automatik-Betrieb wird die Anlage über eine externe Freigabe ein- bzw. ausgeschaltet. Dies erfolgt über einen potentialfreien Kontakt, welcher an Klemmen im Schaltschrank angeschlos-sen wird. Bei geschlossenem Kontakt startet die Anlage und schaltet sich wieder ab, sobald der Kontakt geöffnet wird. Die externe Freigabe kann auf Grund eines externen Wärme-, Strom- (Spitzenstromsteuerung) oder Gasmanagements erfolgen.
 Wird das BHKW von der externen Steuerung freigegeben, wird der Haupt- und Sternschütz des Generators gezogen, wodurch dieser als Elektromotor betrieben wird und der Motor mit 1500 1/min. dreht. Danach wird die Zündung eingeschalten und einige Sekunden später die Gasventile geöffnet, wodurch nun der Motor den Generator antreibt. Zeitverzögert erfolgt die Stern-Dreieckumschaltung.
-Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird *BELASTUNG* angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BHKW_Typseine Leistung auf die programmierte Nominalleistung.
+Nach erfolgtem Start wird das BHKW während einer Aufwärmphase mit einer vorgegebenen Minimalleistung (30 % der Nominalleistung) betrieben. Auf dem Display wird *BELASTUNG* angezeigt. Nach der Aufwärmphase (minimale Motortemperatur erreicht oder maximale Auf-wärmzeit abgelaufen) erhöht das BIBLOC BV449 SBKseine Leistung auf die programmierte Nominalleistung.
 
 STOP-Prozedur
 Entzieht die externe Steuerung dem BHKW die Freigabe oder wird die Taste STOP gedrückt, beginnt das Aggregat mit der Abschalt-Prozedur. Dabei wird die Leistung auf die Minimalleistung reduziert (am Display erscheint *ENTLASTET*) und öffnet den Generatorschütz.
@@ -2698,7 +2698,7 @@ Im Betriebsmenü wird die Bezeichnung *AUS* hinterleuchtet und im rechten Textfe
 Ein Start des BHKW-Aggregats ist nicht möglich. Das Steuersystem IS-GAS reagiert weder auf einen externen noch internen Startbefehl. Die Ausgänge des Ausgangsmoduls werden nicht an-gesteuert (Ausnahme Rücklaufhochhaltung schliesst).
 
 ## Schutzfunktionen und Sensoren
-Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BHKW_Typ diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
+Um einen sicheren und zuverlässigen Betrieb der BHKW-Anlage zu gewährleisten, sind im BIBLOC BV449 SBK diverse Schutzfunktionen eingebaut, welche die Betriebszustände des Aggrega-tes sowohl im Betrieb als auch im Stillstand überwachen.
 Dazu werden alle betriebsrelevanten Daten erfasst und vom Steuersystem IS-GAS ausgewertet. Dies ist eine Voraussetzung zur Erfüllung der geltenden Vorschriften und verhindert schlussendlich auch Schäden an Mensch und Maschine.
 Es bestehen zwei verschiedene Schutzarten der BHKW-Anlage:
 
@@ -3043,7 +3043,7 @@ Damit wird das Aggregat wie auch die Gaszuleitung vor einem Gasunterdruck gesch�
 ### interne Störungsursachen
 Unter internen Störungen versteht man Fehler des BHKW-Aggregates, welche auf mangelhafte oder defekte Bestandteile des BHKW zurückzuführen sind. Aber auch ungenügende Reglerein-stellungen können Fehler verursachen. Häufig entstehen diese durch betriebsbedingten Ver-schleiss von Bauteilen. Im Wartungsplan ist ein präventiver Austausch von diversen Bauteilen vorgesehen, was jedoch nicht ausschliesst, dass ein Bauteil seine vorgesehene Standzeit nicht erreicht.
 
-Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erfolgt nach Ein-gang eines Reparaturauftrages des Betreibers. Die Deckung der Reparaturkosten ist durch die im Kaufvertrag aufgeführten Garantiebestimmungen geregelt. Nach Ablauf der Garantie wird der Aufwand dem Betreiber verrechnet, sofern für die Wartung der BIBLOC BHKW_Typkein Vollwartungsvertrag abgeschlossen wurde.
+Die Behebung dieser Störungen erfolgt durch geschulte Servicetechniker. Sie erfolgt nach Ein-gang eines Reparaturauftrages des Betreibers. Die Deckung der Reparaturkosten ist durch die im Kaufvertrag aufgeführten Garantiebestimmungen geregelt. Nach Ablauf der Garantie wird der Aufwand dem Betreiber verrechnet, sofern für die Wartung der BIBLOC BIBLOC BV449 SBKkein Vollwartungsvertrag abgeschlossen wurde.
 
 ### externe Störungsursachen
 Darunter versteht man Störungen, welche auf Grund von Problemen in der Einbindung des BHKW verursacht werden. Sie sind oft auf regeltechnische und thermisch-hydraulische Proble-me des Sekundärkreises (Heizkreis) oder auf Störungen in der elektrischen Einbindung zurück-zuführen.
@@ -5366,3 +5366,589 @@ a_{21}& =b_{21}&
   [1]: index.BIBLOC_BV449_SBTK_[49].md
   [2]: index.BIBLOC_BV674_SBTLK_[80].md
   [3]: index.BIBLOC_BV684_SBTLK_[120].md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
