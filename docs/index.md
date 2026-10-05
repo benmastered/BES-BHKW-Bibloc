@@ -548,7 +548,6 @@ Das betriebsbereite, anschlussfertige Kompaktgerät wird werkseitig auf dem Prü
 </div>
 
 Legende :
-
 <table>
 <thead>
 	<tr>
@@ -624,7 +623,7 @@ Legende :
 <li></li>
 </ol></td>
 		<td>Katalysator integriert</td>
-		<td><ol start="12">
+		<td><ol start="18">
 <li></li>
 </ol></td>
 		<td>Ölreservoir</td>
@@ -634,7 +633,7 @@ Legende :
 <li></li>
 </ol></td>
 		<td>Plattenwärmetauscher</td>
-		<td><ol start="13">
+		<td><ol start="19">
 <li></li>
 </ol></td>
 		<td>Ölfilter / Ölkühler</td>
@@ -644,7 +643,7 @@ Legende :
 <li></li>
 </ol></td>
 		<td>Gasregelstrecke</td>
-		<td><ol start="14">
+		<td><ol start="20">
 <li></li>
 </ol></td>
 		<td>Umwälzpumpe Sekundärkreislauf</td>
@@ -654,7 +653,7 @@ Legende :
 <li></li>
 </ol></td>
 		<td>Gasmischer</td>
-		<td><ol start="15">
+		<td><ol start="21">
 <li></li>
 </ol></td>
 		<td>3-Wegventil Sekundärkreislauf</td>
@@ -664,13 +663,14 @@ Legende :
 <li></li>
 </ol></td>
 		<td>Drosselklappe</td>
-		<td><ol start="16">
+		<td><ol start="22">
 <li></li>
 </ol></td>
 		<td>Zündung (nicht gezeichnet)</td>
 	</tr>
 </tbody>
 </table>
+
 
 ### Gasmotor
 
