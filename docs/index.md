@@ -101,6 +101,7 @@
 ----------------------
 * [BIBLOC BV449 SBK][1]
 * [BIBLOC BV449 SBTK][2]
+* [BIBLOC BV674 SBK][5]
 * [BIBLOC BV674 SBTLK][3]
 * [BIBLOC BV684 SBTLK][4]
 
@@ -5368,3 +5369,4 @@ a_{21}& =b_{21}&
   [2]: index.BIBLOC_BV449_SBTK_[49].md
   [3]: index.BIBLOC_BV674_SBTLK_[80].md
   [4]: index.BIBLOC_BV684_SBTLK_[120].md
+  [5]: index.BIBLOC_BV674_SBK_[60].md
